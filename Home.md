@@ -5,3 +5,5 @@
 emuDownloadCenter (EDC) is a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki) to download ROM emulators from internet.
 Mostly in depots where found emulators on the internet are stored.
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
+
+###[**View Emulator listing**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/download-emulators)
