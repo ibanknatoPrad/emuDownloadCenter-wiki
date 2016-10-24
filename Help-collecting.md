@@ -2,7 +2,7 @@
 
 Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com)
 
-1) Fork this repo (edc-masterhook)
+1) Fork this repo [edc-masterhook](https://github.com/PhoenixInteractiveNL/edc-masterhook)
 
 2) Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL), and make pull requests!
 
