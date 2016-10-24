@@ -1,4 +1,4 @@
-## 1) Create downloadhook
+## 1) Create a downloadhook
 
 First you need to create a downloadhook for the emulator, you do this by:
 
@@ -138,7 +138,27 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_CRC32Executable        = 6C059FFB 
     INFO_CRC32Archive           = A8E52604
 
-### 3)
+## 2) Create a downloadfolder
+
+Create a folder in the downloadrepo with the same name you used to create the `downloadhook`.
+
+
+### 3) Add the emulator to the list
+
+Last but not least, add the emulator to the platform list in the file: **`downloadhooks\eccidlist.ini`**
+
+**INI SECTION = ECCID**
+
+Format: **`FOLDER=EMULATORNAME`**
+
+Please note the **same** emulator can be added to multiple platforms.
+
+**Specifications:**
+* **`FOLDER`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
+* **`EMULATORNAME`** can have capital letters, may have spaces or special characters.
+
+### 4) Excluding some emulators
+
 Emulators to exclude from EDC at the moment:
 
 - Emulators for **Linux** and **MacOs** (you can add them to the repo like **-linux** and **-mac**, don't add them in the emulator downloads INI file.)
