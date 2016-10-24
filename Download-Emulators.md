@@ -194,7 +194,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/homelab#menu) | Grósz Attila | Freeware |
+| :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/homelab#menu) | GrÃ³sz Attila | Freeware |
 ***
 ## _APF Electronics Imagination Machine (im)_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/platformimages/ecc_im_teaser.png)
