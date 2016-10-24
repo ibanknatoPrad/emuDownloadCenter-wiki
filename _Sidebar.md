@@ -5,7 +5,10 @@
 ***
 ###[**Emulator Downloads**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/download-emulators)
 ***
-### Other
+### Help collecting!
 ###[**Help collecting!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Help-collecting)
 
+###[**Collecting walktrough**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
+***
+### Other
 ###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/edc-statistics)
