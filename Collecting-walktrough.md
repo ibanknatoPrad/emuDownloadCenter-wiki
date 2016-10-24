@@ -99,7 +99,8 @@ Contents of the DOWNLOADS INI file:
 **Specifications:**
 * **`[VERSION]`** mostly exists of numbers, all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 * This version number must exist in the emulator download folder on a EDC repository, or EDC manager cannot find it to fill the details!
-* Please note that if you have 2 the same versions  (and archive files) but diffrent platforms like x86 or x64, you have to make 2 sections, example snippets:
+
+Please note that if you have 2 the same versions  (and archive files) but diffrent platforms like x86 or x64, you have to make 2 sections, example snippets:
 
     [0.1-win32]
     EMU_OS                      = Windows
@@ -137,3 +138,10 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_CRC32Executable        = 6C059FFB 
     INFO_CRC32Archive           = A8E52604
 
+### 3)
+Emulators to exclude from EDC at the moment:
+
+- Emulators for **Linux** and **MacOs** (you can add them to the repo like **-linux** and **-mac**, don't add them in the emulator downloads INI file.)
+- Emulators **Source** files (you can add them to the repo like **-source**, don't add them in the emulator downloads INI file.)
+- Emulators that have **installers** to run first.
+- Emulators that are **Java** based (JAR).
