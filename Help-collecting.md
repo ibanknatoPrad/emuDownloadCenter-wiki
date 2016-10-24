@@ -32,12 +32,12 @@ A: Because a GitHub repository is limited to 1 GB size.
 Also Emulators builders/programmers are welcome to share their latest version!, they can publish the new emulator to the EDC platform!
 ***
 ### Some advantages using EDC are:
-- Everyone can help collecting and building EDC further!, it's al public
+- Everyone can help collecting and building EDC further!, it's al public!
 
-- No Banners or any commercial defacing on the site.
+- No Banners or any commercial defacing on the site!
 
-- No bandwith(costs)
+- No bandwith(costs) and more speed!
 
-- No file deposit site's or any dead links
+- No pesky file deposit site's or any broken links!
 
 - etc...
