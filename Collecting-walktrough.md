@@ -137,13 +137,15 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_UnpackedSize           = 192 
     INFO_CRC32Executable        = 6C059FFB 
     INFO_CRC32Archive           = A8E52604
-
+***
 ## 2) Create a downloadfolder
 
-Create a folder in the downloadrepo with the same name you used to create the `downloadhook`.
+Create a folder in the download repository with the same name you've used to create the `downloadhook`.
 
 
-### 3) Add the emulator to the list
+
+***
+## 3) Add the emulator to the list
 
 Last but not least, add the emulator to the platform list in the file: **`downloadhooks\eccidlist.ini`**
 
@@ -157,7 +159,8 @@ Please note the **same** emulator can be added to multiple platforms.
 * **`FOLDER`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 * **`EMULATORNAME`** can have capital letters, may have spaces or special characters.
 
-### 4) Excluding some emulators
+***
+## 4) Excluding some emulators
 
 Emulators to exclude from EDC at the moment:
 
