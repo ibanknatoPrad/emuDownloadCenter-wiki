@@ -3,8 +3,9 @@
 # Emulator listing
 
 ***
-## _Sega Mega Drive 32X (32x)_
+## _Sega Mega Drive 32X (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_32x_teaser.png)
+###### ECC ID: 32x
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -14,8 +15,9 @@
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 ***
-## _Nintendo 3DS (3ds)_
+## _Nintendo 3DS (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_3ds_teaser.png)
+###### ECC ID: 3ds
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -23,8 +25,9 @@
 | :file_folder: [**Citra**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-citra#menu) | Multiple Contributors | GPLv2 |
 | :file_folder: [**TronDS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-tronds#menu) | jocopoco | Freeware |
 ***
-## _Panasonic 3DO (3do)_
+## _Panasonic 3DO (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_3do_teaser.png)
+###### ECC ID: 3do
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -33,8 +36,9 @@
 | :file_folder: [**FreeDo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
-## _Atari 2600 (a2600)_
+## _Atari 2600 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_a2600_teaser.png)
+###### ECC ID: a2600
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -42,8 +46,9 @@
 | :file_folder: [**no$2k6**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-no2k6#menu) | Martin Korth | Freeware |
 | :file_folder: [**Z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-z26#menu) | John Saeger | Freeware |
 ***
-## _Atari 5200 (a5200)_
+## _Atari 5200 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_a5200_teaser.png)
+###### ECC ID: a5200
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -55,16 +60,18 @@
 | :file_folder: [**kat5200**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kat5200#menu) | Brian Berlin | GNU GPL |
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-rainbow#menu) | Chris Lam | UNKNOWN |
 ***
-## _Atari 7800 (a7800)_
+## _Atari 7800 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_a7800_teaser.png)
+###### ECC ID: a7800
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**EMU7800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu7800#menu) | Mike Murphy | GNU GPLv2 |
 | :file_folder: [**ProSystem**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-prosystem#menu) | Greg Stanton | Freeware |
 ***
-## _Atari 8-bit series (a8bit)_
+## _Atari 8-bit series (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_a8bit_teaser.png)
+###### ECC ID: a8bit
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -74,23 +81,26 @@
 | :file_folder: [**atari++**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-atariplusplus#menu) | Thomas Richter | THOR Public Licence |
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-rainbow#menu) | Chris Lam | UNKNOWN |
 ***
-## _Entex Adventure Vision (advision)_
+## _Entex Adventure Vision (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_advision_teaser.png)
+###### ECC ID: advision
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**AdViEmulator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-adviem#menu) | justburn | GNU GPLv2 |
 ***
-## _Matra/Hachette Alice (alice)_
+## _Matra/Hachette Alice (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_alice_teaser.png)
+###### ECC ID: alice
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**DCALICE**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-dcalice#menu) | Daniel Coulom | Freeware |
 | :file_folder: [**DCMicroColor**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-dcmicro#menu) | Daniel Coulom | Freeware |
 ***
-## _Acorn Archimedes (archi)_
+## _Acorn Archimedes (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_archi_teaser.png)
+###### ECC ID: archi
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -98,75 +108,85 @@
 | :file_folder: [**Red Squirrel**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-redsquirrel#menu) | Graeme Barnes | Freeware |
 | :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-rpcemu#menu) | Tom Walker | Freeware |
 ***
-## _Commodore 16/plus4 (c16plus4)_
+## _Commodore 16/plus4 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_c16plus4_teaser.png)
+###### ECC ID: c16plus4
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
 ***
-## _Commodore 64 (c64)_
+## _Commodore 64 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_c64_teaser.png)
+###### ECC ID: c64
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
 ***
-## _Coleco ColecoVision (col)_
+## _Coleco ColecoVision (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_col_teaser.png)
+###### ECC ID: col
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
-## _Amstrad CPC (cpc)_
+## _Amstrad CPC (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_cpc_teaser.png)
+###### ECC ID: cpc
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$cpc**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nocpc#menu) | Martin Korth | Freeware |
 ***
-## _Vtech Creativision (cv)_
+## _Vtech Creativision (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_cv_teaser.png)
+###### ECC ID: cv
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-funnymu#menu) | Pablo | Freeware |
 ***
-## _Nintendo FDS (fds)_
+## _Nintendo FDS (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_fds_teaser.png)
+###### ECC ID: fds
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
 ***
-## _Nintendo Game Boy (gb)_
+## _Nintendo Game Boy (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gb_teaser.png)
+###### ECC ID: gb
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 ***
-## _Nintendo Game Boy Advance (gba)_
+## _Nintendo Game Boy Advance (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gba_teaser.png)
+###### ECC ID: gba
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 ***
-## _Nintendo Game Boy Color (gbc)_
+## _Nintendo Game Boy Color (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gbc_teaser.png)
+###### ECC ID: gbc
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 ***
-## _Sega Mega Drive/Genesis (gen)_
+## _Sega Mega Drive/Genesis (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gen_teaser.png)
+###### ECC ID: gen
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -178,8 +198,9 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 ***
-## _Sega Game Gear (gg)_
+## _Sega Game Gear (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gg_teaser.png)
+###### ECC ID: gg
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -189,45 +210,51 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
-## _HomeLAB series - HomeLAB 4 (homelab4)_
+## _HomeLAB series - HomeLAB 4 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_homelab4_teaser.png)
+###### ECC ID: homelab4
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-homelab#menu) | Grósz Attila | Freeware |
 ***
-## _APF Electronics Imagination Machine (im)_
+## _APF Electronics Imagination Machine (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_im_teaser.png)
+###### ECC ID: im
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**APF EMUW**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-apfemuw#menu) | Enrique Collado | Freeware |
 | :file_folder: [**Virtual APF**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-virtualapf#menu) | James the Animal Tamer | Freeware |
 ***
-## _Atari Jaguar (jag)_
+## _Atari Jaguar (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_jag_teaser.png)
+###### ECC ID: jag
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Project Tempest**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-projecttempest#menu) | Ville Linde | Freeware |
 | :file_folder: [**Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-virtualjaguar#menu) | Niels Wagenaar & Carwin Jones | Open Source |
 ***
-## _Jupiter Cantab - Jupiter Ace (jupace)_
+## _Jupiter Cantab - Jupiter Ace (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_jupace_teaser.png)
+###### ECC ID: jupace
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nozx#menu) | Martin Korth | Freeware |
 ***
-## _Vtech Laser 100/110 (l100)_
+## _Vtech Laser 100/110 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_l100_teaser.png)
+###### ECC ID: l100
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winvz300#menu) | Gavin Turner | Freeware |
 ***
-## _Vtech Laser 200/210/310 (l200)_
+## _Vtech Laser 200/210/310 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_l200_teaser.png)
+###### ECC ID: l200
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -235,50 +262,57 @@
 | :file_folder: [**James VZ200**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-jvz200#menu) | James the Animal Tamer | Freeware |
 | :file_folder: [**VZEM**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-vzem#menu) | Guy Thomason | Freeware |
 ***
-## _Vtech Laser 350/500/700 (l350)_
+## _Vtech Laser 350/500/700 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_l350_teaser.png)
+###### ECC ID: l350
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winvz300#menu) | Gavin Turner | Freeware |
 ***
-## _Atari Lynx (lynx)_
+## _Atari Lynx (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_lynx_teaser.png)
+###### ECC ID: lynx
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _MSX Home Computer (msx)_
+## _MSX Home Computer (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_msx_teaser.png)
+###### ECC ID: msx
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nomsx#menu) | Martin Korth | Shareware |
 ***
-## _MSX 2 Home Computer (msx2)_
+## _MSX 2 Home Computer (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_msx2_teaser.png)
+###### ECC ID: msx2
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nomsx#menu) | Martin Korth | Shareware |
 ***
-## _Nintendo N64 (n64)_
+## _Nintendo N64 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_n64_teaser.png)
+###### ECC ID: n64
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**1964**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-1964#menu) | Joel Middendorf (schibo) & Rice | Freeware |
 ***
-## _Nintendo DS (nds)_
+## _Nintendo DS (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_nds_teaser.png)
+###### ECC ID: nds
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 ***
-## _Nintendo NES/Famicom (nes)_
+## _Nintendo NES/Famicom (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_nes_teaser.png)
+###### ECC ID: nes
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -287,50 +321,57 @@
 | :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nestopia#menu) | Martin Freij | Open Source |
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
 ***
-## _SNK NeoGeo Pocket (ngp)_
+## _SNK NeoGeo Pocket (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_ngp_teaser.png)
+###### ECC ID: ngp
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _SNK NeoGeo Pocket Color (ngpc)_
+## _SNK NeoGeo Pocket Color (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_ngpc_teaser.png)
+###### ECC ID: ngpc
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _NEC Turbografx-16/PC-Engine (pce)_
+## _NEC Turbografx-16/PC-Engine (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_pce_teaser.png)
+###### ECC ID: pce
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _NEC Supergrafx/PC-Engine 2 (pce2)_
+## _NEC Supergrafx/PC-Engine 2 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_pce2_teaser.png)
+###### ECC ID: pce2
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _NEC PC-FX (pcfx)_
+## _NEC PC-FX (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_pcfx_teaser.png)
+###### ECC ID: pcfx
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _Sega Pico (pico)_
+## _Sega Pico (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_pico_teaser.png)
+###### ECC ID: pico
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 ***
-## _Sony PlayStation 1 (ps1)_
+## _Sony PlayStation 1 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_ps1_teaser.png)
+###### ECC ID: ps1
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -339,37 +380,42 @@
 | :file_folder: [**no$psx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nopsx#menu) | Martin Korth | Freeware |
 | :file_folder: [**pSX**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-psx#menu) | Unknown | Freeware |
 ***
-## _Sony PocketStation (pstation)_
+## _Sony PocketStation (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_pstation_teaser.png)
+###### ECC ID: pstation
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 ***
-## _Sega Saturn (sat)_
+## _Sega Saturn (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_sat_teaser.png)
+###### ECC ID: sat
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _Sega SC-3000 (sc3000)_
+## _Sega SC-3000 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_sc3000_teaser.png)
+###### ECC ID: sc3000
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 ***
-## _Sega SG-1000 (sg1000)_
+## _Sega SG-1000 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_sg1000_teaser.png)
+###### ECC ID: sg1000
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 ***
-## _Sega Mega-CD (smcd)_
+## _Sega Mega-CD (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_smcd_teaser.png)
+###### ECC ID: smcd
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -380,8 +426,9 @@
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 ***
-## _Sega Master System (sms)_
+## _Sega Master System (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_sms_teaser.png)
+###### ECC ID: sms
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -393,8 +440,9 @@
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 ***
-## _Nintendo Super Nintendo (snes)_
+## _Nintendo Super Nintendo (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_snes_teaser.png)
+###### ECC ID: snes
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -403,50 +451,57 @@
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-snes9x#menu) | Gary Henderson | Freeware |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 ***
-## _Watara Supervision (svn)_
+## _Watara Supervision (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_svn_teaser.png)
+###### ECC ID: svn
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-potator#menu) | David Raingeard | Freeware |
 ***
-## _Nintendo Virtual Boy (vb)_
+## _Nintendo Virtual Boy (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_vb_teaser.png)
+###### ECC ID: vb
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _Commodore VIC-20 (vic20)_
+## _Commodore VIC-20 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_vic20_teaser.png)
+###### ECC ID: vic20
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
 ***
-## _Bandai Wonderswan (ws)_
+## _Bandai Wonderswan (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_ws_teaser.png)
+###### ECC ID: ws
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _Bandai Wonderswan Color (wsc)_
+## _Bandai Wonderswan Color (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_wsc_teaser.png)
+###### ECC ID: wsc
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
-## _Sinclair ZX81 (zx81)_
+## _Sinclair ZX81 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_zx81_teaser.png)
+###### ECC ID: zx81
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nozx#menu) | Martin Korth | Freeware |
 ***
-## _Sinclair ZX Spectrum (zxs)_
+## _Sinclair ZX Spectrum (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_zxs_teaser.png)
+###### ECC ID: zxs
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
