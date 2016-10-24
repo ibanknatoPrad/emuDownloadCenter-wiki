@@ -137,6 +137,15 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_UnpackedSize           = 192 
     INFO_CRC32Executable        = 6C059FFB 
     INFO_CRC32Archive           = A8E52604
+
+### 1.3)
+Create a *SCREENSHOT** file in the `emulatorfoldername` wich contains basic information about the emulator.
+
+The file has to be JPG, and the name of the JPG file is: **`[emulatorfoldername]_screen.jpg`**
+
+**Specifications:**
+* **`[emulatorfoldername]_screen.jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
+
 ***
 ## 2) Create a downloadfolder
 
@@ -150,7 +159,7 @@ The archive has to be a 7Z (7ZIP) file, place it in the folder as: **`[version].
 
 Q: Why 7Zip?
 
-_A: Becasue 7Z has better compression then ZIP, RAR, ARJ, etc..._
+_A: Because 7Z has better compression then ZIP, RAR, ARJ, etc..._
 
 ### 2.2)
 Create a changelog TXT for this version, place it in the folder as: **`[version]_changelog.txt`**
