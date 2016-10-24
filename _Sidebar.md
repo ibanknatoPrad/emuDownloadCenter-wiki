@@ -7,4 +7,6 @@
 ###[**Emulators**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/download-emulators)
 ***
 ### Other
+###[**Help collecting!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Help-collecting)
+
 ###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/edc-statistics)
