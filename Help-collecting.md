@@ -11,7 +11,7 @@ Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](ht
 Q: _Why are the more repo's?_
 
 A: Because a GitHub repository is limited to 1 GB size.
-
+***
 ### Some site's to get emulators:
 
 [emulator-zone](http://www.emulator-zone.com) | 
@@ -30,7 +30,7 @@ A: Because a GitHub repository is limited to 1 GB size.
 **If you are a owner of the above site's, i'd encouridge you not to close your site, but help us build this new _Open Source_ platform to download emulators on a central location!**
 
 Also Emulators builders are welcome!, and can publish there new emulator to the EDC platform!
-
+***
 ### Some advantages using EDC are:
 - Everyone can help collecting and building EDC further!, it's al public
 
