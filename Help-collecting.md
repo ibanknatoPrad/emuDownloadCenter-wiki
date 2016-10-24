@@ -27,7 +27,7 @@ A: Because a GitHub repository is limited to 1 GB size.
 [coolrom](http://coolrom.com/emulators/) | 
 [fantasyanime](http://fantasyanime.com/emulators) | 
 
-**If you are a owner of the above site's, i encourage you NOT to close your site, but help us build this new _Open Source_ platform to download emulators on a central location!**
+**If you are a owner of the above site's, i encourage you to NOT close your site, but help us build this new _Open Source_ platform to download emulators on a central location!**
 
 Also Emulators builders/programmers are welcome to share their latest version!, they can publish the new emulator to the EDC platform!
 ***
