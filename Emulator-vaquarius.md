@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Virtual Aquarius** is a **UNKNOWN** emulator for **Unknown** made by **James The Animal Tamer**
+**Virtual Aquarius** is a **UNKNOWN** emulator for **Mattel Aquarius** made by **James The Animal Tamer**
 
 This emulator does **not** specificly needs a BIOS image to run!
 
