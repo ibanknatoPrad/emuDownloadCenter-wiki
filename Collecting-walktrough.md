@@ -173,7 +173,6 @@ Note that if there are more builds of the same version, then just copy the chang
 
 **Specifications:**
 * **`[version]_changelog.txt`** all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
-* The file must exist, if the changelog is unknown...the contents is only the word: `unknown`
 
 ### 2.3)
 Create a contents TXT for this version, place it in the folder as: **`[version]_contents.txt`**
