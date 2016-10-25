@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**AqEmu** is a **UNKNOWN** emulator for **Unknown** made by **Kenny Millar**
+**AqEmu** is a **UNKNOWN** emulator for **Mattel Aquarius** made by **Kenny Millar**
 
 This emulator does **not** specificly needs a BIOS image to run!
 
