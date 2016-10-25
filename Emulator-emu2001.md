@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Emulator2001** is a **UNKNOWN** emulator for **Emerson Arcadia 2001** made by **Gavin Turner**
+**Emulator2001** is a **Freeware** emulator for **Emerson Arcadia 2001** made by **Gavin Turner**
 
 This emulator does **not** specificly needs a BIOS image to run!
 

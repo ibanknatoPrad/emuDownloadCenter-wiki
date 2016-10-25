@@ -144,9 +144,9 @@
 | :file_folder: [**GSPort**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-gsport#menu) | GSport Development Team | GNU GPLv2 |
 | :file_folder: [**Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-kegs#menu) | Kent Dickey | GNU GPLv2 |
 ***
-## _Unknown (Unknown)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_aquarius_teaser.png)
-###### ECC ID: **aquarius**
+## _Mattel Aquarius (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_aqua_teaser.png)
+###### ECC ID: **aqua**
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
@@ -159,7 +159,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | UNKNOWN |
+| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
 | :file_folder: [**WinArcadia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
 ***
 ## _Acorn Archimedes (Computer)_
@@ -354,7 +354,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | UNKNOWN |
+| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
 | :file_folder: [**James VZ200**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-jvz200#menu) | James the Animal Tamer | Freeware |
 | :file_folder: [**VZEM**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-vzem#menu) | Guy Thomason | Freeware |
 | :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winvz300#menu) | Gavin Turner | Freeware |
@@ -366,6 +366,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winvz300#menu) | Gavin Turner | Freeware |
+| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
 ***
 ## _Atari Lynx (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_lynx_teaser.png)
@@ -578,7 +579,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | UNKNOWN |
+| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
 | :file_folder: [**WinArcadia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
 ***
 ## _Nintendo Virtual Boy (Handheld)_
@@ -595,7 +596,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | UNKNOWN |
+| :file_folder: [**Emulator2001**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
 | :file_folder: [**WinArcadia**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
 ***
 ## _Commodore VIC-20 (Computer)_
