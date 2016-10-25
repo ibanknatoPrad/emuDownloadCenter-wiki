@@ -6,7 +6,7 @@ Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](ht
 
 2) Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
 
-3) Read this [Walktrough](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
+3) Read this [walktrough](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
 
 4) Make pull requests!
 
