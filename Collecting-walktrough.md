@@ -1,6 +1,6 @@
 ## 1) Create a downloadhook
 
-First you need to create a downloadhook for the emulator, you do this by: 
+First you need to create a downloadhook for the emulator, you do this by:
 
 ### 1.1)
 Creating a folder in the downloadhooks folder, like: `downloadhooks\[emulatorfoldername]`
