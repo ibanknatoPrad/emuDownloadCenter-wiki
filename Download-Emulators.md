@@ -44,6 +44,7 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**EMU7800**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu7800#menu) | Mike Murphy | GNU GPLv2 |
 | :file_folder: [**no$2k6**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-no2k6#menu) | Martin Korth | Freeware |
+| :file_folder: [**Stella**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-stella#menu) | Bradford Mott & Stephen Anthony | GPL |
 | :file_folder: [**Z26**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-z26#menu) | John Saeger | Freeware |
 ***
 ## _Atari 5200 (Console)_
@@ -294,6 +295,7 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
+| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 ***
 ## _Nintendo Game Boy Advance (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gba_teaser.png)
@@ -314,6 +316,7 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
+| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 ***
 ## _Sega Mega Drive/Genesis (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_gen_teaser.png)
