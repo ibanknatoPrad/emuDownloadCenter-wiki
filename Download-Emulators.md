@@ -224,7 +224,15 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Come Back 64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-comeback64#menu) | D Luxen | GNU GPLv2 |
+| :file_folder: [**Dream64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-dream64#menu) | tprodigy1 | Freeware |
+| :file_folder: [**Emu64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-emu64#menu) | Thorsten Kattanek | GNU GPLv2 |
+| :file_folder: [**Frodo**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-frodo#menu) | Christian Bauer et al. | Freeware - Non-Commercial |
+| :file_folder: [**Hyper64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-hyper64#menu) | Benjamin »BeRo« Rosseaux | Freeware |
+| :file_folder: [**Hoxs64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-hoxs64#menu) | David Horrocks | GNU GPLv2 |
+| :file_folder: [**Micro64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-micro64#menu) | Benjamin »BeRo« Rosseaux | Freeware |
 | :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
+| :file_folder: [**VB64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-vb64#menu) | Amigafeeva | GNU GPLv2 |
 | :file_folder: [**WinVICE**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
 ***
 ## _Commodore CDTV (Console)_
@@ -426,6 +434,8 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**1964**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-1964#menu) | Joel Middendorf (schibo) & Rice | Freeware |
+| :file_folder: [**Project64**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-project64#menu) | Zilmar and Jabo | Freeware |
+| :file_folder: [**Project64k**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Emulator-project64k#menu) | Smasherx74 | Freeware |
 ***
 ## _Sega Naomi (Arcade)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/edc-masterhook/platformimages/ecc_naomi_teaser.png)

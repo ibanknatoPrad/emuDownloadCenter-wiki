@@ -20,4 +20,4 @@ _Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and_
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/horizon/2.1.7z) | 2012-09-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/horizon/2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/horizon/2.1_contents.txt) | 0 KB |
+| :floppy_disk: [**v2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/horizon/2.1.7z) | 2012-09-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/horizon/2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/horizon/2.1_contents.txt) | 693 KB |
