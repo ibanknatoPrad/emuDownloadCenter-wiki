@@ -2,13 +2,15 @@
 
 Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com)
 
-1) Fork this repo [edc-masterhook](https://github.com/PhoenixInteractiveNL/edc-masterhook)
+1) Install [GitHub Desktop](https://desktop.github.com/)
 
-2) Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
+2) Fork this repo [edc-masterhook](https://github.com/PhoenixInteractiveNL/edc-masterhook)
 
-3) Read this [walktrough](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
+3) Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
 
-4) Make pull requests!
+4) Read this [walktrough](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
+
+5) Make pull requests!
 
 Q: _Why are the more repo's?_
 
@@ -34,9 +36,11 @@ A: Because a GitHub repository is limited to 1 GB size.
 Also Emulators builders/programmers are welcome to share their latest version!, they can publish the new emulator to the EDC platform!
 ***
 ### Some advantages using EDC are:
-- Everyone can help collecting and building EDC further!, it's al public!
+- Everyone can help collecting and building EDC further!, it's al open source!
 
-- No Banners or any commercial defacing on the site!
+- You can build an API to download and install emulators in a frontend!
+
+- No banners or any commercial defacing on the site!
 
 - No bandwith(costs) and more speed!
 
