@@ -8,7 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/z26_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/z26_logo_200.jpg)
+
 **Z26** is a **Freeware** emulator for **Atari 2600** made by **John Saeger**
 
 This emulator does **not** specificly needs a BIOS image to run!

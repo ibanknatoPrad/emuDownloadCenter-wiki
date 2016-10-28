@@ -8,7 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/project64_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/project64_logo_200.jpg)
+
 **Project64** is a **Freeware** emulator for **Nintendo N64** made by **Zilmar and Jabo**
 
 This emulator does **not** specificly needs a BIOS image to run!

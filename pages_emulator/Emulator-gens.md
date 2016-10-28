@@ -8,7 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/gens_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/gens_logo_200.jpg)
+
 **Gens** is a **GNU GPLv2** emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville**
 
 This emulator **needs a BIOS image** to run!

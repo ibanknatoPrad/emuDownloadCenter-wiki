@@ -8,7 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/tronds_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/tronds_logo_200.jpg)
+
 **TronDS** is a **Freeware** emulator for **Nintendo 3DS** made by **jocopoco**
 
 This emulator does **not** specificly needs a BIOS image to run!

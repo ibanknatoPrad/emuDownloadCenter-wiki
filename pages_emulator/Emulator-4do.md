@@ -8,7 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/4do_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/4do_logo_200.jpg)
+
 **4DO** is a **Freeware** emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor**
 
 This emulator **needs a BIOS image** to run!
