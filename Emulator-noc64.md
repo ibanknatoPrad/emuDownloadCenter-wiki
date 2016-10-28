@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$c64** is a emulator for **Commodore 16/plus4** made by **Martin Korth**, license: **Freeware**
+**no$c64** is a emulator for **Commodore VIC-20** made by **Martin Korth**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

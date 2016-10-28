@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard**, license: **Freeware**
+**Calice32** is a emulator for **Sony ZiNc (ZN-1/ZN-2)** made by **David Raingeard**, license: **Freeware**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

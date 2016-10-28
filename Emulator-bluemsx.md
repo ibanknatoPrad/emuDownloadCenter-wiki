@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**blueMSX** is a emulator for **Coleco ColecoVision** made by **Daniel Vik**, license: **Freeware**
+**blueMSX** is a emulator for **Spectravideo SV318/328** made by **Daniel Vik**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

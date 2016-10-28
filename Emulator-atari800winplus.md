@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier**, license: **GNU General Licence**
+**Atari800Win-PLus** is a emulator for **Atari 8-bit series** made by **Marcin Lewandoski aka Jaskier**, license: **GNU General Licence**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

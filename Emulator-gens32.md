@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Gens32 Surreal** is a emulator for **Sega Mega Drive 32X** made by **Gens32 Team**, license: **GNU GPLv2**
+**Gens32 Surreal** is a emulator for **Sega Master System** made by **Gens32 Team**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

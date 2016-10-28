@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg)
 
-**Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake**, license: **Freeware**
+**Kega Fusion** is a emulator for **Sega Master System** made by **Steve Snake**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

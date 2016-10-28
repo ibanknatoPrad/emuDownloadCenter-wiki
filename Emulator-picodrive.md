@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz**, license: **Non-standard**
+**PicoDrive** is a emulator for **Sega Master System** made by **notaz**, license: **Non-standard**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

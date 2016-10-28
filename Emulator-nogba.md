@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth**, license: **Freeware**
+**no$gba** is a emulator for **Sony PocketStation** made by **Martin Korth**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Gens/GS** is a emulator for **Sega Mega Drive 32X** made by **David Korth**, license: **GNU GPLv2**
+**Gens/GS** is a emulator for **Sega Master System** made by **David Korth**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

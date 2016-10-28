@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team**, license: **GNU GPLv2**
+**Mednafen** is a emulator for **Bandai Wonderswan Color** made by **The Mednafen Team**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**atari++** is a emulator for **Atari 5200** made by **Thomas Richter**, license: **THOR Public Licence**
+**atari++** is a emulator for **Atari 8-bit series** made by **Thomas Richter**, license: **THOR Public Licence**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

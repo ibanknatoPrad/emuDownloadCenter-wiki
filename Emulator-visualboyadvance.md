@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg)
 
-**VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu**, license: **Freeware**
+**VisualBoyAdvance** is a emulator for **Nintendo Game Boy Color** made by **Forgotten & kxu**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

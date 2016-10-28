@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ZEsarUX** is a emulator for **Amstrad CPC** made by **Cesar Hernandez**, license: **GNU GPLv3**
+**ZEsarUX** is a emulator for **Sinclair ZX Spectrum** made by **Cesar Hernandez**, license: **GNU GPLv3**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

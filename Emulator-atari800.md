@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Atari800** is a emulator for **Atari 5200** made by **The Atari800 Development Team**, license: **GNU GPLv2**
+**Atari800** is a emulator for **Atari 8-bit series** made by **The Atari800 Development Team**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

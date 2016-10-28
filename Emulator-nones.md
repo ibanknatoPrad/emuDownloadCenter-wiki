@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$nes** is a emulator for **Nintendo FDS** made by **Martin Korth**, license: **Freeware**
+**no$nes** is a emulator for **Nintendo NES/Famicom** made by **Martin Korth**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

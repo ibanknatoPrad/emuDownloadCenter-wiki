@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team**, license: **GNU GPLv2**
+**WinVICE** is a emulator for **Commodore VIC-20** made by **The WinVice Team**, license: **GNU GPLv2**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

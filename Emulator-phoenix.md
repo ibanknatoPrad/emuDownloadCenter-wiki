@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer**, license: **Free for Personal and Non-Commercial Use**
+**Phoenix** is a emulator for **Sega Master System** made by **Grishin Maxim Leonidovich aka Altmer**, license: **Free for Personal and Non-Commercial Use**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

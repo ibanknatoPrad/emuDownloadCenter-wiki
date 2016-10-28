@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey**, license: **GNU GPLv2**
+**Kent's Emulated GS** is a emulator for **Apple 2GS** made by **Kent Dickey**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
