@@ -11,12 +11,12 @@ Creating a folder in the downloadhooks folder, like: `downloadhooks\[emulatorfol
 ### 1.2)
 Create a **INFO INI** file in the `emulatorfoldername` wich contains basic information about the emulator.
 
-The name of the INI file is: **`[emulatorfoldername]_info.ini`**
+The name of the INI file is: **`info.ini`**
 
 **Specifications:**
 * **`emulatorfoldername`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 
-So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\johndoe_info.ini`
+So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\info.ini`
 
 Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
 
@@ -29,7 +29,7 @@ Contents of the INFO INI file:
     Author              = Author of the emulator.
     Contact             = Possible E-mail of the Author.
     License             = The License of the Emulator (Freeware/Shareware/Open Source/GPL).
-    BiosNeeded          = Does the Emulator need BIOS ROMS to run?
+    BiosNeeded          = Does the Emulator need BIOS ROMS to run? (0=no, 1=yes)
     Website             = Website where the emulator can be found.
     Notes               = Small description of the emulator.
 
@@ -51,12 +51,12 @@ Please note the Email is masked to prevent spamming (*=. | #=@)
 ### 1.3)
 Create a **DOWNLOADS INI** file in the `emulatorfoldername` wich contains information about the emulator version(s).
 
-The name of the INI file is: **`[emulatorfoldername]_downloads.ini`**
+The name of the INI file is: **`downloads.ini`**
 
 **Specifications:**
 * **`emulatorfoldername`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 
-So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\johndoe_downloads.ini`
+So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\downloads.ini`
 
 Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
 
@@ -115,7 +115,7 @@ Please note that if you have 2 the same versions  (and archive files) but diffre
 Example Contents (Emulator Potator for Watara Supervision):
 
     [0.7]
-    EMU_Download                = https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/
+    EMU_DownloadUrl             = https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/
     EMU_ReleaseDate             = 2004-10-19
     EMU_Notes                   = Has a commandline parameter to start roms.
     EMU_ExecutableFile          = Potator.exe
@@ -141,7 +141,7 @@ Example Contents (Emulator Potator for Watara Supervision):
 ### 1.3)
 Create a **SCREENSHOT** file in the `emulatorfoldername` wich is a screenshot taken from the emulator.
 
-The file has to be JPG, and the name of the JPG file is: **`[emulatorfoldername]_screen.jpg`**
+The file has to be JPG, and the name of the JPG file is: **`screen.jpg`**
 
 **Specifications:**
 * **`[emulatorfoldername]_screen.jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
@@ -151,10 +151,10 @@ The file has to be JPG, and the name of the JPG file is: **`[emulatorfoldername]
 ### 1.4 OPTIONAL)
 Create a **LOGO** file in the `emulatorfoldername` wich contains the logo of the emulator.
 
-The file has to be PNG or JPG, and the name of the file is: **`[emulatorfoldername]_logo.png/jpg`**
+The file has to be PNG or JPG, and the name of the file is: **`logo.png/logo.jpg`**
 
 **Specifications:**
-* **`[emulatorfoldername]_logo.png/jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
+* **`logo.png/logo.jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 
 * The PNG must not have a alpha channe for transparancy, convert all to white solid background!
 
@@ -206,7 +206,7 @@ So there are 3 files in the folder:
 ***
 ## 3) Add the emulator to the list
 
-Last but not least, add the emulator to the platform list in the file: **`downloadhooks\eccidlist.ini`**
+Last but not least, add the emulator to the platform list in the file: **`eccidlist.ini`** wich is located in the emuDownloadcenter root.
 
 **INI SECTION = ECCID**
 
