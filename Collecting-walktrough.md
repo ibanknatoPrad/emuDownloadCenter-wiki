@@ -13,9 +13,6 @@ Create a **INFO INI** file in the `emulatorfoldername` wich contains basic infor
 
 The name of the INI file is: **`info.ini`**
 
-**Specifications:**
-* **`emulatorfoldername`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
-
 So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\info.ini`
 
 Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
@@ -52,9 +49,6 @@ Please note the Email is masked to prevent spamming (*=. | #=@)
 Create a **DOWNLOADS INI** file in the `emulatorfoldername` wich contains information about the emulator version(s).
 
 The name of the INI file is: **`downloads.ini`**
-
-**Specifications:**
-* **`emulatorfoldername`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 
 So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\downloads.ini`
 
@@ -148,7 +142,7 @@ The file has to be JPG, and the name of the JPG file is: **`screen.jpg`**
 
 * This file **MUST** exists!, if there is no screenshot avaiable then use the one in the [**template**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates) folder.
 
-### 1.4 OPTIONAL)
+### 1.4) OPTIONAL
 Create a **LOGO** file in the `emulatorfoldername` wich contains the logo of the emulator.
 
 The file has to be PNG or JPG, and the name of the file is: **`logo.png/logo.jpg`**
