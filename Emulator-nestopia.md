@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/nestopia_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/nestopia_logo_200.jpg)
 **Nestopia** is a **Open Source** emulator for **Nintendo NES/Famicom** made by **Martin Freij**
 
 This emulator **needs a BIOS image** to run!

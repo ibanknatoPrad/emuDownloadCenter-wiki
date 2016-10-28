@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/kegafusion_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/kegafusion_logo_200.jpg)
 **Kega Fusion** is a **Freeware** emulator for **Sega Mega Drive 32X** made by **Steve Snake**
 
 This emulator does **not** specificly needs a BIOS image to run!

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/winfellow_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/winfellow_logo_200.jpg)
 **WinFellow** is a **GNU GPLv2** emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje**
 
 This emulator **needs a BIOS image** to run!

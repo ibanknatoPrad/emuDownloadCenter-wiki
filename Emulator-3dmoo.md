@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/3dmoo_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/3dmoo_logo_200.jpg)
 **3dmoo** is a **Open Source** emulator for **Nintendo 3DS** made by **normmatt and ichfly**
 
 This emulator does **not** specificly needs a BIOS image to run!

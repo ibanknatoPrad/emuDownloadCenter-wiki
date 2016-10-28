@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/3doplay_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/3doplay_logo_200.jpg)
 **3DOplay** is a **GNU GPLv3** emulator for **Panasonic 3DO** made by **Viktor Ivanov**
 
 This emulator does **not** specificly needs a BIOS image to run!

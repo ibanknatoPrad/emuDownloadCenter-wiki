@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/prosystem_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/prosystem_logo_200.jpg)
 **ProSystem** is a **Freeware** emulator for **Atari 7800** made by **Greg Stanton**
 
 This emulator does **not** specificly needs a BIOS image to run!

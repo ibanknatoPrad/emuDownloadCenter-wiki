@@ -139,12 +139,24 @@ Example Contents (Emulator Potator for Watara Supervision):
     INFO_CRC32Archive           = A8E52604
 
 ### 1.3)
-Create a *SCREENSHOT** file in the `emulatorfoldername` wich contains basic information about the emulator.
+Create a **SCREENSHOT** file in the `emulatorfoldername` wich is a screenshot taken from the emulator.
 
 The file has to be JPG, and the name of the JPG file is: **`[emulatorfoldername]_screen.jpg`**
 
 **Specifications:**
 * **`[emulatorfoldername]_screen.jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
+
+* This file **MUST** exists!, if there is no screenshot avaiable then use the one in the [**template**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates) folder.
+
+### 1.4 OPTIONAL)
+Create a **LOGO** file in the `emulatorfoldername` wich contains the logo of the emulator.
+
+The file has to be PNG or JPG, and the name of the file is: **`[emulatorfoldername]_logo.png/jpg`**
+
+**Specifications:**
+* **`[emulatorfoldername]_logo.png/jpg`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
+
+* The PNG must not have a alpha channe for transparancy, convert all to white solid background!
 
 ***
 ## 2) Create a downloadfolder

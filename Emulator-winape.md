@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/winape_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/emulatorimages/winape_logo_200.jpg)
 **WinAPE** is a **Freeware** emulator for **Amstrad CPC** made by **Richard Wilson**
 
 This emulator does **not** specificly needs a BIOS image to run!
