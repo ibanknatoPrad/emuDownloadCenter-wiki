@@ -17,7 +17,7 @@ _nocash ZX81 & ZX Spectrum emulator/debugger for windows_
 [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nozx/nozx_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nozx/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

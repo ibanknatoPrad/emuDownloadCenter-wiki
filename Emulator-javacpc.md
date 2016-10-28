@@ -17,7 +17,7 @@ _JavaCPC is a Java-based CPC emulator that has a complete Desktop environment._
 [**Emulator website**](http://cpc-live.com/news.php)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/javacpc/javacpc_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/javacpc/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

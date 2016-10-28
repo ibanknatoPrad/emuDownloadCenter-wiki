@@ -15,7 +15,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _KOLEKO is a Coleco ColecoVision emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/koleko/koleko_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/koleko/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

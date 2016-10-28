@@ -17,7 +17,7 @@ _Nebula is a Capcom CPS1 and CPS2 and SNK NeoGeo emulator._
 [**Emulator website**](http://nebula.emulatronia.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nebula/nebula_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nebula/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

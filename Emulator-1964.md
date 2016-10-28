@@ -19,7 +19,7 @@ _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Bes
 [**Emulator website**](http://www.1964emu.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/1964_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

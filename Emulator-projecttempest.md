@@ -17,7 +17,7 @@ _It runs in Windows 9x/2000/XP and currently emulates many commercial games, som
 [**Emulator website**](http://pt.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/projecttempest/projecttempest_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/projecttempest/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

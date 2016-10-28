@@ -19,7 +19,7 @@ _VisualBoyAdvance - a Gameboy and GameboyAdvance emulator_
 [**Emulator website**](http://sourceforge.net/projects/vba)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/visualboyadvance/visualboyadvance_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/visualboyadvance/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

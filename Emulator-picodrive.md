@@ -17,7 +17,7 @@ _Picodrive is a Sega 32X, Sega Megadrive / Genesis, Sega Master System & Sega Me
 [**Emulator website**](http://notaz.gp2x.de/svp.php)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/picodrive/picodrive_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/picodrive/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

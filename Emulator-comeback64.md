@@ -15,7 +15,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _CB64 is a software emulator for the C64 Computer._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/comeback64/comeback64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/comeback64/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -15,7 +15,7 @@ This emulator **needs a BIOS image** to run!
 _Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and_
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/horizon/horizon_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/horizon/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

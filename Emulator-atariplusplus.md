@@ -17,7 +17,7 @@ _atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates
 [**Emulator website**](http://www.xl-project.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atariplusplus/atariplusplus_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atariplusplus/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

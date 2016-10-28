@@ -17,7 +17,7 @@ _Virtual APF, an emulator for the APF Imagination Machine_
 [**Emulator website**](http://www.geocities.com/emucompboy/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualapf/virtualapf_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualapf/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

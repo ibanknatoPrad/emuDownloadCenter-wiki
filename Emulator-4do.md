@@ -19,7 +19,7 @@ _4DO is an open-source, low-level emulator based on the FreeDO source code. This
 [**Emulator website**](http://fourdo.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/4do/4do_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/4do/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

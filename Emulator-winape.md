@@ -19,7 +19,7 @@ _WinAPE is an Amstrad CPC and Amstrad Plus emulator._
 [**Emulator website**](http://www.winape.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winape/winape_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winape/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

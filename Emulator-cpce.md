@@ -17,7 +17,7 @@ _CPCE is an Amstrad CPC emulator._
 [**Emulator website**](http://cpce.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpce/cpce_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpce/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

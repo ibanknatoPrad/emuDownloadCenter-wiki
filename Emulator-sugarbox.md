@@ -19,7 +19,7 @@ _Sugarbox is an Amstrad CPC emulator._
 [**Emulator website**](http://sugarbox.free.fr/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sugarbox/sugarbox_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sugarbox/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

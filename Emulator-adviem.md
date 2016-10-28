@@ -17,7 +17,7 @@ _AdViEmulator is an Entex Adventure Vision with debugging capabilities._
 [**Emulator website**](https://sourceforge.net/projects/adviemulator/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adviem/adviem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adviem/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

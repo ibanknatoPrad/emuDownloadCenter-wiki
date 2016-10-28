@@ -15,7 +15,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _Dream64 is a Commodore 64 Emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dream64/dream64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dream64/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

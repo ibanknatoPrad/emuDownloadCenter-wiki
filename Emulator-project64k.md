@@ -19,7 +19,7 @@ _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It
 [**Emulator website**](http://pj64k.blogspot.nl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/project64k_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _blueMSX is an MSX, MSX2, MSX2+ and MSXturboR emulator. Almost all MSX machines 
 [**Emulator website**](http://www.bluemsx.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bluemsx/bluemsx_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bluemsx/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

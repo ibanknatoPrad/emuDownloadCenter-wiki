@@ -19,7 +19,7 @@ _ProSystem is an emulator for the Windows operating system that will allow you t
 [**Emulator website**](http://home.comcast.net/~gscottstanton/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/prosystem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

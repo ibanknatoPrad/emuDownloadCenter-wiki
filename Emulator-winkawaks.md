@@ -17,7 +17,7 @@ _WinKawaks is a windows version of Kawaks, an emulator for the Capcom CPS1 and C
 [**Emulator website**](http://www.winkawaks.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winkawaks/winkawaks_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winkawaks/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

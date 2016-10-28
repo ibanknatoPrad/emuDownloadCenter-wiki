@@ -15,7 +15,7 @@ This emulator **needs a BIOS image** to run!
 _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. It has many optimizations and new features, like new software graphics filters, new sound effects, support for cheats files, support for joysticks with axes, Master System/Game Gear emulation and new screen resolutions._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensplus/gensplus_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensplus/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

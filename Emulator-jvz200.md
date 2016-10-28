@@ -17,7 +17,7 @@ _James's VZ200, an emulator for the VZ200 computer_
 [**Emulator website**](http://www.lchr.org/a/18/2t/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jvz200/jvz200_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jvz200/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

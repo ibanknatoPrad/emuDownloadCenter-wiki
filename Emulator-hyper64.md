@@ -17,7 +17,7 @@ _Hyper64 is a working proof-of-concept of an experimental C64 emulator implement
 [**Emulator website**](http://micro64.de/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hyper64/hyper64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hyper64/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

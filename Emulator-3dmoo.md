@@ -17,7 +17,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Windows and Linux. It can run commercial Nintendo 3DS games, albeit very, very slowly, and most games frequently crash._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dmoo/3dmoo_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dmoo/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

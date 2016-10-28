@@ -17,7 +17,7 @@ _nocash SNES/Super Famicom emulator/debugger for windows_
 [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nosns/nosns_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nosns/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

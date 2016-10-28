@@ -17,7 +17,7 @@ _YAPE is a Commodore 264 family emulator. It's an 8-bit microcomputer family fro
 [**Emulator website**](http://yape.plus4.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yape/yape_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yape/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

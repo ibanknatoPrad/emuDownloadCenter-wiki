@@ -17,7 +17,7 @@ _Atari800Win Plus is an emulator that is based off the Atari800 kernel and the A
 [**Emulator website**](http://atariarea.krap.pl/PLus/index_us.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800winplus/atari800winplus_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800winplus/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

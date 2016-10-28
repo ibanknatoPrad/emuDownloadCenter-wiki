@@ -17,7 +17,7 @@ _Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-drive
 [**Emulator website**](http://mednafen.fobby.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mednafen/mednafen_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mednafen/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _RPCEmu allows you to emulate classic Acorn systems, such as the Risc PC and A70
 [**Emulator website**](http://www.marutan.net/rpcemu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/rpcemu_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |
