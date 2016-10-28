@@ -17,7 +17,7 @@ _Micro64 aims to be the most accurate Commodore 64 emulator._
 [**Emulator website**](http://micro64.de/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/micro64/micro64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/micro64/micro64_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on_
 [**Emulator website**](http://fs-uae.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/fsuae/fsuae_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/fsuae/fsuae_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/3dmoo_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo_200.jpg)
 
 **3dmoo** is a **Open Source** emulator for **Nintendo 3DS** made by **normmatt and ichfly**
 
@@ -17,7 +17,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Windows and Linux. It can run commercial Nintendo 3DS games, albeit very, very slowly, and most games frequently crash._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/3dmoo/3dmoo_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/3dmoo/3dmoo_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

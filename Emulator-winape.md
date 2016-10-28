@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/winape_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winape_logo_200.jpg)
 
 **WinAPE** is a **Freeware** emulator for **Amstrad CPC** made by **Richard Wilson**
 
@@ -19,7 +19,7 @@ _WinAPE is an Amstrad CPC and Amstrad Plus emulator._
 [**Emulator website**](http://www.winape.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/winape/winape_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/winape/winape_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/nocpc/nocpc_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/nocpc/nocpc_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

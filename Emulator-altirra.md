@@ -17,7 +17,7 @@ _Altirra is an emulator that simulates the hardware of the Atari 8-bit computer 
 [**Emulator website**](http://www.virtualdub.org/altirra.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/altirra/altirra_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/altirra/altirra_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

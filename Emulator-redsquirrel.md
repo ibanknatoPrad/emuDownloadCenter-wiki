@@ -17,7 +17,7 @@ _This is another Acorn Archimedes emulator for Windows. You will need to obtain 
 [**Emulator website**](http://www.red-squirrel.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/redsquirrel/redsquirrel_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/redsquirrel/redsquirrel_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

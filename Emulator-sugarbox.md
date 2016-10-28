@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/sugarbox_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sugarbox_logo_200.jpg)
 
 **Sugarbox** is a **UNKNOWN** emulator for **Amstrad CPC** made by **Thomas Guillemin**
 
@@ -19,7 +19,7 @@ _Sugarbox is an Amstrad CPC emulator._
 [**Emulator website**](http://sugarbox.free.fr/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/sugarbox/sugarbox_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/sugarbox/sugarbox_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

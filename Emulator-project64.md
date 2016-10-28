@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/project64_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64_logo_200.jpg)
 
 **Project64** is a **Freeware** emulator for **Nintendo N64** made by **Zilmar and Jabo**
 
@@ -19,7 +19,7 @@ _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out
 [**Emulator website**](http://www.pj64-emu.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/project64/project64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/project64/project64_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

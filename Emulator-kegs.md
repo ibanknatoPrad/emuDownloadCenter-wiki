@@ -17,7 +17,7 @@ _KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32._
 [**Emulator website**](http://kegs.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/kegs/kegs_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/kegs/kegs_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

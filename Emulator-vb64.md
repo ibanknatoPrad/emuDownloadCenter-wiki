@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/vb64_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vb64_logo_200.jpg)
 
 **VB64** is a **GNU GPLv2** emulator for **Commodore 64** made by **Amigafeeva**
 
@@ -19,7 +19,7 @@ _VB64 is a Commodore 64 emulator written in VisualBasic._
 [**Emulator website**](http://vb64.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/vb64/vb64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/vb64/vb64_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _Calice is an emulator that is capable of playing almost all SNK Neo Geo ROMs pl
 [**Emulator website**](http://calice.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/calice/calice_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/calice/calice_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

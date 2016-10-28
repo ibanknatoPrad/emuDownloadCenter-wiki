@@ -17,7 +17,7 @@ _nocash C64 emulator - Emulates cpu, memory, video, keyboard, joysticks, timers.
 [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/noc64/noc64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/noc64/noc64_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

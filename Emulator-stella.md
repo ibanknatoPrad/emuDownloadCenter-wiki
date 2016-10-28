@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/stella_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/stella_logo_200.jpg)
 
 **Stella** is a **GPL** emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony**
 
@@ -19,7 +19,7 @@ _Stella is a multi-platform Atari 2600 VCS emulator released under the GNU Gener
 [**Emulator website**](http://stella.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/stella/stella_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/stella/stella_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

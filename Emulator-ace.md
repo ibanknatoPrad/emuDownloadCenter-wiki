@@ -17,7 +17,7 @@ _ace is an emulator capable of running a selection of games from the Capcom CPS1
 [**Emulator website**](http://ace.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/ace/ace_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/ace/ace_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

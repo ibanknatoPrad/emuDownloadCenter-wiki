@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/4do_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/4do_logo_200.jpg)
 
 **4DO** is a **Freeware** emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor**
 
@@ -19,7 +19,7 @@ _4DO is an open-source, low-level emulator based on the FreeDO source code. This
 [**Emulator website**](http://fourdo.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/4do/4do_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/4do/4do_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/3doplay_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo_200.jpg)
 
 **3DOplay** is a **GNU GPLv3** emulator for **Panasonic 3DO** made by **Viktor Ivanov**
 
@@ -19,7 +19,7 @@ _3DOplay is a Russian emulator for the Panasonic 3DO forked from the FreeDO sour
 [**Emulator website**](https://code.google.com/archive/p/3doplay/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/3doplay/3doplay_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/3doplay/3doplay_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

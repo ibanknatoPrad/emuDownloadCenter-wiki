@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/zsnes_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg)
 
 **ZSNES** is a **Freeware** emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos**
 
@@ -19,7 +19,7 @@ _ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 
 [**Emulator website**](http://www.zsnes.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/zsnes/zsnes_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/zsnes/zsnes_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

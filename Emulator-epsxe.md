@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/epsxe_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/epsxe_logo_200.jpg)
 
 **ePSXe** is a **Freeware** emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-**
 
@@ -19,7 +19,7 @@ _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for 
 [**Emulator website**](http://www.epsxe.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/epsxe/epsxe_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/epsxe/epsxe_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

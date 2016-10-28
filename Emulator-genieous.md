@@ -17,7 +17,7 @@ _Genieous is an EACA EG2000 Color Genie emulator. The current version only suppo
 [**Emulator website**](http://gaia.atilia.eu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/genieous/genieous_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/genieous/genieous_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

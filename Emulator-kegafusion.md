@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/kegafusion_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg)
 
 **Kega Fusion** is a **Freeware** emulator for **Sega Mega Drive 32X** made by **Steve Snake**
 
@@ -19,7 +19,7 @@ _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, S
 [**Emulator website**](http://www.carpeludum.com/kega-fusion/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/kegafusion/kegafusion_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/kegafusion/kegafusion_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

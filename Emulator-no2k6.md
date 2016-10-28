@@ -17,7 +17,7 @@ _nocash Atari 2600 emulator/debugger for windows_
 [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/no2k6/no2k6_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/no2k6/no2k6_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

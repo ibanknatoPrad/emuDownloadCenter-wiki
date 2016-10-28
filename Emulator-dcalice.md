@@ -17,7 +17,7 @@ _DCALICE is a Tandy MC10 and Matra-Hachette Alice emulator. NOTE: The emulator t
 [**Emulator website**](http://alice32.free.fr/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/dcalice/dcalice_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/dcalice/dcalice_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

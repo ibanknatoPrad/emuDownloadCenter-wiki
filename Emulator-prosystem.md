@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/prosystem_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg)
 
 **ProSystem** is a **Freeware** emulator for **Atari 7800** made by **Greg Stanton**
 
@@ -19,7 +19,7 @@ _ProSystem is an emulator for the Windows operating system that will allow you t
 [**Emulator website**](http://home.comcast.net/~gscottstanton/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/prosystem/prosystem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/prosystem/prosystem_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

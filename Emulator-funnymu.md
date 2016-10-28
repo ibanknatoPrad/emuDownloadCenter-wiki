@@ -17,7 +17,7 @@ _FunnyMu is a Funvision/Whizzard/Creativision emulator for Linux/Mac OS X and (s
 [**Emulator website**](http://www.lemoncube.com/26.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/funnymu/funnymu_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/funnymu/funnymu_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

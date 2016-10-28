@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/winfellow_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winfellow_logo_200.jpg)
 
 **WinFellow** is a **GNU GPLv2** emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje**
 
@@ -19,7 +19,7 @@ _WinFellow is a high performance Amiga Emulator primarily targeted for Windows. 
 [**Emulator website**](http://petschau.github.io/WinFellow/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/winfellow/winfellow_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/winfellow/winfellow_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

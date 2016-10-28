@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/gens_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens_logo_200.jpg)
 
 **Gens** is a **GNU GPLv2** emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville**
 
@@ -19,7 +19,7 @@ _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earlie
 [**Emulator website**](http://gens.me)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/gens/gens_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/gens/gens_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

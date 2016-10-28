@@ -17,7 +17,7 @@ _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evoluti
 [**Emulator website**](http://www.fceux.com/web/home.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/fceux/fceux_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/fceux/fceux_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

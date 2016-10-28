@@ -17,7 +17,7 @@ _Phoenix is a Russian multi-system emulator for the Panasonic 3DO, Coleco Coleco
 [**Emulator website**](https://arts-union.ru/node/23)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/phoenix/phoenix_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/phoenix/phoenix_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

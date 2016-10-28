@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/visualboyadvance_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg)
 
 **VisualBoyAdvance** is a **Freeware** emulator for **Nintendo Game Boy** made by **Forgotten & kxu**
 
@@ -19,7 +19,7 @@ _VisualBoyAdvance - a Gameboy and GameboyAdvance emulator_
 [**Emulator website**](http://sourceforge.net/projects/vba)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/visualboyadvance/visualboyadvance_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/visualboyadvance/visualboyadvance_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _Hoxs64 is a cycle-exact emulator of the Commodore 64._
 [**Emulator website**](http://www.hoxs64.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/hoxs64/hoxs64_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/hoxs64/hoxs64_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/1964_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg)
 
 **1964** is a **Freeware** emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice**
 
@@ -19,7 +19,7 @@ _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Bes
 [**Emulator website**](http://www.1964emu.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/1964/1964_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/1964/1964_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

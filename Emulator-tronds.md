@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/tronds_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tronds_logo_200.jpg)
 
 **TronDS** is a **Freeware** emulator for **Nintendo 3DS** made by **jocopoco**
 
@@ -19,7 +19,7 @@ _TronDS is a Nintendo 3DS emulator released on May 11, 2014 for Windows._
 [**Emulator website**](http://trondsemu.byethost15.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/tronds/tronds_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/tronds/tronds_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

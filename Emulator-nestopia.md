@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/nestopia_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg)
 
 **Nestopia** is a **Open Source** emulator for **Nintendo NES/Famicom** made by **Martin Freij**
 
@@ -19,7 +19,7 @@ _Nestopia is an open source NES/Famicom emulator written in standard C++, focuse
 [**Emulator website**](http://nestopia.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/nestopia/nestopia_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/nestopia/nestopia_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

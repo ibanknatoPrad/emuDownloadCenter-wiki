@@ -17,7 +17,7 @@ _Virtual Aquarius is an emulator for the Radofin Electronics Aquarius Home Compu
 [**Emulator website**](http://www.lchr.org/a/18/2t/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/vaquarius/vaquarius_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/vaquarius/vaquarius_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

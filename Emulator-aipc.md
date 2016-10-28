@@ -17,7 +17,7 @@ _AIPC (Apple in PC) is an Apple IIe Emulator._
 [**Emulator website**](https://github.com/sosaria7/appleinpc)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/aipc/aipc_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/aipc/aipc_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

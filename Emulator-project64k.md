@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/project64k_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg)
 
 **Project64k** is a **Freeware** emulator for **Nintendo N64** made by **Smasherx74**
 
@@ -19,7 +19,7 @@ _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It
 [**Emulator website**](http://pj64k.blogspot.nl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/project64k/project64k_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/project64k/project64k_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

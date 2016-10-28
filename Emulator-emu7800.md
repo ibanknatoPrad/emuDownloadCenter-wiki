@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/images_emulator/emu7800_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo_200.jpg)
 
 **EMU7800** is a **GNU GPLv2** emulator for **Atari 2600** made by **Mike Murphy**
 
@@ -19,7 +19,7 @@ _EMU7800 is an Atari 7800 emulator implemented using Microsoft's .NET platform. 
 [**Emulator website**](https://sourceforge.net/projects/emu7800/files/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/emu7800/emu7800_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/emu7800/emu7800_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

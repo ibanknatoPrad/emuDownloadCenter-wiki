@@ -17,7 +17,7 @@ _SharpChip-8 is an interpreted language emulator chip-8. It is still experimenta
 [**Emulator website**](http://sharpchip8.codeplex.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/downloadhooks/sharpchip8/sharpchip8_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/sharpchip8/sharpchip8_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |
