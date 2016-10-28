@@ -17,7 +17,7 @@ _ColEm is a portable emulator of the old ColecoVision videogame console. It shou
 [**Emulator website**](http://fms.komkon.org/ColEm/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/colem/colem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/colem/colem_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

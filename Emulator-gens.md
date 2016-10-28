@@ -19,7 +19,7 @@ _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earlie
 [**Emulator website**](http://gens.me)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/gens/gens_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens/gens_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _BeebEm is a BBC Micro and Master 128 emulator. It enables you to run BBC Micro 
 [**Emulator website**](http://www.mkw.me.uk/beebem/index.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/beebem/beebem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/beebem/beebem_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

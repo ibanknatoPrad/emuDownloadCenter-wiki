@@ -17,7 +17,7 @@ _Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wo
 [**Emulator website**](http://github.com/jonathan-markland/Jynx)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/jynx/jynx_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jynx/jynx_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

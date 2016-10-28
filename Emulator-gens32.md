@@ -15,7 +15,7 @@ This emulator **needs a BIOS image** to run!
 _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator for Windows by the Gens32 team, which is based on Gens and adds lots of features._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/gens32/gens32_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens32/gens32_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _DCMicroColor is a Tandy MC10 and Matra-Hachette Alice 4K emulator._
 [**Emulator website**](http://alice32.free.fr/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/dcmicro/dcmicro_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmicro/dcmicro_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

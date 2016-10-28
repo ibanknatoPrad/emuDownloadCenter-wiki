@@ -19,7 +19,7 @@ _Stella is a multi-platform Atari 2600 VCS emulator released under the GNU Gener
 [**Emulator website**](http://stella.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/stella/stella_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/stella/stella_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

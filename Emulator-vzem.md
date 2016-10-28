@@ -17,7 +17,7 @@ _VZEM is an emulator for the VZ200/VZ300 computers, also known as the Laser 200/
 [**Emulator website**](http://intertek00.customer.netspace.net.au/vz200/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/vzem/vzem_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vzem/vzem_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _Virtu is an Apple IIe emulator for the .NET Framework using C# with WPF._
 [**Emulator website**](http://virtu.codeplex.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/virtu/virtu_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtu/virtu_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

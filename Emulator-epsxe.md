@@ -19,7 +19,7 @@ _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for 
 [**Emulator website**](http://www.epsxe.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/epsxe/epsxe_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/epsxe/epsxe_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

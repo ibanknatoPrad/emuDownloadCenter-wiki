@@ -15,7 +15,7 @@ This emulator does **not** specificly needs a BIOS image to run!
 _Rainbow emulates the Atari 8-bit series of home computers including the_
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/rainbow/rainbow_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rainbow/rainbow_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

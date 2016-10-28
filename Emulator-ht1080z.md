@@ -17,7 +17,7 @@ _HT-1080Z is a VideoGenie I, System-80, TRS-80 and HT-1080Z emulator._
 [**Emulator website**](http://gaia.atilia.eu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/ht1080z/ht1080z_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ht1080z/ht1080z_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

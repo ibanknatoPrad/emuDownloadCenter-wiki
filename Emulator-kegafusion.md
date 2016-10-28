@@ -19,7 +19,7 @@ _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, S
 [**Emulator website**](http://www.carpeludum.com/kega-fusion/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/kegafusion/kegafusion_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegafusion/kegafusion_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

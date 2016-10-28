@@ -17,7 +17,7 @@ _Arculator emulates an old-style Archimedes (A3xx,A4xx,A3000,A540) with an ARM2 
 [**Emulator website**](http://b-em.bbcmicro.com/arculator/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/arculator/arculator_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arculator/arculator_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _Jum52 is a cross-platform Atari 5200 emulator. It is available in MSDOS, Window
 [**Emulator website**](http://jum.pdroms.de/emulators/emu5200.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/jum52/jum52_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jum52/jum52_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

@@ -17,7 +17,7 @@ _Archie is an Acorn Archimedes emulator for DOS. It is freeware and is not to be
 [**Emulator website**](http://web.archive.org/web/20010812000248/http://www.geocities.com/chris-o/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/archie/archie_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/archie/archie_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

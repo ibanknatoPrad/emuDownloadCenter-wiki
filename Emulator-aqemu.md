@@ -17,7 +17,7 @@ _AqEmu was the first Mattel Aquarius Emulator._
 [**Emulator website**](http://archive.kontek.net/aqemu.classicgaming.gamespy.com/AqEmu.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/aqemu/aqemu_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aqemu/aqemu_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

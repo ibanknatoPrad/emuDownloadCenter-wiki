@@ -17,7 +17,7 @@ _Minus / 4 is a C16 / Plus/4 emulator for Windows._
 [**Emulator website**](http://minus4.plus4.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/minus4/minus4_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minus4/minus4_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |

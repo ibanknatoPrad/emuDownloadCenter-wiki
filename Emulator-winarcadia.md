@@ -17,7 +17,7 @@ _WinArcadia is a multi-system emulator of these machines: Emerson Arcadia 2001 c
 [**Emulator website**](http://amigan.1emu.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/downloadhooks/winarcadia/winarcadia_screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winarcadia/winarcadia_screen.jpg)
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | Size       |
