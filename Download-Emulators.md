@@ -341,7 +341,16 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**creatiVision Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-creativision#menu) | cvemu | UNKNOWN |
 | :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-funnymu#menu) | Pablo | Freeware |
+***
+## _Cybiko Classic (Handheld)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cybiko_teaser.png)
+###### ECC ID: **cybiko**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | Tim Schuerewegen aka FireFly | UNKNOWN |
 ***
 ## _Sega Dreamcast (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dc_teaser.png)
@@ -349,7 +358,9 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Chankast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-chankast#menu) | baktery, unai, garrofi and elsemi | UNKNOWN |
 | :file_folder: [**Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | Demul Team | UNKNOWN |
+| :file_folder: [**nullDC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nulldc#menu) | Stefanos Kornilios Mitsis Poiitidis | UNKNOWN |
 ***
 ## _Nintendo FDS (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_teaser.png)
