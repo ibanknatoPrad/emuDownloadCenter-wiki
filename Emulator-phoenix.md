@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Phoenix** |
+| ** Emulator: Phoenix** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Phoenix** is a **Free for Personal and Non-Commercial Use** emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer**
+**Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer**, license: **Free for Personal and Non-Commercial Use**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Phoenix is a Russian multi-system emulator for the Panasonic 3DO, Coleco Colecovision, Sega Game Gear, Sega SG-1000 and Sega Master System. NOTE: The entire emulator is in Russian._
 

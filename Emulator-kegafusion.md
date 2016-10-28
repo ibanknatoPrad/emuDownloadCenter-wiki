@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Kega Fusion** |
+| ** Emulator: Kega Fusion** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg)
 
-**Kega Fusion** is a **Freeware** emulator for **Sega Mega Drive 32X** made by **Steve Snake**
+**Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, SVP, Pico, SegaCD/MegaCD and 32X emulator for Win9x/ME/2000/XP/Vista and Mac OSX/Intel_
 

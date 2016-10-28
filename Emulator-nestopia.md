@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Nestopia** |
+| ** Emulator: Nestopia** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg)
 
-**Nestopia** is a **Open Source** emulator for **Nintendo NES/Famicom** made by **Martin Freij**
+**Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij**, license: **Open Source**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Nestopia is an open source NES/Famicom emulator written in standard C++, focused on delivering as accurate emulation as possible. It is released under the GNU General Public License (GPL)_
 

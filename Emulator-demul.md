@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Demul** |
+| ** Emulator: Demul** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Demul** is a **UNKNOWN** emulator for **Sega Sammy Atomiswave** made by **Demul Team**
+**Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team**, license: **UNKNOWN**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Naomi 1, Naomi 2, Hikaru, and Atomiswave._
 

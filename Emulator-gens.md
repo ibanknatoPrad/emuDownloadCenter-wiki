@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Gens** |
+| ** Emulator: Gens** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens_logo_200.jpg)
 
-**Gens** is a **GNU GPLv2** emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville**
+**Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earliest semi-functional release (only capable of debugging 68000 instructions) dates from 1999. The current version advertises full compatibility with over 90% of all Genesis games._
 

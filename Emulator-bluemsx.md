@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **blueMSX** |
+| ** Emulator: blueMSX** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**blueMSX** is a **Freeware** emulator for **Coleco ColecoVision** made by **Daniel Vik**
+**blueMSX** is a emulator for **Coleco ColecoVision** made by **Daniel Vik**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _blueMSX is an MSX, MSX2, MSX2+ and MSXturboR emulator. Almost all MSX machines like the ColecoVision console, the Sega SG-1000 console, the Sega SC-3000 and SF-7000 computers and the Spectravideo SVI318/328 computers are also supported._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **no$gba** |
+| ** Emulator: no$gba** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$gba** is a **Freeware** emulator for **Nintendo Game Boy Advance** made by **Martin Korth**
+**no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note that this version also includes an emulator for the Sony PocketStation._
 

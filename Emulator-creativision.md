@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **creatiVision Emulator** |
+| ** Emulator: creatiVision Emulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**creatiVision Emulator** is a **UNKNOWN** emulator for **Vtech Creativision** made by **cvemu**
+**creatiVision Emulator** is a emulator for **Vtech Creativision** made by **cvemu**, license: **UNKNOWN**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _creatiVision Emulator is an emulator for the VTech Creativision, Dick Smith Wizzard, Hanimex Rameses, VTech Laser 2001, Salora Manager and homebrew CSL Cartridge._
 

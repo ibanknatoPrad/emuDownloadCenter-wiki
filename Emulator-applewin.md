@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **AppleWin** |
+| ** Emulator: AppleWin** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**AppleWin** is a **GNU GPLv2** emulator for **Apple 2** made by **AppleWin Team**
+**AppleWin** is a emulator for **Apple 2** made by **AppleWin Team**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _AppleWin is an Apple II emulator._
 

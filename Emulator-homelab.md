@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **HomeLAB** |
+| ** Emulator: HomeLAB** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**HomeLAB** is a **Freeware** emulator for **HomeLAB series - HomeLAB 4** made by **Grósz Attila**
+**HomeLAB** is a emulator for **HomeLAB series - HomeLAB 4** made by **Grósz Attila**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _HomeLAB is an HomeLAB4 emulator for Windows_
 

@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **4DO** |
+| ** Emulator: 4DO** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/4do_logo_200.jpg)
 
-**4DO** is a **Freeware** emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor**
+**4DO** is a emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _4DO is an open-source, low-level emulator based on the FreeDO source code. This is one of the best emulators for the 3DO._
 

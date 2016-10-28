@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Frodo** |
+| ** Emulator: Frodo** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Frodo** is a **Freeware - Non-Commercial** emulator for **Commodore 64** made by **Christian Bauer et al.**
+**Frodo** is a emulator for **Commodore 64** made by **Christian Bauer et al.**, license: **Freeware - Non-Commercial**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Frodo is a Commodore C64 emulator. It comes in 3 versions: Standard line-based emulation (frodo.exe - quick), Improved line-based emulation (frodopc.exe - slower) and the Single-Cycle emulation (frodosc.exe - slowest)._
 

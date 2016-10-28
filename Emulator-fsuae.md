@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **FS-UAE Amiga Emulator** |
+| ** Emulator: FS-UAE Amiga Emulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FS-UAE Amiga Emulator** is a **GNU GPLv2** emulator for **Commodore Amiga** made by **Frode Solheim**
+**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on_
 

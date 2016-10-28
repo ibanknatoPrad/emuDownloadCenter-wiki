@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Hyper64** |
+| ** Emulator: Hyper64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Hyper64** is a **Freeware** emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux**
+**Hyper64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Hyper64 is a working proof-of-concept of an experimental C64 emulator implementation without resorting to a conventional CPU emulation, but instead utilizing a realtime dynamic recompilation engine – which disassembles, analyzes and re-assembles the 6510 machine code as native 32-bit x86 code. It further uses a fast translation code cache._
 

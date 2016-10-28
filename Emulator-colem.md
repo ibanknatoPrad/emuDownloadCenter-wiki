@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **ColEm** |
+| ** Emulator: ColEm** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ColEm** is a **Freeware - Non-Commercial - Attribution Required** emulator for **Coleco ColecoVision** made by **Marat Fayzullin**
+**ColEm** is a emulator for **Coleco ColecoVision** made by **Marat Fayzullin**, license: **Freeware - Non-Commercial - Attribution Required**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ColEm is a portable emulator of the old ColecoVision videogame console. It should run most ColecoVision games and supports Coleco's SuperAction controllers with spin wheels._
 

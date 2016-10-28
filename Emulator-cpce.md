@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **CPCE** |
+| ** Emulator: CPCE** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**CPCE** is a **Freeware - Non-Commercial** emulator for **Amstrad CPC** made by **Cesar Nicolas Gonzalez**
+**CPCE** is a emulator for **Amstrad CPC** made by **Cesar Nicolas Gonzalez**, license: **Freeware - Non-Commercial**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _CPCE is an Amstrad CPC emulator._
 

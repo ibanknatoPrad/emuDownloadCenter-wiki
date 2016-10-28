@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **ZSNES** |
+| ** Emulator: ZSNES** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg)
 
-**ZSNES** is a **Freeware** emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos**
+**ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public._
 

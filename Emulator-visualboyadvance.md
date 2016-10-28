@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **VisualBoyAdvance** |
+| ** Emulator: VisualBoyAdvance** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg)
 
-**VisualBoyAdvance** is a **Freeware** emulator for **Nintendo Game Boy** made by **Forgotten & kxu**
+**VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VisualBoyAdvance - a Gameboy and GameboyAdvance emulator_
 

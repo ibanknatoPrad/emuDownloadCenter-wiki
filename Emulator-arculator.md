@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Arculator** |
+| ** Emulator: Arculator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Arculator** is a **Freeware** emulator for **Acorn Archimedes** made by **Tom Walker**
+**Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Arculator emulates an old-style Archimedes (A3xx,A4xx,A3000,A540) with an ARM2 or ARM3, 4, 8 or 16 megabytes of RAM, and a single floppy drive._
 

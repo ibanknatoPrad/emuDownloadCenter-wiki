@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **APF EMUW** |
+| ** Emulator: APF EMUW** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**APF EMUW** is a **Freeware** emulator for **APF Electronics Imagination Machine** made by **Enrique Collado**
+**APF EMUW** is a emulator for **APF Electronics Imagination Machine** made by **Enrique Collado**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _APF_EMUW emulates in a PC a computer APF Imagination Machine._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Atari800Win-PLus** |
+| ** Emulator: Atari800Win-PLus** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Atari800Win-PLus** is a **GNU General Licence** emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier**
+**Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier**, license: **GNU General Licence**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Atari800Win Plus is an emulator that is based off the Atari800 kernel and the Atari800Win sources. It features nearly 100% compatability, stereo sound, multiple video modes, support for compressed disk images, and MUCH more._
 

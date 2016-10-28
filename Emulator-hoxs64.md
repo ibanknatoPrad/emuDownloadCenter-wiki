@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Hoxs64** |
+| ** Emulator: Hoxs64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Hoxs64** is a **GNU GPLv2** emulator for **Commodore 64** made by **David Horrocks**
+**Hoxs64** is a emulator for **Commodore 64** made by **David Horrocks**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Hoxs64 is a cycle-exact emulator of the Commodore 64._
 

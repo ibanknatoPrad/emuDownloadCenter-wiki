@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Virtual APF** |
+| ** Emulator: Virtual APF** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Virtual APF** is a **Freeware** emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer**
+**Virtual APF** is a emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Virtual APF, an emulator for the APF Imagination Machine_
 

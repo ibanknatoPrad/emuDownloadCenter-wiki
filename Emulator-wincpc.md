@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinCPC** |
+| ** Emulator: WinCPC** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinCPC** is a **Freeware** emulator for **Amstrad CPC** made by **Flynn**
+**WinCPC** is a emulator for **Amstrad CPC** made by **Flynn**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _WinCPC is the Borland Delphi port of an Amstrad CPC emulator called vbCPC._
 

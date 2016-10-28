@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Nebula** |
+| ** Emulator: Nebula** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Nebula** is a **Freeware** emulator for **Capcom Play System 1** made by **ElSemi**
+**Nebula** is a emulator for **Capcom Play System 1** made by **ElSemi**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Nebula is a Capcom CPS1 and CPS2 and SNK NeoGeo emulator._
 

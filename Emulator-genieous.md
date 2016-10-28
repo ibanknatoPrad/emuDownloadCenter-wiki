@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Genieous** |
+| ** Emulator: Genieous** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Genieous** is a **Freeware** emulator for **EACA/TS Colour Genie** made by **Attila Grosz**
+**Genieous** is a emulator for **EACA/TS Colour Genie** made by **Attila Grosz**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Genieous is an EACA EG2000 Color Genie emulator. The current version only supports the unexpanded Color Genie._
 

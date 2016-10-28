@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinVICE** |
+| ** Emulator: WinVICE** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinVICE** is a **GNU GPLv2** emulator for **Commodore C128** made by **The WinVice Team**
+**WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Commodore C128, the Commodore VIC20, almost all Commodore PET models, the Commodore PLUS4 and the Commodore CBM-II (aka C610)._
 

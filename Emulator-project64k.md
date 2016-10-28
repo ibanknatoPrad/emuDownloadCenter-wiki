@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Project64k** |
+| ** Emulator: Project64k** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg)
 
-**Project64k** is a **Freeware** emulator for **Nintendo N64** made by **Smasherx74**
+**Project64k** is a emulator for **Nintendo N64** made by **Smasherx74**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It was originally created by Hotquik and is currently developed by Smasherx74. As a Nintendo 64 emulator, the program has the ability to run Super Smash Bros., as well as a majority of the Nintendo 64's library. Unless the user has an N64 controller adapter for PC, they will generally be using a keyboard to play. (Core 2.2 releases: https://github.com/Ownasaurus/Project64k-Core-2.2/releases)_
 

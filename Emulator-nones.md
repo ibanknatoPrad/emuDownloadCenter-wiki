@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **no$nes** |
+| ** Emulator: no$nes** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$nes** is a **Freeware** emulator for **Nintendo FDS** made by **Martin Korth**
+**no$nes** is a emulator for **Nintendo FDS** made by **Martin Korth**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _nocash NES/FDS/PC10/VS emulator/debugger for windows_
 

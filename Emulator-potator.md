@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Potator** |
+| ** Emulator: Potator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Potator** is a **Freeware** emulator for **Watara Supervision** made by **David Raingeard**
+**Potator** is a emulator for **Watara Supervision** made by **David Raingeard**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility._
 ***

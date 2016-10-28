@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **PicoDrive** |
+| ** Emulator: PicoDrive** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**PicoDrive** is a **Non-standard** emulator for **Sega Mega Drive/Genesis** made by **notaz**
+**PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz**, license: **Non-standard**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Picodrive is a Sega 32X, Sega Megadrive / Genesis, Sega Master System & Sega MegaCD emulator, originally coded for handheld devices._
 

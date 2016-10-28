@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **HT1080Z** |
+| ** Emulator: HT1080Z** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**HT1080Z** is a **Freeware** emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz**
+**HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _HT-1080Z is a VideoGenie I, System-80, TRS-80 and HT-1080Z emulator._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Horizon** |
+| ** Emulator: Horizon** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Horizon** is a **GNU GPLv2** emulator for **Acorn BBC** made by **Chris Lam**
+**Horizon** is a emulator for **Acorn BBC** made by **Chris Lam**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and_
 ***

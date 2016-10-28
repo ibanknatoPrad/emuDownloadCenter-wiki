@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Pom1** |
+| ** Emulator: Pom1** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Pom1** is a **GNU GPLv2** emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud**
+**Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Pom1 is an Apple 1 emulator. It uses SDL and works on most platforms._
 

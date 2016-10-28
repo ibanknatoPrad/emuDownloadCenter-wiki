@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Yet Another Plus/4 Emulator** |
+| ** Emulator: Yet Another Plus/4 Emulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Yet Another Plus/4 Emulator** is a **Freeware** emulator for **Commodore 16/plus4** made by **Attila Grosz**
+**Yet Another Plus/4 Emulator** is a emulator for **Commodore 16/plus4** made by **Attila Grosz**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _YAPE is a Commodore 264 family emulator. It's an 8-bit microcomputer family from the once-great-now-defunct Commodore Business Machines Ltd. They were released as a successor to the immensely popular Commodore 64 supposedly to either compete with the ZX Spectrum or other micros but eventually failed to gain market success and the whole line was dumped within a couple of years. However they were hugely popular in a few countries such as Hungary, Germany or Italy (to a certain extent also in the UK)._
 

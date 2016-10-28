@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **TronDS** |
+| ** Emulator: TronDS** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tronds_logo_200.jpg)
 
-**TronDS** is a **Freeware** emulator for **Nintendo 3DS** made by **jocopoco**
+**TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _TronDS is a Nintendo 3DS emulator released on May 11, 2014 for Windows._
 

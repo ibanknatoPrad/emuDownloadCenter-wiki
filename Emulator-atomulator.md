@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Atomulator** |
+| ** Emulator: Atomulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Atomulator** is a **GNU GPLv2** emulator for **Acorn Atom** made by **Tom Walker**
+**Atomulator** is a emulator for **Acorn Atom** made by **Tom Walker**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Atomulator is an emulator of an Acorn Atom - the first micro from Acorn in 1980. It emulates a 12+16k Atom with colour board, disc pack, and optional BBC BASIC mode._
 

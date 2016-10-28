@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Jum52** |
+| ** Emulator: Jum52** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Jum52** is a **Freeware** emulator for **Atari 5200** made by **James**
+**Jum52** is a emulator for **Atari 5200** made by **James**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Jum52 is a cross-platform Atari 5200 emulator. It is available in MSDOS, Windows, Playstation 2, PSP, Mac, BeOS and QNX versions._
 

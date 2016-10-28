@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **AIPC (Apple in a PC)** |
+| ** Emulator: AIPC (Apple in a PC)** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**AIPC (Apple in a PC)** is a **GNU GPLv3** emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7**
+**AIPC (Apple in a PC)** is a emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7**, license: **GNU GPLv3**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _AIPC (Apple in PC) is an Apple IIe Emulator._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Gens/GS** |
+| ** Emulator: Gens/GS** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Gens/GS** is a **GNU GPLv2** emulator for **Sega Mega Drive 32X** made by **David Korth**
+**Gens/GS** is a emulator for **Sega Mega Drive 32X** made by **David Korth**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens/GS is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. Project goals include clean source code, combined features from various forks of Gens, and improved platform portability._
 

@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **ProSystem** |
+| ** Emulator: ProSystem** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg)
 
-**ProSystem** is a **Freeware** emulator for **Atari 7800** made by **Greg Stanton**
+**ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ProSystem is an emulator for the Windows operating system that will allow you to play Atari 7800 video games on your PC. An emulator is a program that has the ability to imitate another program, device, or computer. The ProSystem emulator imitates the Atari 7800's CPU, video, audio, joystick controls, etc. Before you can use the emulator, you will need to obtain rom images that are compatible with the Atari 7800._
 

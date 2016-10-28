@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **FunnyMU** |
+| ** Emulator: FunnyMU** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FunnyMU** is a **Freeware** emulator for **Vtech Creativision** made by **Pablo**
+**FunnyMU** is a emulator for **Vtech Creativision** made by **Pablo**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _FunnyMu is a Funvision/Whizzard/Creativision emulator for Linux/Mac OS X and (sorta) Windows_
 

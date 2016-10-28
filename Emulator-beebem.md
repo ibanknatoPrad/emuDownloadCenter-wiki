@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **BeebEm** |
+| ** Emulator: BeebEm** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**BeebEm** is a **GNU GPLv2** emulator for **Acorn BBC** made by **Mike Wyatt, David Adam Gilbert and Others**
+**BeebEm** is a emulator for **Acorn BBC** made by **Mike Wyatt, David Adam Gilbert and Others**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _BeebEm is a BBC Micro and Master 128 emulator. It enables you to run BBC Micro software on your PC. BeebEm should work on most PC systems running Windows XP or later._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **VZEM** |
+| ** Emulator: VZEM** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**VZEM** is a **Freeware** emulator for **Vtech Laser 200/210/310** made by **Guy Thomason**
+**VZEM** is a emulator for **Vtech Laser 200/210/310** made by **Guy Thomason**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VZEM is an emulator for the VZ200/VZ300 computers, also known as the Laser 200/ Laser 310 (Europe), Texet TX8000 (UK), and Salora Fellow (Finland)._
 

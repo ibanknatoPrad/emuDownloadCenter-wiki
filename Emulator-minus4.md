@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Minus4w** |
+| ** Emulator: Minus4w** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Minus4w** is a **Freeware** emulator for **Commodore 16/plus4** made by **Mike Dailly**
+**Minus4w** is a emulator for **Commodore 16/plus4** made by **Mike Dailly**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Minus / 4 is a C16 / Plus/4 emulator for Windows._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **atari++** |
+| ** Emulator: atari++** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**atari++** is a **THOR Public Licence** emulator for **Atari 5200** made by **Thomas Richter**
+**atari++** is a emulator for **Atari 5200** made by **Thomas Richter**, license: **THOR Public Licence**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates the Atari800, Atari400, the 800XL and 600XL, the 65XE and 130XE and the Atari 5200 Game Console. The emulation is cycle-precise, that is “on the fly” modifications of chip registers will be visible on the screen immediately, emulating even programs using horizontal kernel tricks correctly._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinKawaks** |
+| ** Emulator: WinKawaks** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinKawaks** is a **Freeware** emulator for **Capcom Play System 1** made by **The WinKawaks Team**
+**WinKawaks** is a emulator for **Capcom Play System 1** made by **The WinKawaks Team**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _WinKawaks is a windows version of Kawaks, an emulator for the Capcom CPS1 and CPS2 and SNK NeoGeo._
 

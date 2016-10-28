@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **MZXX** |
+| ** Emulator: MZXX** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**MZXX** is a **GNU GPLv2** emulator for **Coleco ColecoVision** made by **Michael Franzen**
+**MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _MZXX is an multi-system emulator for the following: Sharp MZ-80K, MZ-80A, MZ-80B, MZ-700, MZ-800, MZ-1500, Sinclair ZX81, ZX Spectrum (multiple versions), Timex TK95, Coleco ColecoVision and the Jupiter Cantab Jupiter Ace. It also emulates over 100 Arcade Machines._
 

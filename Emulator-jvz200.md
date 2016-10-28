@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **James VZ200** |
+| ** Emulator: James VZ200** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**James VZ200** is a **Freeware** emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer**
+**James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _James's VZ200, an emulator for the VZ200 computer_
 

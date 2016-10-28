@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator2001** |
+| ** Emulator: Emulator2001** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Emulator2001** is a **Freeware** emulator for **Emerson Arcadia 2001** made by **Gavin Turner**
+**Emulator2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Emulator 2001 is a multi-system emulator that supports the Emerson Arcadia 2001, the VC 4000, the Elektor TV Games Computer and the VTech Laser-VZ300. For some systems all known ROMs are included._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Come Back 64** |
+| ** Emulator: Come Back 64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Come Back 64** is a **GNU GPLv2** emulator for **Commodore 64** made by **D Luxen**
+**Come Back 64** is a emulator for **Commodore 64** made by **D Luxen**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _CB64 is a software emulator for the C64 Computer._
 ***

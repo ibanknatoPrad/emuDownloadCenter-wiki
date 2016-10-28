@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Sugarbox** |
+| ** Emulator: Sugarbox** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sugarbox_logo_200.jpg)
 
-**Sugarbox** is a **UNKNOWN** emulator for **Amstrad CPC** made by **Thomas Guillemin**
+**Sugarbox** is a emulator for **Amstrad CPC** made by **Thomas Guillemin**, license: **UNKNOWN**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Sugarbox is an Amstrad CPC emulator._
 

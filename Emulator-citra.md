@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Citra** |
+| ** Emulator: Citra** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Citra** is a **GPLv2** emulator for **Nintendo 3DS** made by **Multiple Contributors**
+**Citra** is a emulator for **Nintendo 3DS** made by **Multiple Contributors**, license: **GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support. Screenshot taken from http://citra3ds.com._
 

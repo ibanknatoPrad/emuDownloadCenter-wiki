@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Micro64** |
+| ** Emulator: Micro64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Micro64** is a **Freeware** emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux**
+**Micro64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Micro64 aims to be the most accurate Commodore 64 emulator._
 

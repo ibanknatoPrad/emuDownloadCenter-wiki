@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **JavaCPC** |
+| ** Emulator: JavaCPC** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**JavaCPC** is a **GNU GPLv2** emulator for **Amstrad CPC** made by **Markus Hohmann aka Devilmarkus**
+**JavaCPC** is a emulator for **Amstrad CPC** made by **Markus Hohmann aka Devilmarkus**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _JavaCPC is a Java-based CPC emulator that has a complete Desktop environment._
 

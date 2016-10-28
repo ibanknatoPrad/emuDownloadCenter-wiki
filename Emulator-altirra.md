@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Altirra** |
+| ** Emulator: Altirra** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Altirra** is a **GNU GPLv2** emulator for **Atari 5200** made by **Phaeron**
+**Altirra** is a emulator for **Atari 5200** made by **Phaeron**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Altirra is an emulator that simulates the hardware of the Atari 8-bit computer systems, including the Atari 800, 800XL, and 130XE computers._
 

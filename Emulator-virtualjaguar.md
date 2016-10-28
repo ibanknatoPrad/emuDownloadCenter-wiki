@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Virtual Jaguar** |
+| ** Emulator: Virtual Jaguar** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Virtual Jaguar** is a **Open Source** emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones**
+**Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones**, license: **Open Source**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source code released by David Raingeard (Cal2) of what used to be Potato Emulation_
 

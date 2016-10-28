@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Chankast** |
+| ** Emulator: Chankast** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Chankast** is a **UNKNOWN** emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi**
+**Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi**, license: **UNKNOWN**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Chankast is a Sega Dreamcast emulator._
 

@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinVZ300** |
+| ** Emulator: WinVZ300** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinVZ300** is a **Freeware** emulator for **Vtech Laser 100/110** made by **Gavin Turner**
+**WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Winvz300 is a Classic VZ300 Computer Emulator for Windows that emulates the Dick Smith VZ200 / VZ300 / Salora Fellow / Texet / TX-8000 Sanyo Laser110 / Laser210 / Laser310 computers._
 

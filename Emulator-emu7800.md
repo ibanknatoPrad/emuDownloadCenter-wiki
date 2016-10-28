@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **EMU7800** |
+| ** Emulator: EMU7800** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo_200.jpg)
 
-**EMU7800** is a **GNU GPLv2** emulator for **Atari 2600** made by **Mike Murphy**
+**EMU7800** is a emulator for **Atari 2600** made by **Mike Murphy**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _EMU7800 is an Atari 7800 emulator implemented using Microsoft's .NET platform. Most ProSystem (7800) and VCS (2600) titles run well. EMU7800 runs on Windows Vista SP2 and higher systems. Comes with several ROMs and required BIOSes._
 

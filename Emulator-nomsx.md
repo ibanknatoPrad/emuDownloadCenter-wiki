@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **no$msx** |
+| ** Emulator: no$msx** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$msx** is a **Shareware** emulator for **MSX Home Computer** made by **Martin Korth**
+**no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth**, license: **Shareware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulators it's including a comfortable debugger, so that it's more a serious development tool than just a emulator. Beside for the development part, the most important goals are: User-friendly GUI and lots of options, and the complete lack of overload - the program is written in raw assembler language, sized about 150 KBytes, and works fine on 33MHz computers._
 

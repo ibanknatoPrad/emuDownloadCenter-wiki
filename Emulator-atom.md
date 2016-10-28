@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **ACORN ATOM** |
+| ** Emulator: ACORN ATOM** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ACORN ATOM** is a **Freeware** emulator for **Acorn Atom** made by **Wouter Ras**
+**ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Welcome to the Acorn ATOM software emulator for PC's. This program enables you to run most of the original Acorn ATOM software on your PC._
 

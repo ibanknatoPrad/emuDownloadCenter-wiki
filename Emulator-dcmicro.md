@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **DCMicroColor** |
+| ** Emulator: DCMicroColor** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DCMicroColor** is a **Freeware** emulator for **Matra/Hachette Alice** made by **Daniel Coulom**
+**DCMicroColor** is a emulator for **Matra/Hachette Alice** made by **Daniel Coulom**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _DCMicroColor is a Tandy MC10 and Matra-Hachette Alice 4K emulator._
 

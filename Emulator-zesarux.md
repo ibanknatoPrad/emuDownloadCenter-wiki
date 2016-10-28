@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **ZEsarUX** |
+| ** Emulator: ZEsarUX** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ZEsarUX** is a **GNU GPLv3** emulator for **Amstrad CPC** made by **Cesar Hernandez**
+**ZEsarUX** is a emulator for **Amstrad CPC** made by **Cesar Hernandez**, license: **GNU GPLv3**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ZEsarUX is an emulator for the Sinclair ZX Spectrum, ZX81 and ZX80, the Cambridge Z88, the Jupiter Ace, the Chloe 140 SE and 280 SE, the Prism, the Timex TS 2068, the TBBlue / ZX Spectrum Next, the Sam Coupe and the Amstrad CPC 464._
 

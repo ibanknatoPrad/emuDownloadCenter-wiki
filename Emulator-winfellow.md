@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinFellow** |
+| ** Emulator: WinFellow** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winfellow_logo_200.jpg)
 
-**WinFellow** is a **GNU GPLv2** emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje**
+**WinFellow** is a emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _WinFellow is a high performance Amiga Emulator primarily targeted for Windows. Its distinguished API and core do however allow a fairly easy port to other operating systems._
 

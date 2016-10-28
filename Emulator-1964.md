@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **1964** |
+| ** Emulator: 1964** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg)
 
-**1964** is a **Freeware** emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice**
+**1964** is a emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Best used for optimum performance with Pentium 4 based PC's or better, written in C/C++ and released as free software. It is one of the oldest and most popular N64 emulators, supporting many commercial N64 games._
 

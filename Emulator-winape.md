@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **WinAPE** |
+| ** Emulator: WinAPE** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winape_logo_200.jpg)
 
-**WinAPE** is a **Freeware** emulator for **Amstrad CPC** made by **Richard Wilson**
+**WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _WinAPE is an Amstrad CPC and Amstrad Plus emulator._
 

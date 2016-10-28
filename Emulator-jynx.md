@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Jynx** |
+| ** Emulator: Jynx** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Jynx** is a **GNU GPLv3** emulator for **Camputers Lynx** made by **Jonathan Markland**
+**Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland**, license: **GNU GPLv3**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wordpress.com/ for more information._
 

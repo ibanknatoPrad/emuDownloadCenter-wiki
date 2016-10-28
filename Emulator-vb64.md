@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **VB64** |
+| ** Emulator: VB64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vb64_logo_200.jpg)
 
-**VB64** is a **GNU GPLv2** emulator for **Commodore 64** made by **Amigafeeva**
+**VB64** is a emulator for **Commodore 64** made by **Amigafeeva**, license: **GNU GPLv2**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VB64 is a Commodore 64 emulator written in VisualBasic._
 

@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Project64** |
+| ** Emulator: Project64** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64_logo_200.jpg)
 
-**Project64** is a **Freeware** emulator for **Nintendo N64** made by **Zilmar and Jabo**
+**Project64** is a emulator for **Nintendo N64** made by **Zilmar and Jabo**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out of nowhere, offering excelent game support with little bugs. Future versions only improved things more!_
 

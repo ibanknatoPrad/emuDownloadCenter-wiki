@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **3DOplay** |
+| ** Emulator: 3DOplay** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo_200.jpg)
 
-**3DOplay** is a **GNU GPLv3** emulator for **Panasonic 3DO** made by **Viktor Ivanov**
+**3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov**, license: **GNU GPLv3**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _3DOplay is a Russian emulator for the Panasonic 3DO forked from the FreeDO sources._
 

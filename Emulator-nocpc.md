@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **no$cpc** |
+| ** Emulator: no$cpc** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$cpc** is a **Freeware** emulator for **Amstrad CPC** made by **Martin Korth**
+**no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth**, license: **Freeware**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 

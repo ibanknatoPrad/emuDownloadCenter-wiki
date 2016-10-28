@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **no$sns** |
+| ** Emulator: no$sns** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$sns** is a **Freeware** emulator for **Nintendo Super Nintendo** made by **Martin Korth**
+**no$sns** is a emulator for **Nintendo Super Nintendo** made by **Martin Korth**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _nocash SNES/Super Famicom emulator/debugger for windows_
 

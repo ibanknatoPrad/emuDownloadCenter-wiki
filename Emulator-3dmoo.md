@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **3dmoo** |
+| ** Emulator: 3dmoo** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,9 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo_200.jpg)
 
-**3dmoo** is a **Open Source** emulator for **Nintendo 3DS** made by **normmatt and ichfly**
+**3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly**, license: **Open Source**
 
-This emulator does **not** specificly needs a BIOS image to run!
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Windows and Linux. It can run commercial Nintendo 3DS games, albeit very, very slowly, and most games frequently crash._
 ***

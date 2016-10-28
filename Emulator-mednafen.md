@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Mednafen** |
+| ** Emulator: Mednafen** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Mednafen** is a **GNU GPLv2** emulator for **Nintendo FDS** made by **The Mednafen Team**
+**Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team**, license: **GNU GPLv2**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-driven multi-system emulator. Mednafen has the ability to remap hotkey functions and virtual system inputs to a keyboard, a joystick, or both simultaneously. Save states are supported, as is real-time game rewinding. Screen snapshots may be taken, in the PNG file format, at the press of a button. Mednafen can record audiovisual movies in the QuickTime file format, with several different lossless codecs supported. The following systems are supported: Atari Lynx, Neo Geo Pocket (Color), WonderSwan, GameBoy (Color), GameBoy Advance, Nintendo Entertainment System, Super Nintendo Entertainment System/Super Famicom, Virtual Boy, PC Engine/TurboGrafx 16 (CD), SuperGrafx, PC-FX, Sega Game Gear, Sega Genesis/Megadrive, Sega Master System & Sony PlayStation._
 

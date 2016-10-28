@@ -1,16 +1,16 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Archie** |
+| ** Emulator: Archie** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Archie** is a **Freeware** emulator for **Acorn Archimedes** made by **Chris-o**
+**Archie** is a emulator for **Acorn Archimedes** made by **Chris-o**, license: **Freeware**
 
-This emulator **needs a BIOS image** to run!
+This emulator **needs BIOS image(s)** to start ROM files!
 
 _Archie is an Acorn Archimedes emulator for DOS. It is freeware and is not to be distributed with OS ROMs or to be modified or sold._
 
