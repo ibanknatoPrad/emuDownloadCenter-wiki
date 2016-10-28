@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Demul** is a emulator for **Sega Naomi** made by **Demul Team**, license: **UNKNOWN**
+**Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team**, license: **UNKNOWN**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

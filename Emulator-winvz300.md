@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinVZ300** is a emulator for **Vtech Laser 350/500/700** made by **Gavin Turner**, license: **Freeware**
+**WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

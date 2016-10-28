@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$zx** is a emulator for **Sinclair ZX Spectrum** made by **Martin Korth**, license: **Freeware**
+**no$zx** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Martin Korth**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

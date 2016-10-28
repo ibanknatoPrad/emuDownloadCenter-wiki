@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Rainbow** is a emulator for **Atari 8-bit series** made by **Chris Lam**, license: **UNKNOWN**
+**Rainbow** is a emulator for **Atari 5200** made by **Chris Lam**, license: **UNKNOWN**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

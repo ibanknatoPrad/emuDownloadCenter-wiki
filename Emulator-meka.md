@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**MEKA** is a emulator for **Sega Master System** made by **Omar Cornut**, license: **Unrestrictive BSD-like**
+**MEKA** is a emulator for **Coleco ColecoVision** made by **Omar Cornut**, license: **Unrestrictive BSD-like**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

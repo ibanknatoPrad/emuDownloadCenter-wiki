@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/freedo_logo_200.jpg)
+
 **FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons**, license: **Freeware**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!

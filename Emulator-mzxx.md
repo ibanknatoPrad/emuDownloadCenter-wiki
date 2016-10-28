@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**MZXX** is a emulator for **Sinclair ZX Spectrum** made by **Michael Franzen**, license: **GNU GPLv2**
+**MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen**, license: **GNU GPLv2**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**GSPort** is a emulator for **Apple 2GS** made by **GSport Development Team**, license: **GNU GPLv2**
+**GSPort** is a emulator for **Apple 2** made by **GSport Development Team**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

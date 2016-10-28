@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FS-UAE Amiga Emulator** is a emulator for **Commodore CDTV** made by **Frode Solheim**, license: **GNU GPLv2**
+**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

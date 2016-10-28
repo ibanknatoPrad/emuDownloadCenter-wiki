@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**HT1080Z** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **Attila Grosz**, license: **Freeware**
+**HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

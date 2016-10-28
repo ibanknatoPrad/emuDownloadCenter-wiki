@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Altirra** is a emulator for **Atari 8-bit series** made by **Phaeron**, license: **GNU GPLv2**
+**Altirra** is a emulator for **Atari 5200** made by **Phaeron**, license: **GNU GPLv2**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

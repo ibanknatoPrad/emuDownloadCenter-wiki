@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinArcadia** is a emulator for **Interton VC-4000** made by **James Jacobs**, license: **Freeware Non-Commercial**
+**WinArcadia** is a emulator for **Emerson Arcadia 2001** made by **James Jacobs**, license: **Freeware Non-Commercial**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

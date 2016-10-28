@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Gens Plus!** is a emulator for **Sega Master System** made by **Rodrigo Cardoso**, license: **GNU GPLv2**
+**Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

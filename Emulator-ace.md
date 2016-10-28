@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Another Capcom (play system) Emulator** is a emulator for **Sega System 18** made by **friol**, license: **Freeware - Non-Commercial**
+**Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol**, license: **Freeware - Non-Commercial**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

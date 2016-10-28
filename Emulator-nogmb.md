@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$gmb** is a emulator for **Nintendo Game Boy Color** made by **Martin Korth**, license: **Shareware**
+**no$gmb** is a emulator for **Nintendo Game Boy** made by **Martin Korth**, license: **Shareware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

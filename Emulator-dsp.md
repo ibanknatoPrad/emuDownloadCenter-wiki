@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DSP Emulator** is a emulator for **Sinclair ZX Spectrum** made by **Leniad**, license: **Freeware - Non-Commercial**
+**DSP Emulator** is a emulator for **Unknown** made by **Leniad**, license: **Freeware - Non-Commercial**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens_logo_200.jpg)
 
-**Gens** is a emulator for **Sega Mega-CD** made by **Stephane Dallongeville**, license: **GNU GPLv2**
+**Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville**, license: **GNU GPLv2**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

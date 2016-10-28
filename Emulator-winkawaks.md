@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**WinKawaks** is a emulator for **SNK NeoGeo** made by **The WinKawaks Team**, license: **Freeware**
+**WinKawaks** is a emulator for **Capcom Play System 1** made by **The WinKawaks Team**, license: **Freeware**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

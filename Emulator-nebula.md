@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Nebula** is a emulator for **SNK NeoGeo** made by **ElSemi**, license: **Freeware**
+**Nebula** is a emulator for **Capcom Play System 1** made by **ElSemi**, license: **Freeware**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

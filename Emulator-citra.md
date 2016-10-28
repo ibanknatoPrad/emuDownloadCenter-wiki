@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/citra_logo_200.jpg)
+
 **Citra** is a emulator for **Nintendo 3DS** made by **Multiple Contributors**, license: **GPLv2**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!

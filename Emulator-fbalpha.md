@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FB Alpha** is a emulator for **Sega Master System** made by **The FBA Team**, license: **Freeware - Non-Commercial**
+**FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team**, license: **Freeware - Non-Commercial**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

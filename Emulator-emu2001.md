@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Emulator2001** is a emulator for **Interton VC-4000** made by **Gavin Turner**, license: **Freeware**
+**Emulator2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner**, license: **Freeware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

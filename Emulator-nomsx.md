@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$msx** is a emulator for **MSX 2 Home Computer** made by **Martin Korth**, license: **Shareware**
+**no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth**, license: **Shareware**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

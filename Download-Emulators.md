@@ -10,7 +10,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | Stephane Dallongeville | GNU GPLv2 |
-| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Gens32 Team | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
@@ -413,7 +413,7 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 | :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | Stephane Dallongeville | GNU GPLv2 |
-| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Gens32 Team | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
@@ -427,7 +427,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
-| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Gens32 Team | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
@@ -756,7 +756,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | Stephane Dallongeville | GNU GPLv2 |
-| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Gens32 Team | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
@@ -770,7 +770,7 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
-| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Gens32 Team | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |

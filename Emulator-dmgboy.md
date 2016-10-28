@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DMGBoy** is a emulator for **Nintendo Game Boy Color** made by **Pablo Gasco**, license: **GNU GPLv3**
+**DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco**, license: **GNU GPLv3**
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
