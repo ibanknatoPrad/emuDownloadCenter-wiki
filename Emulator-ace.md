@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Another Capcom (play system) Emulator** |
+| **Emulator: Another Capcom (play system) Emulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol**, license: **Freeware - Non-Commercial**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _ace is an emulator capable of running a selection of games from the Capcom CPS1 and CPS2, the SNK NeoGeo and the Sega System 16 and System 18. The project was discontinued as the author had a hard drive crash and lost the source code._
 

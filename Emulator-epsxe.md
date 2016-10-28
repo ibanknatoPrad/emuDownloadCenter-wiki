@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: ePSXe** |
+| **Emulator: ePSXe** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -12,7 +12,7 @@
 
 **ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux, as well as devices running Android. It was written by three authors, using the aliases calb, -Demo- and Galtor. ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins._
 

@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Yet Another Plus/4 Emulator** |
+| **Emulator: Yet Another Plus/4 Emulator** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |

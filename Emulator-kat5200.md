@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: kat5200** |
+| **Emulator: kat5200** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **kat5200** is a emulator for **Atari 5200** made by **Brian Berlin**, license: **GNU GPL**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _kat5200 is an emulator for the Atari 5200 and 8-bit computers._
 

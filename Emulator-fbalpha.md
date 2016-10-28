@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: FB Alpha** |
+| **Emulator: FB Alpha** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team**, license: **Freeware - Non-Commercial**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1, CPS2 and CPS3, Cave, Data East DEC-0, DEC-8 and DECO IC16 based games, Galaxian based hardware, Irem M62, M63, M72, M90, M92 and M107 hardware, Kaneko 16, Konami, SNK NeoGeo, NMK16, Pacman based hardware, PGM, Psikyo 68EC020 and SH-2 based hardware, Sega System 1, System 16 (and similar), System 18, X-Board and Y-Board, Super Kaneko Nova System, Toaplan 1 and 2, Taito F2, X, Z and others. It has miscellaneous drivers for lots of other hardware and has WIP console drivers for Sega Megadrive/Genesis, ColecoVision, Sega SG-1000, Sega Master System/Game Gear and also PC-Engine/TurboGrafx 16/SuperGrafx._
 

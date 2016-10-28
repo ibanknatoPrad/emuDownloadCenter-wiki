@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: pSX** |
+| **Emulator: pSX** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **pSX** is a emulator for **Sony PlayStation 1** made by **Unknown**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _This emulator fully emulates the Sony Playstation. Compatibility is fairly high, most games I've tried work well._
 

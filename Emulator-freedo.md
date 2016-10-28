@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: FreeDo** |
+| **Emulator: FreeDo** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _The FreeDO (closed-source) project exists to bring about an emulator or simulator capable of playing content originally made for the now-defunct and no longer commercially available 3DO Interactive Multiplayer, a 32-bit video game console that was licensed to manufacturers and developers, and marketed worldwide in the early to middle 1990s._
 

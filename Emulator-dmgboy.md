@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: DMGBoy** |
+| **Emulator: DMGBoy** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco**, license: **GNU GPLv3**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _DMGBoy (Dot Matrix Game Boy) is a Game Boy emulator written in C++. It uses wxWidgets for the user interface and SDL and portaudio for the audio. Is Cross-Platform: Windows, Linux and Mac OS X builds are available._
 

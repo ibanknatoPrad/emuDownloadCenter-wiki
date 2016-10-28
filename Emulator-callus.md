@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Callus95** |
+| **Emulator: Callus95** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Callus95** is a emulator for **Capcom Play System 1** made by **Bloodlust Software**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection of games. Screenshot is from http://megagames.com/emulators/callus95._
 

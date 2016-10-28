@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: C4PC** |
+| **Emulator: C4PC** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **C4PC** is a emulator for **Cybiko Classic** made by **Tim Schuerewegen aka FireFly**, license: **UNKNOWN**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _This emulator is not intended to be used to PLAY / RUN / USE, but to TEST Cybiko software with. Only experienced Cybiko software developers should use this software. The emulation is very unstable and does NOT represent the Cybiko device/games/apps in any way. Hence, many games/apps don't work, which isn't the case on a REAL Cybiko._
 

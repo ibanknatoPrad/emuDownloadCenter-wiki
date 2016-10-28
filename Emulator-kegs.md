@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Kent's Emulated GS** |
+| **Emulator: Kent's Emulated GS** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey**, license: **GNU GPLv2**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32._
 

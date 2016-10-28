@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: RPCemu** |
+| **Emulator: RPCemu** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _RPCEmu allows you to emulate classic Acorn systems, such as the Risc PC and A7000, on multiple platforms including Windows, Linux and Mac OS X_
 

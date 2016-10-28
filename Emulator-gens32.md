@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Gens32 Surreal** |
+| **Emulator: Gens32 Surreal** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Gens32 Surreal** is a emulator for **Sega Mega Drive 32X** made by **Gens32 Team**, license: **GNU GPLv2**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator for Windows by the Gens32 team, which is based on Gens and adds lots of features._
 ***

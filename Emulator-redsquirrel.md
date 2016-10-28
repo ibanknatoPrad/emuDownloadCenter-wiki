@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Red Squirrel** |
+| **Emulator: Red Squirrel** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes**, license: **Freeware**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _This is another Acorn Archimedes emulator for Windows. You will need to obtain copies of the RISC OS 3.1 roms before you can use Red Squirrel._
 

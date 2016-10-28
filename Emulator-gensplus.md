@@ -1,7 +1,7 @@
 ###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| ** Emulator: Gens Plus!** |
+| **Emulator: Gens Plus!** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso**, license: **GNU GPLv2**
 
-This emulator **needs BIOS image(s)** to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. It has many optimizations and new features, like new software graphics filters, new sound effects, support for cheats files, support for joysticks with axes, Master System/Game Gear emulation and new screen resolutions._
 ***
