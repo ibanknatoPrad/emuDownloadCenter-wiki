@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/1964_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/1964_logo_200.jpg)
 **1964** is a **Freeware** emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice**
 
 This emulator does **not** specificly needs a BIOS image to run!

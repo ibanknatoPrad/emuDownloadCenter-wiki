@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/sugarbox_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/sugarbox_logo_200.jpg)
 **Sugarbox** is a **UNKNOWN** emulator for **Amstrad CPC** made by **Thomas Guillemin**
 
 This emulator does **not** specificly needs a BIOS image to run!

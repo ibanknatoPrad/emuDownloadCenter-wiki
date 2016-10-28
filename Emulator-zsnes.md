@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/zsnes_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/zsnes_logo_200.jpg)
 **ZSNES** is a **Freeware** emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos**
 
 This emulator does **not** specificly needs a BIOS image to run!

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/visualboyadvance_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/visualboyadvance_logo_200.jpg)
 **VisualBoyAdvance** is a **Freeware** emulator for **Nintendo Game Boy** made by **Forgotten & kxu**
 
 This emulator does **not** specificly needs a BIOS image to run!

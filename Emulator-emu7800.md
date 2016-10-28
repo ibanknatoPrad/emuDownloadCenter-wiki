@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/emu7800_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/emu7800_logo_200.jpg)
 **EMU7800** is a **GNU GPLv2** emulator for **Atari 2600** made by **Mike Murphy**
 
 This emulator does **not** specificly needs a BIOS image to run!

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/vb64_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/vb64_logo_200.jpg)
 **VB64** is a **GNU GPLv2** emulator for **Commodore 64** made by **Amigafeeva**
 
 This emulator does **not** specificly needs a BIOS image to run!

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/epsxe_logo_200.jpg
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/edc-masterhook/master/emulatorimages/epsxe_logo_200.jpg)
 **ePSXe** is a **Freeware** emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-**
 
 This emulator **needs a BIOS image** to run!
