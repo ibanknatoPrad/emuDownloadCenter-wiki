@@ -14,7 +14,7 @@ The latest version of the emulator is **v3.1.0-winsdl**, released on **2014-04-1
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator_
+_Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS Windows, MS WinCE and systems running the SDL library._
 
 [**Emulator website**](http://atari800.sourceforge.net)
 ***
