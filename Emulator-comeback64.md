@@ -10,7 +10,7 @@
 ## About
 **Come Back 64** is a emulator for **Commodore 64** made by **D Luxen** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **beta4**, released on **1999-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **CB64W.exe**.
+The latest version of the emulator is **vbeta4**, released on **1999-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **CB64W.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

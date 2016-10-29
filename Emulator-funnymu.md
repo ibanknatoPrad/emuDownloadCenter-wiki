@@ -10,7 +10,7 @@
 ## About
 **FunnyMU** is a emulator for **Vtech Creativision** made by **Pablo** and has a **Freeware** license.
 
-The latest version of the emulator is **0.43**, released on **2002-01-19**, it runs on **Windows XP, Vista (x86)**, you can start this emulator with **funnymu.exe**.
+The latest version of the emulator is **v0.43**, released on **2002-01-19**, it runs on **Windows XP, Vista (x86)**, you can start this emulator with **funnymu.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

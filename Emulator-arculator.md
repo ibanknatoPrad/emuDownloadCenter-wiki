@@ -10,7 +10,7 @@
 ## About
 **Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator is **0.99**, released on **2009-08-15**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **Arculator.exe**.
+The latest version of the emulator is **v0.99**, released on **2009-08-15**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **Arculator.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

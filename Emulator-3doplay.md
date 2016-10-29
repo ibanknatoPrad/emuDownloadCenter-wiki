@@ -12,7 +12,7 @@
 
 **3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license.
 
-The latest version of the emulator is **1.8.2**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10 (x86, x64)**, you can start this emulator with **3DOplay.exe**.
+The latest version of the emulator is **v1.8.2**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10 (x86, x64)**, you can start this emulator with **3DOplay.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

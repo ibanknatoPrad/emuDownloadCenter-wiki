@@ -10,7 +10,7 @@
 ## About
 **Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **1.0.0**, released on **2012-03-03**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pom1.exe**.
+The latest version of the emulator is **v1.0.0**, released on **2012-03-03**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pom1.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

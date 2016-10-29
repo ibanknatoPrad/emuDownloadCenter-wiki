@@ -10,7 +10,7 @@
 ## About
 **GSPort** is a emulator for **Apple 2** made by **GSport Development Team** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **0.31**, released on **2014-06-21**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **GSport.exe**.
+The latest version of the emulator is **v0.31**, released on **2014-06-21**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **GSport.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

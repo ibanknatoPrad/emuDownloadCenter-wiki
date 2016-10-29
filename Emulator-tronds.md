@@ -12,7 +12,7 @@
 
 **TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco** and has a **Freeware** license.
 
-The latest version of the emulator is **1.0.0.5**, released on **2015-02-22**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **TronDS.exe**.
+The latest version of the emulator is **v1.0.0.5**, released on **2015-02-22**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **TronDS.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -12,7 +12,7 @@
 
 **Stella** is a emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony** and has a **GPL** license.
 
-The latest version of the emulator is **4.7.2-win64**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **Stella.exe**.
+The latest version of the emulator is **v4.7.2-win64**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **Stella.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

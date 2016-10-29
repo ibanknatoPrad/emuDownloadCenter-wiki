@@ -12,7 +12,7 @@
 
 **Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license.
 
-The latest version of the emulator is **1.40**, released on **2008-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **nestopia.exe**.
+The latest version of the emulator is **v1.40**, released on **2008-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **nestopia.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

@@ -362,14 +362,58 @@
 | :file_folder: [**Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | Demul Team | UNKNOWN |
 | :file_folder: [**nullDC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nulldc#menu) | Stefanos Kornilios Mitsis Poiitidis | UNKNOWN |
 ***
+## _Sega Dreamcast VMU (Handheld)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dcvmu_teaser.png)
+###### ECC ID: **dcvmu**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**DirectVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-directvms#menu) | biggs | Freeware |
+| :file_folder: [**SoftVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-softvms#menu) | Marcus Comstedt | Freeware |
+***
+## _Dragon Data - Dragon 32/64 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dragon_teaser.png)
+###### ECC ID: **dragon**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
+***
+## _Acorn Electron (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_etron_teaser.png)
+###### ECC ID: **etron**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Elkulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-elkulator#menu) | Tom Walker | GNU GPLv2 |
+***
+## _Exelvision EXL100 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_exl100_teaser.png)
+###### ECC ID: **exl100**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | Daniel Coulom | Freeware - Non-Commercial |
+***
+## _Atari Falcon (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_falcon_teaser.png)
+###### ECC ID: **falcon**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
+***
 ## _Nintendo FDS (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_teaser.png)
 ###### ECC ID: **fds**
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | FCEUX team | Freeware |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
+| :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
+| :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
 ***
 ## _Nintendo Game Boy (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gb_teaser.png)
@@ -585,6 +629,8 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nestopia#menu) | Martin Freij | Open Source |
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
+| :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
+| :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
 ***
 ## _SNK NeoGeo (Arcade)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ng_teaser.png)
@@ -790,6 +836,14 @@
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snes9x#menu) | Gary Henderson | Freeware |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 ***
+## _Atari ST (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_st_teaser.png)
+###### ECC ID: **st**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
+***
 ## _Spectravideo SV318/328 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sv318_teaser.png)
 ###### ECC ID: **sv318**
@@ -813,6 +867,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | Attila Grosz | Freeware |
+| :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
 ***
 ## _Elektor TV Games (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tvgames_teaser.png)

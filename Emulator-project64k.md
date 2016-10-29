@@ -12,7 +12,7 @@
 
 **Project64k** is a emulator for **Nintendo N64** made by **Smasherx74** and has a **Freeware** license.
 
-The latest version of the emulator is **1.7-core2.2**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
+The latest version of the emulator is **v1.7-core2.2**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

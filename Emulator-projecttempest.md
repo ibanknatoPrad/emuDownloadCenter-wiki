@@ -10,7 +10,7 @@
 ## About
 **Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license.
 
-The latest version of the emulator is **0.95**, released on **2004-02-12**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **PT.exe**.
+The latest version of the emulator is **v0.95**, released on **2004-02-12**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **PT.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

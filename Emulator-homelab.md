@@ -10,7 +10,7 @@
 ## About
 **HomeLAB** is a emulator for **HomeLAB series - HomeLAB 4** made by **Grósz Attila** and has a **Freeware** license.
 
-The latest version of the emulator is **2.2**, released on **2007-11-03**, it runs on **Windows 98,XP,Vista,7,8 (x86)**, you can start this emulator with **Homelab.exe**.
+The latest version of the emulator is **v2.2**, released on **2007-11-03**, it runs on **Windows 98,XP,Vista,7,8 (x86)**, you can start this emulator with **Homelab.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

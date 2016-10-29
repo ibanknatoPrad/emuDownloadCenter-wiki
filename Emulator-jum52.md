@@ -10,7 +10,7 @@
 ## About
 **Jum52** is a emulator for **Atari 5200** made by **James** and has a **Freeware** license.
 
-The latest version of the emulator is **1.1**, released on **2010-03-02**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Jum52_Win32.exe**.
+The latest version of the emulator is **v1.1**, released on **2010-03-02**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Jum52_Win32.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

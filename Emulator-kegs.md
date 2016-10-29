@@ -10,7 +10,7 @@
 ## About
 **Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **0.91**, released on **2006-08-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **kegs32.exe**.
+The latest version of the emulator is **v0.91**, released on **2006-08-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **kegs32.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

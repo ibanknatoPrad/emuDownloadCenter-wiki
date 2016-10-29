@@ -12,7 +12,7 @@
 
 **Z26** is a emulator for **Atari 2600** made by **John Saeger** and has a **Freeware** license.
 
-The latest version of the emulator is **3.0.2**, released on **2011-06-13**, it runs on **Windows XP (x86)**, you can start this emulator with **z26.exe**.
+The latest version of the emulator is **v3.0.2**, released on **2011-06-13**, it runs on **Windows XP (x86)**, you can start this emulator with **z26.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **WinKawaks** is a emulator for **Capcom Play System 1** made by **The WinKawaks Team** and has a **Freeware** license.
 
-The latest version of the emulator is **1.65**, released on **2016-04-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **WinKawaks.exe**.
+The latest version of the emulator is **v1.65**, released on **2016-04-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **WinKawaks.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

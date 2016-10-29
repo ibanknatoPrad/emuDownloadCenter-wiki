@@ -10,7 +10,7 @@
 ## About
 **creatiVision Emulator** is a emulator for **Vtech Creativision** made by **cvemu** and has a **UNKNOWN** license.
 
-The latest version of the emulator is **24.04.16**, released on **2016-04-24**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **creativision.exe**.
+The latest version of the emulator is **v24.04.16**, released on **2016-04-24**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **creativision.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

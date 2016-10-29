@@ -10,7 +10,7 @@
 ## About
 **Yet Another Plus/4 Emulator** is a emulator for **Commodore 16/plus4** made by **Attila Grosz** and has a **Freeware** license.
 
-The latest version of the emulator is **1.0.10**, released on **2016-06-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Yape.exe**.
+The latest version of the emulator is **v1.0.10**, released on **2016-06-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Yape.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **AdViEmulator** is a emulator for **Entex Adventure Vision** made by **justburn** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **1.0**, released on **2013-03-16**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **adviemulator.exe**.
+The latest version of the emulator is **v1.0**, released on **2013-03-16**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **adviemulator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **JavaCPC** is a emulator for **Amstrad CPC** made by **Markus Hohmann aka Devilmarkus** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **2.9**, released on **2015-07-11**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **JavaCPC.exe**.
+The latest version of the emulator is **v2.9**, released on **2015-07-11**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **JavaCPC.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

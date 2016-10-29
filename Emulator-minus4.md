@@ -10,7 +10,7 @@
 ## About
 **Minus4w** is a emulator for **Commodore 16/plus4** made by **Mike Dailly** and has a **Freeware** license.
 
-The latest version of the emulator is **2.6**, released on **2007-11-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **minus4w.exe**.
+The latest version of the emulator is **v2.6**, released on **2007-11-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **minus4w.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

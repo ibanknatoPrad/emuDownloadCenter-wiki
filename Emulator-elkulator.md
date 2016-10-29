@@ -1,0 +1,27 @@
+###### Welcome to emuDownloadCenter (EDC), a module of [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+***
+## Menu
+| **Emulator: Elkulator** |
+|:---------|
+| :clipboard: [About](#about) |
+| :sunrise: [Screenshot](#screenshot) |
+| :floppy_disk: [Downloads](#downloads) |
+***
+## About
+**Elkulator** is a emulator for **Acorn Electron** made by **Tom Walker** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **v1.0**, released on **2010-07-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Elkulator.exe**.
+
+This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
+
+_Elkulator is an Acorn Electron emulator._
+
+[**Emulator website**](http://elkulator.acornelectron.co.uk/)
+***
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/elkulator/screen.jpg)
+***
+## Downloads
+| Download | Release date  | Info       | Info       | Size       |
+|:---------|:-------------:|:-----------|:-----------|-----------:|
+| :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/elkulator/1.0.7z) | 2010-07-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/elkulator/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/elkulator/1.0_contents.txt) | 933 KB |

@@ -10,7 +10,7 @@
 ## About
 **no$nes** is a emulator for **Nintendo FDS** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator is **1.1**, released on **2012-09-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **BIOS required for FDS Emulation (DISKSYS.ROM)NO$NES.exe**.
+The latest version of the emulator is **v1.1**, released on **2012-09-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **BIOS required for FDS Emulation (DISKSYS.ROM)NO$NES.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

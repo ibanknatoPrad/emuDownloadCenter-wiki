@@ -10,7 +10,7 @@
 ## About
 **Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team** and has a **UNKNOWN** license.
 
-The latest version of the emulator is **0.5.5-win32**, released on **2009-10-09**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **demul.exe**.
+The latest version of the emulator is **v0.5.5-win32**, released on **2009-10-09**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **demul.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

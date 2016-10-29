@@ -10,7 +10,7 @@
 ## About
 **ColEm** is a emulator for **Coleco ColecoVision** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial - Attribution Required** license.
 
-The latest version of the emulator is **3.8**, released on **2016-09-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ColEm.exe**.
+The latest version of the emulator is **v3.8**, released on **2016-09-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ColEm.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator is **1.9**, released on **2002-02-24**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **To play NeoGeo games you need the NEO-GEO.ROM and NG-SFIX.ROM roms zipped into the "neogeo.zip" file in order to play Neogeo games. The neogeo.zip file must be placed in the same directory of the other normal arcade game roms.ace.exe**.
+The latest version of the emulator is **v1.9**, released on **2002-02-24**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **To play NeoGeo games you need the NEO-GEO.ROM and NG-SFIX.ROM roms zipped into the "neogeo.zip" file in order to play Neogeo games. The neogeo.zip file must be placed in the same directory of the other normal arcade game roms.ace.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

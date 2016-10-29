@@ -12,7 +12,7 @@
 
 **Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake** and has a **Freeware** license.
 
-The latest version of the emulator is **3.64**, released on **2010-03-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Fusion.exe**.
+The latest version of the emulator is **v3.64**, released on **2010-03-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Fusion.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

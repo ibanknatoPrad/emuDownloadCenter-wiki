@@ -10,7 +10,7 @@
 ## About
 **MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **10.10.2010**, released on **2010-10-10**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mz700_win.exe**.
+The latest version of the emulator is **v10.10.2010**, released on **2010-10-10**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mz700_win.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

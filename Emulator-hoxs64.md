@@ -10,7 +10,7 @@
 ## About
 **Hoxs64** is a emulator for **Commodore 64** made by **David Horrocks** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **1.0.8.9-win32**, released on **2016-05-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **hoxs64.exe**.
+The latest version of the emulator is **v1.0.8.9-win32**, released on **2016-05-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **hoxs64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

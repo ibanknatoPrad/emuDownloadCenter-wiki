@@ -12,7 +12,7 @@
 
 **4DO** is a emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor** and has a **Freeware** license.
 
-The latest version of the emulator is **1.3.2.4**, released on **2015-12-26**, it runs on **Windows XP,Vista,7,8,10 (x86, x64)**, you can start this emulator with **4DO.exe**.
+The latest version of the emulator is **v1.3.2.4**, released on **2015-12-26**, it runs on **Windows XP,Vista,7,8,10 (x86, x64)**, you can start this emulator with **4DO.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

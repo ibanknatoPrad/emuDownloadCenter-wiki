@@ -12,7 +12,7 @@
 
 **ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license.
 
-The latest version of the emulator is **2.0.5**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **ePSXe.exe**.
+The latest version of the emulator is **v2.0.5**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **ePSXe.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

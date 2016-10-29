@@ -12,7 +12,7 @@
 
 **Citra** is a emulator for **Nintendo 3DS** made by **Multiple Contributors** and has a **GPLv2** license.
 
-The latest version of the emulator is **20140523-x86**, released on **2014-05-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **citra_qtRelease.exe**.
+The latest version of the emulator is **v20140523-x86**, released on **2014-05-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **citra_qtRelease.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

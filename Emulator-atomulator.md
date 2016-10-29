@@ -10,7 +10,7 @@
 ## About
 **Atomulator** is a emulator for **Acorn Atom** made by **Tom Walker** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **1.27**, released on **2016-07-25**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Atomulator.exe**.
+The latest version of the emulator is **v1.27**, released on **2016-07-25**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Atomulator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

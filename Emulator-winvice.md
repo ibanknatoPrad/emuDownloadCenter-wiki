@@ -10,7 +10,7 @@
 ## About
 **WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **2.4-win32**, released on **2012-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **x64.exe**.
+The latest version of the emulator is **v2.4-win32**, released on **2012-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

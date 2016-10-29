@@ -12,7 +12,7 @@
 
 **ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
 
-The latest version of the emulator is **1.51**, released on **2007-01-24**, it runs on **Windows XP,Vista,7 (x86)**, you can start this emulator with **zsnesw.exe**.
+The latest version of the emulator is **v1.51**, released on **2007-01-24**, it runs on **Windows XP,Vista,7 (x86)**, you can start this emulator with **zsnesw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

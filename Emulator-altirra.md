@@ -10,7 +10,7 @@
 ## About
 **Altirra** is a emulator for **Atari 5200** made by **Phaeron** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **2.81**, released on **2016-10-16**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Altirra.exe**.
+The latest version of the emulator is **v2.81**, released on **2016-10-16**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Altirra.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

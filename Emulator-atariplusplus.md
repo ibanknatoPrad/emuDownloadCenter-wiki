@@ -10,7 +10,7 @@
 ## About
 **atari++** is a emulator for **Atari 5200** made by **Thomas Richter** and has a **THOR Public Licence** license.
 
-The latest version of the emulator is **1.58**, released on **2009-11-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **atari++.exe**.
+The latest version of the emulator is **v1.58**, released on **2009-11-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **atari++.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

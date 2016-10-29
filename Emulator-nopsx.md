@@ -10,7 +10,7 @@
 ## About
 **no$psx** is a emulator for **Sony PlayStation 1** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator is **1.9**, released on **2014-05-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$PSX.exe**.
+The latest version of the emulator is **v1.9**, released on **2014-05-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$PSX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator is **2.8d**, released on **2016-05-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$GBA.exe**.
+The latest version of the emulator is **v2.8d**, released on **2016-05-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$GBA.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

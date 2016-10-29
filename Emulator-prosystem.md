@@ -12,7 +12,7 @@
 
 **ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton** and has a **Freeware** license.
 
-The latest version of the emulator is **1.3**, released on **2008-12-05**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **ProSystem.exe**.
+The latest version of the emulator is **v1.3**, released on **2008-12-05**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **ProSystem.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

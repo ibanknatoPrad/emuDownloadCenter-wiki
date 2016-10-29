@@ -10,7 +10,7 @@
 ## About
 **Micro64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux** and has a **Freeware** license.
 
-The latest version of the emulator is **1.00.2013.05.11-win64**, released on **2013-05-11**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **micro64.exe**.
+The latest version of the emulator is **v1.00.2013.05.11-win64**, released on **2013-05-11**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **micro64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
