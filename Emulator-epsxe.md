@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/epsxe_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/epsxe_logo_200.jpg "ePSXe logo.")
 
 **ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license.
 
-The latest version of the emulator is **v2.0.5**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **ePSXe.exe**.
+The latest version of the emulator on EDC is **v2.0.5**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **ePSXe.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux, as well as devices running Android. It was written by three authors, using the aliases calb, -Demo- and Galtor. ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins._
 
-[**Emulator website**](http://www.epsxe.com/)
+:link: [**Emulator website**](http://www.epsxe.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/epsxe/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/epsxe/screen.jpg "ePSXe screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/epsxe/2.0.5.7z) | 2016-06-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/2.0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/2.0.5_contents.txt) | 1364 KB |
 | :floppy_disk: [**v2.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/epsxe/2.0.2.7z) | 2016-04-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/2.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/2.0.2_contents.txt) | 1290 KB |

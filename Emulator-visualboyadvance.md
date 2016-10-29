@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg "VisualBoyAdvance logo.")
 
 **VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.8.0-511**, released on **2016-10-25**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **VisualBoyAdvance.exe**.
+The latest version of the emulator on EDC is **v1.8.0-511**, released on **2016-10-25**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **VisualBoyAdvance.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VisualBoyAdvance - a Gameboy and GameboyAdvance emulator_
 
-[**Emulator website**](http://sourceforge.net/projects/vba)
+:link: [**Emulator website**](http://sourceforge.net/projects/vba)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/visualboyadvance/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/visualboyadvance/screen.jpg "VisualBoyAdvance screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.8.0-511**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/visualboyadvance/1.8.0-511.7z) | 2016-10-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.8.0-511_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.8.0-511_contents.txt) | 405 KB |
 | :floppy_disk: [**v1.8.0-beta3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/visualboyadvance/1.8.0-beta3.7z) | 2005-10-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.8.0-beta3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.8.0-beta3_contents.txt) | 461 KB |

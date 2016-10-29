@@ -8,21 +8,21 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/z26_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/z26_logo_200.jpg "Z26 logo.")
 
 **Z26** is a emulator for **Atari 2600** made by **John Saeger** and has a **Freeware** license.
 
-The latest version of the emulator is **v3.0.2**, released on **2011-06-13**, it runs on **Windows XP (x86)**, you can start this emulator with **z26.exe**.
+The latest version of the emulator on EDC is **v3.0.2**, released on **2011-06-13**, it runs on **Windows XP (x86)**, you can start this emulator with **z26.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _This version of z26 is designed to run natively on 32-bit x86 Windows platforms. It provides excellent sound quality, and correct frame synchronization on Windows-XP platforms._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/z26/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/z26/screen.jpg "Z26 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v3.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/3.0.2.7z) | 2011-06-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/3.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/3.0.2_contents.txt) | 192 KB |
 | :floppy_disk: [**v2.16**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.16.7z) | 2011-05-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/2.16_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/2.16_contents.txt) | 183 KB |

@@ -10,19 +10,19 @@
 ## About
 **Jum52** is a emulator for **Atari 5200** made by **James** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.1**, released on **2010-03-02**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Jum52_Win32.exe**.
+The latest version of the emulator on EDC is **v1.1**, released on **2010-03-02**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Jum52_Win32.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Jum52 is a cross-platform Atari 5200 emulator. It is available in MSDOS, Windows, Playstation 2, PSP, Mac, BeOS and QNX versions._
 
-[**Emulator website**](http://jum.pdroms.de/emulators/emu5200.html)
+:link: [**Emulator website**](http://jum.pdroms.de/emulators/emu5200.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jum52/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jum52/screen.jpg "Jum52 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/jum52/1.1.7z) | 2010-03-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/1.1_contents.txt) | 120 KB |
 | :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/jum52/1.0.7z) | 2004-04-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/1.0_contents.txt) | 120 KB |

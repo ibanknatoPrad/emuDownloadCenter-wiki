@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg "ProSystem logo.")
 
 **ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.3**, released on **2008-12-05**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **ProSystem.exe**.
+The latest version of the emulator on EDC is **v1.3**, released on **2008-12-05**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **ProSystem.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ProSystem is an emulator for the Windows operating system that will allow you to play Atari 7800 video games on your PC. An emulator is a program that has the ability to imitate another program, device, or computer. The ProSystem emulator imitates the Atari 7800's CPU, video, audio, joystick controls, etc. Before you can use the emulator, you will need to obtain rom images that are compatible with the Atari 7800._
 
-[**Emulator website**](http://home.comcast.net/~gscottstanton/)
+:link: [**Emulator website**](http://home.comcast.net/~gscottstanton/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/screen.jpg "ProSystem screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/prosystem/1.3.7z) | 2008-12-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/prosystem/1.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/prosystem/1.3_contents.txt) | 267 KB |
 | :floppy_disk: [**v1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/prosystem/1.2.7z) | 2007-04-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/prosystem/1.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/prosystem/1.2_contents.txt) | 270 KB |

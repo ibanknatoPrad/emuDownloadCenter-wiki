@@ -10,19 +10,19 @@
 ## About
 **HomeLAB** is a emulator for **HomeLAB series - HomeLAB 4** made by **Grósz Attila** and has a **Freeware** license.
 
-The latest version of the emulator is **v2.2**, released on **2007-11-03**, it runs on **Windows 98,XP,Vista,7,8 (x86)**, you can start this emulator with **Homelab.exe**.
+The latest version of the emulator on EDC is **v2.2**, released on **2007-11-03**, it runs on **Windows 98,XP,Vista,7,8 (x86)**, you can start this emulator with **Homelab.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _HomeLAB is an HomeLAB4 emulator for Windows_
 
-[**Emulator website**](http://gaia.atilia.eu/content/view/3/4/)
+:link: [**Emulator website**](http://gaia.atilia.eu/content/view/3/4/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/screen.jpg "HomeLAB screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/homelab/2.2.7z) | 2007-11-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/2.2_contents.txt) | 149 KB |
 | :floppy_disk: [**v2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/homelab/2.1.7z) | 2007-09-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/2.1_contents.txt) | 135 KB |

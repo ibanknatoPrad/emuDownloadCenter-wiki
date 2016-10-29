@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64_logo_200.jpg "Project64 logo.")
 
 **Project64** is a emulator for **Nintendo N64** made by **Zilmar and Jabo** and has a **Freeware** license.
 
-The latest version of the emulator is **v2.3.0.210**, released on **2016-08-13**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
+The latest version of the emulator on EDC is **v2.3.0.210**, released on **2016-08-13**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out of nowhere, offering excelent game support with little bugs. Future versions only improved things more!_
 
-[**Emulator website**](http://www.pj64-emu.com/)
+:link: [**Emulator website**](http://www.pj64-emu.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64/screen.jpg "Project64 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.3.0.210**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/2.3.0.210.7z) | 2016-08-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/2.3.0.210_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/2.3.0.210_contents.txt) | 1556 KB |
 | :floppy_disk: [**v2.2.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/2.2.0.3.7z) | 2015-03-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/2.2.0.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/2.2.0.3_contents.txt) | 2189 KB |

@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tronds_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tronds_logo_200.jpg "TronDS logo.")
 
 **TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.0.0.5**, released on **2015-02-22**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **TronDS.exe**.
+The latest version of the emulator on EDC is **v1.0.0.5**, released on **2015-02-22**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **TronDS.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _TronDS is a Nintendo 3DS emulator released on May 11, 2014 for Windows._
 
-[**Emulator website**](http://trondsemu.byethost15.com/)
+:link: [**Emulator website**](http://trondsemu.byethost15.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tronds/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tronds/screen.jpg "TronDS screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.0.0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/tronds/1.0.0.5.7z) | 2015-02-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/tronds/1.0.0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/tronds/1.0.0.5_contents.txt) | 199 KB |
 | :floppy_disk: [**v1.0.0.4**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/tronds/1.0.0.4.7z) | 2014-12-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/tronds/1.0.0.4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/tronds/1.0.0.4_contents.txt) | 203 KB |

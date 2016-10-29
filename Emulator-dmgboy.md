@@ -10,19 +10,19 @@
 ## About
 **DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco** and has a **GNU GPLv3** license.
 
-The latest version of the emulator is **v2.0**, released on **2014-05-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **DMGBoy.exe**.
+The latest version of the emulator on EDC is **v2.0**, released on **2014-05-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **DMGBoy.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _DMGBoy (Dot Matrix Game Boy) is a Game Boy emulator written in C++. It uses wxWidgets for the user interface and SDL and portaudio for the audio. Is Cross-Platform: Windows, Linux and Mac OS X builds are available._
 
-[**Emulator website**](https://code.google.com/archive/p/dmgboy/)
+:link: [**Emulator website**](https://code.google.com/archive/p/dmgboy/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dmgboy/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dmgboy/screen.jpg "DMGBoy screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dmgboy/2.0.7z) | 2014-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dmgboy/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dmgboy/2.0_contents.txt) | 2499 KB |
 | :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dmgboy/1.0.7z) | 2012-10-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dmgboy/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dmgboy/1.0_contents.txt) | 580 KB |

@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg "Nestopia logo.")
 
 **Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license.
 
-The latest version of the emulator is **v1.40**, released on **2008-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **nestopia.exe**.
+The latest version of the emulator on EDC is **v1.40**, released on **2008-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **nestopia.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Nestopia is an open source NES/Famicom emulator written in standard C++, focused on delivering as accurate emulation as possible. It is released under the GNU General Public License (GPL)_
 
-[**Emulator website**](http://nestopia.sourceforge.net/)
+:link: [**Emulator website**](http://nestopia.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nestopia/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nestopia/screen.jpg "Nestopia screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/redsquirrel/1.40.7z) | 2008-06-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.40_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.40_contents.txt) | 1038 KB |
 | :floppy_disk: [**v1.39**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/redsquirrel/1.39.7z) | 2008-05-04 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.39_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.39_contents.txt) | 999 KB |

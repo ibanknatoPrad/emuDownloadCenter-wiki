@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg "ZSNES logo.")
 
 **ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.51**, released on **2007-01-24**, it runs on **Windows XP,Vista,7 (x86)**, you can start this emulator with **zsnesw.exe**.
+The latest version of the emulator on EDC is **v1.51**, released on **2007-01-24**, it runs on **Windows XP,Vista,7 (x86)**, you can start this emulator with **zsnesw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public._
 
-[**Emulator website**](http://www.zsnes.com/)
+:link: [**Emulator website**](http://www.zsnes.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zsnes/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zsnes/screen.jpg "ZSNES screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.51**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.51.7z) | 2007-01-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.51_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.51_contents.txt) | 720 KB |
 | :floppy_disk: [**v1.50**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.50.7z) | 2006-12-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.50_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.50_contents.txt) | 706 KB |

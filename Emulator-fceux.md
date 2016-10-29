@@ -10,19 +10,19 @@
 ## About
 **FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license.
 
-The latest version of the emulator is **v2.2.2**, released on **2013-09-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **fceux.exe**.
+The latest version of the emulator on EDC is **v2.2.2**, released on **2013-09-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **fceux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evolution of the original FCE Ultra emulator. It is the favorite emu for recording/playing game movies._
 
-[**Emulator website**](http://www.fceux.com/web/home.html)
+:link: [**Emulator website**](http://www.fceux.com/web/home.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fceux/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fceux/screen.jpg "FCEUX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.2.7z) | 2013-09-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.2_contents.txt) | 2870 KB |
 | :floppy_disk: [**v2.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.1.7z) | 2013-03-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.1_contents.txt) | 2727 KB |

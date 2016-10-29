@@ -10,19 +10,19 @@
 ## About
 **Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator is **v0.99**, released on **2009-08-15**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **Arculator.exe**.
+The latest version of the emulator on EDC is **v0.99**, released on **2009-08-15**, it runs on **Windows XP,Vista (x86)**, you can start this emulator with **Arculator.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Arculator emulates an old-style Archimedes (A3xx,A4xx,A3000,A540) with an ARM2 or ARM3, 4, 8 or 16 megabytes of RAM, and a single floppy drive._
 
-[**Emulator website**](http://b-em.bbcmicro.com/arculator/)
+:link: [**Emulator website**](http://b-em.bbcmicro.com/arculator/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arculator/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arculator/screen.jpg "Arculator screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.99**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/arculator/0.99.7z) | 2009-08-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.99_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.99_contents.txt) | 513 KB |
 | :floppy_disk: [**v0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/arculator/0.9.7z) | 2007-02-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.9_contents.txt) | 446 KB |

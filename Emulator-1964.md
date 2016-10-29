@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg "1964 logo.")
 
 **1964** is a emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.1**, released on **2009-06-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **1964.exe**.
+The latest version of the emulator on EDC is **v1.1**, released on **2009-06-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **1964.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Best used for optimum performance with Pentium 4 based PC's or better, written in C/C++ and released as free software. It is one of the oldest and most popular N64 emulators, supporting many commercial N64 games._
 
-[**Emulator website**](http://www.1964emu.com)
+:link: [**Emulator website**](http://www.1964emu.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/screen.jpg "1964 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/1964/1.1.7z) | 2009-06-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/1.1_contents.txt) | 2017 KB |
 | :floppy_disk: [**v1.0-r60**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/1964/1.0-r60.7z) | 2010-03-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/1.0-r60_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/1.0-r60_contents.txt) | 2419 KB |

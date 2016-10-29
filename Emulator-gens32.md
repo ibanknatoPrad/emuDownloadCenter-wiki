@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens32_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens32_logo_200.jpg "Gens32 Surreal logo.")
 
 **Gens32 Surreal** is a emulator for **Sega Mega Drive 32X** made by **Stéphane Dallongeville** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **v1.90-std**, released on **2013-10-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Gens32Surreal.exe**.
+The latest version of the emulator on EDC is **v1.90-std**, released on **2013-10-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Gens32Surreal.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator for Windows by the Gens32 team, which is based on Gens and adds lots of features._
 
-[**Emulator website**](http://gens.consolemul.com)
+:link: [**Emulator website**](http://gens.consolemul.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens32/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens32/screen.jpg "Gens32 Surreal screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.90-std**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.90-std.7z) | 2013-10-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.90-std_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.90-std_contents.txt) | 1424 KB |
 | :floppy_disk: [**v1.89se**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.89se.7z) | 2013-10-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.89se_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.89se_contents.txt) | 1548 KB |

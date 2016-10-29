@@ -10,18 +10,18 @@
 ## About
 **MEKA** is a emulator for **Coleco ColecoVision** made by **Omar Cornut** and has a **Unrestrictive BSD-like** license.
 
-The latest version of the emulator is **v0.73**, released on **2010-05-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mekaw.exe**.
+The latest version of the emulator on EDC is **v0.73**, released on **2010-05-30**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mekaw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _MEKA is a multi-system emulator that emulates the following: Sega Game 1000 (SG-1000), Sega Computer 3000 (SC-3000), Sega Super Control Station (SF-7000), Sega Mark III + FM Unit, Sega Master System, Sega Game Gear, Coleco ColecoVision and Othello Multivision._
 
-[**Emulator website**](http://www.smspower.org/meka)
+:link: [**Emulator website**](http://www.smspower.org/meka)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/meka/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/meka/screen.jpg "MEKA screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.73**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/meka/0.73.7z) | 2010-05-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/meka/0.73_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/meka/0.73_contents.txt) | 705 KB |

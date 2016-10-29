@@ -10,18 +10,18 @@
 ## About
 **no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth** and has a **Shareware** license.
 
-The latest version of the emulator is **v1.5**, released on **2003-05-01**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$MSX.exe**.
+The latest version of the emulator on EDC is **v1.5**, released on **2003-05-01**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$MSX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulators it's including a comfortable debugger, so that it's more a serious development tool than just a emulator. Beside for the development part, the most important goals are: User-friendly GUI and lots of options, and the complete lack of overload - the program is written in raw assembler language, sized about 150 KBytes, and works fine on 33MHz computers._
 
-[**Emulator website**](http://problemkaputt.de/index.htm)
+:link: [**Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nomsx/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nomsx/screen.jpg "no$msx screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nomsx/1.5.7z) | 2003-05-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_contents.txt) | 207 KB |

@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg "Project64k logo.")
 
 **Project64k** is a emulator for **Nintendo N64** made by **Smasherx74** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.7-core2.2**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
+The latest version of the emulator on EDC is **v1.7-core2.2**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Project64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It was originally created by Hotquik and is currently developed by Smasherx74. As a Nintendo 64 emulator, the program has the ability to run Super Smash Bros., as well as a majority of the Nintendo 64's library. Unless the user has an N64 controller adapter for PC, they will generally be using a keyboard to play. (Core 2.2 releases: https://github.com/Ownasaurus/Project64k-Core-2.2/releases)_
 
-[**Emulator website**](http://pj64k.blogspot.nl/)
+:link: [**Emulator website**](http://pj64k.blogspot.nl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/screen.jpg "Project64k screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.7-core2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/1.7-core2.2.7z) | 2015-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/1.7-core2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/1.7-core2.2_contents.txt) | 2309 KB |
 | :floppy_disk: [**v1.6-core2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/1.6-core2.2.7z) | 2015-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/1.6-core2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/1.6-core2.2_contents.txt) | 2309 KB |

@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvice_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvice_logo_200.jpg "WinVICE logo.")
 
 **WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **v2.4-win32**, released on **2012-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **x64.exe**.
+The latest version of the emulator on EDC is **v2.4-win32**, released on **2012-11-08**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Commodore C128, the Commodore VIC20, almost all Commodore PET models, the Commodore PLUS4 and the Commodore CBM-II (aka C610)._
 
-[**Emulator website**](http://vice-emu.sourceforge.net)
+:link: [**Emulator website**](http://vice-emu.sourceforge.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvice/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvice/screen.jpg "WinVICE screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.4-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvice/2.4-win32.7z) | 2012-11-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-win32_contents.txt) | 3162 KB |
 | :floppy_disk: [**v2.4-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvice/2.4-win64.7z) | 2012-11-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-win64_contents.txt) | 3353 KB |

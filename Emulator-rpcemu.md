@@ -10,19 +10,19 @@
 ## About
 **RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator is **v0.8.14**, released on **2016-02-08**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **RPCEmu-Interpreter.exe**.
+The latest version of the emulator on EDC is **v0.8.14**, released on **2016-02-08**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **RPCEmu-Interpreter.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _RPCEmu allows you to emulate classic Acorn systems, such as the Risc PC and A7000, on multiple platforms including Windows, Linux and Mac OS X_
 
-[**Emulator website**](http://www.marutan.net/rpcemu/)
+:link: [**Emulator website**](http://www.marutan.net/rpcemu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/screen.jpg "RPCemu screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.8.14**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rpcemu/0.8.14.7z) | 2016-02-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.8.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.8.14_contents.txt) | 507 KB |
 | :floppy_disk: [**v0.8.13**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rpcemu/0.8.13.7z) | 2015-10-21 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.8.13_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.8.13_contents.txt) | 508 KB |

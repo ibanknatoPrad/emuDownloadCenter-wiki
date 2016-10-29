@@ -10,18 +10,18 @@
 ## About
 **Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **v0.91**, released on **2006-08-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **kegs32.exe**.
+The latest version of the emulator on EDC is **v0.91**, released on **2006-08-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **kegs32.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32._
 
-[**Emulator website**](http://kegs.sourceforge.net/)
+:link: [**Emulator website**](http://kegs.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegs/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegs/screen.jpg "Kent's Emulated GS screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/kegs/0.91.7z) | 2006-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kegs/0.91_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kegs/0.91_contents.txt) | 587 KB |

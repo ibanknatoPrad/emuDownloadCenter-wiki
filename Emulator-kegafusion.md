@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg "Kega Fusion logo.")
 
 **Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake** and has a **Freeware** license.
 
-The latest version of the emulator is **v3.64**, released on **2010-03-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Fusion.exe**.
+The latest version of the emulator on EDC is **v3.64**, released on **2010-03-06**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Fusion.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, SVP, Pico, SegaCD/MegaCD and 32X emulator for Win9x/ME/2000/XP/Vista and Mac OSX/Intel_
 
-[**Emulator website**](http://www.carpeludum.com/kega-fusion/)
+:link: [**Emulator website**](http://www.carpeludum.com/kega-fusion/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegafusion/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegafusion/screen.jpg "Kega Fusion screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v3.64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/kegafusion/3.64.7z) | 2010-03-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/3.64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/3.64_contents.txt) | 275 KB |
 | :floppy_disk: [**v3.63**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/kegafusion/3.63.7z) | 2009-10-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/3.63_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/3.63_contents.txt) | 272 KB |

@@ -10,19 +10,19 @@
 ## About
 **pSX** is a emulator for **Sony PlayStation 1** made by **Unknown** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.13**, released on **2007-08-27**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **psxfin.exe**.
+The latest version of the emulator on EDC is **v1.13**, released on **2007-08-27**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **psxfin.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _This emulator fully emulates the Sony Playstation. Compatibility is fairly high, most games I've tried work well._
 
-[**Emulator website**](http://psxemulator.gazaxian.com/)
+:link: [**Emulator website**](http://psxemulator.gazaxian.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/screen.jpg "pSX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.13**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.13.7z) | 2007-08-27 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.13_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.13_contents.txt) | 573 KB |
 | :floppy_disk: [**v1.12**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.12.7z) | 2007-07-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.12_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.12_contents.txt) | 567 KB |

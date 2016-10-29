@@ -10,16 +10,16 @@
 ## About
 **Dream64** is a emulator for **Commodore 64** made by **tprodigy1** and has a **Freeware** license.
 
-The latest version of the emulator is **v0.70**, released on **2009-11-25**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **dream64.exe**.
+The latest version of the emulator on EDC is **v0.70**, released on **2009-11-25**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **dream64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Dream64 is a Commodore 64 Emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dream64/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dream64/screen.jpg "Dream64 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.70**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dream64/0.70.7z) | 2009-11-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dream64/0.70_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dream64/0.70_contents.txt) | 181 KB |

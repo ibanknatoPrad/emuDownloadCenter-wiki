@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fbalpha_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fbalpha_logo_200.jpg "FB Alpha logo.")
 
 **FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator is **v0.2.97.39-win32**, released on **2016-10-16**, it runs on **Windows Vista,7,8,10 (x86)**, you can start this emulator with **fba.exe**.
+The latest version of the emulator on EDC is **v0.2.97.39-win32**, released on **2016-10-16**, it runs on **Windows Vista,7,8,10 (x86)**, you can start this emulator with **fba.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1, CPS2 and CPS3, Cave, Data East DEC-0, DEC-8 and DECO IC16 based games, Galaxian based hardware, Irem M62, M63, M72, M90, M92 and M107 hardware, Kaneko 16, Konami, SNK NeoGeo, NMK16, Pacman based hardware, PGM, Psikyo 68EC020 and SH-2 based hardware, Sega System 1, System 16 (and similar), System 18, X-Board and Y-Board, Super Kaneko Nova System, Toaplan 1 and 2, Taito F2, X, Z and others. It has miscellaneous drivers for lots of other hardware and has WIP console drivers for Sega Megadrive/Genesis, ColecoVision, Sega SG-1000, Sega Master System/Game Gear and also PC-Engine/TurboGrafx 16/SuperGrafx._
 
-[**Emulator website**](http://www.fbalpha.com)
+:link: [**Emulator website**](http://www.fbalpha.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fbalpha/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fbalpha/screen.jpg "FB Alpha screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.2.97.39-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fbalpha/0.2.97.39-win32.7z) | 2016-10-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-win32_contents.txt) | 4081 KB |
 | :floppy_disk: [**v0.2.97.39-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fbalpha/0.2.97.39-win64.7z) | 2016-10-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-win64_contents.txt) | 4461 KB |

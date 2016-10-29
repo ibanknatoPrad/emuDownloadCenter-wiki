@@ -8,23 +8,23 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/stella_logo_200.jpg)
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/stella_logo_200.jpg "Stella logo.")
 
 **Stella** is a emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony** and has a **GPL** license.
 
-The latest version of the emulator is **v4.7.2-win64**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **Stella.exe**.
+The latest version of the emulator on EDC is **v4.7.2-win64**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **Stella.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Stella is a multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL). Stella was originally developed for Linux by Bradford W. Mott, and is currently maintained by Stephen Anthony. Since its original release several people have joined the development team to port Stella to other operating systems such as AcornOS, AmigaOS, DOS, FreeBSD, IRIX, Linux, OS/2, MacOS, Unix, and Windows. The development team is working hard to perfect the emulator and we hope you enjoy our effort._
 
-[**Emulator website**](http://stella.sourceforge.net/)
+:link: [**Emulator website**](http://stella.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/stella/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/stella/screen.jpg "Stella screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v4.7.2-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/4.7.2-win64.7z) | 2016-03-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/4.7.2-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/4.7.2-win64_contents.txt) | 2236 KB |
 | :floppy_disk: [**v4.7.2-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/4.7.2-win32.7z) | 2016-03-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/4.7.2-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/4.7.2-win32_contents.txt) | 1954 KB |

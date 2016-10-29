@@ -10,19 +10,19 @@
 ## About
 **Atari800** is a emulator for **Atari 5200** made by **The Atari800 Development Team** and has a **GNU GPLv2** license.
 
-The latest version of the emulator is **v3.1.0-winsdl**, released on **2014-04-12**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **atari800.exe**.
+The latest version of the emulator on EDC is **v3.1.0-winsdl**, released on **2014-04-12**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **atari800.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS Windows, MS WinCE and systems running the SDL library._
 
-[**Emulator website**](http://atari800.sourceforge.net)
+:link: [**Emulator website**](http://atari800.sourceforge.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800/screen.jpg "Atari800 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v3.1.0-winsdl**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800/3.1.0-winsdl.7z) | 2014-04-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/3.1.0-winsdl_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/3.1.0-winsdl_contents.txt) | 965 KB |
 | :floppy_disk: [**v2.1.0-windx**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800/2.1.0-windx.7z) | 2009-03-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/2.1.0-windx_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/2.1.0-windx_contents.txt) | 318 KB |

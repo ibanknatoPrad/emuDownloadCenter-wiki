@@ -10,19 +10,19 @@
 ## About
 **SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license.
 
-The latest version of the emulator is **v1.54.1-x64**, released on **2016-10-15**, it runs on **Windows XP,Vista,7,8 (x64)**, you can start this emulator with **snes9x-x64.exe**.
+The latest version of the emulator on EDC is **v1.54.1-x64**, released on **2016-10-15**, it runs on **Windows XP,Vista,7,8 (x64)**, you can start this emulator with **snes9x-x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems._
 
-[**Emulator website**](http://www.snes9x.com)
+:link: [**Emulator website**](http://www.snes9x.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9x/screen.jpg)
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9x/screen.jpg "SNES9X screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | Size       |
+| Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.54.1-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.54.1-x64.7z) | 2016-10-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.54.1-x64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.54.1-x64_contents.txt) | 1310 KB |
 | :floppy_disk: [**v1.54.1-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.54.1-win32.7z) | 2016-10-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.54.1-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.54.1-win32_contents.txt) | 878 KB |
