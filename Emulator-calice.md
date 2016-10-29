@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard**, license: **Freeware**
+**Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard** and has a **Freeware** license.
+
+The latest version of the emulator is **0.6.4**, released on **2004-02-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Calice32.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

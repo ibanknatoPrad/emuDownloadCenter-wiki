@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Hyper64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux**, license: **Freeware**
+**Hyper64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux** and has a **Freeware** license.
+
+The latest version of the emulator is **1.00.2008.08.08**, released on **2008-08-08**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Hyper64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**pSX** is a emulator for **Sony PlayStation 1** made by **Unknown**, license: **Freeware**
+**pSX** is a emulator for **Sony PlayStation 1** made by **Unknown** and has a **Freeware** license.
+
+The latest version of the emulator is **1.13**, released on **2007-08-27**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **psxfin.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

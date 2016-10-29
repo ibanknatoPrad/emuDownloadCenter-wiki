@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer**, license: **Free for Personal and Non-Commercial Use**
+**Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer** and has a **Free for Personal and Non-Commercial Use** license.
+
+The latest version of the emulator is **2.8-win32**, released on **2016-10-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **PhoenixEmuProject.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

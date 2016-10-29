@@ -10,7 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo_200.jpg)
 
-**EMU7800** is a emulator for **Atari 2600** made by **Mike Murphy**, license: **GNU GPLv2**
+**EMU7800** is a emulator for **Atari 2600** made by **Mike Murphy** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **1.8**, released on **2015-09-27**, it runs on **Windows Vista,7,8,10 (x86,x64)**, you can start this emulator with **EMU7800.Win.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

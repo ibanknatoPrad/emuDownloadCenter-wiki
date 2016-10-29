@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi**, license: **UNKNOWN**
+**Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi** and has a **UNKNOWN** license.
+
+The latest version of the emulator is **0.25a**, released on **2004-04-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Chankast_alpha_25.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

@@ -10,7 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winape_logo_200.jpg)
 
-**WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson**, license: **Freeware**
+**WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson** and has a **Freeware** license.
+
+The latest version of the emulator is **2.0a18**, released on **2011-07-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **WinApe.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

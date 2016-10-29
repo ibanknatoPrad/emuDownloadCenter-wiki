@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim**, license: **GNU GPLv2**
+**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **2.8.0-win32**, released on **2016-09-14**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **fs-uae.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

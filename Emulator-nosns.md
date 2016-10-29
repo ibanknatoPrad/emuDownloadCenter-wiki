@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$sns** is a emulator for **Nintendo Super Nintendo** made by **Martin Korth**, license: **Freeware**
+**no$sns** is a emulator for **Nintendo Super Nintendo** made by **Martin Korth** and has a **Freeware** license.
+
+The latest version of the emulator is **1.6**, released on **2016-03-21**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$SNS.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

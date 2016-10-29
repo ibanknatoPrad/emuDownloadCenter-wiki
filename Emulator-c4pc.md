@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**C4PC** is a emulator for **Cybiko Classic** made by **Tim Schuerewegen aka FireFly**, license: **UNKNOWN**
+**C4PC** is a emulator for **Cybiko Classic** made by **Tim Schuerewegen aka FireFly** and has a **UNKNOWN** license.
+
+The latest version of the emulator is **0.28**, released on **2001-09-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **c4pc.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

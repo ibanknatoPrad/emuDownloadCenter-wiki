@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones**, license: **Open Source**
+**Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license.
+
+The latest version of the emulator is **2.1.2-win64**, released on **2014-10-10**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **virtualjaguar.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras**, license: **Freeware**
+**ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras** and has a **Freeware** license.
+
+The latest version of the emulator is **1.33**, released on **1999-05-13**, it runs on **Windows 3.1,3.11,95 (x86)**, you can start this emulator with **Atom.Exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

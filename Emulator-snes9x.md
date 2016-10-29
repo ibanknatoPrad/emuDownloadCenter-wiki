@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson**, license: **Freeware**
+**SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license.
+
+The latest version of the emulator is **1.54.1-x64**, released on **2016-10-15**, it runs on **Windows XP,Vista,7,8 (x64)**, you can start this emulator with **snes9x-x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

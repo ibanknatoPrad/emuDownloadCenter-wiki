@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Dream64** is a emulator for **Commodore 64** made by **tprodigy1**, license: **Freeware**
+**Dream64** is a emulator for **Commodore 64** made by **tprodigy1** and has a **Freeware** license.
+
+The latest version of the emulator is **0.70**, released on **2009-11-25**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **dream64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo_200.jpg)
 
-**3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov**, license: **GNU GPLv3**
+**3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license.
+
+The latest version of the emulator is **1.8.2**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10 (x86, x64)**, you can start this emulator with **3DOplay.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

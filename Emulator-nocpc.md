@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth**, license: **Freeware**
+**no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth** and has a **Freeware** license.
+
+The latest version of the emulator is **1.8**, released on **2000-11-02**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$CPC.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

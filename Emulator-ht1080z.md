@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz**, license: **Freeware**
+**HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz** and has a **Freeware** license.
+
+The latest version of the emulator is **1.6.4-win32**, released on **2011-10-03**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **HT1080Z.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

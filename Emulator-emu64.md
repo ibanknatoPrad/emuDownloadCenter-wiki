@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Emu64** is a emulator for **Commodore 64** made by **Thorsten Kattanek**, license: **GNU GPLv2**
+**Emu64** is a emulator for **Commodore 64** made by **Thorsten Kattanek** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **5.0.12-win32**, released on **2016-08-14**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **emu64.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

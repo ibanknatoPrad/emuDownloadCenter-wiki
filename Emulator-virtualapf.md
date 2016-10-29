@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Virtual APF** is a emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer**, license: **Freeware**
+**Virtual APF** is a emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer** and has a **Freeware** license.
+
+The latest version of the emulator is **0.1**, released on **2000-08-08**, it runs on **Windows 95,98 (x32)**, you can start this emulator with **vapf.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

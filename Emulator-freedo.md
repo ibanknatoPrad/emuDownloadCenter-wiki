@@ -10,7 +10,9 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/freedo_logo_200.jpg)
 
-**FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons**, license: **Freeware**
+**FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons** and has a **Freeware** license.
+
+The latest version of the emulator is **2.1.1-alpha**, released on **2010-12-02**, it runs on **Windows XP,Vista,7 (x86)**, you can start this emulator with **FreeDO.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

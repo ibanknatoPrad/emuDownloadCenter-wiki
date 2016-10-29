@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**ZEsarUX** is a emulator for **Amstrad CPC** made by **Cesar Hernandez**, license: **GNU GPLv3**
+**ZEsarUX** is a emulator for **Amstrad CPC** made by **Cesar Hernandez** and has a **GNU GPLv3** license.
+
+The latest version of the emulator is **4.2**, released on **2016-08-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **zesarux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

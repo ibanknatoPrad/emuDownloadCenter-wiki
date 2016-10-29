@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**FCEUX** is a emulator for **Nintendo NES/Famicom** made by **FCEUX team**, license: **Freeware**
+**FCEUX** is a emulator for **Nintendo NES/Famicom** made by **FCEUX team** and has a **Freeware** license.
+
+The latest version of the emulator is **2.2.2**, released on **2013-09-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **fceux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

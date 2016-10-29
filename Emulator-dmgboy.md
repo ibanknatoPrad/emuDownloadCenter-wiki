@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco**, license: **GNU GPLv3**
+**DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco** and has a **GNU GPLv3** license.
+
+The latest version of the emulator is **2.0**, released on **2014-05-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **DMGBoy.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

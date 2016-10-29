@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Callus95** is a emulator for **Capcom Play System 1** made by **Bloodlust Software**, license: **Freeware**
+**Callus95** is a emulator for **Capcom Play System 1** made by **Bloodlust Software** and has a **Freeware** license.
+
+The latest version of the emulator is **0.42**, released on **2000-11-21**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **callus95.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

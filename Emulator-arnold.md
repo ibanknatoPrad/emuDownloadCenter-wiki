@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Arnold** is a emulator for **Amstrad CPC** made by **Kevin Thacker**, license: **GNU GPLv2**
+**Arnold** is a emulator for **Amstrad CPC** made by **Kevin Thacker** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **04.01.2004**, released on **2004.01.04**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **arnold.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

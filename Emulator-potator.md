@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Potator** is a emulator for **Watara Supervision** made by **David Raingeard**, license: **Freeware**
+**Potator** is a emulator for **Watara Supervision** made by **David Raingeard** and has a **Freeware** license.
+
+The latest version of the emulator is **0.7**, released on **2004-10-19**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Potator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

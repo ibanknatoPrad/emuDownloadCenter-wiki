@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Horizon** is a emulator for **Acorn BBC** made by **Chris Lam**, license: **GNU GPLv2**
+**Horizon** is a emulator for **Acorn BBC** made by **Chris Lam** and has a **GNU GPLv2** license.
+
+The latest version of the emulator is **2.1**, released on **2012-09-02**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Horizon 2.1.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

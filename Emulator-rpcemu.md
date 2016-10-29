@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker**, license: **Freeware**
+**RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
+
+The latest version of the emulator is **0.8.14**, released on **2016-02-08**, it runs on **Windows XP,Vista,7,8 (x86)**, you can start this emulator with **RPCEmu-Interpreter.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 

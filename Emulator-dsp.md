@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DSP Emulator** is a emulator for **Unknown** made by **Leniad**, license: **Freeware - Non-Commercial**
+**DSP Emulator** is a emulator for **Unknown** made by **Leniad** and has a **Freeware - Non-Commercial** license.
+
+The latest version of the emulator is **0.17b1-win32**, released on **2016-10-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **dsp.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,7 +8,9 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz**, license: **Non-standard**
+**PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz** and has a **Non-standard** license.
+
+The latest version of the emulator is **1.45a**, released on **2008-05-22**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **PicoDrive.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
