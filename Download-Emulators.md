@@ -411,10 +411,37 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | FCEUX team | Freeware |
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
 | :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
 | :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
+***
+## _Fujitsu FM-7 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fm7_teaser.png)
+###### ECC ID: **fm7**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| :file_folder: [**XM7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7#menu) | PI. and Ryu Takegami | UNKNOWN |
+| :file_folder: [**XM7dash**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7dash#menu) | PI., Ryu Takegami and Toma | UNKNOWN |
+***
+## _Galaksija - Galaksija Plus (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_galplus_teaser.png)
+###### ECC ID: **galplus**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | Sadrzaj | UNKNOWN |
+***
+## _Tiger Electronics Game.com (Handheld)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gamecom_teaser.png)
+###### ECC ID: **gamecom**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | UNKNOWN | UNKNOWN |
 ***
 ## _Nintendo Game Boy (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gb_teaser.png)
@@ -422,13 +449,17 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
+| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
-| :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
-| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
-| :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
 | :file_folder: [**TGB Dual**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tgbdual#menu) | Gigo and Hii | Freeware |
+| :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
+| :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
+| :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 ***
 ## _Nintendo Game Boy Advance (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gba_teaser.png)
@@ -436,8 +467,10 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
+| :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 ***
 ## _Nintendo Game Boy Color (Handheld)_
@@ -446,13 +479,17 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
+| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
-| :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
-| :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
-| :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
 | :file_folder: [**TGB Dual**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tgbdual#menu) | Gigo and Hii | Freeware |
+| :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
+| :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
+| :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
 ***
 ## _Sega Mega Drive/Genesis (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gen_teaser.png)
@@ -482,6 +519,7 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _HomeLAB series - HomeLAB 4 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_homelab4_teaser.png)
@@ -571,6 +609,7 @@
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 | :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nomsx#menu) | Martin Korth | Shareware |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _MSX 2 Home Computer (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msx2_teaser.png)
@@ -580,6 +619,7 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
 | :file_folder: [**no$msx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nomsx#menu) | Martin Korth | Shareware |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _MSX Turbo R (Panasonic FS-A1GT/ST) (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msxtr_teaser.png)
@@ -596,6 +636,22 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | Michael Franzen | GNU GPLv2 |
+***
+## _Sharp MZ-2000 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mz2000_teaser.png)
+###### ECC ID: **mz2000**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
+## _Sharp MZ-2500/SuperMZ (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mz2500_teaser.png)
+###### ECC ID: **mz2500**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Nintendo N64 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_n64_teaser.png)
@@ -674,6 +730,30 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**NeoPop**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neopop#menu) | neopop_uk | GNU GPLv2 |
 ***
+## _NEC PC-6001 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc6001_teaser.png)
+###### ECC ID: **pc6001**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
+## _NEC PC-8801 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc8801_teaser.png)
+###### ECC ID: **pc8801**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
+## _NEC PC-9801 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc9801_teaser.png)
+###### ECC ID: **pc9801**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
 ## _NEC Turbografx-16/PC-Engine (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pce_teaser.png)
 ###### ECC ID: **pce**
@@ -691,6 +771,7 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _NEC PC-FX (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pcfx_teaser.png)
@@ -750,6 +831,22 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
+***
+## _Casio PV-1000 (Console)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv1000_teaser.png)
+###### ECC ID: **pv1000**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
+## _Casio PV-2000 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv2000_teaser.png)
+###### ECC ID: **pv2000**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Namco System 11 (Arcade)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_s11_teaser.png)
@@ -812,6 +909,15 @@
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+***
+## _Epoch/Yeno Super Cassette Vision (Console)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_scv_teaser.png)
+###### ECC ID: **scv**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Sega SG-1000 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sg1000_teaser.png)
@@ -854,6 +960,7 @@
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Nintendo Super Nintendo (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_snes_teaser.png)
@@ -865,6 +972,14 @@
 | :file_folder: [**no$sns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nosns#menu) | Martin Korth | Freeware |
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snes9x#menu) | Gary Henderson | Freeware |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
+***
+## _Sord M5 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sordm5_teaser.png)
+###### ECC ID: **sordm5**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Atari ST (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_st_teaser.png)
@@ -898,6 +1013,14 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | Attila Grosz | Freeware |
 | :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
+***
+## _Tomy Tutor/Pyuta (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tutor_teaser.png)
+###### ECC ID: **tutor**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Elektor TV Games (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tvgames_teaser.png)
@@ -940,6 +1063,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 ***
 ## _Bandai Wonderswan Color (Handheld)_
@@ -948,7 +1072,16 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+***
+## _Sharp X1 (Computer)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_x1_teaser.png)
+###### ECC ID: **x1**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 ***
 ## _Sony ZiNc (ZN-1/ZN-2) (Arcade)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_zinc_teaser.png)
