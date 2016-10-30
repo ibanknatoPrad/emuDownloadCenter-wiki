@@ -455,8 +455,10 @@
 | :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 | :file_folder: [**TGB Dual**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tgbdual#menu) | Gigo and Hii | Freeware |
+| :file_folder: [**VisualBoyAdvance-M-WX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbam#menu) | The VBA-M development team | GNU GPLv2 |
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
 | :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
@@ -467,10 +469,16 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**BoycottAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-boycottadv#menu) | Julien FRELAT aka Gollum | Freeware |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
+| :file_folder: [**iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Lino and Actarus | GNU GPLv2 |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
+| :file_folder: [**RascalBoy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rascalboyadv#menu) | Lino Maglione | Limited Use Software Licence Agreement |
+| :file_folder: [**VisualBoyAdvance-M-WX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbam#menu) | The VBA-M development team | GNU GPLv2 |
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
+| :file_folder: [**Virtual GameBoy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgba#menu) | Marat Fayzullin | Freeware |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 ***
 ## _Nintendo Game Boy Color (Handheld)_
@@ -485,6 +493,7 @@
 | :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
 | :file_folder: [**TGB Dual**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tgbdual#menu) | Gigo and Hii | Freeware |
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
@@ -677,6 +686,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Lino and Actarus | GNU GPLv2 |
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 ***
 ## _Nintendo NES/Famicom (Console)_
