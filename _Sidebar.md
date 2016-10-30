@@ -11,4 +11,6 @@
 ###[**Collecting walktrough**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
 ***
 ### Other
-###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/edc-statistics)
+###[**Extract 7z files**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Extract-7z-files)
+
+###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Statistics)
