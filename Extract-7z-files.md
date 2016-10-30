@@ -8,4 +8,4 @@
 
 ### Extract 7z files
 
-You can install [7zip](http://www.7-zip.org/) to extact **7z** archives, any other software supporting 7z will also do the job!
+You can install [**7ZIP**](http://www.7-zip.org/) to extact **7z** archives, any other software supporting 7z will also do the job!
