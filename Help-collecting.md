@@ -44,6 +44,6 @@ Also Emulators builders/programmers are welcome to share their latest version!, 
 
 - No bandwith(costs) and more speed!
 
-- No pesky file deposit site's or any broken links!
+- No file deposit site's or any broken links!
 
 - etc...
