@@ -450,10 +450,14 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
+| :file_folder: [**DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | Prads | GNU GPLv3 |
 | :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| :file_folder: [**FireGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-firegb#menu) | Frankablu | GNU GPLv2 |
+| :file_folder: [**GB Enhanced+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gbeplus#menu) | D S Baxter aka Shonumi | GNU GPLv2 |
 | :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
+| :file_folder: [**KiGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kigb#menu) | Ricky Liu and Scott Nash | GNU GPLv2 |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
@@ -462,6 +466,7 @@
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
 | :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
+| :file_folder: [**zBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zboy#menu) | Mateusz Viste | GNU GPLv3 |
 ***
 ## _Nintendo Game Boy Advance (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gba_teaser.png)
@@ -470,6 +475,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**BoycottAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-boycottadv#menu) | Julien FRELAT aka Gollum | Freeware |
+| :file_folder: [**GB Enhanced+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gbeplus#menu) | D S Baxter aka Shonumi | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Lino and Actarus | GNU GPLv2 |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
@@ -488,10 +494,13 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
+| :file_folder: [**DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | Prads | GNU GPLv3 |
 | :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| :file_folder: [**GB Enhanced+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gbeplus#menu) | D S Baxter aka Shonumi | GNU GPLv2 |
 | :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
+| :file_folder: [**KiGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kigb#menu) | Ricky Liu and Scott Nash | GNU GPLv2 |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |
@@ -499,6 +508,29 @@
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 | :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
+***
+## _Nintendo GameCube (Console)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gc_teaser.png)
+###### ECC ID: **gc**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | spartan11-7 | GNU GPLv2 |
+***
+## _Sega Mega Drive/Genesis (Console)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gen_teaser.png)
+###### ECC ID: **gen**
+
+| Emulator   | Author      | License     |
+|:-----------|:------------|:------------|
+| :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
+| :file_folder: [**Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | Stephane Dallongeville | GNU GPLv2 |
+| :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
+| :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
+| :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
+| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
+| :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 ***
 ## _Sega Mega Drive/Genesis (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gen_teaser.png)
@@ -521,14 +553,20 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | Dave | Freeware - Non-Commercial |
+| :file_folder: [**Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | Martin and Robert Konrad | KonTechs Freeware License |
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
+| :file_folder: [**GearSystem**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gearsystem#menu) | Ignacio Sanchez | GNU GPLv3 |
 | :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
+| :file_folder: [**MesaDX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesadx#menu) | Eric R Quinn | Freeware - Non-Commercial |
+| :file_folder: [**Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | Bruno Vedder | GNU GPLv2 |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
 ***
 ## _HomeLAB series - HomeLAB 4 (Computer)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_homelab4_teaser.png)
@@ -940,6 +978,7 @@
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
 ***
 ## _Sega Mega-CD (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_smcd_teaser.png)
@@ -960,17 +999,23 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | Dave | Freeware - Non-Commercial |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| :file_folder: [**Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | Martin and Robert Konrad | KonTechs Freeware License |
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
+| :file_folder: [**GearSystem**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gearsystem#menu) | Ignacio Sanchez | GNU GPLv3 |
 | :file_folder: [**Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | :file_folder: [**Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
+| :file_folder: [**MesaDX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesadx#menu) | Eric R Quinn | Freeware - Non-Commercial |
+| :file_folder: [**Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | Bruno Vedder | GNU GPLv2 |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
 ***
 ## _Nintendo Super Nintendo (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_snes_teaser.png)
