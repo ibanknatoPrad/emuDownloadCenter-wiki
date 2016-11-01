@@ -10,4 +10,4 @@
 | :file_folder: [**Project64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64#menu) | Zilmar and Jabo | Freeware |
 | :file_folder: [**Project64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k#menu) | Smasherx74 | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

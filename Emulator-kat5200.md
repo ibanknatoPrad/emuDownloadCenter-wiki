@@ -25,3 +25,5 @@ _kat5200 is an emulator for the Atari 5200 and 8-bit computers._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.6.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/kat5200/0.6.2.7z) | 2009-06-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kat5200/0.6.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kat5200/0.6.2_contents.txt) | 1113 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

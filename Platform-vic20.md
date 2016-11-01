@@ -9,4 +9,4 @@
 | :file_folder: [**no$c64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
 | :file_folder: [**WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

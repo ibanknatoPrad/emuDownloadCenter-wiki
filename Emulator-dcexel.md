@@ -25,3 +25,5 @@ _DCEXEL is an emulator for Exelvision 8bit computers: EXL100, Exeltel, Exetel VS
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2012.04**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/dcexel/2012.04.7z) | 2012-04-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dcexel/2012.04_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dcexel/2012.04_contents.txt) | 457 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

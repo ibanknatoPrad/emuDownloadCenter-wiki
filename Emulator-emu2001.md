@@ -25,3 +25,5 @@ _Emulator 2001 is a multi-system emulator that supports the Emerson Arcadia 2001
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v120707**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/em2001/120707.7z) | 2007-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu2001/120707_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu2001/120707_contents.txt) | 1021 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

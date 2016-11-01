@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | Michael Franzen | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

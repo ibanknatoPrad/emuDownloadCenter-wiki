@@ -23,3 +23,5 @@ _Osmose is a Sega Master System and Game Gear emulator._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.8.5b**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/osmose/0.8.5b.7z) | 2009-01-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/osmose/0.8.5b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/osmose/0.8.5b_contents.txt) | 312 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

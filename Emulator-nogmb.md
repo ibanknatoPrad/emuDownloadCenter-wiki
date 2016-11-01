@@ -25,3 +25,5 @@ _No$gmb is a emulator for gameboy, pocket gameboy, super gameboy, and color game
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nogmb/2.5.7z) | 2000-07-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nogmb/2.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nogmb/2.5_contents.txt) | 140 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

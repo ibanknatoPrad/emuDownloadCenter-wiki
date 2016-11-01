@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

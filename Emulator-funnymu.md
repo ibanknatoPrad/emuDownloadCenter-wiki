@@ -25,3 +25,5 @@ _FunnyMu is a Funvision/Whizzard/Creativision emulator for Linux/Mac OS X and (s
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.43**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/funnymu/0.43.7z) | 2002-01-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/funnymu/0.43_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/funnymu/0.43_contents.txt) | 206 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

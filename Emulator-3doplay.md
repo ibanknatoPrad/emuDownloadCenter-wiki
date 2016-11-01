@@ -27,3 +27,5 @@ _3DOplay is a Russian emulator for the Panasonic 3DO forked from the FreeDO sour
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.8.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3doplay/1.8.2.7z) | 2012-04-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_contents.txt) | 2706 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

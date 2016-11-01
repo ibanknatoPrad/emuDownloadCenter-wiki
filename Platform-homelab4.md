@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**Hola!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hola#menu) | Attila Grosz | UNKNOWN |
 | :file_folder: [**HomeLAB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-homelab#menu) | Grósz Attila | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

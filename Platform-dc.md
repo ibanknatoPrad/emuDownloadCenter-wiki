@@ -10,4 +10,4 @@
 | :file_folder: [**Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | Demul Team | UNKNOWN |
 | :file_folder: [**nullDC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nulldc#menu) | Stefanos Kornilios Mitsis Poiitidis | UNKNOWN |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

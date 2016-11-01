@@ -9,4 +9,4 @@
 | :file_folder: [**Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | David Raingeard | Freeware |
 | :file_folder: [**ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | The_Author and DynaChicken | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

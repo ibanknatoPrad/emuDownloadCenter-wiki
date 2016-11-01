@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

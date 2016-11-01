@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Genieous**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-genieous#menu) | Attila Grosz | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

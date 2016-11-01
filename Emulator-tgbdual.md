@@ -26,3 +26,5 @@ _TGB Dual is a Game Boy / Game Boy Color emulator that supports loading two diff
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v8.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/tgbdual/8.3.7z) | 2004-03-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/8.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/8.3_contents.txt) | 148 KB |
 | :floppy_disk: [**v7.2053-0.96**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/tgbdual/7.2053-0.96.7z) | 2001-09-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/7.2053-0.96_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/7.2053-0.96_contents.txt) | 246 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -22,4 +22,4 @@
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 | :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

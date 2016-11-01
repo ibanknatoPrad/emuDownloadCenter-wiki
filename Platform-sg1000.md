@@ -13,4 +13,4 @@
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

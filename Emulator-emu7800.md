@@ -27,3 +27,5 @@ _EMU7800 is an Atari 7800 emulator implemented using Microsoft's .NET platform. 
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/emu7800/1.8.7z) | 2015-09-27 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/emu7800/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/emu7800/1.8_contents.txt) | 1918 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

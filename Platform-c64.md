@@ -17,4 +17,4 @@
 | :file_folder: [**VB64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vb64#menu) | Amigafeeva | GNU GPLv2 |
 | :file_folder: [**WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Pom1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pom1#menu) | John D Corrado and Verhille Arnaud | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

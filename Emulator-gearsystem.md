@@ -26,3 +26,5 @@ _GearSystem is a Sega Master System and Game Gear emulator_
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gearsystem/1.0.7z) | 2013-11-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.0_contents.txt) | 4055 KB |
 | :floppy_disk: [**v1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gearsystem/1.2.7z) | 2014-07-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.2_contents.txt) | 11073 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

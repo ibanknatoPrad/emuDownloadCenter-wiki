@@ -26,3 +26,5 @@ _Micro64 aims to be the most accurate Commodore 64 emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.00.2013.05.11-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/micro64/1.00.2013.05.11-win64.7z) | 2013-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/micro64/1.00.2013.05.11-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/micro64/1.00.2013.05.11-win64_contents.txt) | 2129 KB |
 | :floppy_disk: [**v1.00.2013.05.11-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/micro64/1.00.2013.05.11-win32.7z) | 2013-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/micro64/1.00.2013.05.11-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/micro64/1.00.2013.05.11-win32_contents.txt) | 2025 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**NeoCD/SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neocdsdl#menu) | Fosters | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

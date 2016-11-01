@@ -25,3 +25,5 @@ _mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.5.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/mgba/0.5.1.7z) | 2016-10-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mgba/0.5.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mgba/0.5.1_contents.txt) | 10425 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -11,4 +11,4 @@
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snes9x#menu) | Gary Henderson | Freeware |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

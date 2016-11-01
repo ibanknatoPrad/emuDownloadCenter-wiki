@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | Daniel Coulom | Freeware - Non-Commercial |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

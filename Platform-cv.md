@@ -9,4 +9,4 @@
 | :file_folder: [**creatiVision Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-creativision#menu) | cvemu | UNKNOWN |
 | :file_folder: [**FunnyMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-funnymu#menu) | Pablo | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

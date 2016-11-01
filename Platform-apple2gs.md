@@ -9,4 +9,4 @@
 | :file_folder: [**GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | GSport Development Team | GNU GPLv2 |
 | :file_folder: [**Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | Kent Dickey | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

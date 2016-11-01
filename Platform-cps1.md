@@ -13,4 +13,4 @@
 | :file_folder: [**Nebula**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nebula#menu) | ElSemi | Freeware |
 | :file_folder: [**WinKawaks**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winkawaks#menu) | The WinKawaks Team | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

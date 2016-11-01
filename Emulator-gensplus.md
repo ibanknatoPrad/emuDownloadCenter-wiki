@@ -23,3 +23,5 @@ _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.0.9.61**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gensplus/0.0.9.61.7z) | 2005-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_contents.txt) | 508 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

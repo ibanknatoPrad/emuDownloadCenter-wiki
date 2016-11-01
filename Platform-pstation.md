@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

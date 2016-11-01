@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | Karl Stenerud | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

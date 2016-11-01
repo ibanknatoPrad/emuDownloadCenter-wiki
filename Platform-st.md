@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

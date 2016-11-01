@@ -11,4 +11,4 @@
 | :file_folder: [**FreeDo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

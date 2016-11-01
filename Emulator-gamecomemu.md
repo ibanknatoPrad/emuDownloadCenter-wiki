@@ -23,3 +23,5 @@ _Game.Com Emulator is the only (AFAIK) emulator for the Tiger Game.Com._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v29.12.98**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gamecomemu/29.12.98.7z) | 1998.12.29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_contents.txt) | 228 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

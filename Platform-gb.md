@@ -25,4 +25,4 @@
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 | :file_folder: [**zBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zboy#menu) | Mateusz Viste | GNU GPLv3 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

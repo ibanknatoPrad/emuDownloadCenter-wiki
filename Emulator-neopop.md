@@ -27,3 +27,5 @@ _NeoPop is a portable 'NeoGeo Pocket (Color)' emulator._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.06b**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/neopop/1.06b.7z) | 2002-09-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neopop/1.06b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neopop/1.06b_contents.txt) | 107 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

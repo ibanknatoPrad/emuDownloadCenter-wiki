@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | spartan11-7 | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

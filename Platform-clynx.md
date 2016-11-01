@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Jynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jynx#menu) | Jonathan Markland | GNU GPLv3 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

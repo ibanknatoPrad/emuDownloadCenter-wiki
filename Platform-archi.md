@@ -11,4 +11,4 @@
 | :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rpcemu#menu) | Tom Walker | Freeware |
 | :file_folder: [**Archie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-archie#menu) | Chris-o | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

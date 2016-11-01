@@ -25,3 +25,5 @@ _nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note 
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v2.8d**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nogba/2.8d.7z) | 2016-05-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nogba/2.8d_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nogba/2.8d_contents.txt) | 205 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

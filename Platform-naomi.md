@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | Demul Team | UNKNOWN |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

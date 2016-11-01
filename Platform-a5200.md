@@ -14,4 +14,4 @@
 | :file_folder: [**kat5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kat5200#menu) | Brian Berlin | GNU GPL |
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) | Chris Lam | UNKNOWN |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

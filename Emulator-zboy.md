@@ -25,3 +25,5 @@ _zBoy is a Nintendo Game Boy emulator. Screenshot from Author's Website._
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.60**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/zboy/0.60.7z) | 2015-04-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/zboy/0.60_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/zboy/0.60_contents.txt) | 406 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -25,3 +25,5 @@ _This emulator collection by Toshiya Takeda contains multiple executables for ma
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v13.04.16**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/takeda/13.04.16.7z) | 2016-04-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_contents.txt) | 5538 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

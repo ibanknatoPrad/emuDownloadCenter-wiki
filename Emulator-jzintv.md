@@ -1,0 +1,30 @@
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+***
+## Menu
+| **Emulator: jzIntv** |
+|:---------|
+| :clipboard: [About](#about) |
+| :sunrise: [Screenshot](#screenshot) |
+| :floppy_disk: [Downloads](#downloads) |
+***
+## About
+**jzIntv** is a emulator for **Mattel Intellivision** made by **Joe Zbiciak** and has a **GNU GPLv2** license.
+
+The latest version of the emulator on EDC is **v1.0b3**, released on **2006-07-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **jzintv.exe**.
+
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
+
+_jzIntv is an Intellivision emulator._
+
+:link: [**Emulator website**](http://spatula-city.org/~im14u2c/intv)
+***
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jzintv/screen.jpg "jzIntv screenshot.")
+***
+## Downloads
+| Download | Release date  | Info       | Info       | DL Size    |
+|:---------|:-------------:|:-----------|:-----------|-----------:|
+| :floppy_disk: [**v1.0b3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jzintv/1.0b3.7z) | 2006-07-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b3_contents.txt) | 1616 KB |
+| :floppy_disk: [**v1.0b4**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jzintv/1.0b4.7z) | 2012-08-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b4_contents.txt) | 722 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

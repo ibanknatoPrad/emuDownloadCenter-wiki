@@ -26,3 +26,5 @@ _Hoxs64 is a cycle-exact emulator of the Commodore 64._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.0.8.9-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/hoxs64/1.0.8.9-win32.7z) | 2016-05-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hoxs64/1.0.8.9-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hoxs64/1.0.8.9-win32_contents.txt) | 343 KB |
 | :floppy_disk: [**v1.0.8.9-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/hoxs64/1.0.8.9-win64.7z) | 2016-05-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hoxs64/1.0.8.9-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hoxs64/1.0.8.9-win64_contents.txt) | 391 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

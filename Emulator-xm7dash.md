@@ -25,3 +25,5 @@ _XM7dash is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in 
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v3.4.6.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fm7dash/3.4.6.3.7z) | 2015-08-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7dash/3.4.6.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7dash/3.4.6.3_contents.txt) | 233 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -25,3 +25,5 @@ _Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection 
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v0.42**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/callus/0.42.7z) | 2000-11-21 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_contents.txt) | 156 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

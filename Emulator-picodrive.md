@@ -25,3 +25,5 @@ _Picodrive is a Sega 32X, Sega Megadrive / Genesis, Sega Master System & Sega Me
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.45a**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/picodrive/1.45a.7z) | 2008-05-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/picodrive/1.45a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/picodrive/1.45a_contents.txt) | 1131 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

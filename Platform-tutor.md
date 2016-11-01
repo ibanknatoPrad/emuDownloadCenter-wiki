@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -27,3 +27,5 @@ _BGB is a Gameboy emulator, a program that lets you play Gameboy and Gameboy Col
 | Download | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**v1.5.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/bgb/1.5.2.7z) | 2015-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/bgb/1.5.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/bgb/1.5.2_contents.txt) | 407 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -9,4 +9,4 @@
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -9,4 +9,4 @@
 | :file_folder: [**Atomulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atomulator#menu) | Tom Walker | GNU GPLv2 |
 | :file_folder: [**ACORN ATOM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atom#menu) | Wouter Ras | Freeware |
 
-[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
