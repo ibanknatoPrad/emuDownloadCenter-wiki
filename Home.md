@@ -8,4 +8,4 @@ This year we are releasing a module for [**emuControlCenter**](https://github.co
 
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 
-###[**View Emulator listing**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/download-emulators)
+###[**View Emulator listing**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
