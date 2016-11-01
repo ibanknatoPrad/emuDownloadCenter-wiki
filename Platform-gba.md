@@ -1,4 +1,4 @@
-###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), a module of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Nintendo Game Boy Advance (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gba_teaser.png)
@@ -18,3 +18,5 @@
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Forgotten, the VBA Team and the VBA-rr Team | GNU GPLv2 |
 | :file_folder: [**Virtual GameBoy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgba#menu) | Marat Fayzullin | Freeware |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
+
+[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

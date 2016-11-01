@@ -1,4 +1,4 @@
-###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), a module of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Sega Mega-CD (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_smcd_teaser.png)
@@ -12,3 +12,5 @@
 | :file_folder: [**Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
+
+[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

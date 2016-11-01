@@ -1,4 +1,4 @@
-###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), a module of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Atari 5200 (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a5200_teaser.png)
@@ -13,3 +13,5 @@
 | :file_folder: [**Jum52**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jum52#menu) | James | Freeware |
 | :file_folder: [**kat5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kat5200#menu) | Brian Berlin | GNU GPL |
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) | Chris Lam | UNKNOWN |
+
+[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -1,4 +1,4 @@
-###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), a module of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Nintendo Game Boy (Handheld)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gb_teaser.png)
@@ -24,3 +24,5 @@
 | :file_folder: [**Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | Marat Fayzullin | UNKNOWN |
 | :file_folder: [**VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | Forgotten & kxu | Freeware |
 | :file_folder: [**zBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zboy#menu) | Mateusz Viste | GNU GPLv3 |
+
+[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

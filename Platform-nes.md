@@ -1,4 +1,4 @@
-###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), a module of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Nintendo NES/Famicom (Console)_
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_nes_teaser.png)
@@ -13,3 +13,5 @@
 | :file_folder: [**no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | Martin Korth | Freeware |
 | :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
 | :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
+
+[Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
