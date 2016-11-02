@@ -22,8 +22,8 @@ _ColEm is a portable emulator of the old ColecoVision videogame console. It shou
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/colem/screen.jpg "ColEm screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v3.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/colem/3.8.7z) | 2016-09-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_contents.txt) | 136 KB |
+| :floppy_disk: [**3.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/colem/3.8.7z) | 2016-09-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_contents.txt) | 136 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

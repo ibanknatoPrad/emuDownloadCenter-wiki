@@ -20,8 +20,8 @@ _Lisa is an Apple Lisa emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisa/screen.jpg "Lisa screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.10a**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/lisa/0.10a.7z) | 2008-04-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/lisa/0.10a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/lisa/0.10a_contents.txt) | 527 KB |
+| :floppy_disk: [**0.10a**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/lisa/0.10a.7z) | 2008-04-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/lisa/0.10a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/lisa/0.10a_contents.txt) | 527 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

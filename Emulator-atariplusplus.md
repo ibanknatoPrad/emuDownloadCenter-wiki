@@ -22,8 +22,8 @@ _atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atariplusplus/screen.jpg "atari++ screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.58**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atariplusplus/1.58.7z) | 2009-11-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atariplusplus/1.58_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atariplusplus/1.58_contents.txt) | 564 KB |
+| :floppy_disk: [**1.58**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atariplusplus/1.58.7z) | 2009-11-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atariplusplus/1.58_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atariplusplus/1.58_contents.txt) | 564 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -20,8 +20,8 @@ _Vace is a Jupiter Cantab Jupiter Ace emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vace/screen.jpg "Vace screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vace/1.0.7z) | 1998-11-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_contents.txt) | 39 KB |
+| :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vace/1.0.7z) | 1998-11-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_contents.txt) | 39 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

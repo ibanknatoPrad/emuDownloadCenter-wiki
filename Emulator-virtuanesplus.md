@@ -22,8 +22,8 @@ _VirtuaNES Plus is an emulator for the Nintendo NES and Famicom based on VirtuaN
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanesplus/screen.jpg "VirtuaNES Plus screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2013.03.29**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/virtuanesplus/2013.03.29.7z) | 2013-03-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanesplus/2013.03.29_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanesplus/2013.03.29_contents.txt) | 351 KB |
+| :floppy_disk: [**2013.03.29**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/virtuanesplus/2013.03.29.7z) | 2013-03-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanesplus/2013.03.29_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanesplus/2013.03.29_contents.txt) | 351 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

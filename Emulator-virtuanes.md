@@ -22,8 +22,8 @@ _VirtuaNES is an emulator for the Nintendo NES and Famicom. The website is a mix
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanes/screen.jpg "VirtuaNES screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.97e**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/virtuanes/0.97e.7z) | 2007-10-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanes/0.97e_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanes/0.97e_contents.txt) | 318 KB |
+| :floppy_disk: [**0.97e**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/virtuanes/0.97e.7z) | 2007-10-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanes/0.97e_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtuanes/0.97e_contents.txt) | 318 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

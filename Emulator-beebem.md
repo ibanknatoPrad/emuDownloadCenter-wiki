@@ -22,8 +22,8 @@ _BeebEm is a BBC Micro and Master 128 emulator. It enables you to run BBC Micro 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/beebem/screen.jpg "BeebEm screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v4.14**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/beebem/4.14.7z) | 2009-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_contents.txt) | 3039 KB |
+| :floppy_disk: [**4.14**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/beebem/4.14.7z) | 2009-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_contents.txt) | 3039 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

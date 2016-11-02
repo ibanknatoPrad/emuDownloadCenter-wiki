@@ -20,8 +20,8 @@ _NICE64 is a Nintendo 64 emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nice64/screen.jpg "NICE64 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nice64/2.1.1.7z) | 2012-05-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nice64/2.1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nice64/2.1.1_contents.txt) | 2486 KB |
+| :floppy_disk: [**2.1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nice64/2.1.1.7z) | 2012-05-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nice64/2.1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nice64/2.1.1_contents.txt) | 2486 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

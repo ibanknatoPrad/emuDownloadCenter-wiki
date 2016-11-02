@@ -22,9 +22,9 @@ _Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Nao
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/demul/screen.jpg "Demul screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.5.5-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win32.7z) | 2009-10-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_contents.txt) | 649 KB |
-| :floppy_disk: [**v0.5.5-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win64.7z) | 2009-10-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_contents.txt) | 729 KB |
+| :floppy_disk: [**0.5.5-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win32.7z) | 2009-10-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_contents.txt) | 649 KB |
+| :floppy_disk: [**0.5.5-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win64.7z) | 2009-10-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_contents.txt) | 729 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

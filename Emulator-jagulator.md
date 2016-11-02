@@ -22,8 +22,8 @@ _Jagulator is an Atari Jaguar emulator. It runs way to fast to be playable on my
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jagulator/screen.jpg "Jagulator screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jagulator/2.0.2.7z) | 2011-06-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jagulator/2.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jagulator/2.0.2_contents.txt) | 356 KB |
+| :floppy_disk: [**2.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jagulator/2.0.2.7z) | 2011-06-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jagulator/2.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jagulator/2.0.2_contents.txt) | 356 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

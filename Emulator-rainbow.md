@@ -20,8 +20,8 @@ _Rainbow emulates the Atari 8-bit series of home computers including the_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rainbow/screen.jpg "Rainbow screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.20**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rainbow/2.20.7z) | 2012-08-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rainbow/2.20_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rainbow/2.20_contents.txt) | 665 KB |
+| :floppy_disk: [**2.20**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rainbow/2.20.7z) | 2012-08-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rainbow/2.20_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rainbow/2.20_contents.txt) | 665 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

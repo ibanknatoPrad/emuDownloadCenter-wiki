@@ -24,8 +24,8 @@ _VB64 is a Commodore 64 emulator written in VisualBasic._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vb64/screen.jpg "VB64 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vb64/2.0.7z) | 2004-12-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vb64/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vb64/2.0_contents.txt) | 313 KB |
+| :floppy_disk: [**2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vb64/2.0.7z) | 2004-12-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vb64/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vb64/2.0_contents.txt) | 313 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

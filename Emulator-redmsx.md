@@ -22,8 +22,8 @@ _RedMSX is an MSX, MSX2 and MSX2+ emulator. Screenshot taken from Author's Websi
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/redmsx/screen.jpg "RedMSX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.4**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/redmsx/1.4.7z) | 2005-03-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/redmsx/1.4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/redmsx/1.4_contents.txt) | 494 KB |
+| :floppy_disk: [**1.4**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/redmsx/1.4.7z) | 2005-03-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/redmsx/1.4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/redmsx/1.4_contents.txt) | 494 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

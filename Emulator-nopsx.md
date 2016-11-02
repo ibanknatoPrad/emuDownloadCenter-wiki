@@ -22,8 +22,8 @@ _nocash PS1 emulator/debugger for windows_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nopsx/screen.jpg "no$psx screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nopsx/1.9.7z) | 2014-05-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nopsx/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nopsx/1.9_contents.txt) | 579 KB |
+| :floppy_disk: [**1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nopsx/1.9.7z) | 2014-05-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nopsx/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nopsx/1.9_contents.txt) | 579 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

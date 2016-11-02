@@ -24,8 +24,8 @@ _Jnes is a NES emulator for Windows platforms. Its emulation capabilities includ
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jnes/screen.jpg "Jnes screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/jnes/2.2.2.7z) | 2013-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/jnes/2.2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/jnes/2.2.2_contents.txt) | 0 KB |
+| :floppy_disk: [**2.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/jnes/2.2.2.7z) | 2013-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/jnes/2.2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/jnes/2.2.2_contents.txt) | 0 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

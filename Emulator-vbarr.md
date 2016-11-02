@@ -22,8 +22,8 @@ _VBA rerecording is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emu
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbarr/screen.jpg "VisualBoyAdvance-rerecording screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v23.5**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbarr/23.5.7z) | 2013-04-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_contents.txt) | 1258 KB |
+| :floppy_disk: [**23.5**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbarr/23.5.7z) | 2013-04-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_contents.txt) | 1258 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

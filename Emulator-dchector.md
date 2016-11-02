@@ -22,8 +22,8 @@ _DCHector is an Interact Home Computer System emulator and several other compute
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dchector/screen.jpg "DCHector screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/dchector/0.1.7z) | 2005-11-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dchector/0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dchector/0.1_contents.txt) | 74 KB |
+| :floppy_disk: [**0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/dchector/0.1.7z) | 2005-11-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dchector/0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/dchector/0.1_contents.txt) | 74 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

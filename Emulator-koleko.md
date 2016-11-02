@@ -20,8 +20,8 @@ _KOLEKO is a Coleco ColecoVision emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/koleko/screen.jpg "KOLEKO screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.33**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/koleko/1.33.7z) | 2002-10-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_contents.txt) | 641 KB |
+| :floppy_disk: [**1.33**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/koleko/1.33.7z) | 2002-10-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_contents.txt) | 641 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -24,8 +24,8 @@ _WinFellow is a high performance Amiga Emulator primarily targeted for Windows. 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winfellow/screen.jpg "WinFellow screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.5.3.1004**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winfellow/0.5.3.1004.7z) | 2015-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winfellow/0.5.3.1004_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winfellow/0.5.3.1004_contents.txt) | 1560 KB |
+| :floppy_disk: [**0.5.3.1004**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winfellow/0.5.3.1004.7z) | 2015-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winfellow/0.5.3.1004_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winfellow/0.5.3.1004_contents.txt) | 1560 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

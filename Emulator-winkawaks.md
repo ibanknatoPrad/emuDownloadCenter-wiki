@@ -24,9 +24,9 @@ _WinKawaks is a windows version of Kawaks, an emulator for the Capcom CPS1 and C
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winkawaks/screen.jpg "WinKawaks screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.65**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/winkawks/1.65.7z) | 2016-04-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.65_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.65_contents.txt) | 514 KB |
-| :floppy_disk: [**v1.62**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/winkawks/1.62.7z) | 2010-05-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.62_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.62_contents.txt) | 502 KB |
+| :floppy_disk: [**1.65**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/winkawks/1.65.7z) | 2016-04-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.65_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.65_contents.txt) | 514 KB |
+| :floppy_disk: [**1.62**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/winkawks/1.62.7z) | 2010-05-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.62_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/winkawaks/1.62_contents.txt) | 502 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

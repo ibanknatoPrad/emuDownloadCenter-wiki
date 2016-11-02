@@ -24,10 +24,10 @@ _Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-drive
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mednafen/screen.jpg "Mednafen screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.9.39-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.39-x64.7z) | 2016-08-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x64_contents.txt) | 7590 KB |
-| :floppy_disk: [**v0.9.39-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.39-x86.7z) | 2016-08-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_contents.txt) | 4097 KB |
-| :floppy_disk: [**v0.9.24-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.24-x86.7z) | 2012-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_contents.txt) | 3727 KB |
+| :floppy_disk: [**0.9.39-x64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.39-x64.7z) | 2016-08-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x64_contents.txt) | 7590 KB |
+| :floppy_disk: [**0.9.39-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.39-x86.7z) | 2016-08-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_contents.txt) | 4097 KB |
+| :floppy_disk: [**0.9.24-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.24-x86.7z) | 2012-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_contents.txt) | 3727 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

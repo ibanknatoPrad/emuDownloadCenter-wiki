@@ -22,9 +22,9 @@ _Mini vMac is an Apple Macintosh (using Motorola 680x0 processors) emulator. Scr
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minivmac/screen.jpg "Mini vMac screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v3.3.3-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/minivmac/3.3.3-win32.7z) | 2013-11-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win32_contents.txt) | 44 KB |
-| :floppy_disk: [**v3.3.3-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/minivmac/3.3.3-win64.7z) | 2013-11-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win64_contents.txt) | 56 KB |
+| :floppy_disk: [**3.3.3-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/minivmac/3.3.3-win32.7z) | 2013-11-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win32_contents.txt) | 44 KB |
+| :floppy_disk: [**3.3.3-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/minivmac/3.3.3-win64.7z) | 2013-11-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/minivmac/3.3.3-win64_contents.txt) | 56 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

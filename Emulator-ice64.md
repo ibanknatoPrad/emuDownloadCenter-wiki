@@ -22,8 +22,8 @@ _ICE64 is a Nintendo 64 emulator base on the NICE64 v2.1.2 code base_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ice64/screen.jpg "ICE64 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | 2012-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
+| :floppy_disk: [**3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | 2012-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -22,8 +22,8 @@ _XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japa
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm7/screen.jpg "XM7 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v3.4.6.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fm7/3.4.6.2.7z) | 2014-04-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_contents.txt) | 222 KB |
+| :floppy_disk: [**3.4.6.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fm7/3.4.6.2.7z) | 2014-04-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_contents.txt) | 222 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

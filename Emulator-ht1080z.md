@@ -22,9 +22,9 @@ _HT-1080Z is a VideoGenie I, System-80, TRS-80 and HT-1080Z emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ht1080z/screen.jpg "HT1080Z screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.6.4-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/ht1080z/1.6.4-win32.7z) | 2011-10-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win32_contents.txt) | 123 KB |
-| :floppy_disk: [**v1.6.4-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/ht1080z/1.6.4-win64.7z) | 2011-10-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win64_contents.txt) | 133 KB |
+| :floppy_disk: [**1.6.4-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/ht1080z/1.6.4-win32.7z) | 2011-10-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win32_contents.txt) | 123 KB |
+| :floppy_disk: [**1.6.4-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/ht1080z/1.6.4-win64.7z) | 2011-10-03 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/ht1080z/1.6.4-win64_contents.txt) | 133 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

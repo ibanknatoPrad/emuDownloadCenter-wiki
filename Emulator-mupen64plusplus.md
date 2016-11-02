@@ -24,8 +24,8 @@ _Mupen64++ (aka Mupen64k) is the emulator for online play woring with the most g
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plusplus/screen.jpg "Mupen64++ screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.1.3.12**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/mupen64plusplus/0.1.3.12.7z) | 2015-06-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mupen64plusplus/0.1.3.12_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mupen64plusplus/0.1.3.12_contents.txt) | 2460 KB |
+| :floppy_disk: [**0.1.3.12**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/mupen64plusplus/0.1.3.12.7z) | 2015-06-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mupen64plusplus/0.1.3.12_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mupen64plusplus/0.1.3.12_contents.txt) | 2460 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

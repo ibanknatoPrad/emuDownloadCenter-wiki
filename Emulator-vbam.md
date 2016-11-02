@@ -22,8 +22,8 @@ _VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbam/screen.jpg "VisualBoyAdvance-M-WX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.0.0b1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbam/2.0.0b1.7z) | 2015-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_contents.txt) | 1953 KB |
+| :floppy_disk: [**2.0.0b1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbam/2.0.0b1.7z) | 2015-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_contents.txt) | 1953 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

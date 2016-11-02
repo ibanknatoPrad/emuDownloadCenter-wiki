@@ -24,8 +24,8 @@ _The NeonDS is an emulator of Nintendo’s latest handheld console, the Nintendo
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neonds/screen.jpg "NeonDS screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/neonds/0.2.1.7z) | 2008-07-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_contents.txt) | 257 KB |
+| :floppy_disk: [**0.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/neonds/0.2.1.7z) | 2008-07-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_contents.txt) | 257 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

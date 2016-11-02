@@ -22,9 +22,9 @@ _uBee512 is an emulator for the Microbee Z80 ROM, FDD and HDD based models._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ubee512/screen.jpg "uBee512 screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v5.7.0-portable**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ubee512/5.7.0-portable.7z) | 2015-12-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubee512/5.7.0-portable_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubee512/5.7.0-portable_contents.txt) | 795 KB |
-| :floppy_disk: [**v5.7.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ubee512/5.7.0.7z) | 2015-12-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ubee512/5.7.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ubee512/5.7.0_contents.txt) | 0 KB |
+| :floppy_disk: [**5.7.0-portable**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ubee512/5.7.0-portable.7z) | 2015-12-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubee512/5.7.0-portable_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubee512/5.7.0-portable_contents.txt) | 795 KB |
+| :floppy_disk: [**5.7.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ubee512/5.7.0.7z) | 2015-12-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ubee512/5.7.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ubee512/5.7.0_contents.txt) | 0 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

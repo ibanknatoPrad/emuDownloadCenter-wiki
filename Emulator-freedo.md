@@ -24,10 +24,10 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/freedo/screen.jpg "FreeDo screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.1.1-alpha**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/2.1.1-alpha.7z) | 2010-12-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/2.1.1-alpha_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/2.1.1-alpha_contents.txt) | 1601 KB |
-| :floppy_disk: [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_contents.txt) | 439 KB |
-| :floppy_disk: [**v1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_contents.txt) | 750 KB |
+| :floppy_disk: [**2.1.1-alpha**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/2.1.1-alpha.7z) | 2010-12-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/2.1.1-alpha_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/2.1.1-alpha_contents.txt) | 1601 KB |
+| :floppy_disk: [**1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_contents.txt) | 439 KB |
+| :floppy_disk: [**1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_contents.txt) | 750 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

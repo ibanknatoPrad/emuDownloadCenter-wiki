@@ -22,8 +22,8 @@ _Daphne is a LaserDisc Arcade Game emulator. As at v1.0.0 it can play the follow
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/daphne/screen.jpg "Daphne screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/daphne/1.0.0.7z) | 2009-04-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/daphne/1.0.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/daphne/1.0.0_contents.txt) | 2931 KB |
+| :floppy_disk: [**1.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/daphne/1.0.0.7z) | 2009-04-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/daphne/1.0.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/daphne/1.0.0_contents.txt) | 2931 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

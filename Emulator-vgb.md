@@ -22,8 +22,8 @@ _Virtual GameBoy (VGB) is an emulator of the Nintendo Game Boy, Super Game Boy a
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgb/screen.jpg "Virtual GameBoy screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v5.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgb/5.0.7z) | 2016-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgb/5.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgb/5.0_contents.txt) | 174 KB |
+| :floppy_disk: [**5.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgb/5.0.7z) | 2016-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgb/5.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgb/5.0_contents.txt) | 174 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

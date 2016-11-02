@@ -22,8 +22,8 @@ _RascalBoy Advance is a Nintendo Game Boy Advance emulator. Screenshot taken fro
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rascalboyadv/screen.jpg "RascalBoy Advance screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.3.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/rascalboyadv/1.3.0.0.7z) | 2006-02-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_contents.txt) | 223 KB |
+| :floppy_disk: [**1.3.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/rascalboyadv/1.3.0.0.7z) | 2006-02-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_contents.txt) | 223 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

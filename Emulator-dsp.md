@@ -22,9 +22,9 @@ _DSP is a multi-system emulator that emulates the following: Nintendo NES, Ninte
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dsp/screen.jpg "DSP Emulator screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.17b1-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win32.7z) | 2016-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_contents.txt) | 2058 KB |
-| :floppy_disk: [**v0.17b1-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win64.7z) | 2016-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_contents.txt) | 2661 KB |
+| :floppy_disk: [**0.17b1-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win32.7z) | 2016-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_contents.txt) | 2058 KB |
+| :floppy_disk: [**0.17b1-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win64.7z) | 2016-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_contents.txt) | 2661 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -22,8 +22,8 @@ _ZEsarUX is an emulator for the Sinclair ZX Spectrum, ZX81 and ZX80, the Cambrid
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zesarux/screen.jpg "ZEsarUX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v4.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/zesarux/4.2.7z) | 2016-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_contents.txt) | 23576 KB |
+| :floppy_disk: [**4.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/zesarux/4.2.7z) | 2016-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_contents.txt) | 23576 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

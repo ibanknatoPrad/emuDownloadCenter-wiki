@@ -22,8 +22,8 @@ _Virtual GameBoy Advance is a Nintendo Game Boy Advance emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgba/screen.jpg "Virtual GameBoy Advance screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v5.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgba/5.3.7z) | 2016-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_contents.txt) | 240 KB |
+| :floppy_disk: [**5.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgba/5.3.7z) | 2016-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_contents.txt) | 240 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

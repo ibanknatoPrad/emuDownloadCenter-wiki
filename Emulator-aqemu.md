@@ -22,8 +22,8 @@ _AqEmu was the first Mattel Aquarius Emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aqemu/screen.jpg "AqEmu screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/aqemu/1.0.7z) | 2000-08-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/aqemu/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/aqemu/1.0_contents.txt) | 32 KB |
+| :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/aqemu/1.0.7z) | 2000-08-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/aqemu/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/aqemu/1.0_contents.txt) | 32 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

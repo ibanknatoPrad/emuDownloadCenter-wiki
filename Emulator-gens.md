@@ -24,8 +24,8 @@ _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earlie
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens/screen.jpg "Gens screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens/2.14.7z) | 2006-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_contents.txt) | 476 KB |
+| :floppy_disk: [**2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens/2.14.7z) | 2006-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_contents.txt) | 476 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

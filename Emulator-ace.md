@@ -22,8 +22,8 @@ _ace is an emulator capable of running a selection of games from the Capcom CPS1
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ace/screen.jpg "Another Capcom (play system) Emulator screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ace/1.9.7z) | 2002-02-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ace/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ace/1.9_contents.txt) | 208 KB |
+| :floppy_disk: [**1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ace/1.9.7z) | 2002-02-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ace/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ace/1.9_contents.txt) | 208 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

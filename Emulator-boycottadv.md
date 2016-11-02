@@ -22,8 +22,8 @@ _BoycottAdvance is a Game Boy Advance emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/boycottadv/screen.jpg "BoycottAdvance screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.2.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/boycottadv/0.2.8.7z) | 2003-05-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_contents.txt) | 585 KB |
+| :floppy_disk: [**0.2.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/boycottadv/0.2.8.7z) | 2003-05-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_contents.txt) | 585 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -22,8 +22,8 @@ _nocash ZX81 & ZX Spectrum emulator/debugger for windows_
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nozx/screen.jpg "no$zx screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nozx/2.0.7z) | 2012-11-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nozx/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nozx/2.0_contents.txt) | 383 KB |
+| :floppy_disk: [**2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nozx/2.0.7z) | 2012-11-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nozx/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nozx/2.0_contents.txt) | 383 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

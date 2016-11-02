@@ -22,9 +22,9 @@ _Supermodel is a Sega Model 3 emulator. There are a few games that are playable,
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supermodel/screen.jpg "Supermodel screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.2a-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/supermodel/0.2a-win32.7z) | 2011-09-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win32_contents.txt) | 527 KB |
-| :floppy_disk: [**v0.2a-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/supermodel/0.2a-win64.7z) | 2011-09-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win64_contents.txt) | 604 KB |
+| :floppy_disk: [**0.2a-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/supermodel/0.2a-win32.7z) | 2011-09-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win32_contents.txt) | 527 KB |
+| :floppy_disk: [**0.2a-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/supermodel/0.2a-win64.7z) | 2011-09-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/supermodel/0.2a-win64_contents.txt) | 604 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

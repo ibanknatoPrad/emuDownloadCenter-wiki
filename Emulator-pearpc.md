@@ -24,8 +24,8 @@ _PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC req
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pearpc/screen.jpg "PearPC screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/pearpc/0.5.7z) | 2011-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pearpc/0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pearpc/0.5_contents.txt) | 339 KB |
+| :floppy_disk: [**0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/pearpc/0.5.7z) | 2011-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pearpc/0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pearpc/0.5_contents.txt) | 339 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -22,8 +22,8 @@ _NLMSX is an emulator for the MSX, MSX2, MSX2+ and MSX Turbo-R computers._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nlmsx/screen.jpg "NLMSX screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v0.48**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nlmsx/0.48.7z) | 2003-06-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_contents.txt) | 729 KB |
+| :floppy_disk: [**0.48**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nlmsx/0.48.7z) | 2003-06-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_contents.txt) | 729 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

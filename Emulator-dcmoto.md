@@ -22,8 +22,8 @@ _DCMOTO is an emulator for all Thomson 8 bit computers: MO5, MO5E, German MO5E, 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmoto/screen.jpg "DCMOTO screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v2012.11.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2012.11.23.7z) | 2012-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_contents.txt) | 256 KB |
+| :floppy_disk: [**2012.11.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2012.11.23.7z) | 2012-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_contents.txt) | 256 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

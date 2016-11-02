@@ -22,8 +22,8 @@ _Frodo is a Commodore C64 emulator. It comes in 3 versions: Standard line-based 
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/frodo/screen.jpg "Frodo screenshot.")
 ***
 ## Downloads
-| Download | Release date  | Info       | Info       | DL Size    |
+| Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**v4.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/frodo/4.1.7z) | 1997-11-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/frodo/4.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/frodo/4.1_contents.txt) | 206 KB |
+| :floppy_disk: [**4.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/frodo/4.1.7z) | 1997-11-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/frodo/4.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/frodo/4.1_contents.txt) | 206 KB |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
