@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64k_logo_200.jpg "Mupen64k logo.")
+
 **Mupen64k** is a emulator for **Nintendo N64** made by **UNKNOWN** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v0.8**, released on **2011-12-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mupen64k-0.8.exe**.

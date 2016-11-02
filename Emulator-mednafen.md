@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mednafen_logo_200.jpg "Mednafen logo.")
+
 **Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v0.9.39-x64**, released on **2016-08-05**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **mednafen.exe**.

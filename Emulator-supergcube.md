@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/supergcube_logo_200.jpg "SuperGCube logo.")
+
 **SuperGCube** is a emulator for **Nintendo GameCube** made by **spartan11-7** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v0.4a**, released on **2009-02-28**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **gcube.exe**.

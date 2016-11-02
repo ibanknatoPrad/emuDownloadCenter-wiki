@@ -10,8 +10,8 @@
 | :file_folder: [**Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | Aziber | Freeware - Non-Commercial |
 | :file_folder: [**ICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ice64#menu) | Pokefan | UNKNOWN |
 | :file_folder: [**Mupen64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64k#menu) | UNKNOWN | UNKNOWN |
-| :file_folder: [**Mupen64 Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | richard42g | GNU GPLv2 |
-| :file_folder: [**Mupen64 Plus Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64pp#menu) | Okaygo | GNU GPLv2 |
+| :file_folder: [**Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | richard42g | GNU GPLv2 |
+| :file_folder: [**Mupen64++**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plusplus#menu) | Okaygo | Freeware |
 | :file_folder: [**NICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nice64#menu) | Rice and Pokefan | GNU GPLv2 |
 | :file_folder: [**Project64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64#menu) | Zilmar and Jabo | Freeware |
 | :file_folder: [**Project64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k#menu) | Smasherx74 | Freeware |

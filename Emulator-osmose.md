@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/osmose_logo_200.jpg "Osmose logo.")
+
 **Osmose** is a emulator for **Sega Game Gear** made by **Bruno Vedder** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v0.8.5b**, released on **2009-01-15**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Osmose.exe**.

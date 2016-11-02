@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nulldc_logo_200.jpg "nullDC logo.")
+
 **nullDC** is a emulator for **Sega Dreamcast** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v1.04_r50**, released on **2010-06-20**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **nullDC_Win32_Release-NoTrace.exe**.

@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ice64_logo_200.jpg "ICE64 logo.")
+
 **ICE64** is a emulator for **Nintendo N64** made by **Pokefan** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v3.7.0b**, released on **2012-10-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ICE64.exe**.

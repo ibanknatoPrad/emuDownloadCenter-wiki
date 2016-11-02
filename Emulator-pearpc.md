@@ -8,6 +8,8 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pearpc_logo_200.jpg "PearPC logo.")
+
 **PearPC** is a emulator for **Apple Macintosh** made by **Sebastian Biallas and Others** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v0.5**, released on **2011-07-12**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ppc.exe**.

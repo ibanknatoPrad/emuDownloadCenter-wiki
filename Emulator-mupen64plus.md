@@ -1,14 +1,16 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: Mupen64 Plus** |
+| **Emulator: Mupen64+** |
 |:---------|
 | :clipboard: [About](#about) |
 | :sunrise: [Screenshot](#screenshot) |
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Mupen64 Plus** is a emulator for **Nintendo N64** made by **richard42g** and has a **GNU GPLv2** license.
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64plus_logo_200.jpg "Mupen64+ logo.")
+
+**Mupen64+** is a emulator for **Nintendo N64** made by **richard42g** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v2.5**, released on **2015-04-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **mupen64plus-ui-console.exe**.
 
@@ -19,7 +21,7 @@ _Mupen64Plus is a Nintendo 64 emulator._
 :link: [**Emulator website**](http://mupen64plus.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plus/screen.jpg "Mupen64 Plus screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plus/screen.jpg "Mupen64+ screenshot.")
 ***
 ## Downloads
 | Download | Release date  | Info       | Info       | DL Size    |
