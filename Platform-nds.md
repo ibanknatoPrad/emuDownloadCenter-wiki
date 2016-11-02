@@ -6,7 +6,9 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**DesMuME**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-desmume#menu) | yopyop, DeSmuME team | GNU GPLv2 |
 | :file_folder: [**iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Lino and Actarus | GNU GPLv2 |
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
+| :file_folder: [**NeonDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neonds#menu) | release, jitc, notrace | Freeware |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
