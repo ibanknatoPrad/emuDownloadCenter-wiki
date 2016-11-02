@@ -16,5 +16,8 @@
 | :file_folder: [**Project64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64#menu) | Zilmar and Jabo | Freeware |
 | :file_folder: [**Project64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k#menu) | Smasherx74 | Freeware |
 | :file_folder: [**Project64K7E**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k7e#menu) | Gaudy | UNKNOWN |
+| :file_folder: [**Nemu64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nemu64#menu) | Lemmy, LaC, hWnd | Freeware |
+| :file_folder: [**UltraHLE 2064**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle2064#menu) | The UltraHLE 2064 team | Freeware |
+| :file_folder: [**UltraHLE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle#menu) | Epsilon and RealityMan | Freeware |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
