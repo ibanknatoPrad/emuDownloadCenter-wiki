@@ -1,0 +1,29 @@
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+***
+## Menu
+| **Emulator: Sheep Shaver** |
+|:---------|
+| :clipboard: [About](#about) |
+| :sunrise: [Screenshot](#screenshot) |
+| :floppy_disk: [Downloads](#downloads) |
+***
+## About
+**Sheep Shaver** is a emulator for **Apple Macintosh** made by **Christian Bauer aka cebix** and has a **GNU GPLv2** license.
+
+The latest version of the emulator on EDC is **v2013.05.06**, released on **2013-05-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **SheepShaver.exe**.
+
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
+
+_SheepShaver is a MacOS run-time environment that runs MacOS 7.5.2 thru 9.0.4. The screenshot is taken from http://homepage3.nifty.com/toshi3/emu/sheepshaver1.html._
+
+:link: [**Emulator website**](http://sheepshaver.cebix.net)
+***
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sheepshaver/screen.jpg "Sheep Shaver screenshot.")
+***
+## Downloads
+| Download | Release date  | Info       | Info       | DL Size    |
+|:---------|:-------------:|:-----------|:-----------|-----------:|
+| :floppy_disk: [**v2013.05.06**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/sheepshaver/2013.05.06.7z) | 2013-05-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/sheepshaver/2013.05.06_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/sheepshaver/2013.05.06_contents.txt) | 419 KB |
+
+:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

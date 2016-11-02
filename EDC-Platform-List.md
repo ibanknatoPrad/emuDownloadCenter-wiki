@@ -68,10 +68,18 @@
 | :file_folder: [**Vtech Laser 100/110**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l100) | :computer: Computer | l100 |
 | :file_folder: [**Vtech Laser 200/210/310**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l200) | :computer: Computer | l200 |
 | :file_folder: [**Vtech Laser 350/500/700**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l350) | :computer: Computer | l350 |
+| :file_folder: [**MCA Laserdisc Arcade**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ld) | :tv: Arcade | ld |
+| :file_folder: [**Apple Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lisa) | :computer: Computer | lisa |
 | :file_folder: [**Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :iphone: Handheld | lynx |
+| :file_folder: [**Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
+| :file_folder: [**Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
+| :file_folder: [**Sega Model 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model1) | :tv: Arcade | model1 |
+| :file_folder: [**Sega Model 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model2) | :tv: Arcade | model2 |
+| :file_folder: [**Sega Model 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model3) | :tv: Arcade | model3 |
 | :file_folder: [**MSX Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx) | :computer: Computer | msx |
 | :file_folder: [**MSX 2 Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx2) | :computer: Computer | msx2 |
 | :file_folder: [**MSX Turbo R (Panasonic FS-A1GT/ST)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msxtr) | :computer: Computer | msxtr |
+| :file_folder: [**Apple Macintosh**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtosh) | :computer: Computer | mtosh |
 | :file_folder: [**Sharp MZ-700/1500**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz1500) | :computer: Computer | mz1500 |
 | :file_folder: [**Sharp MZ-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2000) | :computer: Computer | mz2000 |
 | :file_folder: [**Sharp MZ-2500/SuperMZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2500) | :computer: Computer | mz2500 |

@@ -6,6 +6,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**MZ-800 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mz800emu#menu) | Michael Hucik aka chaky | GNU GPLv3 |
 | :file_folder: [**MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | Michael Franzen | GNU GPLv2 |
+| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
 :back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
