@@ -9,4 +9,4 @@
 | :file_folder: [**BeebEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-beebem#menu) | Mike Wyatt, David Adam Gilbert and Others | GNU GPLv2 |
 | :file_folder: [**Horizon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-horizon#menu) | Chris Lam | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

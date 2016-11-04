@@ -11,4 +11,4 @@
 | :file_folder: [**VZEM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vzem#menu) | Guy Thomason | Freeware |
 | :file_folder: [**WinVZ300**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvz300#menu) | Gavin Turner | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

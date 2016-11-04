@@ -14,4 +14,4 @@
 | :file_folder: [**Vace3D**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vace3d#menu) | Edward Patel | GNU GPLv2 |
 | :file_folder: [**ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | Cesar Hernandez | GNU GPLv3 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

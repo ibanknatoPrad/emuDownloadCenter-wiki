@@ -9,4 +9,4 @@
 | :file_folder: [**EMU7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu7800#menu) | Mike Murphy | GNU GPLv2 |
 | :file_folder: [**ProSystem**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-prosystem#menu) | Greg Stanton | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -12,4 +12,4 @@
 | :file_folder: [**no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | Martin Korth | Freeware |
 | :file_folder: [**ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | Cesar Hernandez | GNU GPLv3 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

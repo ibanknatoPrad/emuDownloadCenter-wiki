@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-potator#menu) | David Raingeard | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

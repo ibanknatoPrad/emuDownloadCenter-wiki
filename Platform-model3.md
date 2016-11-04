@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Supermodel**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supermodel#menu) | Bart Trzynadlowski | GNU GPLv3 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

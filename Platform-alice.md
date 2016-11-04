@@ -9,4 +9,4 @@
 | :file_folder: [**DCALICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcalice#menu) | Daniel Coulom | Freeware |
 | :file_folder: [**DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | Daniel Coulom | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

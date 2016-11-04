@@ -9,4 +9,4 @@
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**NeoPop**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neopop#menu) | neopop_uk | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

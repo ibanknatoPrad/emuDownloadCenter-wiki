@@ -9,4 +9,4 @@
 | :file_folder: [**AqEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aqemu#menu) | Kenny Millar | UNKNOWN |
 | :file_folder: [**Virtual Aquarius**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vaquarius#menu) | James The Animal Tamer | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

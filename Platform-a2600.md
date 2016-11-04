@@ -11,4 +11,4 @@
 | :file_folder: [**Stella**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-stella#menu) | Bradford Mott & Stephen Anthony | GPL |
 | :file_folder: [**Z26**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-z26#menu) | John Saeger | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

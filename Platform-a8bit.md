@@ -12,4 +12,4 @@
 | :file_folder: [**atari++**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atariplusplus#menu) | Thomas Richter | THOR Public Licence |
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) | Chris Lam | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

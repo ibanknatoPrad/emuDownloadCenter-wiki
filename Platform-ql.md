@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | Michael D Wynne | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

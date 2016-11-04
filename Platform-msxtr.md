@@ -9,4 +9,4 @@
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
 | :file_folder: [**NLMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nlmsx#menu) | Frits Hilderink | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

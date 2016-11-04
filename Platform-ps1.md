@@ -11,4 +11,4 @@
 | :file_folder: [**no$psx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nopsx#menu) | Martin Korth | Freeware |
 | :file_folder: [**pSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psx#menu) | Unknown | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

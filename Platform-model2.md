@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Sega Model 2 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-m2emulator#menu) | ElSemi | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

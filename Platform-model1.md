@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Modeler**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-modeler#menu) | Farftch'd, R Belmont and Sarayan | Freeware - Non-Commercial |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | Sadrzaj | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

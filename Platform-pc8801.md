@@ -6,6 +6,9 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**M88**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-m88#menu) | rururutan | NewBSD |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| :file_folder: [**X88000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-x88000#menu) | Manuke | UNKNOWN |
+| :file_folder: [**XM8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm8#menu) | PI. | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

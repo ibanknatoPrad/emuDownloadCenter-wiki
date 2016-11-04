@@ -9,4 +9,4 @@
 | :file_folder: [**FS-UAE Amiga Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fsuae#menu) | Frode Solheim | GNU GPLv2 |
 | :file_folder: [**WinFellow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winfellow#menu) | Peter Schau, Torsten Enderling and Worfje | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

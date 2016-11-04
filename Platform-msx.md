@@ -14,4 +14,4 @@
 | :file_folder: [**RedMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-redmsx#menu) | SLotman | UNKNOWN |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

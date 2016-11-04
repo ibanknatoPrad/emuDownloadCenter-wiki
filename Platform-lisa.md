@@ -9,4 +9,4 @@
 | :file_folder: [**Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | Gilles Fetis | Freeware |
 | :file_folder: [**LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | Ray A. Arachelian | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

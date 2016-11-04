@@ -11,4 +11,4 @@
 | :file_folder: [**SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | spartan11-7 | GNU GPLv2 |
 | :file_folder: [**WhineCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-whinecube#menu) | Masken | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

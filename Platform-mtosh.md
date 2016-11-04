@@ -12,4 +12,4 @@
 | :file_folder: [**PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | Sebastian Biallas and Others | GNU GPLv2 |
 | :file_folder: [**Sheep Shaver**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sheepshaver#menu) | Christian Bauer aka cebix | GNU GPLv2 |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

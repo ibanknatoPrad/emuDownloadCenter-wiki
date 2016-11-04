@@ -9,4 +9,4 @@
 | :file_folder: [**DirectVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-directvms#menu) | biggs | Freeware |
 | :file_folder: [**SoftVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-softvms#menu) | Marcus Comstedt | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

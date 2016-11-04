@@ -13,4 +13,4 @@
 | :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
 | :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

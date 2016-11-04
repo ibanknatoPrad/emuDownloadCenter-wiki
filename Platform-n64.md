@@ -20,4 +20,4 @@
 | :file_folder: [**UltraHLE 2064**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle2064#menu) | The UltraHLE 2064 team | Freeware |
 | :file_folder: [**UltraHLE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle#menu) | Epsilon and RealityMan | Freeware |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

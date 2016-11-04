@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | Peter Gordon | UNKNOWN |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
