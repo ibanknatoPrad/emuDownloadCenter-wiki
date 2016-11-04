@@ -26,4 +26,4 @@ _MZXX is an multi-system emulator for the following: Sharp MZ-80K, MZ-80A, MZ-80
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**10.10.2010**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/mzxx/10.10.2010.7z) | 2010-10-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mzxx/10.10.2010_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mzxx/10.10.2010_contents.txt) | 1672 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

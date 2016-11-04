@@ -27,4 +27,4 @@ _jzIntv is an Intellivision emulator._
 | :floppy_disk: [**1.0b3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jzintv/1.0b3.7z) | 2006-07-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b3_contents.txt) | 1616 KB |
 | :floppy_disk: [**1.0b4**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/jzintv/1.0b4.7z) | 2012-08-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/jzintv/1.0b4_contents.txt) | 722 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

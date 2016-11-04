@@ -26,4 +26,4 @@ _Genieous is an EACA EG2000 Color Genie emulator. The current version only suppo
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/genieous/1.0.3.7z) | 2015-02-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.3_contents.txt) | 158 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

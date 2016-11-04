@@ -38,4 +38,4 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 | :floppy_disk: [**1.41**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41.7z) | 2003-08-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.41_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.41_contents.txt) | 854 KB |
 | :floppy_disk: [**1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.40.7z) | 2003-07-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.40_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.40_contents.txt) | 853 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

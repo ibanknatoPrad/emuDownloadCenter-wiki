@@ -43,4 +43,4 @@ _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, S
 | :floppy_disk: [**0.1b**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/kegafusion/0.1b.7z) | 2004-07-18 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/0.1b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/0.1b_contents.txt) | 207 KB |
 | :floppy_disk: [**0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/kegafusion/0.1.7z) | 2004-07-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/kegafusion/0.1_contents.txt) | 205 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

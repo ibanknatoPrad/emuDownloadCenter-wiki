@@ -28,4 +28,4 @@ _Sugarbox is an Amstrad CPC emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.26**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sugarbox/0.26.7z) | 2016-04-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_contents.txt) | 1530 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -33,4 +33,4 @@ _CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms.
 | :floppy_disk: [**2.0b-dos**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ccs64/2.0b-dos.7z) | 2002-02-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/2.0b-dos_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/2.0b-dos_contents.txt) | 249 KB |
 | :floppy_disk: [**1.09**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ccs64/1.09.7z) | 1997-10-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/1.09_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/1.09_contents.txt) | 335 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

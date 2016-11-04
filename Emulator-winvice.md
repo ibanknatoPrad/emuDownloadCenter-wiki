@@ -31,4 +31,4 @@ _VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Co
 | :floppy_disk: [**2.4-ia64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvice/2.4-ia64.7z) | 2012-11-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-ia64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.4-ia64_contents.txt) | 3973 KB |
 | :floppy_disk: [**2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvice/2.0.7z) | 2008-07-18 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvice/2.0_contents.txt) | 1668 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

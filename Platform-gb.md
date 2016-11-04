@@ -15,6 +15,7 @@
 | :file_folder: [**GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | TM | GNU GPLv2 |
 | :file_folder: [**higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | byuu | GNU GPLv3 - Special for Commercial Use |
 | :file_folder: [**KiGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kigb#menu) | Ricky Liu and Scott Nash | GNU GPLv2 |
+| :file_folder: [**Kindred**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kindred#menu) | Kris Bleakley | Freeware - Non-Commercial |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**mGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mgba#menu) | Jeffrey Pfau | Mozilla Public License version 2.0 |
 | :file_folder: [**no$gmb**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogmb#menu) | Martin Korth | Shareware |

@@ -26,4 +26,4 @@ _SharpChip-8 is an interpreted language emulator chip-8. It is still experimenta
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sharpchip8/0.5.7z) | 2011-11-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_contents.txt) | 468 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

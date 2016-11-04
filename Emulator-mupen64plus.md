@@ -29,4 +29,4 @@ _Mupen64Plus is a Nintendo 64 emulator._
 | :floppy_disk: [**2.5**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/mupen64plus/2.5.7z) | 2015-04-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64plus/2.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64plus/2.5_contents.txt) | 1500 KB |
 | :floppy_disk: [**2.5-new-dynarec**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/mupen64plus/2.5-new-dynarec.7z) | 2015-04-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64plus/2.5-new-dynarec_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64plus/2.5-new-dynarec_contents.txt) | 1553 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

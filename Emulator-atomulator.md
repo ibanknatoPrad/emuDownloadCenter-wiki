@@ -26,4 +26,4 @@ _Atomulator is an emulator of an Acorn Atom - the first micro from Acorn in 1980
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.27**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/atomulator/1.27.7z) | 2016-07-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atomulator/1.27_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atomulator/1.27_contents.txt) | 1936 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

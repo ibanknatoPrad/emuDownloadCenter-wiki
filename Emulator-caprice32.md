@@ -26,4 +26,4 @@ _Caprice32 is a software emulator of the Amstrad CPC 8bit home computer series. 
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**4.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/4.2.0.7z) | 2005-05-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_contents.txt) | 239 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -30,4 +30,4 @@ _Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-drive
 | :floppy_disk: [**0.9.39-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.39-x86.7z) | 2016-08-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.39-x86_contents.txt) | 4097 KB |
 | :floppy_disk: [**0.9.24-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/mednafen/0.9.24-x86.7z) | 2012-07-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/mednafen/0.9.24-x86_contents.txt) | 3727 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

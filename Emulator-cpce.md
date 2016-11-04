@@ -26,4 +26,4 @@ _CPCE is an Amstrad CPC emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.90**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/cpce/1.90.7z) | 2008-03-31 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/cpce/1.90_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/cpce/1.90_contents.txt) | 227 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -30,4 +30,4 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 | :floppy_disk: [**1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.9.7z) | 2007-01-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.9_contents.txt) | 439 KB |
 | :floppy_disk: [**1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/freedo/1.8.7z) | 2006-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/freedo/1.8_contents.txt) | 750 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

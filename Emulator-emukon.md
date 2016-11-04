@@ -24,4 +24,4 @@ _Emukon is a Sega Master System and Game Gear emulator_
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.05**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/emukon/1.05.7z) | 2004-07-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_contents.txt) | 290 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

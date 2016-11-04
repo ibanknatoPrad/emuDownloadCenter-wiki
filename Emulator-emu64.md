@@ -27,4 +27,4 @@ _Emu64 is a low-level emulation program, which emulates the Commodore 64. The op
 | :floppy_disk: [**5.0.12-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/emu64/5.0.12-win32.7z) | 2016-08-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu64/5.0.12-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu64/5.0.12-win32_contents.txt) | 10564 KB |
 | :floppy_disk: [**5.0.12-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/emu64/5.0.12-win64.7z) | 2016-08-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu64/5.0.12-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/emu64/5.0.12-win64_contents.txt) | 10858 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -26,4 +26,4 @@ _creatiVision Emulator is an emulator for the VTech Creativision, Dick Smith Wiz
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**24.04.16**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/creativision/24.04.16.7z) | 2016-04-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/creativision/24.04.16_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/creativision/24.04.16_contents.txt) | 1139 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

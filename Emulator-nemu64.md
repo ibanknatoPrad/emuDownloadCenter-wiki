@@ -28,4 +28,4 @@ _Nemu64 is one of the oldest Nintendo 64 emulators in existance. For a long time
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nemu64/0.8.7z) | 2003-03-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_contents.txt) | 1726 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

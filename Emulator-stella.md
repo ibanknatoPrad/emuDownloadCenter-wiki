@@ -53,4 +53,4 @@ _Stella is a multi-platform Atari 2600 VCS emulator released under the GNU Gener
 | :floppy_disk: [**1.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/1.3.7z) | 2003-02-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.3_contents.txt) | 428 KB |
 | :floppy_disk: [**1.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/1.2.1.7z) | 2002-04-21 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.2.1_contents.txt) | 397 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

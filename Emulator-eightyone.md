@@ -26,4 +26,4 @@ _EightyOne is a multiple system emulator for these systems: Sinclair ZX80, ZX81,
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/eightyone/1.2.7z) | 2015-11-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/eightyone/1.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/eightyone/1.2_contents.txt) | 1891 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

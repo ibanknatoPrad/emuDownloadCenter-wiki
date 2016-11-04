@@ -24,4 +24,4 @@ _MesaDX is a Sega Master System and Game Gear emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.04**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/mesadx/0.04.7z) | 2006-09-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_contents.txt) | 146 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

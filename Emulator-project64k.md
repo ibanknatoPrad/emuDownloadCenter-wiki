@@ -43,4 +43,4 @@ _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It
 | :floppy_disk: [**0.13-core1.4-alt**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/0.13-core1.4-alt.7z) | 2014-08-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4-alt_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4-alt_contents.txt) | 1990 KB |
 | :floppy_disk: [**0.13-core1.4**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/0.13-core1.4.7z) | 2015-12-29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4_contents.txt) | 6323 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

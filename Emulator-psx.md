@@ -39,4 +39,4 @@ _This emulator fully emulates the Sony Playstation. Compatibility is fairly high
 | :floppy_disk: [**1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.1.7z) | 2006-02-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.1_contents.txt) | 303 KB |
 | :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.0.7z) | 2006-01-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.0_contents.txt) | 301 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

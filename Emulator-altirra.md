@@ -26,4 +26,4 @@ _Altirra is an emulator that simulates the hardware of the Atari 8-bit computer 
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.81**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nozx/2.81.7z) | 2016-10-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/altirra/2.81_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/altirra/2.81_contents.txt) | 2992 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

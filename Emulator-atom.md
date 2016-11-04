@@ -30,4 +30,4 @@ _Welcome to the Acorn ATOM software emulator for PC's. This program enables you 
 | :floppy_disk: [**1.21**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/atom/1.21.7z) | 1998-01-10 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atom/1.21_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atom/1.21_contents.txt) | 231 KB |
 | :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/atom/1.0.7z) | 1997-11-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atom/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/atom/1.0_contents.txt) | 146 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

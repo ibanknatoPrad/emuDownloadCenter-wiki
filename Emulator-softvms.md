@@ -26,4 +26,4 @@ _SoftVMS is an emulator for the Sega Dreamcast Visual Memory System capable of r
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.7**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/softvms/1.7.7z) | 2000-03-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/softvms/1.7_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/softvms/1.7_contents.txt) | 44 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

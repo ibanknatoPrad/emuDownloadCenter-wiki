@@ -28,4 +28,4 @@ _KiGB is a Nintendo Game Boy and Game Boy Color emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/kigb/2.0.5.7z) | 2008-06-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/kigb/2.0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/kigb/2.0.5_contents.txt) | 432 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

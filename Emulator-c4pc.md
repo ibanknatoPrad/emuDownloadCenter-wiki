@@ -26,4 +26,4 @@ _This emulator is not intended to be used to PLAY / RUN / USE, but to TEST Cybik
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.28**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/c4pc/0.28.7z) | 2001-09-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/c4pc/0.28_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/c4pc/0.28_contents.txt) | 315 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

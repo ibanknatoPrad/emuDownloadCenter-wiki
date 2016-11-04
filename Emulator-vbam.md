@@ -26,4 +26,4 @@ _VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It 
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.0.0b1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbam/2.0.0b1.7z) | 2015-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbam/2.0.0b1_contents.txt) | 1953 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

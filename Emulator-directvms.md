@@ -24,4 +24,4 @@ _DirectVMS is a DirectX port of SoftVMS, an emulator for the Sega Dreamcast Visu
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/directvms/1.8.7z) | 2000-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_contents.txt) | 71 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

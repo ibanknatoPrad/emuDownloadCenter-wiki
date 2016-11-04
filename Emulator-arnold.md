@@ -26,4 +26,4 @@ _Arnold is an Amstrad/Schneider CPC, Plus/CPC+ and VEB Mikroelektronik KC Compac
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**04.01.2004**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/arnold/04.01.2004.7z) | 2004.01.04 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_contents.txt) | 296 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

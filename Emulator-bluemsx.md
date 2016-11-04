@@ -26,4 +26,4 @@ _blueMSX is an MSX, MSX2, MSX2+ and MSXturboR emulator. Almost all MSX machines 
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.8.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/bluemsx/2.8.2.7z) | 2009-08-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/bluemsx/2.8.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/bluemsx/2.8.2_contents.txt) | 12002 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

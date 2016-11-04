@@ -26,4 +26,4 @@ _Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wo
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jynx/1.0.8.7z) | 2014-09-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_contents.txt) | 286 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

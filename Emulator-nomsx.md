@@ -26,4 +26,4 @@ _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulat
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nomsx/1.5.7z) | 2003-05-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_contents.txt) | 207 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

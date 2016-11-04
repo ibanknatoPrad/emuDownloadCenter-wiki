@@ -26,4 +26,4 @@ _GeePee32 is a Game-Park GP32 handheld console. Screenshot from Author's Website
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.43**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/geepee32/0.43.7z) | 2004-06-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_contents.txt) | 589 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

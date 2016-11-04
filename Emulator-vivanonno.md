@@ -30,4 +30,4 @@ _'viva nonno' is a namco system 22 emulator for Windows and DirectX._
 | :floppy_disk: [**22.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.2.7z) | 2002-08-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_contents.txt) | 228 KB |
 | :floppy_disk: [**22.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.1.7z) | 2002-04-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_contents.txt) | 225 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

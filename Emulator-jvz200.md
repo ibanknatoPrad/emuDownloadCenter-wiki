@@ -26,4 +26,4 @@ _James's VZ200, an emulator for the VZ200 computer_
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.21**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jvz200/0.21.7z) | 2005-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_contents.txt) | 372 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

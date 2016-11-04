@@ -27,4 +27,4 @@ _XRoar is an emulator for the following systems: DragonData Dragon 32, Dragon 64
 | :floppy_disk: [**0.34.5-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/xroar/0.34.5-win32.7z) | 2016-10-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xroar/0.34.5-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xroar/0.34.5-win32_contents.txt) | 894 KB |
 | :floppy_disk: [**0.34.5-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/xroar/0.34.5-win64.7z) | 2016-10-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xroar/0.34.5-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xroar/0.34.5-win64_contents.txt) | 967 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

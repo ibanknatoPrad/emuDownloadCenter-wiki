@@ -41,4 +41,4 @@ _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evoluti
 | :floppy_disk: [**0.98.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/0.98.8.7z) | 2004-04-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.98.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.98.8_contents.txt) | 219 KB |
 | :floppy_disk: [**0.54**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/0.54.7z) | 2001-05-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.54_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.54_contents.txt) | 85 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -28,4 +28,4 @@ _NeoCD/SDL is a port of NeoCD using SDL libraries._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.3.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/neocdsdl/0.3.1.7z) | 2004-05-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neocdsdl/0.3.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neocdsdl/0.3.1_contents.txt) | 353 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -29,4 +29,4 @@ _It runs in Windows 9x/2000/XP and currently emulates many commercial games, som
 | :floppy_disk: [**0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.91.7z) | 2004-01-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/projecttempest/0.91_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/projecttempest/0.91_contents.txt) | 265 KB |
 | :floppy_disk: [**0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/projecttempest/0.9.7z) | 2004-01-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/projecttempest/0.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/projecttempest/0.9_contents.txt) | 264 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

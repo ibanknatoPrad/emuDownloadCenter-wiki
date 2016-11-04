@@ -40,4 +40,4 @@ _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out
 | :floppy_disk: [**1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/1.1.7z) | 2001-06-09 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.1_contents.txt) | 338 KB |
 | :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/1.0.7z) | 2001-05-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.0_contents.txt) | 321 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

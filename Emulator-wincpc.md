@@ -26,4 +26,4 @@ _WinCPC is the Borland Delphi port of an Amstrad CPC emulator called vbCPC._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.9.26**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/wincpc/0.9.26.7z) | 2007-01-31 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/wincpc/0.9.26_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/wincpc/0.9.26_contents.txt) | 828 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

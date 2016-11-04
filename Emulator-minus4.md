@@ -26,4 +26,4 @@ _Minus / 4 is a C16 / Plus/4 emulator for Windows._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.6**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/minus4/2.6.7z) | 2007-11-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/minus4/2.6_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/minus4/2.6_contents.txt) | 184 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

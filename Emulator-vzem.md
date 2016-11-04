@@ -27,4 +27,4 @@ _VZEM is an emulator for the VZ200/VZ300 computers, also known as the Laser 200/
 | :floppy_disk: [**2009.08.20**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2009.08.20.7z) | 2009-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_contents.txt) | 176 KB |
 | :floppy_disk: [**2008.10.27**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2008.10.27.7z) | 2008-10-27 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_contents.txt) | 173 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

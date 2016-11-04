@@ -33,4 +33,4 @@ _4DO is an open-source, low-level emulator based on the FreeDO source code. This
 | :floppy_disk: [**1.2.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.2.0.1.7z) | 2012-04-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.2.0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.2.0.1_contents.txt) | 1096 KB |
 | :floppy_disk: [**1.2.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/4do/1.2.0.0.7z) | 2012-04-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.2.0.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/4do/1.2.0.0_contents.txt) | 1096 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

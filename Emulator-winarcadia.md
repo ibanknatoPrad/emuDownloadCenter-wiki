@@ -26,4 +26,4 @@ _WinArcadia is a multi-system emulator of these machines: Emerson Arcadia 2001 c
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**24.42**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winarcadia/24.42.7z) | 2016-09-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winarcadia/24.42_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winarcadia/24.42_contents.txt) | 2586 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

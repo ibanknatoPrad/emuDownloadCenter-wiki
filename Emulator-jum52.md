@@ -32,4 +32,4 @@ _Jum52 is a cross-platform Atari 5200 emulator. It is available in MSDOS, Window
 | :floppy_disk: [**0.6**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/jum52/0.6.7z) | 2002-03-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/0.6_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/0.6_contents.txt) | 287 KB |
 | :floppy_disk: [**0.5a**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/jum52/0.5a.7z) | 1999-12-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/0.5a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/jum52/0.5a_contents.txt) | 272 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -27,4 +27,4 @@ _FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on_
 | :floppy_disk: [**2.8.0-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/fsuae/2.8.0-win32.7z) | 2016-09-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/fsuae/2.8.0-win32_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/fsuae/2.8.0-win32_contents.txt) | 6118 KB |
 | :floppy_disk: [**2.8.0-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/fsuae/2.8.0-win64.7z) | 2016-09-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/fsuae/2.8.0-win64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/fsuae/2.8.0-win64_contents.txt) | 6417 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

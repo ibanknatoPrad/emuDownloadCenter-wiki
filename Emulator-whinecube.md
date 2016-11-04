@@ -34,4 +34,4 @@ _WhineCube is a GameCube emulator. It loads and executes DOL-, ELF- or GCM-forma
 | :floppy_disk: [**Release2**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/whinecube/Release2.7z) | 2004-06-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/whinecube/Release2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/whinecube/Release2_contents.txt) | 877 KB |
 | :floppy_disk: [**Release1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/whinecube/Release1.7z) | 2004-06-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/whinecube/Release1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/whinecube/Release1_contents.txt) | 877 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

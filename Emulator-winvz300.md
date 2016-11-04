@@ -30,4 +30,4 @@ _Winvz300 is a Classic VZ300 Computer Emulator for Windows that emulates the Dic
 | :floppy_disk: [**2012.03.22**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvz300/2012.03.22.7z) | 2012-03-22 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2012.03.22_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2012.03.22_contents.txt) | 861 KB |
 | :floppy_disk: [**2011.11.11**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvz300/2011.11.11.7z) | 2011-11-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2011.11.11_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2011.11.11_contents.txt) | 798 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

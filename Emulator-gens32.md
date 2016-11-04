@@ -38,4 +38,4 @@ _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Seg
 | :floppy_disk: [**1.79-ghost**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.79-ghost.7z) | 2008-11-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-ghost_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-ghost_contents.txt) | 1923 KB |
 | :floppy_disk: [**1.79-badboy**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.79-badboy.7z) | 2008-10-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-badboy_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-badboy_contents.txt) | 1923 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

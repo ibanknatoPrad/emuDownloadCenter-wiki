@@ -26,4 +26,4 @@ _PCE-MacPlus is an Apple Macintosh Plus emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/pcemacplus/0.2.2.7z) | 2013-03-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pcemacplus/0.2.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/pcemacplus/0.2.2_contents.txt) | 8830 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

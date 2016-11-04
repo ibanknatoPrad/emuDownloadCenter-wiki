@@ -26,4 +26,4 @@ _DCMicroColor is a Tandy MC10 and Matra-Hachette Alice 4K emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dcmicro/1.0.7z) | 2008-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcmicro/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcmicro/1.0_contents.txt) | 57 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

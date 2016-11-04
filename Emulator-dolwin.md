@@ -26,4 +26,4 @@ _Dolwin is an open source Game Cube emulator fully written with dolwinC. Even th
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.10**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/dolwin/0.10.7z) | 2005-01-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dolwin/0.10_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dolwin/0.10_contents.txt) | 640 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -26,4 +26,4 @@ _nocash C64 emulator - Emulates cpu, memory, video, keyboard, joysticks, timers.
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/noc64/1.1.7z) | 2005-07-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_contents.txt) | 220 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

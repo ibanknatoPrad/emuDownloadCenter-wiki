@@ -28,4 +28,4 @@ _Nebula is a Capcom CPS1 and CPS2 and SNK NeoGeo emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2.25b**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/nebula/2.25b.7z) | 2007-02-18 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nebula/2.25b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nebula/2.25b_contents.txt) | 1674 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

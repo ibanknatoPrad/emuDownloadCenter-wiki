@@ -24,4 +24,4 @@ _CB64 is a software emulator for the C64 Computer._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**beta4**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/comeback64/beta4.7z) | 1999-11-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_contents.txt) | 250 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

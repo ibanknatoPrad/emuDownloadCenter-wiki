@@ -28,4 +28,4 @@ _Project64K7E is a Nintendo 64 emulator based on Project64._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.3.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/project64k7e/1.3.1.7z) | 2012-12-31 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/project64k7e/1.3.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/project64k7e/1.3.1_contents.txt) | 3417 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

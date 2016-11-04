@@ -31,4 +31,4 @@ _HomeLAB is an HomeLAB4 emulator for Windows_
 | :floppy_disk: [**1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/homelab/1.1.7z) | 2004-10-31 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/1.1_contents.txt) | 52 KB |
 | :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/homelab/1.0.7z) | 2004-07-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/homelab/1.0_contents.txt) | 51 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

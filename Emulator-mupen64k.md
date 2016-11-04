@@ -26,4 +26,4 @@ _Mupen64k is a fork of Mupen64 with added Kaillera support._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/mupen64k/0.8.7z) | 2011-12-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64k/0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/mupen64k/0.8_contents.txt) | 4404 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

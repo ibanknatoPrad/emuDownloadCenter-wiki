@@ -29,7 +29,7 @@
 | :file_folder: [**Commodore 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c64) | :computer: Computer | c64 |
 | :file_folder: [**Commodore CDTV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdtv) | :fax: Console | cdtv |
 | :file_folder: [**EACA/TS Colour Genie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cg) | :computer: Computer | cg |
-| :file_folder: [**Unknown**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-chip8) | :exclamation: Unknown | chip8 |
+| :file_folder: [**Unknown**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-chip8) | :question: Unknown | chip8 |
 | :file_folder: [**Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
 | :file_folder: [**Coleco ColecoVision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-col) | :fax: Console | col |
 | :file_folder: [**Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
@@ -91,6 +91,7 @@
 | :file_folder: [**SNK NeoGeo CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngcd) | :fax: Console | ngcd |
 | :file_folder: [**SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :iphone: Handheld | ngp |
 | :file_folder: [**SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :iphone: Handheld | ngpc |
+| :file_folder: [**Oric Atmos/Telestrat**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-oric) | :computer: Computer | oric |
 | :file_folder: [**NEC PC-6001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc6001) | :computer: Computer | pc6001 |
 | :file_folder: [**NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
 | :file_folder: [**NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |

@@ -26,4 +26,4 @@ _Basilisk II is an Apple 68k Macintosh emulator. Screenshot taken from http://ww
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**2015.02.26**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/basiliskii/2015.02.26.7z) | 2015-02-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/basiliskii/2015.02.26_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/basiliskii/2015.02.26_contents.txt) | 1500 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

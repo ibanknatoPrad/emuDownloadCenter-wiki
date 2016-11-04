@@ -26,4 +26,4 @@ _Hyper64 is a working proof-of-concept of an experimental C64 emulator implement
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | :floppy_disk: [**1.00.2008.08.08**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/hyper64/1.00.2008.08.08.7z) | 2008-08-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hyper64/1.00.2008.08.08_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hyper64/1.00.2008.08.08_contents.txt) | 180 KB |
 
-:back: [Back to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
