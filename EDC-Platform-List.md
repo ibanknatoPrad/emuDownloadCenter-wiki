@@ -1,6 +1,8 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
-# EDC Platform listing
+# EDC Platform listing (total)
+
+###### By category: [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade)
 
 | Platform   | Category      | ECC ID      |
 |:-----------|:--------------|:------------|
