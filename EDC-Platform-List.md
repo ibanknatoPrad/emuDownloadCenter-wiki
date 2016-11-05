@@ -99,11 +99,17 @@
 | :file_folder: [**NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |
 | :file_folder: [**NEC Turbografx-16/PC-Engine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce) | :fax: Console | pce |
 | :file_folder: [**NEC Supergrafx/PC-Engine 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce2) | :fax: Console | pce2 |
+| :file_folder: [**NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
 | :file_folder: [**NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
+| :file_folder: [**DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
+| :file_folder: [**DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
 | :file_folder: [**Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |
 | :file_folder: [**IGS PolyGameMaster**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pgm) | :tv: Arcade | pgm |
 | :file_folder: [**Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
 | :file_folder: [**Signetics Pipbug**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pipbug) | :computer: Computer | pipbug |
+| :file_folder: [**Tesla PMD-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmd85) | :computer: Computer | pmd85 |
+| :file_folder: [**Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :iphone: Handheld | pmini |
+| :file_folder: [**Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
 | :file_folder: [**Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
 | :file_folder: [**Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :iphone: Handheld | pstation |
 | :file_folder: [**Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |

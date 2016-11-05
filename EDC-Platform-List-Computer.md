@@ -50,8 +50,12 @@
 | :file_folder: [**NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
 | :file_folder: [**NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |
 | :file_folder: [**NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
+| :file_folder: [**DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
+| :file_folder: [**DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
 | :file_folder: [**Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |
 | :file_folder: [**Signetics Pipbug**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pipbug) | :computer: Computer | pipbug |
+| :file_folder: [**Tesla PMD-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmd85) | :computer: Computer | pmd85 |
+| :file_folder: [**Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
 | :file_folder: [**Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
 | :file_folder: [**Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
 | :file_folder: [**MGT Sam Coupé**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-samc) | :computer: Computer | samc |

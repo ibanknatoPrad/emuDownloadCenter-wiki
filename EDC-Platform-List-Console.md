@@ -27,6 +27,7 @@
 | :file_folder: [**SNK NeoGeo CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngcd) | :fax: Console | ngcd |
 | :file_folder: [**NEC Turbografx-16/PC-Engine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce) | :fax: Console | pce |
 | :file_folder: [**NEC Supergrafx/PC-Engine 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce2) | :fax: Console | pce2 |
+| :file_folder: [**NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
 | :file_folder: [**Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
 | :file_folder: [**Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
 | :file_folder: [**Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
