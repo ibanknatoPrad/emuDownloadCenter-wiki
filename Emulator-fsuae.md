@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v2.8.0-win32**, released on **201
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on_
+_FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on UAE/WinUAE, with a focus on emulating games. Features include emulation of Amiga 500, 1200, 4000, CD32 and CDTV, perfectly smooth scrolling on 50Hz displays, support for floppy images in ADF and IPF formats, CD-ROM images in ISO or BIN/CUE format, mounting folders on your computer as Amiga hard drives, support for Picasso 96 drivers for high-color and high-resolution Workbench displays, and more...._
 
 :link: [**Emulator website**](http://fs-uae.net/)
 ***

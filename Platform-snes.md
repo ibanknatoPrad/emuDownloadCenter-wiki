@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**BSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnes#menu) | Byuu | Freeware |
 | :file_folder: [**Kindred**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kindred#menu) | Kris Bleakley | Freeware - Non-Commercial |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$sns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nosns#menu) | Martin Korth | Freeware |

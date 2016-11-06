@@ -7,5 +7,6 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| :file_folder: [**Satourne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-satourne#menu) | Fabien Autrel | Freeware |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

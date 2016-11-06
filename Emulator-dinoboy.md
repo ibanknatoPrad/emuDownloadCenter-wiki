@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _DinoBoy is a Nintendo Game Boy and Game Boy Color emulator._
 
-:link: [**Emulator website**](www.pradsprojects.com/dinoboy.html)
+:link: [**Emulator website**](http://www.pradsprojects.com/dinoboy.html)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dinoboy/screen.jpg "DinoBoy screenshot.")

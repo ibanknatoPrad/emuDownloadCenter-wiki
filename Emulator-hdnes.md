@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v20.07.2014**, released on **2014
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_HDNes is a Nintendo Entertainment System emulator with the ability to_
+_HDNes is a Nintendo Entertainment System emulator with the ability to replace the graphics of the game with custom-made graphics packs and it also comes with an editor for creating them._
 
 :link: [**Emulator website**](http://forums.nesdev.com/viewtopic.php?f=3&t=9935)
 ***

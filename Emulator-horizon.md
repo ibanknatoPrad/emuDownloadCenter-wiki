@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v2.1**, released on **2012-09-02*
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and_
+_Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and Master models are not supported._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/horizon/screen.jpg "Horizon screenshot.")
