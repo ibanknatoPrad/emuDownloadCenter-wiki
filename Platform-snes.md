@@ -10,6 +10,7 @@
 | :file_folder: [**Kindred**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kindred#menu) | Kris Bleakley | Freeware - Non-Commercial |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**no$sns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nosns#menu) | Martin Korth | Freeware |
+| :file_folder: [**SNEeSe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sneese#menu) | Charles Bilyue | Freeware |
 | :file_folder: [**SNES9X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snes9x#menu) | Gary Henderson | Freeware |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 
