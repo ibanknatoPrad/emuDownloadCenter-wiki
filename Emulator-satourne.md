@@ -14,7 +14,7 @@
 
 The latest version of the emulator on EDC is **v2.0b3**, released on **2005-12-19**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **satourne_3_win32.exe**.
 
-This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the graphics of the NES to modern levels. Screenshot from Author's Website (amended)._
 

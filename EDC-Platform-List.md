@@ -55,7 +55,6 @@
 | :file_folder: [**Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :iphone: Handheld | gbc |
 | :file_folder: [**Nintendo GameCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gc) | :fax: Console | gc |
 | :file_folder: [**Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
-| :file_folder: [**Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
 | :file_folder: [**Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :iphone: Handheld | gg |
 | :file_folder: [**GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :iphone: Handheld | gp32 |
 | :file_folder: [**Amstrad GX4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gx4000) | :fax: Console | gx4000 |

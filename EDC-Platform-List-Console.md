@@ -18,7 +18,6 @@
 | :file_folder: [**Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
 | :file_folder: [**Nintendo GameCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gc) | :fax: Console | gc |
 | :file_folder: [**Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
-| :file_folder: [**Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
 | :file_folder: [**Amstrad GX4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gx4000) | :fax: Console | gx4000 |
 | :file_folder: [**Mattel Intellivision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-int) | :fax: Console | int |
 | :file_folder: [**Atari Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jag) | :fax: Console | jag |
