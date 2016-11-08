@@ -1,0 +1,27 @@
+###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
+***
+## Menu
+| **Emulator: Potemkin** |
+|:---------|
+| :clipboard: [About](#about) |
+| :sunrise: [Screenshot](#screenshot) |
+| :floppy_disk: [Downloads](#downloads) |
+***
+## About
+**Potemkin** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard (aka ector)** and has a **GNU GPLv2** license.
+
+The latest version of the emulator on EDC is **valpha01**, released on **2007-05-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **DaShRelease.exe**.
+
+Please note: This emulator **needs BIOS image(s)** to start ROM files!
+
+_Potemkin (Codename DaSH) is an experimental HLE Sony Playstation Portable emulator. Screenshot from http://www.zophar.net/psp/potemkin.html._
+***
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potemkin/screen.jpg "Potemkin screenshot.")
+***
+## Downloads
+| Version  | Release date  | Info       | Info       | DL Size    |
+|:---------|:-------------:|:-----------|:-----------|-----------:|
+| :floppy_disk: [**alpha01**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/potemkin/alpha01.7z) | 2007-05-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/potemkin/alpha01_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/potemkin/alpha01_contents.txt) | 778 KB |
+
+:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -7,6 +7,9 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | Bas Steendijk | Freeware |
+| :file_folder: [**BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | Devin Acker, Alex W. Jackson, Michal Ziabkowski and Maximilian Rehkopf | GNU GPLv2 |
+| :file_folder: [**BSNES+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesplus#menu) | BSNES+ Team | GNU GPLv2 |
+| :file_folder: [**BSNES-SX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnessx2#menu) | LuigiBlood and Seu-kun | GNU GPLv2 |
 | :file_folder: [**DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | Prads | GNU GPLv3 |
 | :file_folder: [**DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | Pablo Gasco | GNU GPLv3 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |

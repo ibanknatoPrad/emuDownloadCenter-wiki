@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/saturnin_logo_200.jpg "Saturnin logo.")
 
-**Saturnin** is a emulator for **Sega Saturn** made by **Fabien Autrel, Runik** and has a **Freeware** license.
+**Saturnin** is a emulator for **Sega Saturn** made by **Runik** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **v0.40**, released on **2005-12-22**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **Saturnin.exe**.
 

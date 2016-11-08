@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**ARNIMEDES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnimedes#menu) | Oliver Lenz | UNKNOWN |
 | :file_folder: [**Arnold**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnold#menu) | Kevin Thacker | GNU GPLv2 |
 | :file_folder: [**Caprice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-caprice32#menu) | Ulrich Doewich | GNU GPLv2 |
 | :file_folder: [**CPCE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpce#menu) | Cesar Nicolas Gonzalez | Freeware - Non-Commercial |

@@ -17,6 +17,7 @@
 | :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
 | :file_folder: [**MesaDX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesadx#menu) | Eric R Quinn | Freeware - Non-Commercial |
 | :file_folder: [**Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | Bruno Vedder | GNU GPLv2 |
+| :file_folder: [**Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 | :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |

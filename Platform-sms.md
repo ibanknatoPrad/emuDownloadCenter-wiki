@@ -22,6 +22,7 @@
 | :file_folder: [**Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | Bruno Vedder | GNU GPLv2 |
 | :file_folder: [**Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
+| :file_folder: [**Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 | :file_folder: [**TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
 

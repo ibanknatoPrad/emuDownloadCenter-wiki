@@ -29,6 +29,7 @@
 | :file_folder: [**NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
 | :file_folder: [**Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
 | :file_folder: [**Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
+| :file_folder: [**Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
 | :file_folder: [**Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
 | :file_folder: [**Sega Saturn**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sat) | :fax: Console | sat |
 | :file_folder: [**Epoch/Yeno Super Cassette Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-scv) | :fax: Console | scv |
@@ -38,5 +39,8 @@
 | :file_folder: [**Nintendo Super Nintendo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-snes) | :fax: Console | snes |
 | :file_folder: [**Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
 | :file_folder: [**Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
+| :file_folder: [**Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
+| :file_folder: [**Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
+| :file_folder: [**Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
 
 :arrow_backward: [Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

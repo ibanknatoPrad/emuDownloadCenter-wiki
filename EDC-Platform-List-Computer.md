@@ -36,6 +36,7 @@
 | :file_folder: [**Vtech Laser 200/210/310**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l200) | :computer: Computer | l200 |
 | :file_folder: [**Vtech Laser 350/500/700**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l350) | :computer: Computer | l350 |
 | :file_folder: [**Apple Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lisa) | :computer: Computer | lisa |
+| :file_folder: [**V. I. Lenin L'vov/Lviv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lviv) | :computer: Computer | lviv |
 | :file_folder: [**Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
 | :file_folder: [**Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
 | :file_folder: [**MSX Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx) | :computer: Computer | msx |
@@ -58,15 +59,20 @@
 | :file_folder: [**Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
 | :file_folder: [**Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
 | :file_folder: [**Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
+| :file_folder: [**Mikrosha Radio-86RK**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-r86rk) | :computer: Computer | r86rk |
 | :file_folder: [**MGT Sam Coupé**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-samc) | :computer: Computer | samc |
 | :file_folder: [**Sega SC-3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sc3000) | :computer: Computer | sc3000 |
 | :file_folder: [**Sord M5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sordm5) | :computer: Computer | sordm5 |
 | :file_folder: [**Atari ST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-st) | :computer: Computer | st |
 | :file_folder: [**Spectravideo SV318/328**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sv318) | :computer: Computer | sv318 |
+| :file_folder: [**Texas Instruments TI-99/4A**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti99) | :computer: Computer | ti99 |
 | :file_folder: [**Tandy/Radio Shack TRS-80 Color Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-trs80) | :computer: Computer | trs80 |
 | :file_folder: [**Tomy Tutor/Pyuta**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tutor) | :computer: Computer | tutor |
+| :file_folder: [**Philips VG-5000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg5000) | :computer: Computer | vg5000 |
 | :file_folder: [**Commodore VIC-20**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vic20) | :computer: Computer | vic20 |
+| :file_folder: [**Cosmac VIP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vip) | :computer: Computer | vip |
 | :file_folder: [**Sharp X1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x1) | :computer: Computer | x1 |
+| :file_folder: [**Sharp X68000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x68000) | :computer: Computer | x68000 |
 | :file_folder: [**Sinclair ZX81**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zx81) | :computer: Computer | zx81 |
 | :file_folder: [**Sinclair ZX Spectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zxs) | :computer: Computer | zxs |
 

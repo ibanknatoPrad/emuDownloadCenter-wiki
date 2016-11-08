@@ -7,6 +7,10 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**3DNes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dnes#menu) | geod | Donationware |
+| :file_folder: [**BSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnes#menu) | Byuu | Freeware |
+| :file_folder: [**BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | Devin Acker, Alex W. Jackson, Michal Ziabkowski and Maximilian Rehkopf | GNU GPLv2 |
+| :file_folder: [**BSNES+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesplus#menu) | BSNES+ Team | GNU GPLv2 |
+| :file_folder: [**BSNES-SX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnessx2#menu) | LuigiBlood and Seu-kun | GNU GPLv2 |
 | :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
 | :file_folder: [**FakeNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fakenes#menu) | randilyn, TRAC, Lord_Nightmare and KittyCat | Freeware |
 | :file_folder: [**FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | FCEUX team | Freeware |

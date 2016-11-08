@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | Daniel Coulom | Freeware |
 | :file_folder: [**HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | Attila Grosz | Freeware |
 | :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
 

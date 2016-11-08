@@ -19,6 +19,7 @@
 | :file_folder: [**SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :iphone: Handheld | ngp |
 | :file_folder: [**SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :iphone: Handheld | ngpc |
 | :file_folder: [**Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :iphone: Handheld | pmini |
+| :file_folder: [**Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :iphone: Handheld | psp |
 | :file_folder: [**Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :iphone: Handheld | pstation |
 | :file_folder: [**Watara Supervision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-svn) | :iphone: Handheld | svn |
 | :file_folder: [**Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :iphone: Handheld | vb |

@@ -19,6 +19,7 @@
 | :file_folder: [**Sega System 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s16) | :tv: Arcade | s16 |
 | :file_folder: [**Sega System 18**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s18) | :tv: Arcade | s18 |
 | :file_folder: [**Namco System 22**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s22) | :tv: Arcade | s22 |
+| :file_folder: [**Sega Titan Video game system**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-stv) | :tv: Arcade | stv |
 | :file_folder: [**Sony ZiNc (ZN-1/ZN-2)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zinc) | :tv: Arcade | zinc |
 
 :arrow_backward: [Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

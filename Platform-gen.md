@@ -17,5 +17,6 @@
 | :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
 | :file_folder: [**Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | :file_folder: [**PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | notaz | Non-standard |
+| :file_folder: [**Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

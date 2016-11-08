@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v101**, released on **2016-08-08*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_higan is a multi-system emulator for the following systems: Nintendo Famicom, Super Famicom, Super Game Boy, BS-X Stellaview, Sufami Turbo, Game Boy, Game Boy Color, Game Boy Advance and the Wonderswan and Wonderswn Color._
+_higan is a multi-system emulator for the following systems: Nintendo Entertainment Systems, Famicom, SNES, Super Famicom, Super Game Boy, BS-X Stellaview, Sufami Turbo, Game Boy, Game Boy Color, Game Boy Advance and the Wonderswan and Wonderswan Color._
 
 :link: [**Emulator website**](http://byuu.org/emulation/higan/)
 ***

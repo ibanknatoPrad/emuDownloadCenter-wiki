@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| :file_folder: [**ArcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arcem#menu) | pnaulls and ralph | GNU GPLv2 |
 | :file_folder: [**Arculator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arculator#menu) | Tom Walker | Freeware |
 | :file_folder: [**Red Squirrel**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-redsquirrel#menu) | Graeme Barnes | Freeware |
 | :file_folder: [**RPCemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rpcemu#menu) | Tom Walker | Freeware |

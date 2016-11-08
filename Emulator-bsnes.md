@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnes_logo_200.jpg "BSNES logo.")
 
-**BSNES** is a emulator for **Nintendo Super Nintendo** made by **Byuu** and has a **Freeware** license.
+**BSNES** is a emulator for **Nintendo NES/Famicom** made by **Byuu** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **v0.91-win64**, released on **2012-08-10**, it runs on **Windows XP,Vista,7,8,10 (x64)**, you can start this emulator with **bsnes.exe**.
 
