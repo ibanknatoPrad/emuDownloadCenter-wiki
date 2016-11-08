@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: NNNesterJ** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **NNNesterJ** is a emulator for **Nintendo NES/Famicom** made by **UNKNOWN** and has a **UNKNOWN** license.
@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _NNNesterJ is a Nintendo Entertainment System emulator based on NesterJ._
 
-:link: [**Emulator website**](http://www.emulation9.com/nnnesterj)
+[:link: **Emulator website**](http://www.emulation9.com/nnnesterj)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nnnesterj/screen.jpg "NNNesterJ screenshot.")
@@ -24,6 +24,6 @@ _NNNesterJ is a Nintendo Entertainment System emulator based on NesterJ._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nnnesterj/0.23.7z) | 2002-12-21 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nnnesterj/0.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nnnesterj/0.23_contents.txt) | 308 KB |
+| [:floppy_disk: **0.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nnnesterj/0.23.7z) | 2002-12-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nnnesterj/0.23_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nnnesterj/0.23_contents.txt) | 308 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

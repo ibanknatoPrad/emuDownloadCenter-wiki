@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Callus95** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Callus95** is a emulator for **Capcom Play System 1** made by **Bloodlust Software** and has a **Freeware** license.
@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **0.42 (x86,x64)**, released on **2
 
 _Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection of games._
 
-:link: [**Emulator website**](http://bloodlust.zophar.net/Callus/callus.html)
+[:link: **Emulator website**](http://bloodlust.zophar.net/Callus/callus.html)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/callus/screen.jpg "Callus95 screenshot.")
@@ -24,6 +24,6 @@ _Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.42**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/callus/0.42.7z) | 2000-11-21 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_contents.txt) | 156 KB |
+| [:floppy_disk: **0.42**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/callus/0.42.7z) | 2000-11-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/callus/0.42_contents.txt) | 156 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

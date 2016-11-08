@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: PS2EMU** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **PS2EMU** is a emulator for **Sony PlayStation 2** made by **Roor Makurosu, Scar_T and Shunt** and has a **Freeware - Non-Commercial** license.
@@ -22,6 +22,6 @@ _PS2EMU is a Sony Playstation 2 emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **alpha01**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/ps2emu/alpha01.7z) | 2004-05-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/ps2emu/alpha01_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/ps2emu/alpha01_contents.txt) | 366 KB |
+| [:floppy_disk: **alpha01**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/ps2emu/alpha01.7z) | 2004-05-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/ps2emu/alpha01_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/ps2emu/alpha01_contents.txt) | 366 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

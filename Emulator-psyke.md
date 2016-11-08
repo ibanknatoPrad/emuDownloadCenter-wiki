@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: PSyKe** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **PSyKe** is a emulator for **Sony PlayStation 1** made by **Giovanni Bajo and Stefano Crosara** and has a **Freeware - Non-Commercial** license.
@@ -22,6 +22,6 @@ _PSyKe is a Sony Playstation 1 emulator. This emulator requires the CD-ROM to be
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/psyke/0.2.0.7z) | 1998-09-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psyke/0.2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psyke/0.2.0_contents.txt) | 308 KB |
+| [:floppy_disk: **0.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/psyke/0.2.0.7z) | 1998-09-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psyke/0.2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psyke/0.2.0_contents.txt) | 308 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

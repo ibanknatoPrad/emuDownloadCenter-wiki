@@ -21,4 +21,4 @@
 | :file_folder: [**PSyKe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psyke#menu) | Giovanni Bajo and Stefano Crosara | Freeware - Non-Commercial |
 | :file_folder: [**XEBRA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xebra#menu) | Dr. Hell | UNKNOWN |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

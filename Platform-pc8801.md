@@ -11,4 +11,4 @@
 | :file_folder: [**X88000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-x88000#menu) | Manuke | UNKNOWN |
 | :file_folder: [**XM8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm8#menu) | PI. | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

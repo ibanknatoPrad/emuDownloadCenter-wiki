@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Daphne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daphne#menu) | Matt Ownby | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

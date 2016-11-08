@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: viva nonno** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vivanonno_logo_200.jpg "viva nonno logo.")
@@ -18,7 +18,7 @@ The latest version of the emulator on EDC is **22.0.3 (x86)**, released on **200
 
 _'viva nonno' is a namco system 22 emulator for Windows and DirectX._
 
-:link: [**Emulator website**](http://vivanonno.vg-network.com/)
+[:link: **Emulator website**](http://vivanonno.vg-network.com/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vivanonno/screen.jpg "viva nonno screenshot.")
@@ -26,8 +26,8 @@ _'viva nonno' is a namco system 22 emulator for Windows and DirectX._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **22.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.3.7z) | 2002-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.3_contents.txt) | 229 KB |
-| [:floppy_disk: **22.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.2.7z) | 2002-08-01 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_contents.txt) | 228 KB |
-| [:floppy_disk: **22.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.1.7z) | 2002-04-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_contents.txt) | 225 KB |
+| [:floppy_disk: **22.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.3.7z) | 2002-08-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.3_contents.txt) | 229 KB |
+| [:floppy_disk: **22.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.2.7z) | 2002-08-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.2_contents.txt) | 228 KB |
+| [:floppy_disk: **22.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vivanonno/22.0.1.7z) | 2002-04-19 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vivanonno/22.0.1_contents.txt) | 225 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

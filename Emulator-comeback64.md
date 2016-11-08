@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Come Back 64** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Come Back 64** is a emulator for **Commodore 64** made by **D Luxen** and has a **GNU GPLv2** license.
@@ -22,6 +22,6 @@ _CB64 is a software emulator for the C64 Computer._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **beta4**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/comeback64/beta4.7z) | 1999-11-08 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_contents.txt) | 250 KB |
+| [:floppy_disk: **beta4**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/comeback64/beta4.7z) | 1999-11-08 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/comeback64/beta4_contents.txt) | 250 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

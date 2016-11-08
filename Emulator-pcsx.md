@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Pcsx** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Pcsx** is a emulator for **Sony PlayStation 1** made by **Pcsx Team** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcsx/1.5.7z) | 2003-05-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_contents.txt) | 163 KB |
+| [:floppy_disk: **1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcsx/1.5.7z) | 2003-05-12 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_contents.txt) | 163 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

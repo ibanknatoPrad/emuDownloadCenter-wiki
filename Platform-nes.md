@@ -40,4 +40,4 @@
 | :file_folder: [**YANESE (Yet Another NES Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yanese#menu) | Anes | UNKNOWN |
 | :file_folder: [**YoshiNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yoshines#menu) | omundodogabriel | UNKNOWN |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

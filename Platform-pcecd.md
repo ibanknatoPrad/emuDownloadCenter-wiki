@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Turbo Engine 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-turboengine#menu) | AamirM | Freeware - Non-Commercial |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

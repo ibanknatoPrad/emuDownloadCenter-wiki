@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: MesaDX** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **MesaDX** is a emulator for **Sega Game Gear** made by **Eric R Quinn** and has a **Freeware - Non-Commercial** license.
@@ -22,6 +22,6 @@ _MesaDX is a Sega Master System and Game Gear emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.04**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/mesadx/0.04.7z) | 2006-09-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_contents.txt) | 146 KB |
+| [:floppy_disk: **0.04**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/mesadx/0.04.7z) | 2006-09-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/mesadx/0.04_contents.txt) | 146 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

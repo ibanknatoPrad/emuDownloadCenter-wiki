@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**O2EM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-o2em#menu) | Daniel Boris | Clarified Artistic Licence |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

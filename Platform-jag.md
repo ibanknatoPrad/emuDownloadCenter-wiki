@@ -11,4 +11,4 @@
 | :file_folder: [**Jaguar Tempest 2000 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-t2k#menu) | Dave Oldcorn aka Dio | Freeware |
 | :file_folder: [**Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualjaguar#menu) | Niels Wagenaar & Carwin Jones | Open Source |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,4 +10,4 @@
 | :file_folder: [**Makaron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-makaron#menu) | Deunan | UNKNOWN |
 | :file_folder: [**nullDC NAOMI**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nulldcn#menu) | Stefanos Kornilios Mitsis Poiitidis | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Classic99**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-classic99#menu) | M Brent and Tursi | Open Source (Restrictive) |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

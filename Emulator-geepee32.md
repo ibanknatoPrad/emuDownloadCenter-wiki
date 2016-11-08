@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: GeePee32** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **GeePee32** is a emulator for **GamePark GP32** made by **Tim Schuerewegen** and has a **UNKNOWN** license.
@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **0.43 (x86,x64)**, released on **2
 
 _GeePee32 is a Game-Park GP32 handheld console._
 
-:link: [**Emulator website**](http://users.skynet.be/firefly/gp32/)
+[:link: **Emulator website**](http://users.skynet.be/firefly/gp32/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/geepee32/screen.jpg "GeePee32 screenshot.")
@@ -24,6 +24,6 @@ _GeePee32 is a Game-Park GP32 handheld console._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.43**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/geepee32/0.43.7z) | 2004-06-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_contents.txt) | 589 KB |
+| [:floppy_disk: **0.43**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/geepee32/0.43.7z) | 2004-06-15 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/geepee32/0.43_contents.txt) | 589 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

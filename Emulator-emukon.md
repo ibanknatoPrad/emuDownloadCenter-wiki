@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Emukon** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Emukon** is a emulator for **Sega Game Gear** made by **Martin and Robert Konrad** and has a **KonTechs Freeware License** license.
@@ -22,6 +22,6 @@ _Emukon is a Sega Master System and Game Gear emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.05**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/emukon/1.05.7z) | 2004-07-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_contents.txt) | 290 KB |
+| [:floppy_disk: **1.05**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/emukon/1.05.7z) | 2004-07-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/emukon/1.05_contents.txt) | 290 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

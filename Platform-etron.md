@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**Elkulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-elkulator#menu) | Tom Walker | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: BoycottAdvance** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **BoycottAdvance** is a emulator for **Nintendo Game Boy Advance** made by **Julien FRELAT aka Gollum** and has a **Freeware** license.
@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _BoycottAdvance is a Game Boy Advance emulator._
 
-:link: [**Emulator website**](http://boycottadvance.emuunlim.com)
+[:link: **Emulator website**](http://boycottadvance.emuunlim.com)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/boycottadv/screen.jpg "BoycottAdvance screenshot.")
@@ -24,6 +24,6 @@ _BoycottAdvance is a Game Boy Advance emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.2.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/boycottadv/0.2.8.7z) | 2003-05-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_contents.txt) | 585 KB |
+| [:floppy_disk: **0.2.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/boycottadv/0.2.8.7z) | 2003-05-17 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/boycottadv/0.2.8_contents.txt) | 585 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: PMD85** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **PMD85** is a emulator for **Tesla PMD-85** made by **Martin Schotek** and has a **UNKNOWN** license.
@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _PMD85 is an emulator for the Tesla Piestany and Bratislava PMD85 computers and their clones. NOTE: Emulator and Website are in Czechoslovakian._
 
-:link: [**Emulator website**](http://www.schotek.cz/pmd/)
+[:link: **Emulator website**](http://www.schotek.cz/pmd/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pmd85/screen.jpg "PMD85 screenshot.")
@@ -24,6 +24,6 @@ _PMD85 is an emulator for the Tesla Piestany and Bratislava PMD85 computers and 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.3p**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pmd85/1.3p.7z) | 2003-01-04 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pmd85/1.3p_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pmd85/1.3p_contents.txt) | 80 KB |
+| [:floppy_disk: **1.3p**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pmd85/1.3p.7z) | 2003-01-04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pmd85/1.3p_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pmd85/1.3p_contents.txt) | 80 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

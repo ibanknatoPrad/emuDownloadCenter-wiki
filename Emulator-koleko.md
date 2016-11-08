@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: KOLEKO** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **KOLEKO** is a emulator for **Coleco ColecoVision** made by **Saverio Russo aka SiRioKD** and has a **Freeware** license.
@@ -22,6 +22,6 @@ _KOLEKO is a Coleco ColecoVision emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.33**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/koleko/1.33.7z) | 2002-10-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_contents.txt) | 641 KB |
+| [:floppy_disk: **1.33**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/koleko/1.33.7z) | 2002-10-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/koleko/1.33_contents.txt) | 641 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

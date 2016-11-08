@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: DirectVMS** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **DirectVMS** is a emulator for **Sega Dreamcast VMU** made by **biggs** and has a **Freeware** license.
@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **1.8 (x86,x64)**, released on **20
 
 _DirectVMS is a DirectX port of SoftVMS, an emulator for the Sega Dreamcast Visual Memory System._
 
-:link: [**Emulator website**](http://rpging.simplenet.com)
+[:link: **Emulator website**](http://rpging.simplenet.com)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/directvms/screen.jpg "DirectVMS screenshot.")
@@ -24,6 +24,6 @@ _DirectVMS is a DirectX port of SoftVMS, an emulator for the Sega Dreamcast Visu
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/directvms/1.8.7z) | 2000-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_contents.txt) | 71 KB |
+| [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/directvms/1.8.7z) | 2000-08-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/directvms/1.8_contents.txt) | 71 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

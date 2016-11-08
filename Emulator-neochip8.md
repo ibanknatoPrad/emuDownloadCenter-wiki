@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: NeoChip8** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **NeoChip8** is a emulator for **Cosmac VIP** made by **Eric Scrivner aka zenogais** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _NeoChip8 is a RCA COSMAC VIP and Chip-8 emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **2004.06.30**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/neochip8/2004.06.30.7z) | 2004-06-30 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/neochip8/2004.06.30_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/neochip8/2004.06.30_contents.txt) | 405 KB |
+| [:floppy_disk: **2004.06.30**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/neochip8/2004.06.30.7z) | 2004-06-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/neochip8/2004.06.30_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/neochip8/2004.06.30_contents.txt) | 405 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Game.Com Emulator** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Game.Com Emulator** is a emulator for **Tiger Electronics Game.com** made by **UNKNOWN** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _Game.Com Emulator is the only (AFAIK) emulator for the Tiger Game.Com._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **29.12.98**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gamecomemu/29.12.98.7z) | 1998.12.29 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_contents.txt) | 228 KB |
+| [:floppy_disk: **29.12.98**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gamecomemu/29.12.98.7z) | 1998.12.29 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_contents.txt) | 228 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

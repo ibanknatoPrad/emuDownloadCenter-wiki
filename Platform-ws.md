@@ -13,4 +13,4 @@
 | :file_folder: [**Oswan (Unofficial)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oswanu#menu) | Kazz | UNKNOWN |
 | :file_folder: [**WSCamp**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-wscamp#menu) | UNKNOWN | UNKNOWN |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

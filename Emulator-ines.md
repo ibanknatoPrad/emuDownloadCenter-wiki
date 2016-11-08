@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: iNES** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **iNES** is a emulator for **Nintendo NES/Famicom** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial** license.
@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _iNES is a Nintendo Entertainment System and Famicom emulator._
 
-:link: [**Emulator website**](http://fms.komkon.org/iNES)
+[:link: **Emulator website**](http://fms.komkon.org/iNES)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ines/screen.jpg "iNES screenshot.")
@@ -24,6 +24,6 @@ _iNES is a Nintendo Entertainment System and Famicom emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2.14.7z) | 2006-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ines/2.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ines/2.14_contents.txt) | 0 KB |
+| [:floppy_disk: **2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2.14.7z) | 2006-05-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ines/2.14_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ines/2.14_contents.txt) | 0 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

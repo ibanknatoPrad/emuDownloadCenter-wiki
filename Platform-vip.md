@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**NeoChip8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neochip8#menu) | Eric Scrivner aka zenogais | UNKNOWN |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Gens Plus!** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso** and has a **GNU GPLv2** license.
@@ -22,6 +22,6 @@ _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.0.9.61**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gensplus/0.0.9.61.7z) | 2005-08-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_contents.txt) | 508 KB |
+| [:floppy_disk: **0.0.9.61**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gensplus/0.0.9.61.7z) | 2005-08-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_contents.txt) | 508 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

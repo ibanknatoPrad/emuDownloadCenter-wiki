@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Oswan** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Oswan** is a emulator for **Bandai Wonderswan** made by **Cal2** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _Oswan is a Bandai WonderSwan and WonderSwan Color emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.72**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/oswan/0.72.7z) | 2004.02.14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/oswan/0.72_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/oswan/0.72_contents.txt) | 229 KB |
+| [:floppy_disk: **0.72**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/oswan/0.72.7z) | 2004.02.14 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/oswan/0.72_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/oswan/0.72_contents.txt) | 229 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

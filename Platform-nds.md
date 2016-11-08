@@ -11,4 +11,4 @@
 | :file_folder: [**no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
 | :file_folder: [**NeonDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neonds#menu) | release, jitc, notrace | Freeware |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

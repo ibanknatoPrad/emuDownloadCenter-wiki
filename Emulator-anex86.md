@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Anex86** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Anex86** is a emulator for **NEC PC-9801** made by **A.N.** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _Anex86 is a PC-286, 386, 486 and 586 emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **2.78**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/anex86/2.78.7z) | 2005-03-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/anex86/2.78_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/anex86/2.78_contents.txt) | 214 KB |
+| [:floppy_disk: **2.78**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/anex86/2.78.7z) | 2005-03-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/anex86/2.78_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/anex86/2.78_contents.txt) | 214 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

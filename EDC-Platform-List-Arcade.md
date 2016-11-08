@@ -22,4 +22,4 @@
 | :file_folder: [**Sega Titan Video game system**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-stv) | :tv: Arcade | stv |
 | :file_folder: [**Sony ZiNc (ZN-1/ZN-2)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zinc) | :tv: Arcade | zinc |
 
-:arrow_backward: [Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

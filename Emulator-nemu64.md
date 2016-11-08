@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Nemu64** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nemu64_logo_200.jpg "Nemu64 logo.")
@@ -18,7 +18,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Nemu64 is one of the oldest Nintendo 64 emulators in existance. For a long time it was also nearly unplayable due to being to slow for most PCs to run. Fortunately as both Nemu64 and the development of faster multi-Ghz CPU's progressed, Nemu64 can be played without much slowdown._
 
-:link: [**Emulator website**](http://nemu.emuunlim.org/)
+[:link: **Emulator website**](http://nemu.emuunlim.org/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nemu64/screen.jpg "Nemu64 screenshot.")
@@ -26,6 +26,6 @@ _Nemu64 is one of the oldest Nintendo 64 emulators in existance. For a long time
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nemu64/0.8.7z) | 2003-03-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_contents.txt) | 1726 KB |
+| [:floppy_disk: **0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nemu64/0.8.7z) | 2003-03-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_contents.txt) | 1726 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

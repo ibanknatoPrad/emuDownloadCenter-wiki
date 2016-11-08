@@ -9,4 +9,4 @@
 | :file_folder: [**APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | Enrique Collado | Freeware |
 | :file_folder: [**Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | James the Animal Tamer | Freeware |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

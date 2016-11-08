@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Archie** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license.
@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **0.9 (x86)**, released on **2000-0
 
 _Archie is an Acorn Archimedes emulator for DOS. It is freeware and is not to be distributed with OS ROMs or to be modified or sold._
 
-:link: [**Emulator website**](http://web.archive.org/web/20010812000248/http://www.geocities.com/chris-o/)
+[:link: **Emulator website**](http://web.archive.org/web/20010812000248/http://www.geocities.com/chris-o/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/archie/screen.jpg "Archie screenshot.")
@@ -24,6 +24,6 @@ _Archie is an Acorn Archimedes emulator for DOS. It is freeware and is not to be
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/archie/0.9.7z) | 2000-09-05 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/archie/0.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/archie/0.9_contents.txt) | 110 KB |
+| [:floppy_disk: **0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/archie/0.9.7z) | 2000-09-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/archie/0.9_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/archie/0.9_contents.txt) | 110 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

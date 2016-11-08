@@ -14,4 +14,4 @@
 | :file_folder: [**Yabause**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yabause#menu) | Yabouse Team | Freeware |
 | :file_folder: [**Yabause-Devmiyax**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yabaused#menu) | Benjamin Siskoo | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

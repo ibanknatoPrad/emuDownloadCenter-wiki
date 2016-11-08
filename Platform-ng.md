@@ -13,4 +13,4 @@
 | :file_folder: [**NGAE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ngae#menu) | IsmaMj | UNKNOWN |
 | :file_folder: [**WinKawaks**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winkawaks#menu) | The WinKawaks Team | Freeware |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,4 +8,4 @@
 |:-----------|:------------|:------------|
 | :file_folder: [**XM 6 Type G**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm6#menu) | GIMONS | Freeware - Non-Commercial (Restricted Distribution) |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

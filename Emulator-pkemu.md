@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: PKEmu** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **UNKNOWN** license.
@@ -22,6 +22,6 @@ _PKEmu is a Sony Pocket Station emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pkemu/1.1.7z) | 1999-05-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pkemu/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pkemu/1.1_contents.txt) | 179 KB |
+| [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pkemu/1.1.7z) | 1999-05-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pkemu/1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pkemu/1.1_contents.txt) | 179 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

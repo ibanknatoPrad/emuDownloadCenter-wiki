@@ -25,4 +25,4 @@
 | :file_folder: [**uosnes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-uosnes#menu) | sanmaiwashi | GNU GPLv2 |
 | :file_folder: [**ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | zsKnight, -Demo-, and Pharos | Freeware |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

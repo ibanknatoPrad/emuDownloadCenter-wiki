@@ -26,4 +26,4 @@
 | :file_folder: [**Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :iphone: Handheld | ws |
 | :file_folder: [**Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :iphone: Handheld | wsc |
 
-:arrow_backward: [Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

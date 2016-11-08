@@ -10,4 +10,4 @@
 | :file_folder: [**XM7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7#menu) | PI. and Ryu Takegami | UNKNOWN |
 | :file_folder: [**XM7dash**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7dash#menu) | PI., Ryu Takegami and Toma | UNKNOWN |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

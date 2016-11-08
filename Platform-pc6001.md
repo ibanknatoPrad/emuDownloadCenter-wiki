@@ -11,4 +11,4 @@
 | :file_folder: [**PC6001VX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pc6001vx#menu) | eighttails | GNU GPLv2.1 |
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

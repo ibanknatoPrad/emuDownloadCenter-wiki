@@ -10,4 +10,4 @@
 | :file_folder: [**QLAY2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlay2#menu) | Jimmy Montesinos and Raphael Zhou | Freeware - Non-Commercial |
 | :file_folder: [**QLAY**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlayw#menu) | Jan Venema | Freeware - Non-Commercial |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: Vace** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **Vace** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license.
@@ -22,6 +22,6 @@ _Vace is a Jupiter Cantab Jupiter Ace emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vace/1.0.7z) | 1998-11-15 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_contents.txt) | 39 KB |
+| [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vace/1.0.7z) | 1998-11-15 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vace/1.0_contents.txt) | 39 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

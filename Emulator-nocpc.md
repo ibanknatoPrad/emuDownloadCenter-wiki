@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: no$cpc** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth** and has a **Freeware** license.
@@ -16,7 +16,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 
-:link: [**Emulator website**](http://problemkaputt.de/index.htm)
+[:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nocpc/screen.jpg "no$cpc screenshot.")
@@ -24,6 +24,6 @@ _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nocpc/1.8.7z) | 2000-11-02 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_contents.txt) | 166 KB |
+| [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nocpc/1.8.7z) | 2000-11-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_contents.txt) | 166 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

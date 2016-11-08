@@ -3,9 +3,9 @@
 ## Menu
 | **Emulator: PSinex** |
 |:---------|
-| :clipboard: [About](#about) |
-| :sunrise: [Screenshot](#screenshot) |
-| :floppy_disk: [Downloads](#downloads) |
+| [:clipboard: About](#about) |
+| [:sunrise: Screenshot](#screenshot) |
+| [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
 **PSinex** is a emulator for **Sony PlayStation 1** made by **pSyChOjAk and Shunt** and has a **GNU GPLv2** license.
@@ -22,6 +22,6 @@ _PSinex PC Emulator is a Sony Playstation 1 emulator. A BIOS is NOT required but
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **r3**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/psinex/r3.7z) | 2001-11-24 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psinex/r3_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psinex/r3_contents.txt) | 155 KB |
+| [:floppy_disk: **r3**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/psinex/r3.7z) | 2001-11-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psinex/r3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/psinex/r3_contents.txt) | 155 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

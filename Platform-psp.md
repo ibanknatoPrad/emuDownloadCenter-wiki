@@ -13,4 +13,4 @@
 | :file_folder: [**Potemkin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-potemkin#menu) | Henrik Rydgard (aka ector) | GNU GPLv2 |
 | :file_folder: [**PPSSPP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ppsspp#menu) | Henrik Rydgard | GNU GPLv2 |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
