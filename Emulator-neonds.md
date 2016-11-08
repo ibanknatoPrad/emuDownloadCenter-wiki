@@ -12,7 +12,7 @@
 
 **NeonDS** is a emulator for **Nintendo DS** made by **release, jitc, notrace** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v0.2.1**, released on **2008-07-13**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **NeonDS.exe**.
+The latest version of the emulator on EDC is **0.2.1 (x86)**, released on **2008-07-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeonDS.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,6 +26,6 @@ _The NeonDS is an emulator of Nintendo’s latest handheld console, the Nintendo
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/neonds/0.2.1.7z) | 2008-07-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_contents.txt) | 257 KB |
+| [:floppy_disk: **0.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/neonds/0.2.1.7z) | 2008-07-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/neonds/0.2.1_contents.txt) | 257 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

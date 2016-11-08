@@ -10,7 +10,7 @@
 ## About
 **James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v0.21**, released on **2005-05-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **jvz200.exe**.
+The latest version of the emulator on EDC is **0.21 (x86)**, released on **2005-05-11 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **jvz200.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _James's VZ200, an emulator for the VZ200 computer_
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.21**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jvz200/0.21.7z) | 2005-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_contents.txt) | 372 KB |
+| [:floppy_disk: **0.21**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jvz200/0.21.7z) | 2005-05-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jvz200/0.21_contents.txt) | 372 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

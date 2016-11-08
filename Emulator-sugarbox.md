@@ -12,7 +12,7 @@
 
 **Sugarbox** is a emulator for **Amstrad CPC** made by **Thomas Guillemin** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **v0.26**, released on **2016-04-06**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Sugarbox.exe**.
+The latest version of the emulator on EDC is **0.26 (x86,x64)**, released on **2016-04-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Sugarbox.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,6 +26,6 @@ _Sugarbox is an Amstrad CPC emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.26**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sugarbox/0.26.7z) | 2016-04-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_contents.txt) | 1530 KB |
+| [:floppy_disk: **0.26**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sugarbox/0.26.7z) | 2016-04-06 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sugarbox/0.26_contents.txt) | 1530 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -12,7 +12,7 @@
 
 **ICE64** is a emulator for **Nintendo N64** made by **Pokefan** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **v3.7.0b**, released on **2012-10-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ICE64.exe**.
+The latest version of the emulator on EDC is **3.7.0b (x86,x64)**, released on **2012-10-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ICE64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _ICE64 is a Nintendo 64 emulator base on the NICE64 v2.1.2 code base_
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | 2012-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
+| [:floppy_disk: **3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | 2012-10-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

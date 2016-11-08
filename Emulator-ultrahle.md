@@ -12,7 +12,7 @@
 
 **UltraHLE** is a emulator for **Nintendo N64** made by **Epsilon and RealityMan** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v1.1.0**, released on **2002-08-04**, it runs on **Windows XP,Vista (x86,x64)**, you can start this emulator with **UltraHLE.exe**.
+The latest version of the emulator on EDC is **1.1.0 (x86,x64)**, released on **2002-08-04 :triangular_flag_on_post: **, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,7 +26,7 @@ _UltraHLE is an emulator allowing games for the Nintendo 64 game console to be r
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**1.1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ultrahle/1.1.0.7z) | 2002-08-04 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.1.0_contents.txt) | 178 KB |
-| :floppy_disk: [**1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ultrahle/1.0.7z) | 1999-01-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.0_contents.txt) | 147 KB |
+| [:floppy_disk: **1.1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ultrahle/1.1.0.7z) | 2002-08-04 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.1.0_contents.txt) | 178 KB |
+| [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ultrahle/1.0.7z) | 1999-01-28 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle/1.0_contents.txt) | 147 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

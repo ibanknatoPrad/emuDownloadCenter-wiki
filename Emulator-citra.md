@@ -12,7 +12,7 @@
 
 **Citra** is a emulator for **Nintendo 3DS** made by **Multiple Contributors** and has a **GPLv2** license.
 
-The latest version of the emulator on EDC is **v20140523-x86**, released on **2014-05-23**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **citra_qtRelease.exe**.
+The latest version of the emulator on EDC is **20140523-x86 (x86)**, released on **2014-05-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **citra_qtRelease.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,7 +26,7 @@ _Citra is an experimental open-source Nintendo 3DS emulator/debugger written in 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**20140523-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20140523-x86.7z) | 2014-05-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20140523-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20140523-x86_contents.txt) | 3784 KB |
-| :floppy_disk: [**20150525-amd64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20150525-amd64.7z) | 2015-05-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20150525-amd64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20150525-amd64_contents.txt) | 15868 KB |
+| [:floppy_disk: **20140523-x86**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20140523-x86.7z) | 2014-05-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20140523-x86_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20140523-x86_contents.txt) | 3784 KB |
+| [:floppy_disk: **20150525-amd64**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/citra/20150525-amd64.7z) | 2015-05-25 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20150525-amd64_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/citra/20150525-amd64_contents.txt) | 15868 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

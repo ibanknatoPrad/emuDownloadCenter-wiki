@@ -10,7 +10,7 @@
 ## About
 **SharpChip-8** is a emulator for **Unknown** made by **Yannick Comte aka Demonixis** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v0.5**, released on **2011-11-19**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **SharpChip-8.exe**.
+The latest version of the emulator on EDC is **0.5 (x86,x64)**, released on **2011-11-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SharpChip-8.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _SharpChip-8 is an interpreted language emulator chip-8. It is still experimenta
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sharpchip8/0.5.7z) | 2011-11-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_contents.txt) | 468 KB |
+| [:floppy_disk: **0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/sharpchip8/0.5.7z) | 2011-11-19 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/sharpchip8/0.5_contents.txt) | 468 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

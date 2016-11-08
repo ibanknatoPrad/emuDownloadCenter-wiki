@@ -10,7 +10,7 @@
 ## About
 **JavaCPC** is a emulator for **Amstrad CPC** made by **Markus Hohmann aka Devilmarkus** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v2.9**, released on **2015-07-11**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **JavaCPC.exe**.
+The latest version of the emulator on EDC is **2.9 (x86,x64)**, released on **2015-07-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **JavaCPC.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _JavaCPC is a Java-based CPC emulator that has a complete Desktop environment._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2.9**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/javacpc/2.9.7z) | 2015-07-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/javacpc/2.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/javacpc/2.9_contents.txt) | 24425 KB |
+| [:floppy_disk: **2.9**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/javacpc/2.9.7z) | 2015-07-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/javacpc/2.9_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/javacpc/2.9_contents.txt) | 24425 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

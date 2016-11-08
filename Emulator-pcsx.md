@@ -10,7 +10,7 @@
 ## About
 **Pcsx** is a emulator for **Sony PlayStation 1** made by **Pcsx Team** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **v1.5**, released on **2003-05-12**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pcsx.exe**.
+The latest version of the emulator on EDC is **1.5 (x86,x64)**, released on **2003-05-12 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -22,6 +22,6 @@ _Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcsx/1.5.7z) | 2003-05-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_contents.txt) | 163 KB |
+| [:floppy_disk: **1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcsx/1.5.7z) | 2003-05-12 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcsx/1.5_contents.txt) | 163 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

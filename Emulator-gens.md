@@ -12,9 +12,9 @@
 
 **Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v2.14**, released on **2006-05-20**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **gens.exe**.
+The latest version of the emulator on EDC is **2.14 (x86,x64)**, released on **2006-05-20 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens.exe**.
 
-Please note: This emulator **needs BIOS image(s)** to start ROM files!
+:warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earliest semi-functional release (only capable of debugging 68000 instructions) dates from 1999. The current version advertises full compatibility with over 90% of all Genesis games._
 
@@ -26,6 +26,6 @@ _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earlie
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens/2.14.7z) | 2006-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_contents.txt) | 476 KB |
+| [:floppy_disk: **2.14**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens/2.14.7z) | 2006-05-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens/2.14_contents.txt) | 476 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

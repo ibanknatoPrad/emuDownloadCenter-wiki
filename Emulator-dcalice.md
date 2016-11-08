@@ -10,7 +10,7 @@
 ## About
 **DCALICE** is a emulator for **Matra/Hachette Alice** made by **Daniel Coulom** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v2014.01.23**, released on **2014-01-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **dcalice.exe**.
+The latest version of the emulator on EDC is **2014.01.23 (x86,x64)**, released on **2014-01-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcalice.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _DCALICE is a Tandy MC10 and Matra-Hachette Alice emulator. NOTE: The emulator t
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2014.01.23**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dcalice/2014.01.23.7z) | 2014-01-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcalice/2014.01.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcalice/2014.01.23_contents.txt) | 131 KB |
+| [:floppy_disk: **2014.01.23**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dcalice/2014.01.23.7z) | 2014-01-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcalice/2014.01.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dcalice/2014.01.23_contents.txt) | 131 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,7 +10,7 @@
 ## About
 **Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **v1.0.8**, released on **2014-09-16**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Jynx-Windows-32bit.exe**.
+The latest version of the emulator on EDC is **1.0.8 (x86,x64)**, released on **2014-09-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jynx-Windows-32bit.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wo
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**1.0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jynx/1.0.8.7z) | 2014-09-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_contents.txt) | 286 KB |
+| [:floppy_disk: **1.0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jynx/1.0.8.7z) | 2014-09-16 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_contents.txt) | 286 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

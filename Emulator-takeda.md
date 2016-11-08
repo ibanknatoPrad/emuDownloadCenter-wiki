@@ -10,7 +10,7 @@
 ## About
 **Takeda Archive** is a emulator for **Fujitsu FM-7** made by **Various** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v13.04.16**, released on **2016-04-13**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **msx1.exe**.
+The latest version of the emulator on EDC is **13.04.16 (x86,x64)**, released on **2016-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **msx1.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _This emulator collection by Toshiya Takeda contains multiple executables for ma
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**13.04.16**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/takeda/13.04.16.7z) | 2016-04-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_contents.txt) | 5538 KB |
+| [:floppy_disk: **13.04.16**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/takeda/13.04.16.7z) | 2016-04-13 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/takeda/13.04.16_contents.txt) | 5538 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

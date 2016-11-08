@@ -10,7 +10,7 @@
 ## About
 **VZEM** is a emulator for **Vtech Laser 200/210/310** made by **Guy Thomason** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v2009.08.20**, released on **2009-08-20**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **vz.exe**.
+The latest version of the emulator on EDC is **2009.08.20 (x86)**, released on **2009-08-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vz.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,7 +24,7 @@ _VZEM is an emulator for the VZ200/VZ300 computers, also known as the Laser 200/
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2009.08.20**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2009.08.20.7z) | 2009-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_contents.txt) | 176 KB |
-| :floppy_disk: [**2008.10.27**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2008.10.27.7z) | 2008-10-27 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_contents.txt) | 173 KB |
+| [:floppy_disk: **2009.08.20**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2009.08.20.7z) | 2009-08-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2009.08.20_contents.txt) | 176 KB |
+| [:floppy_disk: **2008.10.27**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/vzem/2008.10.27.7z) | 2008-10-27 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/vzem/2008.10.27_contents.txt) | 173 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

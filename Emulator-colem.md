@@ -10,7 +10,7 @@
 ## About
 **ColEm** is a emulator for **Coleco ColecoVision** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial - Attribution Required** license.
 
-The latest version of the emulator on EDC is **v3.8**, released on **2016-09-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **ColEm.exe**.
+The latest version of the emulator on EDC is **3.8 (x86,x64)**, released on **2016-09-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ColEm.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _ColEm is a portable emulator of the old ColecoVision videogame console. It shou
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**3.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/colem/3.8.7z) | 2016-09-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_contents.txt) | 136 KB |
+| [:floppy_disk: **3.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/colem/3.8.7z) | 2016-09-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/colem/3.8_contents.txt) | 136 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

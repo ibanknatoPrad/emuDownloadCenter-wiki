@@ -10,7 +10,7 @@
 ## About
 **Apollo** is a emulator for **Nintendo N64** made by **Aziber** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v0.10b**, released on **2004-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Apollo.exe**.
+The latest version of the emulator on EDC is **0.10b (x86,x64)**, released on **2004-06-11 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Apollo.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _Apollo is a Nintendo 64 emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.10b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/apollo/0.10b.7z) | 2004-06-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/apollo/0.10b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/apollo/0.10b_contents.txt) | 861 KB |
+| [:floppy_disk: **0.10b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/apollo/0.10b.7z) | 2004-06-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/apollo/0.10b_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/apollo/0.10b_contents.txt) | 861 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

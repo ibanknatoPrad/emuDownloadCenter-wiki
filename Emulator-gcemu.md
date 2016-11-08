@@ -10,7 +10,7 @@
 ## About
 **GCEmu** is a emulator for **Nintendo GameCube** made by **Duddie, Tratax, Pete Bernert** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v2005.12.11**, released on **2005-12-11**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **gcemu.exe**.
+The latest version of the emulator on EDC is **2005.12.11 (x86)**, released on **2005-12-11 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gcemu.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _GCEmu is a very incomplete emulator for the Nintendo Gamecube. It uses recompil
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2005.12.11**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gcemu/2005.12.11.7z) | 2005-12-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/gcemu/2005.12.11_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/gcemu/2005.12.11_contents.txt) | 2321 KB |
+| [:floppy_disk: **2005.12.11**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gcemu/2005.12.11.7z) | 2005-12-11 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/gcemu/2005.12.11_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/gcemu/2005.12.11_contents.txt) | 2321 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

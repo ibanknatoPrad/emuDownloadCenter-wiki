@@ -10,7 +10,7 @@
 ## About
 **Caprice32** is a emulator for **Amstrad CPC** made by **Ulrich Doewich** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v4.2.0**, released on **2005-05-14**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **cap32.exe**.
+The latest version of the emulator on EDC is **4.2.0 (x86,x64)**, released on **2005-05-14 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **cap32.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _Caprice32 is a software emulator of the Amstrad CPC 8bit home computer series. 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**4.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/4.2.0.7z) | 2005-05-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_contents.txt) | 239 KB |
+| [:floppy_disk: **4.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/4.2.0.7z) | 2005-05-14 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_contents.txt) | 239 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

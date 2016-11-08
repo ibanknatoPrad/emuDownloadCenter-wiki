@@ -10,7 +10,7 @@
 ## About
 **PCEjin** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Paul_t** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **vsvn209**, released on **2013-03-20**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pcejin.exe**.
+The latest version of the emulator on EDC is **svn209 (x86,x64)**, released on **2013-03-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcejin.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _PCEjin is an NEC TurboGrafx-16 Entertainment SuperSystem and PC Engine emulator
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**svn209**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcejin/svn209.7z) | 2013-03-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcejin/svn209_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcejin/svn209_contents.txt) | 491 KB |
+| [:floppy_disk: **svn209**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pcejin/svn209.7z) | 2013-03-20 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcejin/svn209_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pcejin/svn209_contents.txt) | 491 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

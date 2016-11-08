@@ -10,7 +10,7 @@
 ## About
 **DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **v2012.11.23**, released on **2012-11-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **dcmoto.exe**.
+The latest version of the emulator on EDC is **2012.11.23 (x86,x64)**, released on **2012-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmoto.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _DCMOTO is an emulator for all Thomson 8 bit computers: MO5, MO5E, German MO5E, 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**2012.11.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2012.11.23.7z) | 2012-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_contents.txt) | 256 KB |
+| [:floppy_disk: **2012.11.23**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/gens/2012.11.23.7z) | 2012-11-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/dcmoto/2012.11.23_contents.txt) | 256 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,7 +10,7 @@
 ## About
 **Modeler** is a emulator for **Sega Model 1** made by **Farftch'd, R Belmont and Sarayan** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **v0.9.3a**, released on **2001-12-07**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Modeler.exe**.
+The latest version of the emulator on EDC is **0.9.3a (x86,x64)**, released on **2001-12-07 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Modeler.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -22,6 +22,6 @@ _Modeler is a Sega System 32 and Model 1 emulator. Supported playable games in t
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**0.9.3a**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/modeler/0.9.3a.7z) | 2001-12-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/modeler/0.9.3a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/modeler/0.9.3a_contents.txt) | 331 KB |
+| [:floppy_disk: **0.9.3a**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/modeler/0.9.3a.7z) | 2001-12-07 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/modeler/0.9.3a_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/modeler/0.9.3a_contents.txt) | 331 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

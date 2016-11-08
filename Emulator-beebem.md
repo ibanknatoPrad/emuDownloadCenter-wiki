@@ -10,7 +10,7 @@
 ## About
 **BeebEm** is a emulator for **Acorn BBC** made by **Mike Wyatt, David Adam Gilbert and Others** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **v4.14**, released on **2009-08-17**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **BeebEm.exe**.
+The latest version of the emulator on EDC is **4.14 (x86,x64)**, released on **2009-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BeebEm.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _BeebEm is a BBC Micro and Master 128 emulator. It enables you to run BBC Micro 
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**4.14**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/beebem/4.14.7z) | 2009-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_contents.txt) | 3039 KB |
+| [:floppy_disk: **4.14**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/beebem/4.14.7z) | 2009-08-17 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/beebem/4.14_contents.txt) | 3039 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

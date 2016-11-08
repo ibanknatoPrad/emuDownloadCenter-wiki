@@ -10,7 +10,7 @@
 ## About
 **Yet Another Plus/4 Emulator** is a emulator for **Commodore 16/plus4** made by **Attila Grosz** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v1.0.10**, released on **2016-06-26**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Yape.exe**.
+The latest version of the emulator on EDC is **1.0.10 (x86,x64)**, released on **2016-06-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Yape.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _YAPE is a Commodore 264 family emulator. It's an 8-bit microcomputer family fro
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**1.0.10**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/yape/1.0.10.7z) | 2016-06-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/yape/1.0.10_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/yape/1.0.10_contents.txt) | 498 KB |
+| [:floppy_disk: **1.0.10**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/yape/1.0.10.7z) | 2016-06-26 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/yape/1.0.10_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/yape/1.0.10_contents.txt) | 498 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

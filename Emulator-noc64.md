@@ -10,7 +10,7 @@
 ## About
 **no$c64** is a emulator for **Commodore 16/plus4** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **v1.1**, released on **2005-07-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **NO$C64.exe**.
+The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2005-07-23 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$C64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -24,6 +24,6 @@ _nocash C64 emulator - Emulates cpu, memory, video, keyboard, joysticks, timers.
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/noc64/1.1.7z) | 2005-07-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_contents.txt) | 220 KB |
+| [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/noc64/1.1.7z) | 2005-07-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/noc64/1.1_contents.txt) | 220 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

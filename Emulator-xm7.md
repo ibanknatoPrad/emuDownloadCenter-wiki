@@ -10,9 +10,9 @@
 ## About
 **XM7** is a emulator for **Fujitsu FM-7** made by **PI. and Ryu Takegami** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **v3.4.6.2**, released on **2014-04-23**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **XM7.exe**.
+The latest version of the emulator on EDC is **3.4.6.2 (x86,x64)**, released on **2014-04-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XM7.exe**.
 
-Please note: This emulator **needs BIOS image(s)** to start ROM files!
+:warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japanese._
 
@@ -24,6 +24,6 @@ _XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japa
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| :floppy_disk: [**3.4.6.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fm7/3.4.6.2.7z) | 2014-04-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_contents.txt) | 222 KB |
+| [:floppy_disk: **3.4.6.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fm7/3.4.6.2.7z) | 2014-04-23 | :page_facing_up: [Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_changelog.txt) | :mag_right: [Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/xm7/3.4.6.2_contents.txt) | 222 KB |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
