@@ -10,7 +10,7 @@
 ## About
 **NLMSX** is a emulator for **MSX Home Computer** made by **Frits Hilderink** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.48 (x86,x64)**, released on **2003-06-12 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nlmsx.exe**.
+The latest version of the emulator on EDC is **0.48 (x86,x64)**, released on **2003-06-12** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nlmsx.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _NLMSX is an emulator for the MSX, MSX2, MSX2+ and MSX Turbo-R computers._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.48**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nlmsx/0.48.7z) | 2003-06-12 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nlmsx/0.48_contents.txt) | 729 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

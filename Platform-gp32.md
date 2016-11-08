@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**GeePee32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-geepee32#menu) | Tim Schuerewegen | UNKNOWN |
+| [:file_folder: **GeePee32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-geepee32#menu) | Tim Schuerewegen | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

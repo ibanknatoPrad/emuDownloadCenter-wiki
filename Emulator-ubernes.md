@@ -10,7 +10,7 @@
 ## About
 **UberNES** is a emulator for **Nintendo NES/Famicom** made by **M \ K Productions** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2011 (x86,x64)**, released on **2011-06-19 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **UberNES.exe**.
+The latest version of the emulator on EDC is **2011 (x86,x64)**, released on **2011-06-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **UberNES.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -28,4 +28,4 @@ _UberNES is a Nintendo Entertainment System emulator._
 | [:floppy_disk: **2010r1**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ubernes/2010r1.7z) | 2010-06-28 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubernes/2010r1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubernes/2010r1_contents.txt) | 448 KB |
 | [:floppy_disk: **3r3**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ubernes/3r3.7z) | 2008-08-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubernes/3r3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ubernes/3r3_contents.txt) | 390 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

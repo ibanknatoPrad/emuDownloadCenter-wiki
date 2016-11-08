@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | David Eriksson | GNU GPLv2 |
+| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | David Eriksson | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

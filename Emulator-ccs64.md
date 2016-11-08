@@ -12,7 +12,7 @@
 
 **CCS64** is a emulator for **Commodore 16/plus4** made by **Per Håkan Sundell** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **3.9.2 (x86)**, released on **2015-07-02 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CCS64.exe**.
+The latest version of the emulator on EDC is **3.9.2 (x86)**, released on **2015-07-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CCS64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -33,4 +33,4 @@ _CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms.
 | [:floppy_disk: **2.0b-dos**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ccs64/2.0b-dos.7z) | 2002-02-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/2.0b-dos_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/2.0b-dos_contents.txt) | 249 KB |
 | [:floppy_disk: **1.09**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ccs64/1.09.7z) | 1997-10-19 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/1.09_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ccs64/1.09_contents.txt) | 335 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

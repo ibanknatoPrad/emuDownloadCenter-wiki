@@ -12,7 +12,7 @@
 
 **BSNES** is a emulator for **Nintendo NES/Famicom** made by **Byuu** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.91-win64 (x64)**, released on **2012-08-10 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bsnes.exe**.
+The latest version of the emulator on EDC is **0.91-win64 (x64)**, released on **2012-08-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bsnes.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -30,4 +30,4 @@ _bsnes is an emulator that began development on 2004-10-14. The purpose of this 
 | [:floppy_disk: **0.91-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/bsnes/0.91-win32.7z) | 2012-08-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/bsnes/0.91-win32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/bsnes/0.91-win32_contents.txt) | 1283 KB |
 | [:floppy_disk: **0.88-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/bsnes/0.88-win32.7z) | 2012-04-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/bsnes/0.88-win32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/bsnes/0.88-win32_contents.txt) | 820 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

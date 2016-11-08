@@ -10,7 +10,7 @@
 ## About
 **Atari800** is a emulator for **Atari 5200** made by **The Atari800 Development Team** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **3.1.0-winsdl (x86)**, released on **2014-04-12 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **atari800.exe**.
+The latest version of the emulator on EDC is **3.1.0-winsdl (x86)**, released on **2014-04-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **atari800.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -38,4 +38,4 @@ _Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Linux, Amiga
 | [:floppy_disk: **1.2.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800/1.2.3.7z) | 2002-07-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/1.2.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/1.2.3_contents.txt) | 159 KB |
 | [:floppy_disk: **1.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800/1.2.2.7z) | 2002-01-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/1.2.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800/1.2.2_contents.txt) | 144 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

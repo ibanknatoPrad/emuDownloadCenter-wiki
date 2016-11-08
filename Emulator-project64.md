@@ -12,7 +12,7 @@
 
 **Project64** is a emulator for **Nintendo N64** made by **Zilmar and Jabo** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.3.0.210 (x86)**, released on **2016-08-13 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64.exe**.
+The latest version of the emulator on EDC is **2.3.0.210 (x86)**, released on **2016-08-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -40,4 +40,4 @@ _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out
 | [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/1.1.7z) | 2001-06-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.1_contents.txt) | 338 KB |
 | [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64/1.0.7z) | 2001-05-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64/1.0_contents.txt) | 321 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

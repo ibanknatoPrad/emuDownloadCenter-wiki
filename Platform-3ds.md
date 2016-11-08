@@ -6,8 +6,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**3dmoo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dmoo#menu) | normmatt and ichfly | Open Source |
-| :file_folder: [**Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | Multiple Contributors | GPLv2 |
-| :file_folder: [**TronDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tronds#menu) | jocopoco | Freeware |
+| [:file_folder: **3dmoo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dmoo#menu) | normmatt and ichfly | Open Source |
+| [:file_folder: **Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | Multiple Contributors | GPLv2 |
+| [:file_folder: **TronDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tronds#menu) | jocopoco | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

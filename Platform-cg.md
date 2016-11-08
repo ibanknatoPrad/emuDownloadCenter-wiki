@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Genieous**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-genieous#menu) | Attila Grosz | Freeware |
+| [:file_folder: **Genieous**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-genieous#menu) | Attila Grosz | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,7 +10,7 @@
 ## About
 **DSP Emulator** is a emulator for **Unknown** made by **Leniad** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.17b1-win32 (x86)**, released on **2016-10-23 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dsp.exe**.
+The latest version of the emulator on EDC is **0.17b1-win32 (x86)**, released on **2016-10-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dsp.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -27,4 +27,4 @@ _DSP is a multi-system emulator that emulates the following: Nintendo NES, Ninte
 | [:floppy_disk: **0.17b1-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win32.7z) | 2016-10-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win32_contents.txt) | 2058 KB |
 | [:floppy_disk: **0.17b1-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/dsp/0.17b1-win64.7z) | 2016-10-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/dsp/0.17b1-win64_contents.txt) | 2661 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

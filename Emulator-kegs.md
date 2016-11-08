@@ -10,7 +10,7 @@
 ## About
 **Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.91 (x86,x64)**, released on **2006-08-06 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **kegs32.exe**.
+The latest version of the emulator on EDC is **0.91 (x86,x64)**, released on **2006-08-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **kegs32.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -26,4 +26,4 @@ _KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32. The Apple IIgs w
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.91**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/kegs/0.91.7z) | 2006-08-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kegs/0.91_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/kegs/0.91_contents.txt) | 587 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

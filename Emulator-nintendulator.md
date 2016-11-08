@@ -10,7 +10,7 @@
 ## About
 **Nintendulator** is a emulator for **Nintendo NES/Famicom** made by **Quietust** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.975-ansi (x86,x64)**, released on **2016-10-09 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Nintendulator.exe**.
+The latest version of the emulator on EDC is **0.975-ansi (x86,x64)**, released on **2016-10-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Nintendulator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -27,4 +27,4 @@ _Nintendulator is a Nintendo Entertainment System emulator._
 | [:floppy_disk: **0.975-ansi**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nintendulator/0.975-ansi.7z) | 2016-10-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nintendulator/0.975-ansi_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nintendulator/0.975-ansi_contents.txt) | 270 KB |
 | [:floppy_disk: **0.975-unicode**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nintendulator/0.975-unicode.7z) | 2016-10-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nintendulator/0.975-unicode_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nintendulator/0.975-unicode_contents.txt) | 276 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

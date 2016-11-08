@@ -10,7 +10,7 @@
 ## About
 **nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.51b (x86,x64)**, released on **2003-07-27 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nesterJ.exe**.
+The latest version of the emulator on EDC is **0.51b (x86,x64)**, released on **2003-07-27** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nesterJ.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _nesterJ is a Nintendo Entertainment System and Famicom emulator based on 'neste
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.51b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nesterj/0.51b.7z) | 2003-07-27 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nesterj/0.51b_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nesterj/0.51b_contents.txt) | 167 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

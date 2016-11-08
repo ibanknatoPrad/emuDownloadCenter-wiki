@@ -10,7 +10,7 @@
 ## About
 **RascalBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Lino Maglione** and has a **Limited Use Software Licence Agreement** license.
 
-The latest version of the emulator on EDC is **1.3.0.0 (x86,x64)**, released on **2006-02-10 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **RascalBoy.exe**.
+The latest version of the emulator on EDC is **1.3.0.0 (x86,x64)**, released on **2006-02-10** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **RascalBoy.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _RascalBoy Advance is a Nintendo Game Boy Advance emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.3.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/rascalboyadv/1.3.0.0.7z) | 2006-02-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/rascalboyadv/1.3.0.0_contents.txt) | 223 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

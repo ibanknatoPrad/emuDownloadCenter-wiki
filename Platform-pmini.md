@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | JustBurn | GNU GPLv3 |
+| [:file_folder: **Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | JustBurn | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

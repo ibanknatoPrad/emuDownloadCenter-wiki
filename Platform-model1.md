@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Modeler**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-modeler#menu) | Farftch'd, R Belmont and Sarayan | Freeware - Non-Commercial |
+| [:file_folder: **Modeler**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-modeler#menu) | Farftch'd, R Belmont and Sarayan | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

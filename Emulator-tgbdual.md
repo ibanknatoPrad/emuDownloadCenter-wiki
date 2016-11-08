@@ -10,7 +10,7 @@
 ## About
 **TGB Dual** is a emulator for **Nintendo Game Boy** made by **Gigo and Hii** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **8.3 (x86)**, released on **2004-03-16 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TGB_Dual.exe**.
+The latest version of the emulator on EDC is **8.3 (x86)**, released on **2004-03-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TGB_Dual.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -27,4 +27,4 @@ _TGB Dual is a Game Boy / Game Boy Color emulator that supports loading two diff
 | [:floppy_disk: **8.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/tgbdual/8.3.7z) | 2004-03-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/8.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/8.3_contents.txt) | 148 KB |
 | [:floppy_disk: **7.2053-0.96**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/tgbdual/7.2053-0.96.7z) | 2001-09-26 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/7.2053-0.96_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/tgbdual/7.2053-0.96_contents.txt) | 246 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

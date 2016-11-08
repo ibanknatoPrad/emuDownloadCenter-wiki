@@ -12,7 +12,7 @@
 
 **Z26** is a emulator for **Atari 2600** made by **John Saeger** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **3.0.2 (x86)**, released on **2011-06-13 **, it runs on **Windows XP**, you can start this emulator with **z26.exe**.
+The latest version of the emulator on EDC is **3.0.2 (x86)**, released on **2011-06-13**, it runs on **Windows XP**, you can start this emulator with **z26.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -37,4 +37,4 @@ _This version of z26 is designed to run natively on 32-bit x86 Windows platforms
 | [:floppy_disk: **2.05**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/2.05.7z) | 2003-02-15 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/2.05_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/2.05_contents.txt) | 124 KB |
 | [:floppy_disk: **1.58**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/z26/1.58.7z) | 2003-06-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/1.58_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/z26/1.58_contents.txt) | 55 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

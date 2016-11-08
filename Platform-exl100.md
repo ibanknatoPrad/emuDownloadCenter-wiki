@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | Daniel Coulom | Freeware - Non-Commercial |
+| [:file_folder: **DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | Daniel Coulom | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

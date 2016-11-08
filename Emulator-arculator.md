@@ -10,7 +10,7 @@
 ## About
 **Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.99 (x86)**, released on **2009-08-15 **, it runs on **Windows XP,Vista**, you can start this emulator with **Arculator.exe**.
+The latest version of the emulator on EDC is **0.99 (x86)**, released on **2009-08-15**, it runs on **Windows XP,Vista**, you can start this emulator with **Arculator.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -38,4 +38,4 @@ _Arculator emulates an old-style Archimedes (A3xx,A4xx,A3000,A540) with an ARM2 
 | [:floppy_disk: **0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/arculator/0.1.7z) | 2005-05-22 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.1_contents.txt) | 351 KB |
 | [:floppy_disk: **0.0.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/arculator/0.0.9.7z) | 2005-01-27 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.0.9_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/arculator/0.0.9_contents.txt) | 817 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

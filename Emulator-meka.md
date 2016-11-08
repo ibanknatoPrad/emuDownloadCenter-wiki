@@ -10,7 +10,7 @@
 ## About
 **MEKA** is a emulator for **Coleco ColecoVision** made by **Omar Cornut** and has a **Unrestrictive BSD-like** license.
 
-The latest version of the emulator on EDC is **0.73 (x86,x64)**, released on **2010-05-30 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mekaw.exe**.
+The latest version of the emulator on EDC is **0.73 (x86,x64)**, released on **2010-05-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mekaw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _MEKA is a multi-system emulator that emulates the following: Sega Game 1000 (SG
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.73**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/meka/0.73.7z) | 2010-05-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/meka/0.73_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/meka/0.73_contents.txt) | 705 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

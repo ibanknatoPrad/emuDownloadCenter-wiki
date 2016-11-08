@@ -10,7 +10,7 @@
 ## About
 **MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **10.10.2010 (x86,x64)**, released on **2010-10-10 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mz700_win.exe**.
+The latest version of the emulator on EDC is **10.10.2010 (x86,x64)**, released on **2010-10-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mz700_win.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _MZXX is an multi-system emulator for the following: Sharp MZ-80K, MZ-80A, MZ-80
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **10.10.2010**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/mzxx/10.10.2010.7z) | 2010-10-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mzxx/10.10.2010_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/mzxx/10.10.2010_contents.txt) | 1672 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

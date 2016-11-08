@@ -10,7 +10,7 @@
 ## About
 **Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license.
 
-The latest version of the emulator on EDC is **2.1.2-win64 (x64)**, released on **2014-10-10 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **virtualjaguar.exe**.
+The latest version of the emulator on EDC is **2.1.2-win64 (x64)**, released on **2014-10-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **virtualjaguar.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -37,4 +37,4 @@ _Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source co
 | [:floppy_disk: **1.0.6**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualjaguar/1.0.6.7z) | 2003-09-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/virtualjaguar/1.0.6_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/virtualjaguar/1.0.6_contents.txt) | 461 KB |
 | [:floppy_disk: **1.0.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/virtualjaguar/1.0.5.7z) | 2003-08-27 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/virtualjaguar/1.0.5_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/virtualjaguar/1.0.5_contents.txt) | 342 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

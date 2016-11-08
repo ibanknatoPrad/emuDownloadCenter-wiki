@@ -12,7 +12,7 @@
 
 **1964** is a emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2009-06-07 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **1964.exe**.
+The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2009-06-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **1964.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -43,4 +43,4 @@ _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Bes
 | [:floppy_disk: **0.5.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/1964/0.5.0.7z) | 2000-07-04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/0.5.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/0.5.0_contents.txt) | 258 KB |
 | [:floppy_disk: **0.4.5b**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/1964/0.4.5b.7z) | 2000-05-15 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/0.4.5b_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/1964/0.4.5b_contents.txt) | 88 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

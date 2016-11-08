@@ -10,7 +10,7 @@
 ## About
 **no$2k6** is a emulator for **Atari 2600** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2012-10-16 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$2K6.exe**.
+The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2012-10-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$2K6.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -27,4 +27,4 @@ _nocash Atari 2600 emulator/debugger for windows._
 | [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/no2k6/1.1.7z) | 2012-10-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/no2k6/1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/no2k6/1.1_contents.txt) | 143 KB |
 | [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/no2k6/1.0.7z) | 2005-07-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/no2k6/1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/no2k6/1.0_contents.txt) | 130 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

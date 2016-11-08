@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | The_Author and DynaChicken | Freeware |
+| [:file_folder: **ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | The_Author and DynaChicken | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

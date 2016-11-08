@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**NeoCD/SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neocdsdl#menu) | Fosters | Freeware |
+| [:file_folder: **NeoCD/SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neocdsdl#menu) | Fosters | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

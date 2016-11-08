@@ -10,7 +10,7 @@
 ## About
 **ZEsarUX** is a emulator for **Amstrad CPC** made by **Cesar Hernandez** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **4.2 (x86,x64)**, released on **2016-08-17 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **zesarux.exe**.
+The latest version of the emulator on EDC is **4.2 (x86,x64)**, released on **2016-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **zesarux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _ZEsarUX is an emulator for the Sinclair ZX Spectrum, ZX81 and ZX80, the Cambrid
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **4.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/zesarux/4.2.7z) | 2016-08-17 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/zesarux/4.2_contents.txt) | 23576 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

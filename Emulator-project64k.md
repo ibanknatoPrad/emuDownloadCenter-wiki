@@ -12,7 +12,7 @@
 
 **Project64k** is a emulator for **Nintendo N64** made by **Smasherx74** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.7-core2.2 (x86)**, released on **2015-08-29 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64.exe**.
+The latest version of the emulator on EDC is **1.7-core2.2 (x86)**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -43,4 +43,4 @@ _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It
 | [:floppy_disk: **0.13-core1.4-alt**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/0.13-core1.4-alt.7z) | 2014-08-29 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4-alt_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4-alt_contents.txt) | 1990 KB |
 | [:floppy_disk: **0.13-core1.4**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/project64k/0.13-core1.4.7z) | 2015-12-29 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/project64k/0.13-core1.4_contents.txt) | 6323 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

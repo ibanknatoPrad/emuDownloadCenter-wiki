@@ -12,7 +12,7 @@
 
 **Stella** is a emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony** and has a **GPL** license.
 
-The latest version of the emulator on EDC is **4.7.2-win64 (x64)**, released on **2016-03-25 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Stella.exe**.
+The latest version of the emulator on EDC is **4.7.2-win64 (x64)**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Stella.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -53,4 +53,4 @@ _Stella is a multi-platform Atari 2600 VCS emulator released under the GNU Gener
 | [:floppy_disk: **1.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/1.3.7z) | 2003-02-17 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.3_contents.txt) | 428 KB |
 | [:floppy_disk: **1.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/stella/1.2.1.7z) | 2002-04-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.2.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/stella/1.2.1_contents.txt) | 397 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

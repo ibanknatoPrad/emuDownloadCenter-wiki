@@ -12,7 +12,7 @@
 
 **UltraHLE 2064** is a emulator for **Nintendo N64** made by **The UltraHLE 2064 team** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.0.5a (x86,x64)**, released on **2003-06-30 :triangular_flag_on_post: **, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
+The latest version of the emulator on EDC is **1.0.5a (x86,x64)**, released on **2003-06-30** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -28,4 +28,4 @@ _UltraHLE is an emulator allowing games for the Nintendo 64 game console to be r
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.0.5a**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ultrahle2064/1.0.5a.7z) | 2003-06-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle2064/1.0.5a_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ultrahle2064/1.0.5a_contents.txt) | 670 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

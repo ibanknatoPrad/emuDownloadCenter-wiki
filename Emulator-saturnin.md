@@ -12,7 +12,7 @@
 
 **Saturnin** is a emulator for **Sega Saturn** made by **Runik** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.40 (x86)**, released on **2005-12-22 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Saturnin.exe**.
+The latest version of the emulator on EDC is **0.40 (x86)**, released on **2005-12-22** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Saturnin.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -31,4 +31,4 @@ _Saturnin is an emulator for the Sega Saturn system and Sega Titan Video, develo
 | [:floppy_disk: **0.10**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/saturnin/0.10.7z) | 2003-07-31 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saturnin/0.10_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saturnin/0.10_contents.txt) | 97 KB |
 | [:floppy_disk: **0.00**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/saturnin/0.00.7z) | 2003-04-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saturnin/0.00_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saturnin/0.00_contents.txt) | 64 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

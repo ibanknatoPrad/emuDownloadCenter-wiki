@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**DCVG5K**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcvg5k#menu) | Daniel Coulom | GNU GPLv2 |
+| [:file_folder: **DCVG5K**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcvg5k#menu) | Daniel Coulom | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

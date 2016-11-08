@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Potator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-potator#menu) | David Raingeard | Freeware |
+| [:file_folder: **Potator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-potator#menu) | David Raingeard | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

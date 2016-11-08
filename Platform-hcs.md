@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**DCHector**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dchector#menu) | Daniel Coulom | Freeware |
+| [:file_folder: **DCHector**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dchector#menu) | Daniel Coulom | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

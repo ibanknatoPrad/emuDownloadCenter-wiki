@@ -12,7 +12,7 @@
 
 **Regen** is a emulator for **Sega Mega Drive/Genesis** made by **AamirM** and has a **Non-standard** license.
 
-The latest version of the emulator on EDC is **0.972 (x86,x64)**, released on **2009-10-25 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Regen.exe**.
+The latest version of the emulator on EDC is **0.972 (x86,x64)**, released on **2009-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Regen.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -30,4 +30,4 @@ _Regen is an emulator which can emulate the following systems with very high acc
 | [:floppy_disk: **0.972d**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/regen/0.972d.7z) | 2009-10-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/regen/0.972d_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/regen/0.972d_contents.txt) | 802 KB |
 | [:floppy_disk: **0.972sse2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/regen/0.972sse2.7z) | 2009-10-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/regen/0.972sse2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/regen/0.972sse2_contents.txt) | 652 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

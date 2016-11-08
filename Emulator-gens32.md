@@ -12,7 +12,7 @@
 
 **Gens32 Surreal** is a emulator for **Sega Mega Drive 32X** made by **Stéphane Dallongeville** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.90-std (x86,x64)**, released on **2013-10-17 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gens32Surreal.exe**.
+The latest version of the emulator on EDC is **1.90-std (x86,x64)**, released on **2013-10-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gens32Surreal.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -38,4 +38,4 @@ _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Seg
 | [:floppy_disk: **1.79-ghost**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.79-ghost.7z) | 2008-11-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-ghost_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-ghost_contents.txt) | 1923 KB |
 | [:floppy_disk: **1.79-badboy**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gens32/1.79-badboy.7z) | 2008-10-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-badboy_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gens32/1.79-badboy_contents.txt) | 1923 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

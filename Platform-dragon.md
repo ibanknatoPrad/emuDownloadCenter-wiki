@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
+| [:file_folder: **XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

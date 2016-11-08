@@ -10,7 +10,7 @@
 ## About
 **Hyper64** is a emulator for **Commodore 64** made by **Benjamin »BeRo« Rosseaux** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.00.2008.08.08 (x86,x64)**, released on **2008-08-08 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Hyper64.exe**.
+The latest version of the emulator on EDC is **1.00.2008.08.08 (x86,x64)**, released on **2008-08-08** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Hyper64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _Hyper64 is a working proof-of-concept of an experimental C64 emulator implement
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.00.2008.08.08**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/hyper64/1.00.2008.08.08.7z) | 2008-08-08 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hyper64/1.00.2008.08.08_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/hyper64/1.00.2008.08.08_contents.txt) | 180 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | Karl Stenerud | Freeware |
+| [:file_folder: **viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | Karl Stenerud | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

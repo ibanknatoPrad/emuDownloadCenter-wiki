@@ -6,7 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
-| :file_folder: [**SharpChip-8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sharpchip8#menu) | Yannick Comte aka Demonixis | GNU GPLv2 |
+| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
+| [:file_folder: **SharpChip-8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sharpchip8#menu) | Yannick Comte aka Demonixis | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

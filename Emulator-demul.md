@@ -12,7 +12,7 @@
 
 **Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.7a_20160818 (x86)**, released on **2016-08-18 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **demul.exe**.
+The latest version of the emulator on EDC is **0.7a_20160818 (x86)**, released on **2016-08-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **demul.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -39,4 +39,4 @@ _Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Nao
 | [:floppy_disk: **0.5.5-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win32.7z) | 2009-10-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win32_contents.txt) | 649 KB |
 | [:floppy_disk: **0.5.5-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/demul/0.5.5-win64.7z) | 2009-10-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/demul/0.5.5-win64_contents.txt) | 729 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -12,7 +12,7 @@
 
 **ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.51 (x86)**, released on **2007-01-24 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7**, you can start this emulator with **zsnesw.exe**.
+The latest version of the emulator on EDC is **1.51 (x86)**, released on **2007-01-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7**, you can start this emulator with **zsnesw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -44,4 +44,4 @@ _ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 
 | [:floppy_disk: **1.25**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.25.7z) | 2001-05-15 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.25_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.25_contents.txt) | 403 KB |
 | [:floppy_disk: **1.20**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/zsnes/1.20.7z) | 2001-04-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.20_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/zsnes/1.20_contents.txt) | 417 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | Peter Gordon | UNKNOWN |
+| [:file_folder: **Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | Peter Gordon | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

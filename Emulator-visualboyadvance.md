@@ -12,7 +12,7 @@
 
 **VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.8.0-511 (x86)**, released on **2016-10-25 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VisualBoyAdvance.exe**.
+The latest version of the emulator on EDC is **1.8.0-511 (x86)**, released on **2016-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VisualBoyAdvance.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -40,4 +40,4 @@ _VisualBoyAdvance - a Gameboy and GameboyAdvance emulator_
 | [:floppy_disk: **1.3.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/visualboyadvance/1.3.1.7z) | 2002-12-11 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.3.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.3.1_contents.txt) | 329 KB |
 | [:floppy_disk: **1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/visualboyadvance/1.2.7z) | 2002-11-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/visualboyadvance/1.2_contents.txt) | 362 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

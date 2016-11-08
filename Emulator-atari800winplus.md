@@ -10,7 +10,7 @@
 ## About
 **Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier** and has a **GNU General Licence** license.
 
-The latest version of the emulator on EDC is **4.0 (x86)**, released on **2005-08-29 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Atari800Win.exe**.
+The latest version of the emulator on EDC is **4.0 (x86)**, released on **2005-08-29** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Atari800Win.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -33,4 +33,4 @@ _Atari800Win Plus is an emulator that is based off the Atari800 kernel and the A
 | [:floppy_disk: **2.7**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800winplus/2.7.7z) | 2000-10-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800winplus/2.7_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800winplus/2.7_contents.txt) | 248 KB |
 | [:floppy_disk: **2.6c**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/atari800winplus/2.6c.7z) | 2000-07-13 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800winplus/2.6c_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/atari800winplus/2.6c_contents.txt) | 168 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

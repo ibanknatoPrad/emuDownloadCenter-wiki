@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
+| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,7 +10,7 @@
 ## About
 **pSX** is a emulator for **Sony PlayStation 1** made by **Unknown** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.13 (x86)**, released on **2007-08-27 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **psxfin.exe**.
+The latest version of the emulator on EDC is **1.13 (x86)**, released on **2007-08-27** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **psxfin.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -39,4 +39,4 @@ _This emulator fully emulates the Sony Playstation. Compatibility is fairly high
 | [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.1.7z) | 2006-02-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.1_contents.txt) | 303 KB |
 | [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.0.7z) | 2006-01-22 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.0_contents.txt) | 301 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

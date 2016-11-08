@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | Tim Schuerewegen aka FireFly | UNKNOWN |
+| [:file_folder: **C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | Tim Schuerewegen aka FireFly | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

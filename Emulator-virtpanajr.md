@@ -10,7 +10,7 @@
 ## About
 **Virtual Panasonic JR-200U** is a emulator for **Panasonic JR-200** made by **James the Animal Tamer** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.12 (x86,x64)**, released on **2002-03-25 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vpanajr.exe**.
+The latest version of the emulator on EDC is **0.12 (x86,x64)**, released on **2002-03-25** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vpanajr.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _Virtual Panasonic JR-200U is an emulator for the Panasonic JR-200U._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.12**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/virtpanajr/0.12.7z) | 2002-03-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtpanajr/0.12_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/virtpanajr/0.12_contents.txt) | 255 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

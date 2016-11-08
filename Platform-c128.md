@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
+| [:file_folder: **WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

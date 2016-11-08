@@ -10,7 +10,7 @@
 ## About
 **FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.2.2 (x86)**, released on **2013-09-23 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fceux.exe**.
+The latest version of the emulator on EDC is **2.2.2 (x86)**, released on **2013-09-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fceux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -41,4 +41,4 @@ _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evoluti
 | [:floppy_disk: **0.98.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/0.98.8.7z) | 2004-04-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.98.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.98.8_contents.txt) | 219 KB |
 | [:floppy_disk: **0.54**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/0.54.7z) | 2001-05-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.54_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/0.54_contents.txt) | 85 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

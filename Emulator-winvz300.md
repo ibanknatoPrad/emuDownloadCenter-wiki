@@ -10,7 +10,7 @@
 ## About
 **WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2012.05.25 (x86)**, released on **2012-05-25 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ300.exe**.
+The latest version of the emulator on EDC is **2012.05.25 (x86)**, released on **2012-05-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ300.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -30,4 +30,4 @@ _Winvz300 is a Classic VZ300 Computer Emulator for Windows that emulates the Dic
 | [:floppy_disk: **2012.03.22**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvz300/2012.03.22.7z) | 2012-03-22 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2012.03.22_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2012.03.22_contents.txt) | 861 KB |
 | [:floppy_disk: **2011.11.11**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/winvz300/2011.11.11.7z) | 2011-11-11 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2011.11.11_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/winvz300/2011.11.11_contents.txt) | 798 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**uBee512**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ubee512#menu) | Stewart Kay | GNU GPLv2 |
+| [:file_folder: **uBee512**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ubee512#menu) | Stewart Kay | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -12,7 +12,7 @@
 
 **Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license.
 
-The latest version of the emulator on EDC is **1.40 (x86)**, released on **2008-06-11 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nestopia.exe**.
+The latest version of the emulator on EDC is **1.40 (x86)**, released on **2008-06-11** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nestopia.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -36,4 +36,4 @@ _Nestopia is an open source NES/Famicom emulator written in standard C++, focuse
 | [:floppy_disk: **1.32**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/redsquirrel/1.32.7z) | 2006-07-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.32_contents.txt) | 846 KB |
 | [:floppy_disk: **1.31**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/redsquirrel/1.31.7z) | 2006-06-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.31_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nestopia/1.31_contents.txt) | 815 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

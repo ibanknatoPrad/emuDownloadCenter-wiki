@@ -12,7 +12,7 @@
 
 **BGB** is a emulator for **Nintendo Game Boy** made by **Bas Steendijk** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.5.2 (x86)**, released on **2015-08-17 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bgb.exe**.
+The latest version of the emulator on EDC is **1.5.2 (x86)**, released on **2015-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bgb.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -28,4 +28,4 @@ _BGB is a Gameboy emulator, a program that lets you play Gameboy and Gameboy Col
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.5.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/bgb/1.5.2.7z) | 2015-08-17 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/bgb/1.5.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/bgb/1.5.2_contents.txt) | 407 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

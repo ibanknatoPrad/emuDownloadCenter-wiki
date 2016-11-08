@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | Sadrzaj | UNKNOWN |
+| [:file_folder: **Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | Sadrzaj | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

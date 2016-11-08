@@ -10,7 +10,7 @@
 ## About
 **no$nes** is a emulator for **Nintendo FDS** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2012-09-30 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BIOS required for FDS Emulation (DISKSYS.ROM)NO$NES.exe**.
+The latest version of the emulator on EDC is **1.1 (x86,x64)**, released on **2012-09-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BIOS required for FDS Emulation (DISKSYS.ROM)NO$NES.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _nocash NES/FDS/PC10/VS emulator/debugger for windows._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nones/1.1.7z) | 2012-09-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nones/1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nones/1.1_contents.txt) | 397 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

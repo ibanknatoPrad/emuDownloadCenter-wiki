@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | UNKNOWN | UNKNOWN |
+| [:file_folder: **Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | UNKNOWN | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

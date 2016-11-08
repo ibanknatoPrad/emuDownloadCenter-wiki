@@ -10,7 +10,7 @@
 ## About
 **RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.8.14 (x86)**, released on **2016-02-08 **, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **RPCEmu-Interpreter.exe**.
+The latest version of the emulator on EDC is **0.8.14 (x86)**, released on **2016-02-08**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **RPCEmu-Interpreter.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -40,4 +40,4 @@ _RPCEmu allows you to emulate classic Acorn systems, such as the Risc PC and A70
 | [:floppy_disk: **0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rpcemu/0.2.7z) | 2006-01-04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.2_contents.txt) | 348 KB |
 | [:floppy_disk: **0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/rpcemu/0.1.7z) | 2005-12-26 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/rpcemu/0.1_contents.txt) | 344 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

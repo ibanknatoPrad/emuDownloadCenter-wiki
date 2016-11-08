@@ -12,7 +12,7 @@
 
 **Nemu64** is a emulator for **Nintendo N64** made by **Lemmy, LaC, hWnd** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.8 (x86,x64)**, released on **2003-03-23 :triangular_flag_on_post: **, it runs on **Windows XP,Vista**, you can start this emulator with **nemu64.exe**.
+The latest version of the emulator on EDC is **0.8 (x86,x64)**, released on **2003-03-23** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **nemu64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -28,4 +28,4 @@ _Nemu64 is one of the oldest Nintendo 64 emulators in existance. For a long time
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/nemu64/0.8.7z) | 2003-03-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/nemu64/0.8_contents.txt) | 1726 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

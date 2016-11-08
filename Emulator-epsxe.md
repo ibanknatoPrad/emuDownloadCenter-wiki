@@ -12,7 +12,7 @@
 
 **ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.0.5 (x86)**, released on **2016-06-23 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ePSXe.exe**.
+The latest version of the emulator on EDC is **2.0.5 (x86)**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ePSXe.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -41,4 +41,4 @@ _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for 
 | [:floppy_disk: **1.0.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/epsxe/1.0.1.7z) | 2000-12-18 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/1.0.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/1.0.1_contents.txt) | 138 KB |
 | [:floppy_disk: **1.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/epsxe/1.0.0.7z) | 2000-10-14 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/1.0.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/epsxe/1.0.0_contents.txt) | 121 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

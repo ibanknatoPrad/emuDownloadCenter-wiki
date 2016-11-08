@@ -12,7 +12,7 @@
 
 **NeoPop** is a emulator for **SNK NeoGeo Pocket Color** made by **neopop_uk** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.06b (x86,x64)**, released on **2002-09-10 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeoPop-Win32.exe**.
+The latest version of the emulator on EDC is **1.06b (x86,x64)**, released on **2002-09-10** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeoPop-Win32.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -28,4 +28,4 @@ _NeoPop is a portable 'NeoGeo Pocket (Color)' emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.06b**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/neopop/1.06b.7z) | 2002-09-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neopop/1.06b_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/neopop/1.06b_contents.txt) | 107 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

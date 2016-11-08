@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | Joe Zbiciak | GNU GPLv2 |
+| [:file_folder: **jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | Joe Zbiciak | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

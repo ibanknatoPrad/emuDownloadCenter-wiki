@@ -10,7 +10,7 @@
 ## About
 **SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.54.1-x64 (x64)**, released on **2016-10-15 **, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **snes9x-x64.exe**.
+The latest version of the emulator on EDC is **1.54.1-x64 (x64)**, released on **2016-10-15**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **snes9x-x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -38,4 +38,4 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 | [:floppy_disk: **1.41**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.41.7z) | 2003-08-11 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.41_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.41_contents.txt) | 854 KB |
 | [:floppy_disk: **1.40**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/snes9x/1.40.7z) | 2003-07-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.40_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/snes9x/1.40_contents.txt) | 853 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Ultimo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultimo#menu) | Attila Grosz | GNU GPLv2 |
+| [:file_folder: **Ultimo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultimo#menu) | Attila Grosz | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

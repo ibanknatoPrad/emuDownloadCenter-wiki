@@ -10,7 +10,7 @@
 ## About
 **no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth** and has a **Shareware** license.
 
-The latest version of the emulator on EDC is **1.5 (x86,x64)**, released on **2003-05-01 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$MSX.exe**.
+The latest version of the emulator on EDC is **1.5 (x86,x64)**, released on **2003-05-01** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$MSX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulat
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nomsx/1.5.7z) | 2003-05-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_contents.txt) | 207 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**PMD85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pmd85#menu) | Martin Schotek | UNKNOWN |
+| [:file_folder: **PMD85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pmd85#menu) | Martin Schotek | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

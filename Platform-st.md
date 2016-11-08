@@ -6,8 +6,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
-| :file_folder: [**SainT**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-saint#menu) | Arnaud Carre and James Boulton | UNKNOWN |
-| :file_folder: [**Steem SSE (Steven Seagal Edition)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-steemsse#menu) | Anthony and Russel Hayward | Freeware - Non-Commercial? |
+| [:file_folder: **Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
+| [:file_folder: **SainT**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-saint#menu) | Arnaud Carre and James Boulton | UNKNOWN |
+| [:file_folder: **Steem SSE (Steven Seagal Edition)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-steemsse#menu) | Anthony and Russel Hayward | Freeware - Non-Commercial? |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

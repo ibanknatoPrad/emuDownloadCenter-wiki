@@ -10,7 +10,7 @@
 ## About
 **PK201** is a emulator for **Sony PocketStation** made by **Dr. Hell** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **2009.09.09 (x86,x64)**, released on **2009-09-09 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PK201.EXE**.
+The latest version of the emulator on EDC is **2009.09.09 (x86,x64)**, released on **2009-09-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PK201.EXE**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -24,4 +24,4 @@ _PK201 is a Sony PocketStation emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **2009.09.09**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/pk201/2009.09.09.7z) | 2009-09-09 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pk201/2009.09.09_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/pk201/2009.09.09_contents.txt) | 53 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

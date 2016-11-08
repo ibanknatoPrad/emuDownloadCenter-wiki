@@ -12,7 +12,7 @@
 
 **FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.2.97.39-win32 (x86)**, released on **2016-10-16 **, it runs on **Windows Vista,7,8,10**, you can start this emulator with **fba.exe**.
+The latest version of the emulator on EDC is **0.2.97.39-win32 (x86)**, released on **2016-10-16**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **fba.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -31,4 +31,4 @@ _FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1,
 | [:floppy_disk: **0.2.97.39-xp**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fbalpha/0.2.97.39-xp.7z) | 2016-10-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-xp_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.39-xp_contents.txt) | 3651 KB |
 | [:floppy_disk: **0.2.97.26-win32**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/fbalpha/0.2.97.26-win32.7z) | 2012-05-14 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.26-win32_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/fbalpha/0.2.97.26-win32_contents.txt) | 2772 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

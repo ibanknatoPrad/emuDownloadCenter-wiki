@@ -10,7 +10,7 @@
 ## About
 **SainT** is a emulator for **Atari ST** made by **Arnaud Carre and James Boulton** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **2.40 (x86,x64)**, released on **2015-12-12 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SainT.exe**.
+The latest version of the emulator on EDC is **2.40 (x86,x64)**, released on **2015-12-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SainT.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _SainT is an Atari-ST emulator._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **2.40**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/saint/2.40.7z) | 2015-12-12 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saint/2.40_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/saint/2.40_contents.txt) | 1119 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

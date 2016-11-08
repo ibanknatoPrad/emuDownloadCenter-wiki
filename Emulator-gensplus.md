@@ -10,7 +10,7 @@
 ## About
 **Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.0.9.61 (x86,x64)**, released on **2005-08-06 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens+.exe**.
+The latest version of the emulator on EDC is **0.0.9.61 (x86,x64)**, released on **2005-08-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens+.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -24,4 +24,4 @@ _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.0.9.61**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/gensplus/0.0.9.61.7z) | 2005-08-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/gensplus/0.0.9.61_contents.txt) | 508 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

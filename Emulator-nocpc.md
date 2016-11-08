@@ -10,7 +10,7 @@
 ## About
 **no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.8 (x86,x64)**, released on **2000-11-02 :triangular_flag_on_post: **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$CPC.exe**.
+The latest version of the emulator on EDC is **1.8 (x86,x64)**, released on **2000-11-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$CPC.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,4 +26,4 @@ _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nocpc/1.8.7z) | 2000-11-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nocpc/1.8_contents.txt) | 166 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

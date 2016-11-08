@@ -6,10 +6,10 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
-| :file_folder: [**Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
-| :file_folder: [**MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
-| :file_folder: [**Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
-| :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
+| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
+| [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
+| [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

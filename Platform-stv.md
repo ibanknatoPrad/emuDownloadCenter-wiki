@@ -6,6 +6,6 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
-| :file_folder: [**SSF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ssf#menu) | Shima | Freeware |
+| [:file_folder: **SSF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ssf#menu) | Shima | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

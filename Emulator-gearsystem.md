@@ -10,7 +10,7 @@
 ## About
 **GearSystem** is a emulator for **Sega Game Gear** made by **Ignacio Sanchez** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **1.0 (x86,x64)**, released on **2013-11-01 **, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gearsystem.exe**.
+The latest version of the emulator on EDC is **1.0 (x86,x64)**, released on **2013-11-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gearsystem.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -27,4 +27,4 @@ _GearSystem is a Sega Master System and Game Gear emulator_
 | [:floppy_disk: **1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gearsystem/1.0.7z) | 2013-11-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.0_contents.txt) | 4055 KB |
 | [:floppy_disk: **1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gearsystem/1.2.7z) | 2014-07-22 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gearsystem/1.2_contents.txt) | 11073 KB |
 
-:arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
