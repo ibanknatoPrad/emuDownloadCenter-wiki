@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**DGen** is a emulator for **Sega Mega Drive/Genesis** made by **DGen was originally written by Dave. It was ported to SDL by Joe Groff and Phil K. Hornung. It was resurrected by tamentis in 2008 and is maintained by zamaz since september 2011.** and has a **Freeware - See 'COPYING.txt'** license.
+**DGen** is a emulator for **Sega Mega Drive/Genesis** made by **DGen was originally written by Dave. It was ported to SDL by Joe Groff and Phil K. Hornung. It was resurrected by tamentis in 2008 and is maintained by zamaz since september 2011.** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **v1.33-win32**, released on **2014-07-26**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **dgen.exe**.
 

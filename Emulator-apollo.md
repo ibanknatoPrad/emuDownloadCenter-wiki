@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Apollo** is a emulator for **Nintendo N64** made by **Aziber** and has a **Freeware - Non-Commercial** license.
+**Apollo** is a emulator for **Nintendo N64** made by **Aziber** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **v0.10b**, released on **2004-06-11**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **Apollo.exe**.
 

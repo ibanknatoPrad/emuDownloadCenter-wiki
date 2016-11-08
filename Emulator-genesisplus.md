@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.2a**, released on **2003-06-22
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Genesis Plus is a Sega Genesis and MegaDrive emulator. Screenshot taken from Author's Website._
+_Genesis Plus is a Sega Genesis and MegaDrive emulator._
 
 :link: [**Emulator website**](http://www.techno-junk.org/)
 ***

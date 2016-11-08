@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**PK201** is a emulator for **Sony PocketStation** made by **Dr Hell** and has a **UNKNOWN** license.
+**PK201** is a emulator for **Sony PocketStation** made by **Dr. Hell** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v2009.09.09**, released on **2009-09-09**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **PK201.EXE**.
 

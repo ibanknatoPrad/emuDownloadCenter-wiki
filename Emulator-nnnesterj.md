@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.23**, released on **2002-12-21
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_NNNesterJ is a Nintendo Entertainment System emulator based on NesterJ. It looks like the only way to access the Author's Website is via Google Translate: https://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=search&rurl=translate.google.com.au&sl=ja&u=http://www.emulation9.com/nnnesterj/&usg=ALkJrhjftooG7zkWZ_iKT8t6rXXwq3SzHg._
+_NNNesterJ is a Nintendo Entertainment System emulator based on NesterJ._
 
 :link: [**Emulator website**](http://www.emulation9.com/nnnesterj)
 ***

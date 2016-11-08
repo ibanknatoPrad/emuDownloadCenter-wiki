@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **v0.5**, released on **2011-07-12*
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC requires a client OS (such as Darwin for PowerPC, Mac OS X or Mandrake Linux 9.1 for PowerPC) that runs in the emulator. Screenshot taken from http://pearpc.sourceforge.net/screenshots.html._
+_PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC requires a client OS (such as Darwin for PowerPC, Mac OS X or Mandrake Linux 9.1 for PowerPC) that runs in the emulator._
 
 :link: [**Emulator website**](http://github.com/sebastianbiallas/pearpc)
 ***

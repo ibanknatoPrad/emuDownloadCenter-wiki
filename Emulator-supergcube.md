@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **v0.4a**, released on **2009-02-28
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_SuperGCube is a Nintendo Gamecube emulator. Screenshot from Author's Website._
+_SuperGCube is a Nintendo Gamecube emulator._
 
 :link: [**Emulator website**](http://supergcube.sourceforge.net)
 ***

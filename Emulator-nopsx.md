@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.9**, released on **2014-05-28*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_nocash PS1 emulator/debugger for windows_
+_nocash PS1 emulator/debugger for windows._
 
 :link: [**Emulator website**](http://problemkaputt.de/index.htm)
 ***

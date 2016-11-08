@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.2**, released on **2014-11-01*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Oricutron is an Oric Atmos, Oric-1, Telestrat and Pravetz 8D emulator ._
+_Oricutron is an Oric Atmos, Oric-1, Telestrat and Pravetz 8D emulator._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/oricutron/screen.jpg "Oricutron screenshot.")

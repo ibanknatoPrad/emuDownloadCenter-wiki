@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v2015.02.26**, released on **2015
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Basilisk II is an Apple 68k Macintosh emulator. Screenshot taken from http://www.emaculation.com/doku.php/basilisk_ii_setup._
+_Basilisk II is an Apple 68k Macintosh emulator._
 
 :link: [**Emulator website**](http://basilisk.cebix.net/)
 ***

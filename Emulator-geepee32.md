@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.43**, released on **2004-06-15
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_GeePee32 is a Game-Park GP32 handheld console. Screenshot from Author's Website._
+_GeePee32 is a Game-Park GP32 handheld console._
 
 :link: [**Emulator website**](http://users.skynet.be/firefly/gp32/)
 ***

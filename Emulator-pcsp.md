@@ -8,13 +8,13 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**PCSP** is a emulator for **Sony PlayStation Portable** made by **The PCSP Team** and has a **UNKNOWN** license.
+**PCSP** is a emulator for **Sony PlayStation Portable** made by **PCSP Team** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v0.5.4**, released on **2011-10-04**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pcsp.exe**.
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PCSP is a Sony Playstation Portable emulator. Screenshot from https://drfone.wondershare.com/emulator/psp-emulators.html._
+_PCSP is a Sony Playstation Portable emulator._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsp/screen.jpg "PCSP screenshot.")

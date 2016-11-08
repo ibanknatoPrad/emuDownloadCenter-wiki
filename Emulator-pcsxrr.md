@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.1.2**, released on **2009-08-0
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PCSX-RR is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins (Try here: http://www.emulator-zone.com/doc.php/psx/psxplugins-tools.html)._
+_PCSX-RR is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 
 :link: [**Emulator website**](http://code.google.com/p/pcsxrr/)
 ***

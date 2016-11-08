@@ -7,7 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | Daniel Vik | Freeware |
-| :file_folder: [**EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | UNKNOWN | UNKNOWN |
+| :file_folder: [**EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | Tselikov | Freeware |
 | :file_folder: [**FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 | :file_folder: [**fMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fmsx#menu) | Marat Fayzullin | Freeware - Non-Commercial |
 | :file_folder: [**NLMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nlmsx#menu) | Frits Hilderink | UNKNOWN |

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.42**, released on **2000-11-21
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection of games. Screenshot is from http://megagames.com/emulators/callus95._
+_Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection of games._
 
 :link: [**Emulator website**](http://bloodlust.zophar.net/Callus/callus.html)
 ***

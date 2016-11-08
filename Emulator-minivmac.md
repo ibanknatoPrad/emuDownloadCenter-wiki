@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v3.3.3-win32**, released on **201
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Mini vMac is an Apple Macintosh (using Motorola 680x0 processors) emulator. Screenshot from Author's Website._
+_Mini vMac is an Apple Macintosh (using Motorola 680x0 processors) emulator._
 
 :link: [**Emulator website**](http://minivmac.sourceforge.net)
 ***

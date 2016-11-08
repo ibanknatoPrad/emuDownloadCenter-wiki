@@ -16,7 +16,7 @@ The latest version of the emulator on EDC is **v20140523-x86**, released on **20
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support. Screenshot taken from http://citra3ds.com._
+_Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support._
 
 :link: [**Emulator website**](https://citra-emu.org/)
 ***

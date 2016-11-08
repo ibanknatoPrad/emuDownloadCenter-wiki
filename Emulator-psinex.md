@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **vr3**, released on **2001-11-24**
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_PSinex PC Emulator is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins (Try here: http://www.emulator-zone.com/doc.php/psx/psxplugins-tools.html)._
+_PSinex PC Emulator is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psinex/screen.jpg "PSinex screenshot.")

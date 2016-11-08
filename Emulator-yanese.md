@@ -8,13 +8,15 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**YANESE (Yet Another NES Emulator)** is a emulator for **Nintendo NES/Famicom** made by **UNKNOWN** and has a **UNKNOWN** license.
+**YANESE (Yet Another NES Emulator)** is a emulator for **Nintendo NES/Famicom** made by **Anes** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v0.89-win32**, released on **2015-09-22**, it runs on **Windows XP,Vista,7,8,10 (x86)**, you can start this emulator with **yanese86.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _YANESE (Yet Another NES Emulator) is a Nintendo Entertainment System emulator._
+
+:link: [**Emulator website**](http://www.yanese.com/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yanese/screen.jpg "YANESE (Yet Another NES Emulator) screenshot.")

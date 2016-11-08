@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.3**, released on **2005-02-22*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Galaxy Win is an emulator for the Galaksija computer. It is a Windows port of the DOS GALAKSIJA emulator by Miodrag Jevremovic. Screenshot taken from Author's Website._
+_Galaxy Win is an emulator for the Galaksija computer. It is a Windows port of the DOS GALAKSIJA emulator by Miodrag Jevremovic._
 
 :link: [**Emulator website**](http://emulator.galaksija.org/)
 ***

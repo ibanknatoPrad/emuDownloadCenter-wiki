@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v3.4.6.3**, released on **2015-08
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_XM7dash is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japanese. Screenshot from http://emunavi.com/e/menu/howto/xm7/xm7.htm._
+_XM7dash is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japanese._
 
 :link: [**Emulator website**](http://tomatoma.s54.xrea.com/)
 ***

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.04r136**, released on **2011-0
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_NullDC Naomi is a Sega Naomi emulator. Screenshot from http://entertainmentghost.blogspot.com.au/2013/12/8-best-arcade-emulators-of-all-time_16.html._
+_NullDC Naomi is a Sega Naomi emulator._
 
 :link: [**Emulator website**](http://github.com/skmp/nulldc)
 ***

@@ -8,13 +8,13 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**Pcsx** is a emulator for **Sony PlayStation 1** made by **The team of Pcsx** and has a **UNKNOWN** license.
+**Pcsx** is a emulator for **Sony PlayStation 1** made by **Pcsx Team** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v1.5**, released on **2003-05-12**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **pcsx.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins (Try here: http://www.emulator-zone.com/doc.php/psx/psxplugins-tools.html) and the CD-ROM has to be loaded into a real CD-Drive._
+_Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsx/screen.jpg "Pcsx screenshot.")

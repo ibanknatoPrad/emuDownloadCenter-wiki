@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.51**, released on **1998-05-24
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_CalcEm is a Texas Instruments TI-82, TI-83 and TI-85 emulator. Screenshot from Author's Website._
+_CalcEm is a Texas Instruments TI-82, TI-83 and TI-85 emulator._
 
 :link: [**Emulator website**](http://calcem.sourceforge.net/calcem/)
 ***

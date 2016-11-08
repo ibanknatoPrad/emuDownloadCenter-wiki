@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v2.0**, released on **2012-11-10*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_nocash ZX81 & ZX Spectrum emulator/debugger for windows_
+_nocash ZX81 & ZX Spectrum emulator/debugger for windows._
 
 :link: [**Emulator website**](http://problemkaputt.de/index.htm)
 ***

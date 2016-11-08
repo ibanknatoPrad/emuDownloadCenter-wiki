@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.91**, released on **2006-08-06
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32. The Apple IIgs was the most powerful computer in the Apple II line. It first was sold in 1986.  An Apple IIgs has the capability to run almost all Apple II, Apple IIe, and Apple IIc programs.  Screenshot from http://sites.google.com/site/csmth96/kegs._
+_KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32. The Apple IIgs was the most powerful computer in the Apple II line. It first was sold in 1986.  An Apple IIgs has the capability to run almost all Apple II, Apple IIe, and Apple IIc programs._
 
 :link: [**Emulator website**](http://kegs.sourceforge.net/)
 ***

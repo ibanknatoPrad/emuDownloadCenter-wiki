@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.3.0.0**, released on **2006-02
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_RascalBoy Advance is a Nintendo Game Boy Advance emulator. Screenshot taken from http://www.emulatorworld.com/emulators/gba-emulators/rascalboy-advance/_
+_RascalBoy Advance is a Nintendo Game Boy Advance emulator._
 
 :link: [**Emulator website**](http://spazioinwind.libero.it/linoma/rascalboy.html)
 ***

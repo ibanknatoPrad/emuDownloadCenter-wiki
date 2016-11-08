@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**EMU** is a emulator for **V. I. Lenin L'vov/Lviv** made by **UNKNOWN** and has a **UNKNOWN** license.
+**EMU** is a emulator for **V. I. Lenin L'vov/Lviv** made by **Tselikov** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **v1.01**, released on **2016-04-05**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **EMU.exe**.
 

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v2013.05.06**, released on **2013
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_SheepShaver is a MacOS run-time environment that runs MacOS 7.5.2 thru 9.0.4. The screenshot is taken from http://homepage3.nifty.com/toshi3/emu/sheepshaver1.html._
+_SheepShaver is a MacOS run-time environment that runs MacOS 7.5.2 thru 9.0.4._
 
 :link: [**Emulator website**](http://sheepshaver.cebix.net)
 ***

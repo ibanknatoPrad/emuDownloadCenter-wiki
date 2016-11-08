@@ -15,6 +15,8 @@ The latest version of the emulator on EDC is **v2.05-win32**, released on **2015
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _XM 6 Type G is a Sharp X68000 emulator based on XM 6 by PI.. NOTE: 2.05 version of this emulator is in Japanese._
+
+:link: [**Emulator website**](http://www.ipc-tokai.or.jp/~ytanaka/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm6/screen.jpg "XM 6 Type G screenshot.")

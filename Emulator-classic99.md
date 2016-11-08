@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v3.91**, released on **2016-11-06
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Classic99 is a Texas Instruments TI-99/4A and TI-99/4 emulator. Screenshot from Author's Website._
+_Classic99 is a Texas Instruments TI-99/4A and TI-99/4 emulator._
 
 :link: [**Emulator website**](http://www.harmlesslion.com/classic99)
 ***

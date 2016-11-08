@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **valpha01**, released on **2007-05
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Potemkin (Codename DaSH) is an experimental HLE Sony Playstation Portable emulator. Screenshot from http://www.zophar.net/psp/potemkin.html._
+_Potemkin (Codename DaSH) is an experimental HLE Sony Playstation Portable emulator._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potemkin/screen.jpg "Potemkin screenshot.")

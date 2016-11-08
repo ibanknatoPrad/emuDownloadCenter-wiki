@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.34.5-win32**, released on **20
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_XRoar is an emulator for the following systems: DragonData Dragon 32, Dragon 64, Dragon 200-E, Tandy CoCo (Color Computer) 1 & 2, and_
+_XRoar is an emulator for the following systems: DragonData Dragon 32, Dragon 64, Dragon 200-E, Tandy CoCo (Color Computer) 1 & 2, and compatibles._
 
 :link: [**Emulator website**](http://www.6809.org.uk/xroar/)
 ***

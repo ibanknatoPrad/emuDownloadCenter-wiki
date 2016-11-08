@@ -15,6 +15,8 @@ The latest version of the emulator on EDC is **v1.8**, released on **2000-08-20*
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _DirectVMS is a DirectX port of SoftVMS, an emulator for the Sega Dreamcast Visual Memory System._
+
+:link: [**Emulator website**](http://rpging.simplenet.com)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/directvms/screen.jpg "DirectVMS screenshot.")

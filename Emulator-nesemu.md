@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.3**, released on **2015-04-08*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_nes-emu is a Nintendo Entertainment System emulator_
+_nes-emu is a Nintendo Entertainment System emulator._
 
 :link: [**Emulator website**](http://github.com/amaiorano/nes-emu/)
 ***

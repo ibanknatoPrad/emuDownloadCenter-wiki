@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.1**, released on **2012-09-30*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_nocash NES/FDS/PC10/VS emulator/debugger for windows_
+_nocash NES/FDS/PC10/VS emulator/debugger for windows._
 
 :link: [**Emulator website**](http://problemkaputt.de/index.htm)
 ***

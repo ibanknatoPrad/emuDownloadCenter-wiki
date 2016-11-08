@@ -7,6 +7,6 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
-| :file_folder: [**XMillenium**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xmillenium#menu) | UNKNOWN | UNKNOWN |
+| :file_folder: [**XMillenium**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xmillenium#menu) | Adrastea | UNKNOWN |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

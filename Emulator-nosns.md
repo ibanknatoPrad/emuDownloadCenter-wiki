@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.6**, released on **2016-03-21*
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_nocash SNES/Super Famicom emulator/debugger for windows_
+_nocash SNES/Super Famicom emulator/debugger for windows._
 
 :link: [**Emulator website**](http://problemkaputt.de/index.htm)
 ***

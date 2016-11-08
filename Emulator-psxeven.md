@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.19**, released on **2005-04-29
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PSXeven is a Sony Playstation 1 emulator. This emulator is released with default Plugins, but can be extended further with other PSX Plugins (Try here: http://www.emulator-zone.com/doc.php/psx/psxplugins-tools.html)._
+_PSXeven is a Sony Playstation 1 emulator. This emulator is released with default Plugins, but can be extended further with other PSX Plugins._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxeven/screen.jpg "PSXeven screenshot.")

@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**XEBRA** is a emulator for **Sony PlayStation 1** made by **Dr Hell** and has a **UNKNOWN** license.
+**XEBRA** is a emulator for **Sony PlayStation 1** made by **Dr. Hell** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v2016.06.04**, released on **2016-06-04**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **XEBRA.exe**.
 

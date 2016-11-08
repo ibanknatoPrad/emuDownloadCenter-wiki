@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v3.9**, released on **2012-05-04*
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_SIMH is a multi-system emulator for the following systems: Data General Nova, Eclipse : Digital Equipment Corporation PDP-1, PDP-4, PDP-7, PDP-8, PDP-9, PDP-10, PDP-11, PDP-15, VAX : GRI Corporation GRI-909, GRI-99 : IBM 1401, 1620, 1130,  7090/7094, System 3 : Interdata (Perkin-Elmer) 16b and 32b systems : Hewlett-Packard 2114, 2115, 2116, 2100, 21MX, 1000 : Honeywell H316/H516 : MITS Altair 8800, with both 8080 and Z80 : Royal-Mcbee LGP-30, LGP-21 : Scientific Data Systems SDS 940 : SWTP 6800. Screenshot from http://sourceforge.net/projects/simh/._
+_SIMH is a multi-system emulator for the following systems: Data General Nova, Eclipse : Digital Equipment Corporation PDP-1, PDP-4, PDP-7, PDP-8, PDP-9, PDP-10, PDP-11, PDP-15, VAX : GRI Corporation GRI-909, GRI-99 : IBM 1401, 1620, 1130,  7090/7094, System 3 : Interdata (Perkin-Elmer) 16b and 32b systems : Hewlett-Packard 2114, 2115, 2116, 2100, 21MX, 1000 : Honeywell H316/H516 : MITS Altair 8800, with both 8080 and Z80 : Royal-Mcbee LGP-30, LGP-21 : Scientific Data Systems SDS 940 : SWTP 6800._
 
 :link: [**Emulator website**](http://simh.trailing-edge.com/)
 ***

@@ -25,7 +25,7 @@
 | :file_folder: [**My NES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mynes#menu) | Ala Ibrahim Hadid | GNU GPLv3 |
 | :file_folder: [**Nestopia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nestopia#menu) | Martin Freij | Open Source |
 | :file_folder: [**nes-emu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesemu#menu) | Antonio Maiorano | GNU GPLv2 |
-| :file_folder: [**nesterJ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesterj#menu) | Screw and Mikami Kana | GNU GPLv2 |
+| :file_folder: [**nesterJ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesterj#menu) | Screw, Mikami Kana | GNU GPLv2 |
 | :file_folder: [**NESticle**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesticle#menu) | Bloodlust Software | Freeware - Non-Commercial |
 | :file_folder: [**Nintendulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nintendulator#menu) | Quietust | GNU GPLv2 |
 | :file_folder: [**NNNesterJ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nnnesterj#menu) | UNKNOWN | UNKNOWN |
@@ -37,7 +37,7 @@
 | :file_folder: [**UberNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ubernes#menu) | M \ K Productions | Freeware |
 | :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Norix | Freeware - Non-Commercial |
 | :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Tensai Wang | Freeware - Non-Commercial |
-| :file_folder: [**YANESE (Yet Another NES Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yanese#menu) | UNKNOWN | UNKNOWN |
+| :file_folder: [**YANESE (Yet Another NES Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yanese#menu) | Anes | UNKNOWN |
 | :file_folder: [**YoshiNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yoshines#menu) | omundodogabriel | UNKNOWN |
 
 :arrow_backward: [Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

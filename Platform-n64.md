@@ -7,7 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | :file_folder: [**1964**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-1964#menu) | Joel Middendorf (schibo) & Rice | Freeware |
-| :file_folder: [**Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | Aziber | Freeware - Non-Commercial |
+| :file_folder: [**Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | Aziber | Freeware |
 | :file_folder: [**ICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ice64#menu) | Pokefan | UNKNOWN |
 | :file_folder: [**Mupen64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64k#menu) | UNKNOWN | UNKNOWN |
 | :file_folder: [**Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | richard42g | GNU GPLv2 |

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.60**, released on **2015-04-30
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_zBoy is a Nintendo Game Boy emulator. Screenshot from Author's Website._
+_zBoy is a Nintendo Game Boy emulator._
 
 :link: [**Emulator website**](http://zboy.sourceforge.net/)
 ***

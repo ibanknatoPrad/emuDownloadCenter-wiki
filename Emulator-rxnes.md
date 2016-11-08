@@ -14,9 +14,9 @@ The latest version of the emulator on EDC is **v1.71**, released on **2016-10-06
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the graphics of the NES to modern levels. Screenshot from Author's Website (amended)._
+_RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the graphics of the NES to modern levels._
 
-:link: [**Emulator website**](www.RxNES.com)
+:link: [**Emulator website**](http://www.rxnes.com)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rxnes/screen.jpg "RxNES screenshot.")

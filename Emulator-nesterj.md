@@ -8,7 +8,7 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw and Mikami Kana** and has a **GNU GPLv2** license.
+**nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **v0.51b**, released on **2003-07-27**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **nesterJ.exe**.
 

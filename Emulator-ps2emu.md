@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **valpha01**, released on **2004-05
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PS2EMU is a Sony Playstation 2 emulator. Screenshot from http://www.emulator-zone.com/doc.php/ps2/ps2emu.html._
+_PS2EMU is a Sony Playstation 2 emulator._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ps2emu/screen.jpg "PS2EMU screenshot.")

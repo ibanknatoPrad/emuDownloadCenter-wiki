@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.4**, released on **2005-03-26*
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_RedMSX is an MSX, MSX2 and MSX2+ emulator. Screenshot taken from Author's Website._
+_RedMSX is an MSX, MSX2 and MSX2+ emulator._
 
 :link: [**Emulator website**](http://redmsx.msxblue.com/index.htm)
 ***

@@ -8,13 +8,15 @@
 | :floppy_disk: [Downloads](#downloads) |
 ***
 ## About
-**XMillenium** is a emulator for **Sharp X1** made by **UNKNOWN** and has a **UNKNOWN** license.
+**XMillenium** is a emulator for **Sharp X1** made by **Adrastea** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **v0.26**, released on **2007-06-24**, it runs on **Windows XP,Vista,7,8,10 (x86,x64)**, you can start this emulator with **XmillMK2.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _XMillenium is a Sharp X-1 series emulator based on X1EMU._
+
+:link: [**Emulator website**](http://www.retropc.net/yui/xmil.html)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xmillenium/screen.jpg "XMillenium screenshot.")

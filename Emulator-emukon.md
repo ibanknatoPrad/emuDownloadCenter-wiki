@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.05**, released on **2004-07-02
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Emukon is a Sega Master System and Game Gear emulator_
+_Emukon is a Sega Master System and Game Gear emulator._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emukon/screen.jpg "Emukon screenshot.")

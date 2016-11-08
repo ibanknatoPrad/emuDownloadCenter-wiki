@@ -15,6 +15,8 @@ The latest version of the emulator on EDC is **v1.4.0**, released on **2012-02-0
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
 _X88000 is an NEC PC-8801 emulator._
+
+:link: [**Emulator website**](http://www.geocities.com/Area51/Dungeon/6809/x88000.html)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/x88000/screen.jpg "X88000 screenshot.")

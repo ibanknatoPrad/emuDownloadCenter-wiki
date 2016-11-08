@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v3.4.6.2**, released on **2014-04
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japanese. Screenshot from http://emunavi.com/e/menu/howto/xm7/xm7.htm._
+_XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japanese._
 
 :link: [**Emulator website**](http://xm7.la.coocan.jp/xm7/xm7.html)
 ***

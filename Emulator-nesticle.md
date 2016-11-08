@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v0.42**, released on **1997-09-22
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_NESticle is a Nintendo Entertainment System emulator. Screenshot from Author's Website._
+_NESticle is a Nintendo Entertainment System emulator._
 
 :link: [**Emulator website**](http://bloodlust.zophar.net/NESticle/nes.html)
 ***

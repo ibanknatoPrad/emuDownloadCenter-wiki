@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v1.9.93**, released on **2013-08-
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_PCSX-Reloaded is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins (Try here: http://www.emulator-zone.com/doc.php/psx/psxplugins-tools.html)._
+_PCSX-Reloaded is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 
 :link: [**Emulator website**](http://pcsxr.codeplex.com/)
 ***

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **v12.7**, released on **2011-02-05
 
 Please note: This emulator **needs BIOS image(s)** to start ROM files!
 
-_Makaron is a Sega Dreamcast and Naomi emulator. Screenshot from http://www.vg-network.com/2008/06/15/makaron-dreamcast-emulator-wip-to-boot-or-not-to-boot/._
+_Makaron is a Sega Dreamcast and Naomi emulator._
 
 :link: [**Emulator website**](http://dknute.livejournal.com)
 ***
