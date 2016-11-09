@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/calice_logo_200.jpg "Calice32 logo.")
+
 **Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **0.6.4 (x86,x64)**, released on **2004-02-26** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Calice32.exe**.

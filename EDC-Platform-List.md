@@ -144,6 +144,7 @@
 | [:file_folder: **Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
 | [:file_folder: **Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :iphone: Handheld | vb |
 | [:file_folder: **Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
+| [:file_folder: **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
 | [:file_folder: **Philips VG-5000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg5000) | :computer: Computer | vg5000 |
 | [:file_folder: **Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
 | [:file_folder: **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
@@ -154,6 +155,8 @@
 | [:file_folder: **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :iphone: Handheld | wsc |
 | [:file_folder: **Sharp X1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x1) | :computer: Computer | x1 |
 | [:file_folder: **Sharp X68000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x68000) | :computer: Computer | x68000 |
+| [:file_folder: **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
+| [:file_folder: **Microsoft X-Box 360**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox360) | :fax: Console | xbox360 |
 | [:file_folder: **Sony ZiNc (ZN-1/ZN-2)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zinc) | :tv: Arcade | zinc |
 | [:file_folder: **Sinclair ZX81**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zx81) | :computer: Computer | zx81 |
 | [:file_folder: **Sinclair ZX Spectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zxs) | :computer: Computer | zxs |

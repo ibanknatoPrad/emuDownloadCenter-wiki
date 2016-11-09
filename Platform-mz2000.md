@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **EmuZ-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emuz2000#menu) | Toshio Fukui | UNKNOWN |
 | [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

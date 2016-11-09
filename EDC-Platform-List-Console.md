@@ -39,8 +39,11 @@
 | [:file_folder: **Nintendo Super Nintendo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-snes) | :fax: Console | snes |
 | [:file_folder: **Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
 | [:file_folder: **Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
+| [:file_folder: **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
 | [:file_folder: **Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
 | [:file_folder: **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
 | [:file_folder: **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
+| [:file_folder: **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
+| [:file_folder: **Microsoft X-Box 360**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox360) | :fax: Console | xbox360 |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
