@@ -1,7 +1,7 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Commodore 16/plus4 (Computer)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c16plus4_teaser.png)
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c16plus4_teaser.png "Commodore 16/plus4 ECC teaser.")
 ###### ECC ID: **c16plus4**
 
 | Emulator   | Author      | License     |
