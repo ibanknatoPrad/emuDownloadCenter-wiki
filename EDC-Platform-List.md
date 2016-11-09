@@ -7,13 +7,13 @@
 | Platform   | Category      | ECC ID      |
 |:-----------|:--------------|:------------|
 | [:file_folder: **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
-| [:file_folder: **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :iphone: Handheld | 3ds |
+| [:file_folder: **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :pager: Handheld | 3ds |
 | [:file_folder: **Panasonic 3DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3do) | :fax: Console | 3do |
 | [:file_folder: **Atari 2600**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a2600) | :fax: Console | a2600 |
 | [:file_folder: **Atari 5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a5200) | :fax: Console | a5200 |
 | [:file_folder: **Atari 7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a7800) | :fax: Console | a7800 |
 | [:file_folder: **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
-| [:file_folder: **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :iphone: Handheld | advision |
+| [:file_folder: **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :pager: Handheld | advision |
 | [:file_folder: **Matra/Hachette Alice**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-alice) | :computer: Computer | alice |
 | [:file_folder: **Commodore Amiga**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amiga) | :computer: Computer | amiga |
 | [:file_folder: **Commodore Amiga CD32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amigacd32) | :fax: Console | amigacd32 |
@@ -39,9 +39,9 @@
 | [:file_folder: **Capcom Play System 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps2) | :tv: Arcade | cps2 |
 | [:file_folder: **Capcom Play System 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps3) | :tv: Arcade | cps3 |
 | [:file_folder: **Vtech Creativision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cv) | :fax: Console | cv |
-| [:file_folder: **Cybiko Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cybiko) | :iphone: Handheld | cybiko |
+| [:file_folder: **Cybiko Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cybiko) | :pager: Handheld | cybiko |
 | [:file_folder: **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |
-| [:file_folder: **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :iphone: Handheld | dcvmu |
+| [:file_folder: **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :pager: Handheld | dcvmu |
 | [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
 | [:file_folder: **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
 | [:file_folder: **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
@@ -49,14 +49,14 @@
 | [:file_folder: **Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
 | [:file_folder: **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
 | [:file_folder: **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
-| [:file_folder: **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :iphone: Handheld | gamecom |
-| [:file_folder: **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :iphone: Handheld | gb |
-| [:file_folder: **Nintendo Game Boy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gba) | :iphone: Handheld | gba |
-| [:file_folder: **Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :iphone: Handheld | gbc |
+| [:file_folder: **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :pager: Handheld | gamecom |
+| [:file_folder: **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :pager: Handheld | gb |
+| [:file_folder: **Nintendo Game Boy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gba) | :pager: Handheld | gba |
+| [:file_folder: **Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :pager: Handheld | gbc |
 | [:file_folder: **Nintendo GameCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gc) | :fax: Console | gc |
 | [:file_folder: **Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
-| [:file_folder: **Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :iphone: Handheld | gg |
-| [:file_folder: **GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :iphone: Handheld | gp32 |
+| [:file_folder: **Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :pager: Handheld | gg |
+| [:file_folder: **GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :pager: Handheld | gp32 |
 | [:file_folder: **Amstrad GX4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gx4000) | :fax: Console | gx4000 |
 | [:file_folder: **Interact Home Computer System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-hcs) | :computer: Computer | hcs |
 | [:file_folder: **HomeLAB series - HomeLAB 4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-homelab4) | :computer: Computer | homelab4 |
@@ -72,7 +72,7 @@
 | [:file_folder: **MCA Laserdisc Arcade**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ld) | :tv: Arcade | ld |
 | [:file_folder: **Apple Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lisa) | :computer: Computer | lisa |
 | [:file_folder: **V. I. Lenin L'vov/Lviv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lviv) | :computer: Computer | lviv |
-| [:file_folder: **Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :iphone: Handheld | lynx |
+| [:file_folder: **Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :pager: Handheld | lynx |
 | [:file_folder: **Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
 | [:file_folder: **Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
 | [:file_folder: **Sega Model 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model1) | :tv: Arcade | model1 |
@@ -87,12 +87,12 @@
 | [:file_folder: **Sharp MZ-2500/SuperMZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2500) | :computer: Computer | mz2500 |
 | [:file_folder: **Nintendo N64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-n64) | :fax: Console | n64 |
 | [:file_folder: **Sega Naomi**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-naomi) | :tv: Arcade | naomi |
-| [:file_folder: **Nintendo DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nds) | :iphone: Handheld | nds |
+| [:file_folder: **Nintendo DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nds) | :pager: Handheld | nds |
 | [:file_folder: **Nintendo NES/Famicom**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nes) | :fax: Console | nes |
 | [:file_folder: **SNK NeoGeo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ng) | :tv: Arcade | ng |
 | [:file_folder: **SNK NeoGeo CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngcd) | :fax: Console | ngcd |
-| [:file_folder: **SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :iphone: Handheld | ngp |
-| [:file_folder: **SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :iphone: Handheld | ngpc |
+| [:file_folder: **SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :pager: Handheld | ngp |
+| [:file_folder: **SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :pager: Handheld | ngpc |
 | [:file_folder: **Oric Atmos/Telestrat**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-oric) | :computer: Computer | oric |
 | [:file_folder: **NEC PC-6001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc6001) | :computer: Computer | pc6001 |
 | [:file_folder: **NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
@@ -108,12 +108,12 @@
 | [:file_folder: **Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
 | [:file_folder: **Signetics Pipbug**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pipbug) | :computer: Computer | pipbug |
 | [:file_folder: **Tesla PMD-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmd85) | :computer: Computer | pmd85 |
-| [:file_folder: **Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :iphone: Handheld | pmini |
+| [:file_folder: **Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :pager: Handheld | pmini |
 | [:file_folder: **Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
 | [:file_folder: **Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
 | [:file_folder: **Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
-| [:file_folder: **Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :iphone: Handheld | psp |
-| [:file_folder: **Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :iphone: Handheld | pstation |
+| [:file_folder: **Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :pager: Handheld | psp |
+| [:file_folder: **Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :pager: Handheld | pstation |
 | [:file_folder: **Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
 | [:file_folder: **Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
 | [:file_folder: **Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
@@ -134,15 +134,15 @@
 | [:file_folder: **Atari ST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-st) | :computer: Computer | st |
 | [:file_folder: **Sega Titan Video game system**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-stv) | :tv: Arcade | stv |
 | [:file_folder: **Spectravideo SV318/328**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sv318) | :computer: Computer | sv318 |
-| [:file_folder: **Watara Supervision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-svn) | :iphone: Handheld | svn |
-| [:file_folder: **Texas Instruments TI-82**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti82) | :question: Calculator | ti82 |
-| [:file_folder: **Texas Instruments TI-83**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti83) | :question: Calculator | ti83 |
-| [:file_folder: **Texas Instruments TI-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti85) | :question: Calculator | ti85 |
+| [:file_folder: **Watara Supervision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-svn) | :pager: Handheld | svn |
+| [:file_folder: **Texas Instruments TI-82**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti82) | :iphone: Calculator | ti82 |
+| [:file_folder: **Texas Instruments TI-83**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti83) | :iphone: Calculator | ti83 |
+| [:file_folder: **Texas Instruments TI-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti85) | :iphone: Calculator | ti85 |
 | [:file_folder: **Texas Instruments TI-99/4A**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti99) | :computer: Computer | ti99 |
 | [:file_folder: **Tandy/Radio Shack TRS-80 Color Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-trs80) | :computer: Computer | trs80 |
 | [:file_folder: **Tomy Tutor/Pyuta**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tutor) | :computer: Computer | tutor |
 | [:file_folder: **Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
-| [:file_folder: **Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :iphone: Handheld | vb |
+| [:file_folder: **Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :pager: Handheld | vb |
 | [:file_folder: **Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
 | [:file_folder: **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
 | [:file_folder: **Philips VG-5000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg5000) | :computer: Computer | vg5000 |
@@ -151,8 +151,8 @@
 | [:file_folder: **Commodore VIC-20**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vic20) | :computer: Computer | vic20 |
 | [:file_folder: **Cosmac VIP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vip) | :computer: Computer | vip |
 | [:file_folder: **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
-| [:file_folder: **Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :iphone: Handheld | ws |
-| [:file_folder: **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :iphone: Handheld | wsc |
+| [:file_folder: **Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :pager: Handheld | ws |
+| [:file_folder: **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :pager: Handheld | wsc |
 | [:file_folder: **Sharp X1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x1) | :computer: Computer | x1 |
 | [:file_folder: **Sharp X68000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x68000) | :computer: Computer | x68000 |
 | [:file_folder: **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
