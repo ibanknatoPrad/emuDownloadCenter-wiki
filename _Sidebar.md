@@ -1,6 +1,8 @@
 ### emuDownloadCenter
 ###[**Home**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki)
-***
+
+###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Statistics)
+
 ###[**Emulator Downloads**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
 ***
 ### Your Help!
@@ -10,5 +12,3 @@
 ***
 ### Other
 ###[**Extract 7z files**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Extract-7z-files)
-
-###[**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Statistics)
