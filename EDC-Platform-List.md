@@ -2,7 +2,7 @@
 ***
 # EDC Platform listing (total)
 
-###### By category: [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade)
+###### By category: [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator)
 
 | Platform   | Category      | ECC ID      |
 |:-----------|:--------------|:------------|
