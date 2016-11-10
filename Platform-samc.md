@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **SimCoupe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-simcoupe#menu) | Simon Owen | Freeware |
+| [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | Marat Fayzullin | Freeware - Non-Commercial |
 | [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | Cesar Hernandez | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

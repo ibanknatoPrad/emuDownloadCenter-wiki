@@ -112,6 +112,7 @@
 | [:file_folder: **Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
 | [:file_folder: **Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
 | [:file_folder: **Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
+| [:file_folder: **Sony PlayStation 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps3) | :fax: Console | ps3 |
 | [:file_folder: **Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :pager: Handheld | psp |
 | [:file_folder: **Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :pager: Handheld | pstation |
 | [:file_folder: **Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |

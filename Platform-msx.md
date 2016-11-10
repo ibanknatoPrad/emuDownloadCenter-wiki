@@ -14,5 +14,6 @@
 | [:file_folder: **no$msx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nomsx#menu) | Martin Korth | Shareware |
 | [:file_folder: **RedMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-redmsx#menu) | SLotman | UNKNOWN |
 | [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
+| [:file_folder: **Xpeccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xpeccy#menu) | SAM style | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

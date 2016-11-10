@@ -30,6 +30,7 @@
 | [:file_folder: **Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
 | [:file_folder: **Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
 | [:file_folder: **Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
+| [:file_folder: **Sony PlayStation 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps3) | :fax: Console | ps3 |
 | [:file_folder: **Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
 | [:file_folder: **Sega Saturn**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sat) | :fax: Console | sat |
 | [:file_folder: **Epoch/Yeno Super Cassette Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-scv) | :fax: Console | scv |
