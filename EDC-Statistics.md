@@ -12,4 +12,4 @@ Last update: 2016-11-14
 |:-----|------:|
 | Archive size | 1193 MB |
 | Unpacked size | 4449 MB |
-| Compression ratio | 39% |
+| Compression ratio | 73% |
