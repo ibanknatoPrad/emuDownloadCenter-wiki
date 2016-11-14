@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **neutrinoSX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neutrinosx2#menu) | Muad and nSX2 Team | GNU GPLv2 |
+| [:file_folder: **PCSX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsx2#menu) | PCSX2 team | GNU GPL v3 |
 | [:file_folder: **PS2EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ps2emu#menu) | Roor Makurosu, Scar_T and Shunt | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

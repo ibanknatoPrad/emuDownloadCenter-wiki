@@ -12,5 +12,6 @@
 | [:file_folder: **PCSP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsp#menu) | PCSP Team | UNKNOWN |
 | [:file_folder: **Potemkin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-potemkin#menu) | Henrik Rydgard (aka ector) | GNU GPLv2 |
 | [:file_folder: **PPSSPP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ppsspp#menu) | Henrik Rydgard | GNU GPLv2 |
+| [:file_folder: **pspe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pspe#menu) | Unknown | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

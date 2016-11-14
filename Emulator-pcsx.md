@@ -1,14 +1,14 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: Pcsx** |
+| **Emulator: PCSX** |
 |:---------|
 | [:clipboard: About](#about) |
 | [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Pcsx** is a emulator for **Sony PlayStation 1** made by **Pcsx Team** and has a **UNKNOWN** license.
+**PCSX** is a emulator for **Sony PlayStation 1** made by **Pcsx Team** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **1.5 (x86,x64)**, released on **2003-05-12** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx.exe**.
 
@@ -17,7 +17,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsx/screen.jpg "Pcsx screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsx/screen.jpg "PCSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

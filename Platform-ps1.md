@@ -6,12 +6,13 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **AdriPSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adripsx#menu) | Roor Makurosu | Freeware |
 | [:file_folder: **ePSXe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-epsxe#menu) | Calb, Galtor, -Demo- | Freeware |
 | [:file_folder: **HPSX (Highly-Experimental Playstation Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hpsx64#menu) | TheGangster | GNU GPLv3 |
 | [:file_folder: **Jackal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jackal#menu) | Expert and Floating Point | GNU GPLv2 |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
 | [:file_folder: **no$psx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nopsx#menu) | Martin Korth | Freeware |
-| [:file_folder: **Pcsx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsx#menu) | Pcsx Team | UNKNOWN |
+| [:file_folder: **PCSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsx#menu) | Pcsx Team | UNKNOWN |
 | [:file_folder: **PCSX-Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxr#menu) | PCSX-Reloaded Team | GNU GPLv2 |
 | [:file_folder: **PCSX-RR**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxrr#menu) | PCSX-Reloaded Team | GNU GPLv2 |
 | [:file_folder: **PSinex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psinex#menu) | pSyChOjAk and Shunt | GNU GPLv2 |
