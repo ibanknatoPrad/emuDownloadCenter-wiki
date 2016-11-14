@@ -6,6 +6,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **Koyote**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-koyote#menu) | David Raingeard and Romain Tisserand | UNKNOWN |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
+| [:file_folder: **NeoPocott**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neopocott#menu) | Julien FRELAT "Gollum" | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

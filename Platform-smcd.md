@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | Quinntesson | Freeware - Non-Commercial |
 | [:file_folder: **Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | Stephane Dallongeville | GNU GPLv2 |
 | [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
 | [:file_folder: **Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | David Korth | GNU GPLv2 |

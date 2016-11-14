@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | Quinntesson | Freeware - Non-Commercial |
 | [:file_folder: **Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | Dave | Freeware - Non-Commercial |
 | [:file_folder: **Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | Martin and Robert Konrad | KonTechs Freeware License |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |

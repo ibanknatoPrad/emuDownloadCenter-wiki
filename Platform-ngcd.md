@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **NEOGEO CD Emulator-Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ncdz#menu) | NJ | UNKNOWN |
 | [:file_folder: **NeoCD/SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neocdsdl#menu) | Fosters | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

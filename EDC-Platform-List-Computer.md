@@ -21,10 +21,12 @@
 | [:file_folder: **Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
 | [:file_folder: **Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
 | [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
+| [:file_folder: **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
 | [:file_folder: **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
 | [:file_folder: **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
 | [:file_folder: **Atari Falcon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-falcon) | :computer: Computer | falcon |
 | [:file_folder: **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
+| [:file_folder: **Fujitsu FM Towns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fmtowns) | :computer: Computer | fmtowns |
 | [:file_folder: **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
 | [:file_folder: **Interact Home Computer System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-hcs) | :computer: Computer | hcs |
 | [:file_folder: **HomeLAB series - HomeLAB 4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-homelab4) | :computer: Computer | homelab4 |
@@ -51,6 +53,7 @@
 | [:file_folder: **NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
 | [:file_folder: **NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |
 | [:file_folder: **NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
+| [:file_folder: **Amstrad PCW/Schneider Joyce**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcw) | :computer: Computer | pcw |
 | [:file_folder: **DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
 | [:file_folder: **DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
 | [:file_folder: **Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |

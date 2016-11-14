@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **1.0.0 (x86,x64)**, released on **
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
-_Daphne is a LaserDisc Arcade Game emulator. As at v1.0.0 it can play the following games: Astron Belt, Badlands, Bega's Battle, Cliff Hanger, Cobra Command, Dragon's Lair, Dragon's Lair II : Timewarp, Esh's Aurunmilla, Galaxy Ranger, GP World, Interstellar, M.A.C.H. 3, Road Blaster, Space Ace, Star Blazer, Super Don Quix-ote, Thayer's Quest and Us vs Them._
+_Daphne is a LaserDisc Arcade Game emulator. As at v1.0.0 it can play the following games: Astron Belt, Badlands, Bega's Battle, Cliff Hanger, Cobra Command, Dragon's Lair, Dragon's Lair II: Timewarp, Esh's Aurunmilla, Galaxy Ranger, GP World, Interstellar, M.A.C.H. 3, Road Blaster, Space Ace, Star Blazer, Super Don Quix-ote, Thayer's Quest and Us vs Them._
 
 [:link: **Emulator website**](http://www.daphne-emu.com/)
 ***

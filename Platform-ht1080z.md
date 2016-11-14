@@ -6,6 +6,8 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **FastZ80**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fastz80#menu) | Lajos Kintli | UNKNOWN |
 | [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | Attila Grosz | Freeware |
+| [:file_folder: **Real-80 PRO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-real80pro#menu) | Kollar Zoltan | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

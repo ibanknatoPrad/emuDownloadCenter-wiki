@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
+| [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | Gavin Turner | SPECIAL - 'see Licence Agreement.txt' |
 | [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

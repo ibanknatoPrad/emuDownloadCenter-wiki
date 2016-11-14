@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **Return of CoCo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-roc#menu) | Russ Le Blang | UNKNOWN |
 | [:file_folder: **XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | Ciaran Anscomb | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

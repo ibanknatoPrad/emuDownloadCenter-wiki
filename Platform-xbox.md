@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **Cxbx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbx#menu) | Echelon9 | GNU GPLv2 |
+| [:file_folder: **Cxbx Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbxreloaded#menu) | Luke Usher | GNU GPLv2 |
 | [:file_folder: **Xeon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xeon#menu) | SF | GNU GPLv2 |
 | [:file_folder: **XQEMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xqemu#menu) | espes | GNU GPLv2 |
 

@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **0.10 (x86,x64)**, released on **2
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Dolwin is an open source Game Cube emulator fully written with dolwinC. Even though it’s still under development you can still be able to boot and run some commercial games and a few demos. The zip file comes with a demo that you can play to test the emulator. This emulator has not been updated in roughly 5 years. Check it out though if you will._
+_Dolwin is an open source Game Cube emulator fully written with dolwinC. Even though it's still under development you can still be able to boot and run some commercial games and a few demos. The zip file comes with a demo that you can play to test the emulator. This emulator has not been updated in roughly 5 years. Check it out though if you will._
 
 [:link: **Emulator website**](http://www.emulation64.com/files/info/86/dolwin.html/)
 ***

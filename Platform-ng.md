@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | friol | Freeware - Non-Commercial |
+| [:file_folder: **AES4ALL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aes4all#menu) | Chui | UNKNOWN |
 | [:file_folder: **Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | David Raingeard | Freeware |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
 | [:file_folder: **Nebula**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nebula#menu) | ElSemi | Freeware |

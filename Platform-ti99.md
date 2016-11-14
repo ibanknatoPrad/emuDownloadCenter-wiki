@@ -7,5 +7,6 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **Classic99**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-classic99#menu) | M Brent and Tursi | Open Source (Restrictive) |
+| [:file_folder: **Ti994W**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ti994w#menu) | Frederik G Kaal | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

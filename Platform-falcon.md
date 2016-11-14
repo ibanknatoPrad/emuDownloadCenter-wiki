@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **Atari on Any Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aranym#menu) | The ARAnyM  Team | GNU GPLv2 |
 | [:file_folder: **Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | The Hatari Team | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

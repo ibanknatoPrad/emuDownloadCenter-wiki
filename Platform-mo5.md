@@ -6,6 +6,7 @@
 
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
+| [:file_folder: **DCMO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmo5#menu) | Daniel Coulom | GNU GPLv3 |
 | [:file_folder: **DCMOTO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmoto#menu) | Daniel Coulom | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

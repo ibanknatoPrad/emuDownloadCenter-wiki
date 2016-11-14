@@ -7,6 +7,7 @@
 | Emulator   | Author      | License     |
 |:-----------|:------------|:------------|
 | [:file_folder: **3DNes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dnes#menu) | geod | Donationware |
+| [:file_folder: **MarioNES / 80five**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-80five#menu) | Gary Boyes | UNKNOWN |
 | [:file_folder: **BSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnes#menu) | Byuu | Freeware |
 | [:file_folder: **BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | Devin Acker, Alex W. Jackson, Michal Ziabkowski and Maximilian Rehkopf | GNU GPLv2 |
 | [:file_folder: **BSNES+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesplus#menu) | BSNES+ Team | GNU GPLv2 |

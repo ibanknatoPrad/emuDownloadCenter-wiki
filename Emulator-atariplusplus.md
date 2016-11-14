@@ -14,7 +14,7 @@ The latest version of the emulator on EDC is **1.58 (x86,x64)**, released on **2
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates the Atari800, Atari400, the 800XL and 600XL, the 65XE and 130XE and the Atari 5200 Game Console. The emulation is cycle-precise, that is “on the fly” modifications of chip registers will be visible on the screen immediately, emulating even programs using horizontal kernel tricks correctly._
+_atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates the Atari800, Atari400, the 800XL and 600XL, the 65XE and 130XE and the Atari 5200 Game Console. The emulation is cycle-precise, that is 'on the fly' modifications of chip registers will be visible on the screen immediately, emulating even programs using horizontal kernel tricks correctly._
 
 [:link: **Emulator website**](http://www.xl-project.com/)
 ***

@@ -43,11 +43,13 @@
 | [:file_folder: **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |
 | [:file_folder: **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :pager: Handheld | dcvmu |
 | [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
+| [:file_folder: **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
 | [:file_folder: **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
 | [:file_folder: **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
 | [:file_folder: **Atari Falcon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-falcon) | :computer: Computer | falcon |
 | [:file_folder: **Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
 | [:file_folder: **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
+| [:file_folder: **Fujitsu FM Towns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fmtowns) | :computer: Computer | fmtowns |
 | [:file_folder: **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
 | [:file_folder: **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :pager: Handheld | gamecom |
 | [:file_folder: **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :pager: Handheld | gb |
@@ -101,6 +103,7 @@
 | [:file_folder: **NEC Supergrafx/PC-Engine 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce2) | :fax: Console | pce2 |
 | [:file_folder: **NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
 | [:file_folder: **NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
+| [:file_folder: **Amstrad PCW/Schneider Joyce**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcw) | :computer: Computer | pcw |
 | [:file_folder: **DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
 | [:file_folder: **DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
 | [:file_folder: **Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |
