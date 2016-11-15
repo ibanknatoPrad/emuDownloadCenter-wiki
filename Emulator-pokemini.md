@@ -10,7 +10,7 @@
 ## About
 **Poke Mini** is a emulator for **Nintendo Pokémon mini** made by **JustBurn** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **0.6 (x86,x64)**, released on **2015-06-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PokeMini.exe**.
+The latest version of the emulator on EDC is **0.6 (x86)**, released on **2015-06-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PokeMini.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

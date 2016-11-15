@@ -10,7 +10,7 @@
 ## About
 **nullDC NAOMI** is a emulator for **Sega Naomi** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.04r136 (x86,x64)**, released on **2011-08-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nullDC_Win32_Release-NoTrace.exe**.
+The latest version of the emulator on EDC is **1.04r136 (x86)**, released on **2011-08-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nullDC_Win32_Release-NoTrace.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

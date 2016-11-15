@@ -10,7 +10,7 @@
 ## About
 **XM7dash** is a emulator for **Fujitsu FM-7** made by **PI., Ryu Takegami and Toma** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **3.4.6.3 (x86,x64)**, released on **2015-08-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XM7.exe**.
+The latest version of the emulator on EDC is **3.4.6.3 (x86)**, released on **2015-08-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XM7.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

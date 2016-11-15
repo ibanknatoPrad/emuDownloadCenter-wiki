@@ -10,7 +10,7 @@
 ## About
 **ArcEm** is a emulator for **Acorn Archimedes** made by **pnaulls and ralph** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.50 (x86,x64)**, released on **2012-12-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ArcEm.exe**.
+The latest version of the emulator on EDC is **1.50 (x86)**, released on **2012-12-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ArcEm.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

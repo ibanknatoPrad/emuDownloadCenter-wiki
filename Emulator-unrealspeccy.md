@@ -10,7 +10,7 @@
 ## About
 **UnrealSpeccy** is a emulator for **Sinclair ZX Spectrum** made by **deathsoft** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.38.2 (x86,x64)**, released on **2014-11-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **unreal.exe**.
+The latest version of the emulator on EDC is **0.38.2 (x86)**, released on **2014-11-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **unreal.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

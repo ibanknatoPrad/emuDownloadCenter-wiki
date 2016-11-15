@@ -10,7 +10,7 @@
 ## About
 **Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.0.9.61 (x86,x64)**, released on **2005-08-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens+.exe**.
+The latest version of the emulator on EDC is **0.0.9.61 (x86)**, released on **2005-08-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens+.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

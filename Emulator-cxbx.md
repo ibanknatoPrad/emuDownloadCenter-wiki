@@ -12,7 +12,7 @@
 
 **Cxbx** is a emulator for **Microsoft X-Box** made by **Echelon9** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.81pre3 (x86,x64)**, released on **2015-10-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cxbx.exe**.
+The latest version of the emulator on EDC is **0.81pre3 (x86)**, released on **2015-10-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cxbx.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

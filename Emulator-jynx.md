@@ -10,7 +10,7 @@
 ## About
 **Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **1.0.8 (x86,x64)**, released on **2014-09-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jynx-Windows-32bit.exe**.
+The latest version of the emulator on EDC is **1.0.8 (x86)**, released on **2014-09-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jynx-Windows-32bit.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

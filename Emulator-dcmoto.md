@@ -10,7 +10,7 @@
 ## About
 **DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **2012.11.23 (x86,x64)**, released on **2012-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmoto.exe**.
+The latest version of the emulator on EDC is **2012.11.23 (x86)**, released on **2012-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmoto.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

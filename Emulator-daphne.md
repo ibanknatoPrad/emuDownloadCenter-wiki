@@ -10,7 +10,7 @@
 ## About
 **Daphne** is a emulator for **MCA Laserdisc Arcade** made by **Matt Ownby** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.0.0 (x86,x64)**, released on **2009-04-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **daphne.exe**.
+The latest version of the emulator on EDC is **1.0.0 (x86)**, released on **2009-04-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **daphne.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

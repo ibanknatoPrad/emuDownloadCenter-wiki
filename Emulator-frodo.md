@@ -10,7 +10,7 @@
 ## About
 **Frodo** is a emulator for **Commodore 64** made by **Christian Bauer et al.** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **4.1 (x86,x64)**, released on **1997-11-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **frodo.exe**.
+The latest version of the emulator on EDC is **4.1 (x86)**, released on **1997-11-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **frodo.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

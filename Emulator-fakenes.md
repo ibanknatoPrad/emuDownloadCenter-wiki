@@ -10,7 +10,7 @@
 ## About
 **FakeNES** is a emulator for **Nintendo NES/Famicom** made by **randilyn, TRAC, Lord_Nightmare and KittyCat** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.5.9b3 (x86,x64)**, released on **2007-06-26** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fakenesw.exe**.
+The latest version of the emulator on EDC is **0.5.9b3 (x86)**, released on **2007-06-26** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fakenesw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

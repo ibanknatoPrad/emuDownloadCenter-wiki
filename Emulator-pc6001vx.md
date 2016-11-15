@@ -10,7 +10,7 @@
 ## About
 **PC6001VX** is a emulator for **NEC PC-6001** made by **eighttails** and has a **GNU GPLv2.1** license.
 
-The latest version of the emulator on EDC is **2.30.0 (x86,x64)**, released on **2016-08-27**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **PC6001VX.exe**.
+The latest version of the emulator on EDC is **2.30.0 (x86)**, released on **2016-08-27**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **PC6001VX.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

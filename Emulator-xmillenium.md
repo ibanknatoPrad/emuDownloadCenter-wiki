@@ -10,7 +10,7 @@
 ## About
 **XMillenium** is a emulator for **Sharp X1** made by **Adrastea** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.26 (x86,x64)**, released on **2007-06-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XmillMK2.exe**.
+The latest version of the emulator on EDC is **0.26 (x86)**, released on **2007-06-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XmillMK2.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

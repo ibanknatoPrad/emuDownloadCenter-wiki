@@ -10,7 +10,7 @@
 ## About
 **88VA Eternal Grafx** is a emulator for **NEC PC-9801** made by **shinra** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.80406 (x86,x64)**, released on **2008-04-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vaeg.exe**.
+The latest version of the emulator on EDC is **0.80406 (x86)**, released on **2008-04-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vaeg.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

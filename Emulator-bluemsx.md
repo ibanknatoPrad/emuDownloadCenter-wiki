@@ -10,7 +10,7 @@
 ## About
 **blueMSX** is a emulator for **Coleco ColecoVision** made by **Daniel Vik** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.8.2 (x86,x64)**, released on **2009-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **blueMSX.exe**.
+The latest version of the emulator on EDC is **2.8.2 (x86)**, released on **2009-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **blueMSX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -12,7 +12,7 @@
 
 **VB64** is a emulator for **Commodore 64** made by **Amigafeeva** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **2.0 (x86,x64)**, released on **2004-12-08** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vb64.exe**.
+The latest version of the emulator on EDC is **2.0 (x86)**, released on **2004-12-08** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vb64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

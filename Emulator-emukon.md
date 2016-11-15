@@ -10,7 +10,7 @@
 ## About
 **Emukon** is a emulator for **Sega Game Gear** made by **Martin and Robert Konrad** and has a **KonTechs Freeware License** license.
 
-The latest version of the emulator on EDC is **1.05 (x86,x64)**, released on **2004-07-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Emukon.exe**.
+The latest version of the emulator on EDC is **1.05 (x86)**, released on **2004-07-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Emukon.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

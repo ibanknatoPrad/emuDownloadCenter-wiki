@@ -10,7 +10,7 @@
 ## About
 **MZ-800 Emulator** is a emulator for **Sharp MZ-700/1500** made by **Michael Hucik aka chaky** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **1.0.3 (x86,x64)**, released on **2016-03-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MZ-800.bat**.
+The latest version of the emulator on EDC is **1.0.3 (x86)**, released on **2016-03-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MZ-800.bat**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

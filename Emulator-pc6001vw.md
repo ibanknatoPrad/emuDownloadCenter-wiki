@@ -10,7 +10,7 @@
 ## About
 **PC6001VW** is a emulator for **NEC PC-6001** made by **Bernie Mask** and has a **GNU GPLv2.1** license.
 
-The latest version of the emulator on EDC is **310f (x86,x64)**, released on **2016-07-31**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **p6vwemu3.exe**.
+The latest version of the emulator on EDC is **310f (x86)**, released on **2016-07-31**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **p6vwemu3.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

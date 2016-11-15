@@ -10,7 +10,7 @@
 ## About
 **SNES9X Rerecording** is a emulator for **Nintendo Super Nintendo** made by **UNKNOWN** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **1.52r185 (x86,x64)**, released on **2010-10-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **snes9x.exe**.
+The latest version of the emulator on EDC is **1.52r185 (x86)**, released on **2010-10-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **snes9x.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

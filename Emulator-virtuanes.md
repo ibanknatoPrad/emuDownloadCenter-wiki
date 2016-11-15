@@ -10,7 +10,7 @@
 ## About
 **VirtuaNES** is a emulator for **Nintendo FDS** made by **Norix** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.97e (x86,x64)**, released on **2007-10-14** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VirtuaNES.exe**.
+The latest version of the emulator on EDC is **0.97e (x86)**, released on **2007-10-14** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VirtuaNES.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

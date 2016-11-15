@@ -10,7 +10,7 @@
 ## About
 **no$zx** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.0 (x86,x64)**, released on **2012-11-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$ZX.exe**.
+The latest version of the emulator on EDC is **2.0 (x86)**, released on **2012-11-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$ZX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

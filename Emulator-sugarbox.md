@@ -12,7 +12,7 @@
 
 **Sugarbox** is a emulator for **Amstrad CPC** made by **Thomas Guillemin** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.26 (x86,x64)**, released on **2016-04-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Sugarbox.exe**.
+The latest version of the emulator on EDC is **0.26 (x86)**, released on **2016-04-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Sugarbox.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

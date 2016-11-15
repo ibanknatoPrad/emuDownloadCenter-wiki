@@ -10,7 +10,7 @@
 ## About
 **iNES** is a emulator for **Nintendo NES/Famicom** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **2.14 (x86,x64)**, released on **2006-05-20** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens.exe**.
+The latest version of the emulator on EDC is **2.14 (x86)**, released on **2006-05-20** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

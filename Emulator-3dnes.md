@@ -10,7 +10,7 @@
 ## About
 **3DNes** is a emulator for **Nintendo NES/Famicom** made by **geod** and has a **Donationware** license.
 
-The latest version of the emulator on EDC is **1.1.1.3 (x86,x64)**, released on **2016-09-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dnes.exe**.
+The latest version of the emulator on EDC is **1.1.1.3 (x86)**, released on **2016-09-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dnes.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

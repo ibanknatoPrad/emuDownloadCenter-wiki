@@ -10,7 +10,7 @@
 ## About
 **Turbo Engine 16** is a emulator for **NEC Turbografx-16/PC-Engine** made by **AamirM** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.32 (x86,x64)**, released on **2010-04-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TurboEngine.exe**.
+The latest version of the emulator on EDC is **0.32 (x86)**, released on **2010-04-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TurboEngine.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

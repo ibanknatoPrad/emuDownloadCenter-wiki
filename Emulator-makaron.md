@@ -10,7 +10,7 @@
 ## About
 **Makaron** is a emulator for **Sega Dreamcast** made by **Deunan** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **12.7 (x86,x64)**, released on **2011-02-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NAOMI.exe**.
+The latest version of the emulator on EDC is **12.7 (x86)**, released on **2011-02-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NAOMI.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

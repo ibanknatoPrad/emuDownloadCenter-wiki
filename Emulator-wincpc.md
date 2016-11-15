@@ -10,7 +10,7 @@
 ## About
 **WinCPC** is a emulator for **Amstrad CPC** made by **Flynn** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.9.26 (x86,x64)**, released on **2007-01-31** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinCPC.exe**.
+The latest version of the emulator on EDC is **0.9.26 (x86)**, released on **2007-01-31** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinCPC.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

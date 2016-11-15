@@ -10,7 +10,7 @@
 ## About
 **Nintendulator** is a emulator for **Nintendo NES/Famicom** made by **Quietust** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.975-ansi (x86,x64)**, released on **2016-10-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Nintendulator.exe**.
+The latest version of the emulator on EDC is **0.975-ansi (x86)**, released on **2016-10-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Nintendulator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

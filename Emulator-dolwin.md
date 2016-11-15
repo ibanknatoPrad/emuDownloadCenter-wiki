@@ -10,7 +10,7 @@
 ## About
 **Dolwin** is a emulator for **Nintendo GameCube** made by **Dolwin Team** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.10 (x86,x64)**, released on **2005-01-11** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dolwin.exe**.
+The latest version of the emulator on EDC is **0.10 (x86)**, released on **2005-01-11** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dolwin.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

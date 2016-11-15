@@ -12,7 +12,7 @@
 
 **nullDC** is a emulator for **Sega Dreamcast** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **1.04_r136 (x86,x64)**, released on **2011-08-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nullDC_Win32_Release-NoTrace.exe**.
+The latest version of the emulator on EDC is **1.04_r136 (x86)**, released on **2011-08-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nullDC_Win32_Release-NoTrace.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

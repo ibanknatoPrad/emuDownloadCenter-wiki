@@ -12,7 +12,7 @@
 
 **3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly** and has a **Open Source** license.
 
-The latest version of the emulator on EDC is **20140603 (x86,x64)**, released on **2014-06-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dmoo.exe**.
+The latest version of the emulator on EDC is **20140603 (x86)**, released on **2014-06-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dmoo.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

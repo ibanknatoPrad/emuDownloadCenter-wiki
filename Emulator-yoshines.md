@@ -10,7 +10,7 @@
 ## About
 **YoshiNES** is a emulator for **Nintendo NES/Famicom** made by **omundodogabriel** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.7 (x86,x64)**, released on **2013-02-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **YoshiNES.exe**.
+The latest version of the emulator on EDC is **0.7 (x86)**, released on **2013-02-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **YoshiNES.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

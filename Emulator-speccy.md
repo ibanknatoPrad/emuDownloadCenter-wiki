@@ -10,7 +10,7 @@
 ## About
 **Speccy** is a emulator for **MGT Sam Coupé** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **4.1.0 (x86,x64)**, released on **2016-09-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Speccy.exe**.
+The latest version of the emulator on EDC is **4.1.0 (x86)**, released on **2016-09-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Speccy.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

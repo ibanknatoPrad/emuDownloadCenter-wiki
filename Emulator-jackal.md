@@ -10,7 +10,7 @@
 ## About
 **Jackal** is a emulator for **Sony PlayStation 1** made by **Expert and Floating Point** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.009 (x86,x64)**, released on **1999-10-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **jackal.exe**.
+The latest version of the emulator on EDC is **0.009 (x86)**, released on **1999-10-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **jackal.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

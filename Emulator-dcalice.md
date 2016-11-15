@@ -10,7 +10,7 @@
 ## About
 **DCALICE** is a emulator for **Matra/Hachette Alice** made by **Daniel Coulom** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2014.01.23 (x86,x64)**, released on **2014-01-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcalice.exe**.
+The latest version of the emulator on EDC is **2014.01.23 (x86)**, released on **2014-01-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcalice.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

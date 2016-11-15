@@ -12,7 +12,7 @@
 
 **SuperGCube** is a emulator for **Nintendo GameCube** made by **spartan11-7** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.4a (x86,x64)**, released on **2009-02-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gcube.exe**.
+The latest version of the emulator on EDC is **0.4a (x86)**, released on **2009-02-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gcube.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **FastZ80** is a emulator for **Híradástechnika HT-1080Z** made by **Lajos Kintli** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **1.02 (x86,x64)**, released on **2008-07-10** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **FastZ80.exe**.
+The latest version of the emulator on EDC is **1.02 (x86)**, released on **2008-07-10** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **FastZ80.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

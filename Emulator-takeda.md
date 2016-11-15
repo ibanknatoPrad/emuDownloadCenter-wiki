@@ -10,7 +10,7 @@
 ## About
 **Takeda Archive** is a emulator for **Fujitsu FM-7** made by **Various** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **13.04.16 (x86,x64)**, released on **2016-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **msx1.exe**.
+The latest version of the emulator on EDC is **13.04.16 (x86)**, released on **2016-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **msx1.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -10,7 +10,7 @@
 ## About
 **Rainbow** is a emulator for **Atari 5200** made by **Chris Lam** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **2.20 (x86,x64)**, released on **2012-08-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Rainbow 2.2.exe**.
+The latest version of the emulator on EDC is **2.20 (x86)**, released on **2012-08-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Rainbow 2.2.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

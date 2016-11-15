@@ -10,7 +10,7 @@
 ## About
 **QLAY** is a emulator for **Sinclair QL** made by **Jan Venema** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.90 (x86,x64)**, released on **1999-01-30** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlayw.exe**.
+The latest version of the emulator on EDC is **0.90 (x86)**, released on **1999-01-30** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlayw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

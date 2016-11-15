@@ -12,7 +12,7 @@
 
 **Project64K7E** is a emulator for **Nintendo N64** made by **Gaudy** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **1.3.1 (x86,x64)**, released on **2012-12-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64K7E.exe**.
+The latest version of the emulator on EDC is **1.3.1 (x86)**, released on **2012-12-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64K7E.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

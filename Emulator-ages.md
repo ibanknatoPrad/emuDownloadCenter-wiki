@@ -10,7 +10,7 @@
 ## About
 **WinAGES** is a emulator for **Sega Mega Drive 32X** made by **Quinntesson** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.30a (x86,x64)**, released on **2002-11-17** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **AGES.exe**.
+The latest version of the emulator on EDC is **0.30a (x86)**, released on **2002-11-17** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **AGES.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

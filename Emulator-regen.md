@@ -12,7 +12,7 @@
 
 **Regen** is a emulator for **Sega Mega Drive/Genesis** made by **AamirM** and has a **Non-standard** license.
 
-The latest version of the emulator on EDC is **0.972 (x86,x64)**, released on **2009-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Regen.exe**.
+The latest version of the emulator on EDC is **0.972 (x86)**, released on **2009-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Regen.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

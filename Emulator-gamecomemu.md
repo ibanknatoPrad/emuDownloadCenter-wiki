@@ -10,7 +10,7 @@
 ## About
 **Game.Com Emulator** is a emulator for **Tiger Electronics Game.com** made by **UNKNOWN** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **29.12.98 (x86,x64)**, released on **1998.12.29** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Read 'HowToUse.txt' file for full details on using this emulator.GAMECOM.EXE**.
+The latest version of the emulator on EDC is **29.12.98 (x86)**, released on **1998.12.29** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Read 'HowToUse.txt' file for full details on using this emulator.GAMECOM.EXE**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

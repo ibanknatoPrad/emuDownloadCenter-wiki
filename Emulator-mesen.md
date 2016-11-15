@@ -10,7 +10,7 @@
 ## About
 **Mesen** is a emulator for **Nintendo NES/Famicom** made by **M Bibaud aka Sour** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **0.5.2 (x86,x64)**, released on **2016-10-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Mesen.exe**.
+The latest version of the emulator on EDC is **0.5.2 (x86)**, released on **2016-10-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Mesen.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

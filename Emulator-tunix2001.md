@@ -10,7 +10,7 @@
 ## About
 **Tunix 2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner** and has a **SPECIAL - 'see Licence Agreement.txt'** license.
 
-The latest version of the emulator on EDC is **2006.10.16 (x86,x64)**, released on **2006-10-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Tunix2001.exe**.
+The latest version of the emulator on EDC is **2006.10.16 (x86)**, released on **2006-10-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Tunix2001.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -12,7 +12,7 @@
 
 **Mupen64k** is a emulator for **Nintendo N64** made by **UNKNOWN** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.8 (x86,x64)**, released on **2011-12-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mupen64k-0.8.exe**.
+The latest version of the emulator on EDC is **0.8 (x86)**, released on **2011-12-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mupen64k-0.8.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

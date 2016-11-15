@@ -10,7 +10,7 @@
 ## About
 **Virtu** is a emulator for **Apple 2** made by **fool and sicklittlemonkey** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.9.3 (x86,x64)**, released on **2012-07-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jellyfish.Virtu.exe**.
+The latest version of the emulator on EDC is **0.9.3 (x86)**, released on **2012-07-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jellyfish.Virtu.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
