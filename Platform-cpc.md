@@ -10,6 +10,7 @@
 | [:file_folder: **Arnold**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnold#menu) | Kevin Thacker | GNU GPLv2 |
 | [:file_folder: **Caprice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-caprice32#menu) | Ulrich Doewich | GNU GPLv2 |
 | [:file_folder: **CPCE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpce#menu) | Cesar Nicolas Gonzalez | Freeware - Non-Commercial |
+| [:file_folder: **CPC-em**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpcem#menu) | Tom Walker | Freeware |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | Leniad | Freeware - Non-Commercial |
 | [:file_folder: **JavaCPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-javacpc#menu) | Markus Hohmann aka Devilmarkus | GNU GPLv2 |
 | [:file_folder: **no$cpc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nocpc#menu) | Martin Korth | Freeware |

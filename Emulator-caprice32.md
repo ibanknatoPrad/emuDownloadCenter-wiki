@@ -25,5 +25,7 @@ _Caprice32 is a software emulator of the Amstrad CPC 8bit home computer series. 
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **4.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/4.2.0.7z) | 2005-05-14 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.2.0_contents.txt) | 239 KB |
+| [:floppy_disk: **4.1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/4.1.0.7z) | 2004-06-18 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/4.1.0_contents.txt) | 166 KB |
+| [:floppy_disk: **3.6.1**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/caprice32/3.6.1.7z) | 2003-06-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/3.6.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/caprice32/3.6.1_contents.txt) | 257 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
