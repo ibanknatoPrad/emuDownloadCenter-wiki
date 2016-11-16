@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2013)
+
 **Mini vMac** is a emulator for **Apple Macintosh** made by **Paul C Pratt and Others** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **3.3.3-win32 (x86)**, released on **2013-11-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Mini vMac.exe**.

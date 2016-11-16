@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/stella_logo_200.jpg "Stella logo.")
 
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Stella** is a emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony** and has a **GPL** license.
 
 The latest version of the emulator on EDC is **4.7.2-win64 (x64)**, released on **2016-03-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Stella.exe**.

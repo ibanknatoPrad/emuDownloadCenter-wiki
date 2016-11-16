@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **XRoar** is a emulator for **Dragon Data - Dragon 32/64** made by **Ciaran Anscomb** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **0.34.5-win32 (x86)**, released on **2016-10-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **xroar.exe**.

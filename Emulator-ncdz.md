@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2005)
+
 **NEOGEO CD Emulator-Z** is a emulator for **SNK NeoGeo CD** made by **NJ** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **2005.12.25 (x86)**, released on **2005-12-25** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ncdz.exe**.
+The latest version of the emulator on EDC is **2005.12.25 (x86)**, released on **2005-12-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ncdz.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

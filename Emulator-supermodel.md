@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2011)
+
 **Supermodel** is a emulator for **Sega Model 3** made by **Bart Trzynadlowski** and has a **GNU GPLv3** license.
 
 The latest version of the emulator on EDC is **0.2a-win32 (x86)**, released on **2011-09-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Supermodel.exe**.

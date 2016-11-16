@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k7e_logo_200.jpg "Project64K7E logo.")
 
+**Developement state:** :red_circle: Non-active (2012)
+
 **Project64K7E** is a emulator for **Nintendo N64** made by **Gaudy** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **1.3.1 (x86)**, released on **2012-12-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64K7E.exe**.

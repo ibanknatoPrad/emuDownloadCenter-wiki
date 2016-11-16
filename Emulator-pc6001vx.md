@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **PC6001VX** is a emulator for **NEC PC-6001** made by **eighttails** and has a **GNU GPLv2.1** license.
 
 The latest version of the emulator on EDC is **2.30.0 (x86)**, released on **2016-08-27**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **PC6001VX.exe**.

@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2001)
+
 **Modeler** is a emulator for **Sega Model 1** made by **Farftch'd, R Belmont and Sarayan** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.9.3a (x86)**, released on **2001-12-07** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Modeler.exe**.
+The latest version of the emulator on EDC is **0.9.3a (x86)**, released on **2001-12-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Modeler.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **RPCS3** is a emulator for **Sony PlayStation 3** made by **The RPCS3 Team** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **0.0.1-3-973bf5a-Pre-Alpha (x64)**, released on **2016-10-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **rpcs3.exe**.

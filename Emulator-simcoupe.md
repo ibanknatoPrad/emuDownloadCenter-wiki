@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2006)
+
 **SimCoupe** is a emulator for **MGT Sam Coupé** made by **Simon Owen** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.0 (x86)**, released on **2006-07-20** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SimCoupe.exe**.
+The latest version of the emulator on EDC is **1.0 (x86)**, released on **2006-07-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SimCoupe.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

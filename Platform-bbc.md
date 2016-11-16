@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_bbc_teaser.png "Acorn BBC ECC teaser.")
 ###### ECC ID: **bbc**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **BeebEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-beebem#menu) | Mike Wyatt, David Adam Gilbert and Others | GNU GPLv2 |
-| [:file_folder: **Horizon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-horizon#menu) | Chris Lam | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **BeebEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-beebem#menu) | :red_circle: Non-active (2009) | GNU GPLv2 |
+| [:file_folder: **Horizon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-horizon#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

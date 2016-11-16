@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2000)
+
 **DirectVMS** is a emulator for **Sega Dreamcast VMU** made by **biggs** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.8 (x86)**, released on **2000-08-20** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVMS.exe**.
+The latest version of the emulator on EDC is **1.8 (x86)**, released on **2000-08-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVMS.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

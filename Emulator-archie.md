@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2000)
+
 **Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.9 (x86)**, released on **2000-09-05** :triangular_flag_on_post:, it runs on **Dos 6.22**, you can start this emulator with **ARCHIE.EXE**.
+The latest version of the emulator on EDC is **0.9 (x86)**, released on **2000-09-05**, it runs on **Dos 6.22**, you can start this emulator with **ARCHIE.EXE**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

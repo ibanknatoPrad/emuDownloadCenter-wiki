@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_int_teaser.png "Mattel Intellivision ECC teaser.")
 ###### ECC ID: **int**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | Joe Zbiciak | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

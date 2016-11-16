@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cxbx_logo_200.jpg "Cxbx logo.")
 
+**Developement state:** :large_blue_circle: Active (2015)
+
 **Cxbx** is a emulator for **Microsoft X-Box** made by **Echelon9** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **0.81pre3 (x86)**, released on **2015-10-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cxbx.exe**.

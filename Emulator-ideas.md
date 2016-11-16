@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ideas_logo_200.jpg "iDeaS logo.")
 
+**Developement state:** :red_circle: Non-active (2011)
+
 **iDeaS** is a emulator for **Nintendo Game Boy Advance** made by **Lino and Actarus** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.0.4.0 (x86)**, released on **2011-10-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ideas.exe**.

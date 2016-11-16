@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2009)
+
 **Hola!** is a emulator for **HomeLAB series - HomeLAB 4** made by **Attila Grosz** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **2.2b (x86)**, released on **2009-05-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **HomeLab.exe**.

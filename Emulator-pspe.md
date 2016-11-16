@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2005)
+
 **pspe** is a emulator for **Sony PlayStation Portable** made by **Unknown** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.9b (x86)**, released on **2005-06-01** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pspe.exe**.
+The latest version of the emulator on EDC is **0.9b (x86)**, released on **2005-06-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pspe.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

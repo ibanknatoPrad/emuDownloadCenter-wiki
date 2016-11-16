@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :white_circle: Active (2014)
+
 **Oricutron** is a emulator for **Oric Atmos/Telestrat** made by **Peter Gordon** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **1.2 (x86)**, released on **2014-11-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **oricutron.exe**.

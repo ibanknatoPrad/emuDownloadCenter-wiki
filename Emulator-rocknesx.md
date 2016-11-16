@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2002)
+
 **RockNES X** is a emulator for **Nintendo NES/Famicom** made by **Alexandre da Veiga** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **2.0 (x86)**, released on **2002-04-14** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **RockNESX.exe**.
+The latest version of the emulator on EDC is **2.0 (x86)**, released on **2002-04-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **RockNESX.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

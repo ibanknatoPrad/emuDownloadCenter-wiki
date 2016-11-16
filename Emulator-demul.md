@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/demul_logo_200.jpg "Demul logo.")
 
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **0.7a_20160818 (x86)**, released on **2016-08-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **demul.exe**.

@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nemu64_logo_200.jpg "Nemu64 logo.")
 
+**Developement state:** :red_circle: Non-active (2003)
+
 **Nemu64** is a emulator for **Nintendo N64** made by **Lemmy, LaC, hWnd** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.8 (x86)**, released on **2003-03-23** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **nemu64.exe**.
+The latest version of the emulator on EDC is **0.8 (x86)**, released on **2003-03-23**, it runs on **Windows XP,Vista**, you can start this emulator with **nemu64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

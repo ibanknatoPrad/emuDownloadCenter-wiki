@@ -4,12 +4,12 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_nds_teaser.png "Nintendo DS ECC teaser.")
 ###### ECC ID: **nds**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **DesMuME**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-desmume#menu) | yopyop, DeSmuME team | GNU GPLv2 |
-| [:file_folder: **Dualis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dualis#menu) | Mic | UNKNOWN |
-| [:file_folder: **iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Lino and Actarus | GNU GPLv2 |
-| [:file_folder: **no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | Martin Korth | Freeware |
-| [:file_folder: **NeonDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neonds#menu) | release, jitc, notrace | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **DesMuME**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-desmume#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
+| [:file_folder: **Dualis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dualis#menu) | :red_circle: Non-active (2007) | UNKNOWN |
+| [:file_folder: **iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | :red_circle: Non-active (2011) | GNU GPLv2 |
+| [:file_folder: **no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **NeonDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neonds#menu) | :red_circle: Non-active (2008) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **M88** is a emulator for **NEC PC-8801** made by **rururutan** and has a **NewBSD** license.
 
 The latest version of the emulator on EDC is **2.21a (x86)**, released on **2012-02-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **M88.exe**.

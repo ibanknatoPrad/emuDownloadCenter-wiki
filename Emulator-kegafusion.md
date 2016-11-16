@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg "Kega Fusion logo.")
 
+**Developement state:** :red_circle: Non-active (2010)
+
 **Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **3.64 (x86)**, released on **2010-03-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Fusion.exe**.

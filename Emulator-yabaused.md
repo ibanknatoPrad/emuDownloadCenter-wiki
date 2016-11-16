@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Yabause-Devmiyax** is a emulator for **Sega Saturn** made by **Benjamin Siskoo** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **0.1.14 (x86)**, released on **2016-04-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Yabause-Devmiyax 09.04.2016.exe**.

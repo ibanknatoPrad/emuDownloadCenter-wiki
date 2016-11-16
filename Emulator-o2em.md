@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2007)
+
 **O2EM** is a emulator for **Philips Videopac G7000** made by **Daniel Boris** and has a **Clarified Artistic Licence** license.
 
-The latest version of the emulator on EDC is **1.18 (x86)**, released on **2007-01-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **o2em.exe**.
+The latest version of the emulator on EDC is **1.18 (x86)**, released on **2007-01-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **o2em.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

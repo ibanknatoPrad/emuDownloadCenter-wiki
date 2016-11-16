@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :white_circle: Active (2014)
+
 **FireGB** is a emulator for **Nintendo Game Boy** made by **Frankablu** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2014-07-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **FireGB.exe**.

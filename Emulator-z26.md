@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/z26_logo_200.jpg "Z26 logo.")
 
+**Developement state:** :red_circle: Non-active (2011)
+
 **Z26** is a emulator for **Atari 2600** made by **John Saeger** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **3.0.2 (x86)**, released on **2011-06-13**, it runs on **Windows XP**, you can start this emulator with **z26.exe**.

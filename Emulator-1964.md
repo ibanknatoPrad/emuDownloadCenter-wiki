@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg "1964 logo.")
 
+**Developement state:** :red_circle: Non-active (2009)
+
 **1964** is a emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2009-06-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **1964.exe**.

@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2005)
+
 **no$c64** is a emulator for **Commodore 16/plus4** made by **Martin Korth** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.1 (x86)**, released on **2005-07-23** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$C64.exe**.
+The latest version of the emulator on EDC is **1.1 (x86)**, released on **2005-07-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$C64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

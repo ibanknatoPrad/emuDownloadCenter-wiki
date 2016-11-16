@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2007)
+
 **Potemkin** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard (aka ector)** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **alpha01 (x86)**, released on **2007-05-06** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **DaShRelease.exe**.
+The latest version of the emulator on EDC is **alpha01 (x86)**, released on **2007-05-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **DaShRelease.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

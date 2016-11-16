@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2008)
+
 **Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James The Animal Tamer** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.72a (x86)**, released on **2008-08-05** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aquarius.exe**.
+The latest version of the emulator on EDC is **0.72a (x86)**, released on **2008-08-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aquarius.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

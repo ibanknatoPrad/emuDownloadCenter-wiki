@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple1_teaser.png "Apple 1 ECC teaser.")
 ###### ECC ID: **apple1**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Pom1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pom1#menu) | John D Corrado and Verhille Arnaud | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Pom1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pom1#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

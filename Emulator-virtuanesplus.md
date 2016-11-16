@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2013)
+
 **VirtuaNES Plus** is a emulator for **Nintendo FDS** made by **Tensai Wang** and has a **Freeware - Non-Commercial** license.
 
 The latest version of the emulator on EDC is **2013.03.29 (x86)**, released on **2013-03-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VirtuaNES.exe**.

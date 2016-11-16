@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :white_circle: Active (2014)
+
 **XM7** is a emulator for **Fujitsu FM-7** made by **PI. and Ryu Takegami** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **3.4.6.2 (x86)**, released on **2014-04-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XM7.exe**.

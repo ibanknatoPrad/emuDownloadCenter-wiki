@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_etron_teaser.png "Acorn Electron ECC teaser.")
 ###### ECC ID: **etron**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Elkulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-elkulator#menu) | Tom Walker | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Elkulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-elkulator#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

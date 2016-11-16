@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1999)
+
 **ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.33 (x86)**, released on **1999-05-13** :triangular_flag_on_post:, it runs on **Windows 3.1,3.11,95**, you can start this emulator with **Atom.Exe**.
+The latest version of the emulator on EDC is **1.33 (x86)**, released on **1999-05-13**, it runs on **Windows 3.1,3.11,95**, you can start this emulator with **Atom.Exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

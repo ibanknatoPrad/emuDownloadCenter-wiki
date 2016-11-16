@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1998)
+
 **Vace** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.0 (x86)**, released on **1998-11-15** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Vace.exe**.
+The latest version of the emulator on EDC is **1.0 (x86)**, released on **1998-11-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Vace.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

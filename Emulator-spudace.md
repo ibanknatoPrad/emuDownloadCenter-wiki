@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **SpudACE** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Richard Chandler** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **0.323 (x86)**, released on **2016-01-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SpudACE.exe**.

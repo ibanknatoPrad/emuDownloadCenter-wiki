@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2003)
+
 **nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.51b (x86)**, released on **2003-07-27** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nesterJ.exe**.
+The latest version of the emulator on EDC is **0.51b (x86)**, released on **2003-07-27**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nesterJ.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

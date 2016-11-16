@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **TGB Dual** is a emulator for **Nintendo Game Boy** made by **Gigo and Hii** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **8.3 (x86)**, released on **2004-03-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TGB_Dual.exe**.
+The latest version of the emulator on EDC is **8.3 (x86)**, released on **2004-03-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TGB_Dual.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

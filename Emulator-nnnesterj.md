@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2002)
+
 **NNNesterJ** is a emulator for **Nintendo NES/Famicom** made by **UNKNOWN** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.23 (x86)**, released on **2002-12-21** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nnnesterJ.exe**.
+The latest version of the emulator on EDC is **0.23 (x86)**, released on **2002-12-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nnnesterJ.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

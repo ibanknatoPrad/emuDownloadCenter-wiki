@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **EmuZ-2000** is a emulator for **Sharp MZ-2000** made by **Toshio Fukui** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **0.92.0 (x86)**, released on **2012-03-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EmuZ2000TF.exe**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Steem SSE (Steven Seagal Edition)** is a emulator for **Atari ST** made by **Anthony and Russel Hayward** and has a **Freeware - Non-Commercial?** license.
 
 The latest version of the emulator on EDC is **3.8.2-win32 (x86)**, released on **2016-06-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Steem SSE 3.8.2.exe**.

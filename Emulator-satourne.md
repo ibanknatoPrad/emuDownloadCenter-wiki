@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/satourne_logo_200.jpg "Satourne logo.")
 
+**Developement state:** :red_circle: Non-active (2005)
+
 **Satourne** is a emulator for **Sega Saturn** made by **Fabien Autrel** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.0b3 (x86)**, released on **2005-12-19** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **satourne_3_win32.exe**.
+The latest version of the emulator on EDC is **2.0b3 (x86)**, released on **2005-12-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **satourne_3_win32.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_model3_teaser.png "Sega Model 3 ECC teaser.")
 ###### ECC ID: **model3**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Supermodel**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supermodel#menu) | Bart Trzynadlowski | GNU GPLv3 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Supermodel**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supermodel#menu) | :red_circle: Non-active (2011) | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

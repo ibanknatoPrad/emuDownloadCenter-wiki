@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **MarioNES / 80five** is a emulator for **Nintendo NES/Famicom** made by **Gary Boyes** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **x.xx (x86)**, released on **2004-08-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **80five.exe**.
+The latest version of the emulator on EDC is **x.xx (x86)**, released on **2004-08-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **80five.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

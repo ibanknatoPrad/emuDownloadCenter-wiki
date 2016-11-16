@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2003)
+
 **QLAY2** is a emulator for **Sinclair QL** made by **Jimmy Montesinos and Raphael Zhou** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.95 (x86)**, released on **2003-08-17** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlay2.exe**.
+The latest version of the emulator on EDC is **0.95 (x86)**, released on **2003-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlay2.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

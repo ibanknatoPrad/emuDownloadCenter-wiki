@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pmini_teaser.png "Nintendo Pokémon mini ECC teaser.")
 ###### ECC ID: **pmini**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | JustBurn | GNU GPLv3 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | :large_blue_circle: Active (2015) | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

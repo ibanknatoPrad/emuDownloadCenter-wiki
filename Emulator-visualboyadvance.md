@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg "VisualBoyAdvance logo.")
 
+**Developement state:** :large_blue_circle: Active (2016)
+
 **VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **1.8.0-511 (x86)**, released on **2016-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VisualBoyAdvance.exe**.

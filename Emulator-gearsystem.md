@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :white_circle: Active (2014)
+
 **GearSystem** is a emulator for **Sega Game Gear** made by **Ignacio Sanchez** and has a **GNU GPLv3** license.
 
 The latest version of the emulator on EDC is **1.2 (x86)**, released on **2014-07-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gearsystem.exe**.

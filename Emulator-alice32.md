@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2006)
+
 **Alice32** is a emulator for **Matra/Hachette Alice** made by **James the Animal Tamer** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.40 (x86)**, released on **2006-01-28** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **alice32.exe**.
+The latest version of the emulator on EDC is **0.40 (x86)**, released on **2006-01-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **alice32.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

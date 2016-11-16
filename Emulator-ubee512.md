@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2015)
+
 **uBee512** is a emulator for **Applied Technologies Microbee** made by **Stewart Kay** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **5.7.0-portable (x86)**, released on **2015-12-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ubee512.bat**.

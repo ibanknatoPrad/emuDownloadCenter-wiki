@@ -4,13 +4,13 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c16plus4_teaser.png "Commodore 16/plus4 ECC teaser.")
 ###### ECC ID: **c16plus4**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **CCS64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ccs64#menu) | Per Håkan Sundell | Freeware |
-| [:file_folder: **Minus4w**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minus4#menu) | Mike Dailly | Freeware |
-| [:file_folder: **no$c64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-noc64#menu) | Martin Korth | Freeware |
-| [:file_folder: **WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | The WinVice Team | GNU GPLv2 |
-| [:file_folder: **Yet Another Plus/4 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yape#menu) | Attila Grosz | Freeware |
-| [:file_folder: **Yet Another Plus/4 Emulator SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yapesdl#menu) | Attila Grosz | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **CCS64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ccs64#menu) | :large_blue_circle: Active (2015) | Freeware |
+| [:file_folder: **Minus4w**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minus4#menu) | :red_circle: Non-active (2007) | Freeware |
+| [:file_folder: **no$c64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-noc64#menu) | :red_circle: Non-active (2005) | Freeware |
+| [:file_folder: **WinVICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvice#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
+| [:file_folder: **Yet Another Plus/4 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yape#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **Yet Another Plus/4 Emulator SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-yapesdl#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo_200.jpg "3dmoo logo.")
 
+**Developement state:** :white_circle: Active (2014)
+
 **3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly** and has a **Open Source** license.
 
 The latest version of the emulator on EDC is **20140603 (x86)**, released on **2014-06-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dmoo.exe**.

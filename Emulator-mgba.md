@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **mGBA** is a emulator for **Nintendo Game Boy** made by **Jeffrey Pfau** and has a **Mozilla Public License version 2.0** license.
 
 The latest version of the emulator on EDC is **0.5.1 (x86)**, released on **2016-10-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mGBA.exe**.

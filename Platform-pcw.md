@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pcw_teaser.png "Amstrad PCW/Schneider Joyce ECC teaser.")
 ###### ECC ID: **pcw**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **CP/M Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpmbox#menu) | habi | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **CP/M Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpmbox#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

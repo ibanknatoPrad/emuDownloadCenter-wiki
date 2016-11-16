@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2009)
+
 **Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **0.99 (x86)**, released on **2009-08-15**, it runs on **Windows XP,Vista**, you can start this emulator with **Arculator.exe**.

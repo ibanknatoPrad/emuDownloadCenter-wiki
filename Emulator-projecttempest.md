@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.95 (x86)**, released on **2004-02-12** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **PT.exe**.
+The latest version of the emulator on EDC is **0.95 (x86)**, released on **2004-02-12**, it runs on **Windows XP,Vista**, you can start this emulator with **PT.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

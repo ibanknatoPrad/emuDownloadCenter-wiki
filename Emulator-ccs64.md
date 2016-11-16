@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ccs64_logo_200.jpg "CCS64 logo.")
 
+**Developement state:** :large_blue_circle: Active (2015)
+
 **CCS64** is a emulator for **Commodore 16/plus4** made by **Per Håkan Sundell** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **3.9.2 (x86)**, released on **2015-07-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CCS64.exe**.

@@ -4,12 +4,12 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple2_teaser.png "Apple 2 ECC teaser.")
 ###### ECC ID: **apple2**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **AIPC (Apple in a PC)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aipc#menu) | Keonwoo Kim aka sosaria7 | GNU GPLv3 |
-| [:file_folder: **AppleWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-applewin#menu) | AppleWin Team | GNU GPLv2 |
-| [:file_folder: **GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | GSport Development Team | GNU GPLv2 |
-| [:file_folder: **Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | Kent Dickey | GNU GPLv2 |
-| [:file_folder: **Virtu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtu#menu) | fool and sicklittlemonkey | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **AIPC (Apple in a PC)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aipc#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
+| [:file_folder: **AppleWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-applewin#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | :white_circle: Active (2014) | GNU GPLv2 |
+| [:file_folder: **Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | :red_circle: Non-active (2006) | GNU GPLv2 |
+| [:file_folder: **Virtu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtu#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

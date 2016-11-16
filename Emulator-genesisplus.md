@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2003)
+
 **Genesis Plus** is a emulator for **Sega Mega Drive/Genesis** made by **Charles MacDonald** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.2a (x86)**, released on **2003-06-22** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gen.exe**.
+The latest version of the emulator on EDC is **1.2a (x86)**, released on **2003-06-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gen.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

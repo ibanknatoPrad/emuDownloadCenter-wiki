@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2003)
+
 **BoycottAdvance** is a emulator for **Nintendo Game Boy Advance** made by **Julien FRELAT aka Gollum** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.2.8 (x86)**, released on **2003-05-17** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BoycottAdvance.exe**.
+The latest version of the emulator on EDC is **0.2.8 (x86)**, released on **2003-05-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BoycottAdvance.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

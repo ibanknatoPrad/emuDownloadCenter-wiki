@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dreamemu_logo_200.jpg "DreamEmu logo.")
 
+**Developement state:** :red_circle: Non-active (2002)
+
 **DreamEmu** is a emulator for **Sega Dreamcast** made by **Lord Cheese** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.0.4.1 (x86)**, released on **2002-10-28** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dreamemu.exe**.
+The latest version of the emulator on EDC is **0.0.4.1 (x86)**, released on **2002-10-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dreamemu.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

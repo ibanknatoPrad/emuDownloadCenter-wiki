@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2010)
+
 **MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **10.10.2010 (x86)**, released on **2010-10-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mz700_win.exe**.

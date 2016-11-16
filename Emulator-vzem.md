@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2009)
+
 **VZEM** is a emulator for **Vtech Laser 200/210/310** made by **Guy Thomason** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **2009.08.20 (x86)**, released on **2009-08-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vz.exe**.

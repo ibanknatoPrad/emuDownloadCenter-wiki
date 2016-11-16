@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **CPC-em** is a emulator for **Amstrad CPC** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.4-dos (x86)**, released on **2004-07-07** :triangular_flag_on_post:, it runs on **Dos 6.22**, you can start this emulator with **CPC-EM.exe**.
+The latest version of the emulator on EDC is **0.4-dos (x86)**, released on **2004-07-07**, it runs on **Dos 6.22**, you can start this emulator with **CPC-EM.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

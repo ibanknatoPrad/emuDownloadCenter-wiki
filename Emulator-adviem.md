@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2013)
+
 **AdViEmulator** is a emulator for **Entex Adventure Vision** made by **justburn** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.0 (x86)**, released on **2013-03-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **adviemulator.exe**.

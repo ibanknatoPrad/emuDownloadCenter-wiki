@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1997)
+
 **NESticle** is a emulator for **Nintendo NES/Famicom** made by **Bloodlust Software** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.42 (x86)**, released on **1997-09-22** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NESTCL95.EXE**.
+The latest version of the emulator on EDC is **0.42 (x86)**, released on **1997-09-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NESTCL95.EXE**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

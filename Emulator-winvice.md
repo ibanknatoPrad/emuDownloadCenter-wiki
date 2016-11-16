@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvice_logo_200.jpg "WinVICE logo.")
 
+**Developement state:** :red_circle: Non-active (2012)
+
 **WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **2.4-win32 (x86)**, released on **2012-11-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **x64.exe**.

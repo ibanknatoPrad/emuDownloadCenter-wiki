@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yabause_logo_200.jpg "Yabause logo.")
 
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Yabause** is a emulator for **Sega Saturn** made by **Yabouse Team** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **0.9.15-win64 (x64)**, released on **2016-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **yabause.exe**.

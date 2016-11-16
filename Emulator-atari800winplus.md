@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2005)
+
 **Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier** and has a **GNU General Licence** license.
 
-The latest version of the emulator on EDC is **4.0 (x86)**, released on **2005-08-29** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Atari800Win.exe**.
+The latest version of the emulator on EDC is **4.0 (x86)**, released on **2005-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Atari800Win.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

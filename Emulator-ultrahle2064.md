@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultrahle2064_logo_200.jpg "UltraHLE 2064 logo.")
 
+**Developement state:** :red_circle: Non-active (2003)
+
 **UltraHLE 2064** is a emulator for **Nintendo N64** made by **The UltraHLE 2064 team** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.0.5a (x86)**, released on **2003-06-30** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
+The latest version of the emulator on EDC is **1.0.5a (x86)**, released on **2003-06-30**, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

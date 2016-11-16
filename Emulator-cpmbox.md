@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2013)
+
 **CP/M Box** is a emulator for **Amstrad PCW/Schneider Joyce** made by **habi** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.62b-win32 (x86)**, released on **2013-07-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PCW.exe**.

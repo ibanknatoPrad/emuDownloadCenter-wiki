@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **GeePee32** is a emulator for **GamePark GP32** made by **Tim Schuerewegen** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.43 (x86)**, released on **2004-06-15** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **geepee32.exe**.
+The latest version of the emulator on EDC is **0.43 (x86)**, released on **2004-06-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **geepee32.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

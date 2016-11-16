@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg "ZSNES logo.")
 
+**Developement state:** :red_circle: Non-active (2007)
+
 **ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.51 (x86)**, released on **2007-01-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7**, you can start this emulator with **zsnesw.exe**.
+The latest version of the emulator on EDC is **1.51 (x86)**, released on **2007-01-24**, it runs on **Windows XP,Vista,7**, you can start this emulator with **zsnesw.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

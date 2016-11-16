@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2001)
+
 **WinVZ** is a emulator for **Vtech Laser 200/210/310** made by **xip** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.2 (x86)**, released on **2001-05-26** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ.exe**.
+The latest version of the emulator on EDC is **0.2 (x86)**, released on **2001-05-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

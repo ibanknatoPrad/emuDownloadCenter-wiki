@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2009)
+
 **BeebEm** is a emulator for **Acorn BBC** made by **Mike Wyatt, David Adam Gilbert and Others** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **4.14 (x86)**, released on **2009-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BeebEm.exe**.

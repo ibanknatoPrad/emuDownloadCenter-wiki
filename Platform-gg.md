@@ -4,23 +4,23 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gg_teaser.png "Sega Game Gear ECC teaser.")
 ###### ECC ID: **gg**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | Quinntesson | Freeware - Non-Commercial |
-| [:file_folder: **Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | Dave | Freeware - Non-Commercial |
-| [:file_folder: **Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | Martin and Robert Konrad | KonTechs Freeware License |
-| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | The FBA Team | Freeware - Non-Commercial |
-| [:file_folder: **GearSystem**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gearsystem#menu) | Ignacio Sanchez | GNU GPLv3 |
-| [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | Stéphane Dallongeville | GNU GPLv2 |
-| [:file_folder: **Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | Rodrigo Cardoso | GNU GPLv2 |
-| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | Steve Snake | Freeware |
-| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | The Mednafen Team | GNU GPLv2 |
-| [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | Omar Cornut | Unrestrictive BSD-like |
-| [:file_folder: **MesaDX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesadx#menu) | Eric R Quinn | Freeware - Non-Commercial |
-| [:file_folder: **Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | Bruno Vedder | GNU GPLv2 |
-| [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | AamirM | Non-standard |
-| [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | Various | GNU GPLv2 |
-| [:file_folder: **TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | piciji | GNU GPLv3 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
+| [:file_folder: **Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | :red_circle: Non-active (2011) | Freeware - Non-Commercial |
+| [:file_folder: **Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | :red_circle: Non-active (2004) | KonTechs Freeware License |
+| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
+| [:file_folder: **GearSystem**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gearsystem#menu) | :white_circle: Active (2014) | GNU GPLv3 |
+| [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
+| [:file_folder: **Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |
+| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: Non-active (2010) | Freeware |
+| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | :red_circle: Non-active (2010) | Unrestrictive BSD-like |
+| [:file_folder: **MesaDX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesadx#menu) | :red_circle: Non-active (2006) | Freeware - Non-Commercial |
+| [:file_folder: **Osmose**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-osmose#menu) | :red_circle: Non-active (2009) | GNU GPLv2 |
+| [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | :red_circle: Non-active (2009) | Non-standard |
+| [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | :large_blue_circle: Active (2016) | Free for Personal and Non-Commercial Use |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | :red_circle: Non-active (2012) | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

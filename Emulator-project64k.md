@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg "Project64k logo.")
 
+**Developement state:** :large_blue_circle: Active (2015)
+
 **Project64k** is a emulator for **Nintendo N64** made by **Smasherx74** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **1.7-core2.2 (x86)**, released on **2015-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Project64.exe**.

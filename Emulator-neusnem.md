@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2007)
+
 **NewSneM** is a emulator for **Nintendo Super Nintendo** made by **Tom Walker** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.1 (x86)**, released on **2007-10-19** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeuSneM.exe**.
+The latest version of the emulator on EDC is **0.1 (x86)**, released on **2007-10-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeuSneM.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2013)
+
 **VisualBoyAdvance-rerecording** is a emulator for **Nintendo Game Boy** made by **Forgotten, the VBA Team and the VBA-rr Team** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **23.5 (x86)**, released on **2013-04-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VBA-rr-svn480.exe**.

@@ -4,12 +4,12 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtosh_teaser.png "Apple Macintosh ECC teaser.")
 ###### ECC ID: **mtosh**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | Christian Bauer aka cebix | GNU GPLv2 |
-| [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | Paul C Pratt and Others | GNU GPLv2 |
-| [:file_folder: **PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | Hampa Hug | GNU GPLv2 |
-| [:file_folder: **PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | Sebastian Biallas and Others | GNU GPLv2 |
-| [:file_folder: **Sheep Shaver**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sheepshaver#menu) | Christian Bauer aka cebix | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
+| [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
+| [:file_folder: **PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
+| [:file_folder: **PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | :red_circle: Non-active (2011) | GNU GPLv2 |
+| [:file_folder: **Sheep Shaver**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sheepshaver#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

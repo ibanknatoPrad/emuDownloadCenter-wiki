@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jr200_teaser.png "Panasonic JR-200 ECC teaser.")
 ###### ECC ID: **jr200**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Virtual Panasonic JR-200U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtpanajr#menu) | James the Animal Tamer | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Virtual Panasonic JR-200U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtpanajr#menu) | :red_circle: Non-active (2002) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

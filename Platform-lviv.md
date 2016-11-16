@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lviv_teaser.png "V. I. Lenin L'vov/Lviv ECC teaser.")
 ###### ECC ID: **lviv**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | Tselikov | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | :large_blue_circle: Active (2016) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

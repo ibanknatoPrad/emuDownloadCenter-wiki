@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2007)
+
 **DCMO5** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **11 (x86)**, released on **2007-12-12** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmo5.exe**.
+The latest version of the emulator on EDC is **11 (x86)**, released on **2007-12-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmo5.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

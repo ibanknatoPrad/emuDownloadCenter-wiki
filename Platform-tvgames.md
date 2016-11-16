@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tvgames_teaser.png "Elektor TV Games ECC teaser.")
 ###### ECC ID: **tvgames**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | Gavin Turner | Freeware |
-| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | James Jacobs | Freeware Non-Commercial |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | :red_circle: Non-active (2007) | Freeware |
+| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: Active (2016) | Freeware Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

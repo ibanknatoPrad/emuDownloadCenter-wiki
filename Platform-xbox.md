@@ -4,11 +4,11 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_xbox_teaser.png "Microsoft X-Box ECC teaser.")
 ###### ECC ID: **xbox**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Cxbx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbx#menu) | Echelon9 | GNU GPLv2 |
-| [:file_folder: **Cxbx Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbxreloaded#menu) | Luke Usher | GNU GPLv2 |
-| [:file_folder: **Xeon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xeon#menu) | SF | GNU GPLv2 |
-| [:file_folder: **XQEMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xqemu#menu) | espes | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Cxbx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbx#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
+| [:file_folder: **Cxbx Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cxbxreloaded#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **Xeon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xeon#menu) | :red_circle: Non-active (2003) | GNU GPLv2 |
+| [:file_folder: **XQEMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xqemu#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

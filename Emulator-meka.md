@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2010)
+
 **MEKA** is a emulator for **Coleco ColecoVision** made by **Omar Cornut** and has a **Unrestrictive BSD-like** license.
 
 The latest version of the emulator on EDC is **0.73 (x86)**, released on **2010-05-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mekaw.exe**.

@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2006)
+
 **ep32** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker and Vincze Bela Gyorgy** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **1.20 (x86)**, released on **2006-07-11** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ep32.exe**.
+The latest version of the emulator on EDC is **1.20 (x86)**, released on **2006-07-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ep32.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

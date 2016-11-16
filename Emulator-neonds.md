@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neonds_logo_200.jpg "NeonDS logo.")
 
+**Developement state:** :red_circle: Non-active (2008)
+
 **NeonDS** is a emulator for **Nintendo DS** made by **release, jitc, notrace** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.2.1 (x86)**, released on **2008-07-13** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeonDS.exe**.
+The latest version of the emulator on EDC is **0.2.1 (x86)**, released on **2008-07-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeonDS.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

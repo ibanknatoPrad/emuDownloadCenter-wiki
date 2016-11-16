@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2010)
+
 **Elkulator** is a emulator for **Acorn Electron** made by **Tom Walker** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.0 (x86)**, released on **2010-07-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Elkulator.exe**.

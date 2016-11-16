@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2011)
+
 **Vic-20 Emulator** is a emulator for **Commodore VIC-20** made by **muehlenf** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **0.1b2 (x86)**, released on **2011-07-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **runemu.bat**.

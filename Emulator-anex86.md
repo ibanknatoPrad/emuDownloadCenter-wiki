@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2005)
+
 **Anex86** is a emulator for **NEC PC-9801** made by **A.N.** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **2.78 (x86)**, released on **2005-03-07** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **anex86.exe**.
+The latest version of the emulator on EDC is **2.78 (x86)**, released on **2005-03-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **anex86.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

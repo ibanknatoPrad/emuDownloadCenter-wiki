@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2000)
+
 **NeoPocott** is a emulator for **SNK NeoGeo Pocket** made by **Julien FRELAT "Gollum"** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.38b (x86)**, released on **2000-12-25** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeoPocott.exe**.
+The latest version of the emulator on EDC is **0.38b (x86)**, released on **2000-12-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeoPocott.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

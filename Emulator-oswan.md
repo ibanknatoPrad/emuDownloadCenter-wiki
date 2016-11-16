@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2004)
+
 **Oswan** is a emulator for **Bandai Wonderswan** made by **Cal2** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **0.72 (x86)**, released on **2004.02.14** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **wonderswan.exe**.
+The latest version of the emulator on EDC is **0.72 (x86)**, released on **2004.02.14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **wonderswan.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

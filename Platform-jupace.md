@@ -4,14 +4,14 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jupace_teaser.png "Jupiter Cantab - Jupiter Ace ECC teaser.")
 ###### ECC ID: **jupace**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | Michael D Wynne | GNU GPLv2 |
-| [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | Michael Franzen | GNU GPLv2 |
-| [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | Martin Korth | Freeware |
-| [:file_folder: **SpudACE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-spudace#menu) | Richard Chandler | GNU GPLv2 |
-| [:file_folder: **Vace**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vace#menu) | Edward Patel | GNU GPLv2 |
-| [:file_folder: **Vace3D**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vace3d#menu) | Edward Patel | GNU GPLv2 |
-| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | Cesar Hernandez | GNU GPLv3 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
+| [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
+| [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: Non-active (2012) | Freeware |
+| [:file_folder: **SpudACE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-spudace#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **Vace**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vace#menu) | :red_circle: Non-active (1998) | GNU GPLv2 |
+| [:file_folder: **Vace3D**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vace3d#menu) | :red_circle: Non-active (1999) | GNU GPLv2 |
+| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

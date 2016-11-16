@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2010)
+
 **Ti994W** is a emulator for **Texas Instruments TI-99/4A** made by **Frederik G Kaal** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **4.2cb3 (x86)**, released on **2010-10-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Ti994w.exe**.

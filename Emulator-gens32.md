@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens32_logo_200.jpg "Gens32 Surreal logo.")
 
+**Developement state:** :red_circle: Non-active (2013)
+
 **Gens32 Surreal** is a emulator for **Sega Mega Drive 32X** made by **Stéphane Dallongeville** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.90-std (x86)**, released on **2013-10-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Gens32Surreal.exe**.

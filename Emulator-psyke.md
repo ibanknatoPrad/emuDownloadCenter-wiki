@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1998)
+
 **PSyKe** is a emulator for **Sony PlayStation 1** made by **Giovanni Bajo and Stefano Crosara** and has a **Freeware - Non-Commercial** license.
 
-The latest version of the emulator on EDC is **0.2.0 (x86)**, released on **1998-09-16** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Psyke.exe**.
+The latest version of the emulator on EDC is **0.2.0 (x86)**, released on **1998-09-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Psyke.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

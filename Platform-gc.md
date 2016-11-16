@@ -4,11 +4,11 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gc_teaser.png "Nintendo GameCube ECC teaser.")
 ###### ECC ID: **gc**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Dolwin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolwin#menu) | Dolwin Team | Freeware |
-| [:file_folder: **GCEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gcemu#menu) | Duddie, Tratax, Pete Bernert | Freeware |
-| [:file_folder: **SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | spartan11-7 | GNU GPLv2 |
-| [:file_folder: **WhineCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-whinecube#menu) | Masken | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Dolwin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolwin#menu) | :red_circle: Non-active (2005) | Freeware |
+| [:file_folder: **GCEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gcemu#menu) | :red_circle: Non-active (2005) | Freeware |
+| [:file_folder: **SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | :red_circle: Non-active (2009) | GNU GPLv2 |
+| [:file_folder: **WhineCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-whinecube#menu) | :red_circle: Non-active (2005) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

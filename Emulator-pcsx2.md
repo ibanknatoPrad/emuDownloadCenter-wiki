@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsx2_logo_200.jpg "PCSX2 logo.")
 
+**Developement state:** :large_blue_circle: Active (2016)
+
 **PCSX2** is a emulator for **Sony PlayStation 2** made by **PCSX2 team** and has a **GNU GPL v3** license.
 
 The latest version of the emulator on EDC is **1.4.0 (x86)**, released on **2016-01-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx2.exe**.

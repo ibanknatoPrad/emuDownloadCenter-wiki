@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Virtual GameBoy** is a emulator for **Nintendo Game Boy** made by **Marat Fayzullin** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **5.0 (x86)**, released on **2016-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VGB.exe**.

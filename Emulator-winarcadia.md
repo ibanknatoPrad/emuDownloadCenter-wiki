@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **WinArcadia** is a emulator for **Emerson Arcadia 2001** made by **James Jacobs** and has a **Freeware Non-Commercial** license.
 
 The latest version of the emulator on EDC is **24.42 (x86)**, released on **2016-09-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinArcadia.exe**.

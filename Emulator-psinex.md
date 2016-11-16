@@ -10,9 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psinex_logo_200.jpg "PSinex logo.")
 
+**Developement state:** :red_circle: Non-active (2001)
+
 **PSinex** is a emulator for **Sony PlayStation 1** made by **pSyChOjAk and Shunt** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **r3 (x86)**, released on **2001-11-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **psinex pc emulator.exe**.
+The latest version of the emulator on EDC is **r3 (x86)**, released on **2001-11-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **psinex pc emulator.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

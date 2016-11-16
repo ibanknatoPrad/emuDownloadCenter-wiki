@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **2012.05.25 (x86)**, released on **2012-05-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ300.exe**.

@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2002)
+
 **Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.6 (x86)**, released on **2002-02-17** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **RedSquirrel.exe**.
+The latest version of the emulator on EDC is **0.6 (x86)**, released on **2002-02-17**, it runs on **Windows XP,Vista**, you can start this emulator with **RedSquirrel.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

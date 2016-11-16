@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gx4000_teaser.png "Amstrad GX4000 ECC teaser.")
 ###### ECC ID: **gx4000**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **WinAPE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winape#menu) | Richard Wilson | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **WinAPE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winape#menu) | :red_circle: Non-active (2011) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

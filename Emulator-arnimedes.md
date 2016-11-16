@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **ARNIMEDES** is a emulator for **Amstrad CPC** made by **Oliver Lenz** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **1.02 (x86)**, released on **2012-07-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinArnie.exe**.

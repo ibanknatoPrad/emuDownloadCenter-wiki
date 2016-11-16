@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **NGAE** is a emulator for **SNK NeoGeo** made by **IsmaMj** and has a **UNKNOWN** license.
 
 The latest version of the emulator on EDC is **1.2 (x86)**, released on **2012-08-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NGAEUI32.exe**.

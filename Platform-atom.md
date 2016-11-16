@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_atom_teaser.png "Acorn Atom ECC teaser.")
 ###### ECC ID: **atom**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Atomulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atomulator#menu) | Tom Walker | GNU GPLv2 |
-| [:file_folder: **ACORN ATOM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atom#menu) | Wouter Ras | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Atomulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atomulator#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **ACORN ATOM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-atom#menu) | :red_circle: Non-active (1999) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

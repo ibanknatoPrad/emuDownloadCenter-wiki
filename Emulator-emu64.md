@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **Emu64** is a emulator for **Commodore 64** made by **Thorsten Kattanek** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **5.0.12-win32 (x86)**, released on **2016-08-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **emu64.exe**.

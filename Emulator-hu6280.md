@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2006)
+
 **Hu6280** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Vobbo** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **1.05b (x86)**, released on **2006-06-18** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hu6280.exe**.
+The latest version of the emulator on EDC is **1.05b (x86)**, released on **2006-06-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hu6280.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

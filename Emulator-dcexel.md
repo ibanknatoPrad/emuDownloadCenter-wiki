@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2012)
+
 **DCEXEL** is a emulator for **Exelvision EXL100** made by **Daniel Coulom** and has a **Freeware - Non-Commercial** license.
 
 The latest version of the emulator on EDC is **2012.04 (x86)**, released on **2012-04-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcexel.exe**.

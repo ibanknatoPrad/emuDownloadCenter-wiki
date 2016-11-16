@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1999)
+
 **PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **UNKNOWN** license.
 
-The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-05-02** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pkemu.exe**.
+The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-05-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pkemu.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

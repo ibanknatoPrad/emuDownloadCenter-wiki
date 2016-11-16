@@ -10,6 +10,8 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo_200.jpg "EMU7800 logo.")
 
+**Developement state:** :large_blue_circle: Active (2015)
+
 **EMU7800** is a emulator for **Atari 2600** made by **Mike Murphy** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.8 (x86)**, released on **2015-09-27**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **EMU7800.Win.exe**.

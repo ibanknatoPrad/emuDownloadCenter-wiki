@@ -4,10 +4,10 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_3ds_teaser.png "Nintendo 3DS ECC teaser.")
 ###### ECC ID: **3ds**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **3dmoo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dmoo#menu) | normmatt and ichfly | Open Source |
-| [:file_folder: **Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | Multiple Contributors | GPLv2 |
-| [:file_folder: **TronDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tronds#menu) | jocopoco | Freeware |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **3dmoo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dmoo#menu) | :white_circle: Active (2014) | Open Source |
+| [:file_folder: **Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | :large_blue_circle: Active (2015) | GPLv2 |
+| [:file_folder: **TronDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tronds#menu) | :large_blue_circle: Active (2015) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -4,11 +4,11 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_3do_teaser.png "Panasonic 3DO ECC teaser.")
 ###### ECC ID: **3do**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **3DOplay**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3doplay#menu) | Viktor Ivanov | GNU GPLv3 |
-| [:file_folder: **4DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-4do#menu) | JohnnyDude & Viktor | Freeware |
-| [:file_folder: **FreeDo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-freedo#menu) | awright69, felix_laz, troosh & jsammons | Freeware |
-| [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | Grishin Maxim Leonidovich aka Altmer | Free for Personal and Non-Commercial Use |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **3DOplay**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3doplay#menu) | :red_circle: Non-active (2012) | GNU GPLv3 |
+| [:file_folder: **4DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-4do#menu) | :large_blue_circle: Active (2015) | Freeware |
+| [:file_folder: **FreeDo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-freedo#menu) | :red_circle: Non-active (2010) | Freeware |
+| [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | :large_blue_circle: Active (2016) | Free for Personal and Non-Commercial Use |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

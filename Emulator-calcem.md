@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (1998)
+
 **CalcEm** is a emulator for **Texas Instruments TI-82** made by **David Eriksson** and has a **GNU GPLv2** license.
 
-The latest version of the emulator on EDC is **0.51 (x86)**, released on **1998-05-24** :triangular_flag_on_post:, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CalcEm.exe**.
+The latest version of the emulator on EDC is **0.51 (x86)**, released on **1998-05-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CalcEm.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

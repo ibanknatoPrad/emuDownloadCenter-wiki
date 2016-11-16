@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2015)
+
 **Hatari** is a emulator for **Atari Falcon** made by **The Hatari Team** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **1.9.0-win32 (x86)**, released on **2015-09-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hatari.exe**.

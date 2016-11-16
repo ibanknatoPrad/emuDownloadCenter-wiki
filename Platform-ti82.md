@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ti82_teaser.png "Texas Instruments TI-82 ECC teaser.")
 ###### ECC ID: **ti82**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | David Eriksson | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | :red_circle: Non-active (1998) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

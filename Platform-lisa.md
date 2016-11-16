@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lisa_teaser.png "Apple Lisa ECC teaser.")
 ###### ECC ID: **lisa**
 
-| Emulator   | Author      | License     |
-|:-----------|:------------|:------------|
-| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | Gilles Fetis | Freeware |
-| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | Ray A. Arachelian | GNU GPLv2 |
+| Emulator   | Developement        | License     |
+|:-----------|:--------------------|:------------|
+| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | :red_circle: Non-active (2008) | Freeware |
+| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | :red_circle: Non-active (2007) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

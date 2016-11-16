@@ -8,9 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :red_circle: Non-active (2008)
+
 **APF EMUW** is a emulator for **APF Electronics Imagination Machine** made by **Enrique Collado** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.0.1v2 (x86)**, released on **2008-03-12** :triangular_flag_on_post:, it runs on **Windows XP,Vista**, you can start this emulator with **APF_EMUW.exe**.
+The latest version of the emulator on EDC is **2.0.1v2 (x86)**, released on **2008-03-12**, it runs on **Windows XP,Vista**, you can start this emulator with **APF_EMUW.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

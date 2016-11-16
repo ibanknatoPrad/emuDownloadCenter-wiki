@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+**Developement state:** :large_blue_circle: Active (2016)
+
 **no$sns** is a emulator for **Nintendo Super Nintendo** made by **Martin Korth** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **1.6 (x86)**, released on **2016-03-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$SNS.exe**.
