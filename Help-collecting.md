@@ -19,7 +19,7 @@ A: Because a GitHub repository is limited to 1 GB size.
 ### Some site's to get emulators:
 
 [emulator-zone](http://www.emulator-zone.com) | 
-[emulatorworld](http://www.emulatorworld.com/) |
+[emulatorworld](http://www.emulatorworld.com/) (not safe) |
 [zophar](http://www.zophar.net) | 
 [aep-emu](https://www.aep-emu.de) | 
 [emu-france](http://www.emu-france.com) | 
@@ -36,6 +36,10 @@ A: Because a GitHub repository is limited to 1 GB size.
 [www.1emulation.com](http://www.1emulation.com/forums/files/) |
 
 **If you are a owner of the above site's, i encourage you to NOT close your site, but help us build this new _Open Source_ platform to download emulators on a central location!**
+
+Walked trough: Coolrom (2016-11)
+
+Currently walking: zophar
 
 Also Emulators builders/programmers are welcome to share their latest version!, they can publish the new emulator to the EDC platform!
 ***
