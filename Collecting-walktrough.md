@@ -21,7 +21,7 @@ Contents of the INFO INI file:
 
     [INFO]
     InfoVersion	        = Version of the INI file layout.
-    LastCheck           = Last check for this emulator.
+    LastCheck           = Last check for this emulator on the offical author website (if still avaiable).
     CompleteFlag        = All versions and downloads completed till LastCheck date? (1=yes)
 
     [EMULATOR]
