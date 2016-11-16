@@ -37,9 +37,9 @@ A: Because a GitHub repository is limited to 1 GB size.
 
 **If you are a owner of the above site's, i encourage you to NOT close your site, but help us build this new _Open Source_ platform to download emulators on a central location!**
 
-Walked trough: Coolrom (2016-11)
+:checkered_flag: Walked trough: Coolrom (2016-11)
 
-Currently walking: zophar
+:mans_shoe: Currently walking: zophar
 
 Also Emulators builders/programmers are welcome to share their latest version!, they can publish the new emulator to the EDC platform!
 ***
