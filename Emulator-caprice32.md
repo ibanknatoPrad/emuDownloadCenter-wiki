@@ -1,7 +1,7 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: Caprice32** |
+| **Emulator: CaPriCe32** |
 |:---------|
 | [:clipboard: About](#about) |
 | [:sunrise: Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: Non-active (2005)
 
-**Caprice32** is a emulator for **Amstrad CPC** made by **Ulrich Doewich** and has a **GNU GPLv2** license.
+**CaPriCe32** is a emulator for **Amstrad CPC** made by **Ulrich Doewich** and has a **GNU GPLv2** license.
 
 The latest version of the emulator on EDC is **4.2.0 (x86)**, released on **2005-05-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **cap32.exe**.
 
@@ -21,7 +21,7 @@ _Caprice32 is a software emulator of the Amstrad CPC 8bit home computer series. 
 [:link: **Emulator website**](http://sourceforge.net/projects/caprice32/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/caprice32/screen.jpg "Caprice32 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/caprice32/screen.jpg "CaPriCe32 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

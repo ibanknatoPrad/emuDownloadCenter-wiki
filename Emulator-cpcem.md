@@ -12,13 +12,11 @@
 
 **CPC-em** is a emulator for **Amstrad CPC** made by **Tom Walker** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **0.4-dos (x86)**, released on **2004-07-07**, it runs on **Dos 6.22**, you can start this emulator with **CPC-EM.exe**.
+The latest version of the emulator on EDC is **0.4-dos (x86)**, released on **2004-07-07**, it runs on **DOS 6.22**, you can start this emulator with **CPC-EM.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-__
-
-[:link: **Emulator website**](Notes		= This Amstrad CPC emulator that has been around for awhile by Tom Walker. It emulates Z80, video emulation, disc emulation, sound emulation, a GUI, SVGA, joysticks, and more.LastCheck	=)
+_This Amstrad CPC emulator that has been around for awhile by Tom Walker. It emulates Z80, video emulation, disc emulation, sound emulation, a GUI, SVGA, joysticks, and more._
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcem/screen.jpg "CPC-em screenshot.")
