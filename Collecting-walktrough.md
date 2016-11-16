@@ -21,15 +21,15 @@ Contents of the INFO INI file:
 
     [INFO]
     InfoVersion	        = Version of the INI file layout.
-    LastCheck           = Last check for this emulator on the offical author website (if still avaiable).
+    LastCheck           = Last check for this emulator on the official author website (if still available).
     CompleteFlag        = All versions and downloads completed till LastCheck date? (1=yes)
 
     [EMULATOR]
-    Author              = Author of the emulator.
-    Contact             = Possible E-mail of the Author.
+    Author              = Author(s) of the emulator.
+    Contact             = E-mail of the Author.
     License             = The License of the Emulator (Freeware/Shareware/Open Source/GPL).
-    BiosNeeded          = Does the Emulator need BIOS ROMS to run? (1=yes)
-    Website             = Website where the emulator can be found.
+    BiosNeeded          = Does the Emulator need BIOS ROM(S) to run? (1=yes)
+    Website             = The Website where the emulator can be found (starting with http://)
     Notes               = Small description of the emulator.
 
 Example Contents (Emulator Potator for Watara Supervision):
