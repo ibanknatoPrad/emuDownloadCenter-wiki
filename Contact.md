@@ -1,4 +1,4 @@
-You can mail any questions regarding to EDC to
+You can mail any questions regarding emuDownloadCenter to
 
 :envelope: phoenixinteractive#hotmail*com (replace # with @, and * with .)
 
