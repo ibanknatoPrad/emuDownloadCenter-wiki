@@ -13,6 +13,7 @@
 | [:file_folder: **Atari 5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a5200) | :fax: Console | a5200 |
 | [:file_folder: **Atari 7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a7800) | :fax: Console | a7800 |
 | [:file_folder: **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
+| [:file_folder: **Coleco Adam**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-adam) | :computer: Computer | adam |
 | [:file_folder: **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :pager: Handheld | advision |
 | [:file_folder: **Matra/Hachette Alice**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-alice) | :computer: Computer | alice |
 | [:file_folder: **Commodore Amiga**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amiga) | :computer: Computer | amiga |

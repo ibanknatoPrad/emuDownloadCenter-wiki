@@ -8,6 +8,7 @@
 |:-----------|:--------------------|:------------|
 | [:file_folder: **Dolwin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolwin#menu) | :red_circle: Non-active (2005) | Freeware |
 | [:file_folder: **GCEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gcemu#menu) | :red_circle: Non-active (2005) | Freeware |
+| [:file_folder: **Gekko**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gekko#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 | [:file_folder: **SuperGCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-supergcube#menu) | :red_circle: Non-active (2009) | GNU GPLv2 |
 | [:file_folder: **WhineCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-whinecube#menu) | :red_circle: Non-active (2005) | Freeware |
 

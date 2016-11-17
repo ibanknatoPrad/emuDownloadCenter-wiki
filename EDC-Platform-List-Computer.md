@@ -5,6 +5,7 @@
 | Platform   | Category      | ECC ID      |
 |:-----------|:--------------|:------------|
 | [:file_folder: **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
+| [:file_folder: **Coleco Adam**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-adam) | :computer: Computer | adam |
 | [:file_folder: **Matra/Hachette Alice**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-alice) | :computer: Computer | alice |
 | [:file_folder: **Commodore Amiga**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amiga) | :computer: Computer | amiga |
 | [:file_folder: **Apple 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple1) | :computer: Computer | apple1 |

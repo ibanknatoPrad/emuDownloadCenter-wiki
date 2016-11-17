@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **EX68**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ex68#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |
 | [:file_folder: **XM 6 Type G**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm6#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial (Restricted Distribution) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

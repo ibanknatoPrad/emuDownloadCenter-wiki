@@ -8,6 +8,7 @@
 |:-----------|:--------------------|:------------|
 | [:file_folder: **1964**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-1964#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | :red_circle: Non-active (2004) | Freeware |
+| [:file_folder: **Daedalus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daedalus#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |
 | [:file_folder: **ICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ice64#menu) | :red_circle: Non-active (2012) | UNKNOWN |
 | [:file_folder: **Mupen64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64k#menu) | :red_circle: Non-active (2011) | UNKNOWN |
 | [:file_folder: **Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |

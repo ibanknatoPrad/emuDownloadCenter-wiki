@@ -7,6 +7,8 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **BoycottAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-boycottadv#menu) | :red_circle: Non-active (2003) | Freeware |
+| [:file_folder: **DreamGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamgba#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |
+| [:file_folder: **DreamGBA TNG**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamgbatng#menu) | :red_circle: Non-active (2004) | GNU GPLv2 |
 | [:file_folder: **GB Enhanced+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gbeplus#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 - Special for Commercial Use |
 | [:file_folder: **iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | :red_circle: Non-active (2011) | GNU GPLv2 |

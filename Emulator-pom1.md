@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pom1_logo_200.jpg "Pom1 logo.")
+
 **Developement state:** :red_circle: Non-active (2012)
 
 **Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud** and has a **GNU GPLv2** license.
@@ -27,5 +29,6 @@ _Pom1 is an Apple 1 emulator. It uses SDL and works on most platforms._
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.0.0**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/pom1/1.0.0.7z) | 2012-03-03 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/pom1/1.0.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/pom1/1.0.0_contents.txt) | 148 KB |
+| [:floppy_disk: **0.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/pom1/0.0.3.7z) | 2007-05-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/pom1/0.0.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/pom1/0.0.3_contents.txt) | 112 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

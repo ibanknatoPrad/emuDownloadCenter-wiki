@@ -9,6 +9,7 @@
 | [:file_folder: **ARNIMEDES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnimedes#menu) | :red_circle: Non-active (2012) | UNKNOWN |
 | [:file_folder: **Arnold**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnold#menu) | :red_circle: Non-active (2004) | GNU GPLv2 |
 | [:file_folder: **CaPriCe32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-caprice32#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |
+| [:file_folder: **CoPaCabana**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-copacabana#menu) | :red_circle: Non-active (2006) | Donationware |
 | [:file_folder: **CpcAlive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpcalive#menu) | :white_circle: Active (2014) | Freeware |
 | [:file_folder: **CPCE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpce#menu) | :red_circle: Non-active (2008) | Freeware - Non-Commercial |
 | [:file_folder: **CPC-em**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpcem#menu) | :red_circle: Non-active (2004) | Freeware |

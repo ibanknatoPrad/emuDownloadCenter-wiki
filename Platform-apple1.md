@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **Agat Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-agat#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **Pom1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pom1#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

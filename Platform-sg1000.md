@@ -7,6 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: Non-active (2009) | Freeware |
+| [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: Active (2016) | Donationware |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: Non-active (2010) | Freeware |
 | [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | :red_circle: Non-active (2010) | Unrestrictive BSD-like |
