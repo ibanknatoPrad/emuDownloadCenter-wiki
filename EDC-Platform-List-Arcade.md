@@ -10,7 +10,6 @@
 | [:file_folder: **Capcom Play System 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps3) | :tv: Arcade | cps3 |
 | [:file_folder: **MCA Laserdisc Arcade**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ld) | :tv: Arcade | ld |
 | [:file_folder: **Sega Model 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model1) | :tv: Arcade | model1 |
-| [:file_folder: **Sega Model 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model2) | :tv: Arcade | model2 |
 | [:file_folder: **Sega Model 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model3) | :tv: Arcade | model3 |
 | [:file_folder: **Sega Naomi**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-naomi) | :tv: Arcade | naomi |
 | [:file_folder: **SNK NeoGeo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ng) | :tv: Arcade | ng |

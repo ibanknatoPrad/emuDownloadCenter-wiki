@@ -6,6 +6,3 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
-| [:file_folder: **Sega Model 2 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-m2emulator#menu) | :white_circle: Active (2014) | UNKNOWN |
-
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

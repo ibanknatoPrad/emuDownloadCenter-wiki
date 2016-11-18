@@ -46,6 +46,7 @@
 | [:file_folder: **MSX 2 Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx2) | :computer: Computer | msx2 |
 | [:file_folder: **MSX Turbo R (Panasonic FS-A1GT/ST)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msxtr) | :computer: Computer | msxtr |
 | [:file_folder: **Apple Macintosh**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtosh) | :computer: Computer | mtosh |
+| [:file_folder: **Memotech MTX 500/512**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtx) | :computer: Computer | mtx |
 | [:file_folder: **Sharp MZ-700/1500**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz1500) | :computer: Computer | mz1500 |
 | [:file_folder: **Sharp MZ-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2000) | :computer: Computer | mz2000 |
 | [:file_folder: **Sharp MZ-2500/SuperMZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2500) | :computer: Computer | mz2500 |

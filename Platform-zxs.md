@@ -12,6 +12,7 @@
 | [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **EmuZWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emuzwin#menu) | :red_circle: Non-active (2006) | UNKNOWN |
 | [:file_folder: **Fuse (The Free Unix Spectrum Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fuse#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **Klive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-klive#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
 | [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: Non-active (2012) | Freeware |
 | [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
