@@ -79,6 +79,7 @@
 | [:file_folder: **Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
 | [:file_folder: **Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
 | [:file_folder: **Sega Model 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model1) | :tv: Arcade | model1 |
+| [:file_folder: **Sega Model 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model2) | :tv: Arcade | model2 |
 | [:file_folder: **Sega Model 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-model3) | :tv: Arcade | model3 |
 | [:file_folder: **MSX Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx) | :computer: Computer | msx |
 | [:file_folder: **MSX 2 Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx2) | :computer: Computer | msx2 |
