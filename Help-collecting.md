@@ -4,7 +4,7 @@ Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](ht
 
 1) Install [GitHub Desktop](https://desktop.github.com/)
 
-2) Fork this repo [edc-masterhook](https://github.com/PhoenixInteractiveNL/edc-masterhook)
+2) Fork this repo [emuDownloadCenter](https://github.com/PhoenixInteractiveNL/emuDownloadCenter)
 
 3) Fork the latest [edc-repo00??](https://github.com/PhoenixInteractiveNL)
 
