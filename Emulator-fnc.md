@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Fish 'N' Chips is a RCA Cosmac VIP and Chip-8 / SCHIP emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fnc/screen.jpg "Fish 'N' Chips screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fnc/emulator_screenshot_01.jpg "Fish 'N' Chips screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _Speccy is a Sinclair ZX Spectrum, Timex Sinclair, Sam Coupe, Didaktik Gama, Sco
 [:link: **Emulator website**](http://fms.komkon.org/speccy)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/speccy/screen.jpg "Speccy screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/speccy/emulator_screenshot_01.jpg "Speccy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

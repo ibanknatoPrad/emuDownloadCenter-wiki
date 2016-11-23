@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potator/screen.jpg "Potator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potator/emulator_screenshot_01.jpg "Potator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

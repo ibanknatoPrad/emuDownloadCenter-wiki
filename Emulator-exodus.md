@@ -21,7 +21,7 @@ _Exodus is a platform for emulating various devices. Currently it emulates the S
 [:link: **Emulator website**](http://exodusemulator.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/exodus/screen.jpg "Exodus screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/exodus/emulator_screenshot_01.jpg "Exodus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

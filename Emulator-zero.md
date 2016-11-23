@@ -21,7 +21,7 @@ _Zero is a Sinclair ZX Spectrum and Pentagon 128K emulator._
 [:link: **Emulator website**](http://zero.arjunnair.in/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zero/screen.jpg "Zero screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zero/emulator_screenshot_01.jpg "Zero screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

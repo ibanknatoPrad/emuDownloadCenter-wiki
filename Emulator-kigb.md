@@ -23,7 +23,7 @@ _KiGB is a Nintendo Game Boy and Game Boy Color emulator._
 [:link: **Emulator website**](http://kigb.emuunlim.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kigb/screen.jpg "KiGB screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kigb/emulator_screenshot_01.jpg "KiGB screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

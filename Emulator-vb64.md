@@ -23,7 +23,7 @@ _VB64 is a Commodore 64 emulator written in VisualBasic._
 [:link: **Emulator website**](http://vb64.emuunlim.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vb64/screen.jpg "VB64 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vb64/emulator_screenshot_01.jpg "VB64 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

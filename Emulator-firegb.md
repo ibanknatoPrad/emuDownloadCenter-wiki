@@ -21,7 +21,7 @@ _FireGB is a Nintendo Game Boy emulator._
 [:link: **Emulator website**](https://github.com/Frankablu/FireGB)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/firegb/screen.jpg "FireGB screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/firegb/emulator_screenshot_01.jpg "FireGB screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

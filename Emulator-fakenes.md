@@ -21,7 +21,7 @@ _FakeNES is a portable, Open Source Nintendo Entertainment System and Famicom em
 [:link: **Emulator website**](http://fakenes.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fakenes/screen.jpg "FakeNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fakenes/emulator_screenshot_01.jpg "FakeNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -23,7 +23,7 @@ _bsnes is an emulator that began development on 2004-10-14. The purpose of this 
 [:link: **Emulator website**](http://byuu.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnes/screen.jpg "BSNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnes/emulator_screenshot_01.jpg "BSNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

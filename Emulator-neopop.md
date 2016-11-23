@@ -23,7 +23,7 @@ _NeoPop is a portable 'NeoGeo Pocket (Color)' emulator._
 [:link: **Emulator website**](http://neopop.emuxhaven.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neopop/screen.jpg "NeoPop screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neopop/emulator_screenshot_01.jpg "NeoPop screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

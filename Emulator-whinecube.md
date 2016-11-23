@@ -23,7 +23,7 @@ _WhineCube is a GameCube emulator. It loads and executes DOL-, ELF- or GCM-forma
 [:link: **Emulator website**](http://whinecube.emulation64.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/whinecube/screen.jpg "WhineCube screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/whinecube/emulator_screenshot_01.jpg "WhineCube screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

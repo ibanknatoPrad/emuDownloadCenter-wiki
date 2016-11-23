@@ -21,7 +21,7 @@ _QLAY is a Sinclair QL emulator._
 [:link: **Emulator website**](http://www.inter.nl.net/hcc/A.Jaw.Venema)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlayw/screen.jpg "QLAY screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlayw/emulator_screenshot_01.jpg "QLAY screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

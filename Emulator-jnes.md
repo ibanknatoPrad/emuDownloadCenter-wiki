@@ -23,7 +23,7 @@ _Jnes is a NES emulator for Windows platforms. Its emulation capabilities includ
 [:link: **Emulator website**](http://www.jabosoft.com/jnes/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jnes/screen.jpg "Jnes screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jnes/emulator_screenshot_01.jpg "Jnes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

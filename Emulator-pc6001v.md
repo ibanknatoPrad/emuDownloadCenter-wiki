@@ -21,7 +21,7 @@ _PC6001V is an NEC PC-6000 series emulator. NOTE: Website is in Japanese._
 [:link: **Emulator website**](http://papicom.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001v/screen.jpg "PC6001V screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001v/emulator_screenshot_01.jpg "PC6001V screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

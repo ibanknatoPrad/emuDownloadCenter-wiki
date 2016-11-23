@@ -21,7 +21,7 @@ _DCMO5 is a Thomson MO5 emualtor. Screenshot from Author's Website._
 [:link: **Emulator website**](http://dcmo5.free.fr)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmo5/screen.jpg "DCMO5 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmo5/emulator_screenshot_01.jpg "DCMO5 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _LisaEm is an Apple Lisa emulator._
 [:link: **Emulator website**](http://lisaem.sunder.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisaem/screen.jpg "LisaEm screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisaem/emulator_screenshot_01.jpg "LisaEm screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

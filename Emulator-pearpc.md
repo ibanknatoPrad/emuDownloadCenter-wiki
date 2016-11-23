@@ -23,7 +23,7 @@ _PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC req
 [:link: **Emulator website**](http://github.com/sebastianbiallas/pearpc)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pearpc/screen.jpg "PearPC screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pearpc/emulator_screenshot_01.jpg "PearPC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

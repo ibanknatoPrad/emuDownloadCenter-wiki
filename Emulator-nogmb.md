@@ -21,7 +21,7 @@ _No$gmb is a emulator for gameboy, pocket gameboy, super gameboy, and color game
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogmb/screen.jpg "no$gmb screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogmb/emulator_screenshot_01.jpg "no$gmb screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

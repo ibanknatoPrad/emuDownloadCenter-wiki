@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _ROC (Return of CoCo) is a Tandy/Radio Shack TRS-80, Color Computer I, II, 3, TDP-100 (Tandy Data Products), Dragon Data Dragon 32/64 and Micro-SEP 1600 emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/roc/screen.jpg "Return of CoCo screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/roc/emulator_screenshot_01.jpg "Return of CoCo screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

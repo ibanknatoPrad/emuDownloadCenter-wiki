@@ -23,7 +23,7 @@ _Pom1 is an Apple 1 emulator. It uses SDL and works on most platforms._
 [:link: **Emulator website**](http://pom1.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pom1/screen.jpg "Pom1 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pom1/emulator_screenshot_01.jpg "Pom1 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

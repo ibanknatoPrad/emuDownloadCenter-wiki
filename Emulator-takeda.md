@@ -21,7 +21,7 @@ _This emulator collection by Toshiya Takeda contains multiple executables for ma
 [:link: **Emulator website**](http://takeda-toshiya.my.coocan.jp/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/takeda/screen.jpg "Takeda Archive screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/takeda/emulator_screenshot_01.jpg "Takeda Archive screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

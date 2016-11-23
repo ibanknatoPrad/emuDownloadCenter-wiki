@@ -21,7 +21,7 @@ _GearSystem is a Sega Master System and Game Gear emulator_
 [:link: **Emulator website**](http://github.com/drhelius/Gearsystem)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gearsystem/screen.jpg "GearSystem screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gearsystem/emulator_screenshot_01.jpg "GearSystem screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

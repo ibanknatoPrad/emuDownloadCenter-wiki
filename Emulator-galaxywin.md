@@ -21,7 +21,7 @@ _Galaxy Win is an emulator for the Galaksija computer. It is a Windows port of t
 [:link: **Emulator website**](http://emulator.galaksija.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/galaxywin/screen.jpg "Galaxy Win screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/galaxywin/emulator_screenshot_01.jpg "Galaxy Win screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _WinVZ is a Dick Smith VZ200 and VZ300, VTech Laser 200 and Texet 8000 emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvz/screen.jpg "WinVZ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvz/emulator_screenshot_01.jpg "WinVZ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

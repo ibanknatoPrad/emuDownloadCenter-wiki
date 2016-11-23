@@ -21,7 +21,7 @@ _Nintendulator is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://www.qmtpro.com/~nes/nintendulator/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nintendulator/screen.jpg "Nintendulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nintendulator/emulator_screenshot_01.jpg "Nintendulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

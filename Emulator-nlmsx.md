@@ -21,7 +21,7 @@ _NLMSX is an emulator for the MSX, MSX2, MSX2+ and MSX Turbo-R computers._
 [:link: **Emulator website**](http://nlmsx.generation-msx.nl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nlmsx/screen.jpg "NLMSX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nlmsx/emulator_screenshot_01.jpg "NLMSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

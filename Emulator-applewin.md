@@ -23,7 +23,7 @@ _AppleWin is an Apple II emulator._
 [:link: **Emulator website**](http://github.com/AppleWin/AppleWin)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/applewin/screen.jpg "AppleWin screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/applewin/emulator_screenshot_01.jpg "AppleWin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

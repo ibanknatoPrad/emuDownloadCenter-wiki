@@ -21,7 +21,7 @@ _SimCoupe is a Miles Gordon Technology SAM Coupe emulator._
 [:link: **Emulator website**](http://simcoupe.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simcoupe/screen.jpg "SimCoupe screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simcoupe/emulator_screenshot_01.jpg "SimCoupe screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

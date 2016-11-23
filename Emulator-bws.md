@@ -21,7 +21,7 @@ _bws is a Bandai WonderSwan and WonderSwan Color emulator._
 [:link: **Emulator website**](http://byuu.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bws/screen.jpg "bws screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bws/emulator_screenshot_01.jpg "bws screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

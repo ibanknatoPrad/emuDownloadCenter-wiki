@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _MahNES is a Nintendo Entertainment System emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mahnes/screen.jpg "MahNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mahnes/emulator_screenshot_01.jpg "MahNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _sdltrs is a Tandy/Radio Shack TRS80 series emulator._
 [:link: **Emulator website**](http://sdltrs.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sdltrs/screen.jpg "sdltrs screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sdltrs/emulator_screenshot_01.jpg "sdltrs screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

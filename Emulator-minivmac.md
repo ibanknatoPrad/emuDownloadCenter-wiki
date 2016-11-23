@@ -21,7 +21,7 @@ _Mini vMac is an Apple Macintosh (using Motorola 680x0 processors) emulator._
 [:link: **Emulator website**](http://minivmac.sourceforge.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minivmac/screen.jpg "Mini vMac screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minivmac/emulator_screenshot_01.jpg "Mini vMac screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

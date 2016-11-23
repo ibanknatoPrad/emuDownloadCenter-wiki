@@ -21,7 +21,7 @@ _B-em is a BBC Model A, B, B+, Master 128, Master 512, Master Turbo and Master C
 [:link: **Emulator website**](http://b-em.bbcmicro.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bem/screen.jpg "B-em screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bem/emulator_screenshot_01.jpg "B-em screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

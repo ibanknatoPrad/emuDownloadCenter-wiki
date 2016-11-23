@@ -21,7 +21,7 @@ _ActiveGS is an Apple IIGS emulator._
 [:link: **Emulator website**](http://activegs.freetoolsassociation.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/activegs/screen.jpg "ActiveGS screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/activegs/emulator_screenshot_01.jpg "ActiveGS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **310f (x86)**, released on **2016-
 _PC6001VW is an NEC PC-6000 series emulator based on PC6001V by Yumitaro. NOTE: Emulator appears to be in both English and Japanese. Website is in Japanese._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001vw/screen.jpg "PC6001VW screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001vw/emulator_screenshot_01.jpg "PC6001VW screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

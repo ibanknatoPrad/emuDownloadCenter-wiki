@@ -23,7 +23,7 @@ _DeSmuME is a freeware emulator for the NDS roms & Nintendo DS Lite and DSi game
 [:link: **Emulator website**](http://desmume.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/desmume/screen.jpg "DesMuME screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/desmume/emulator_screenshot_01.jpg "DesMuME screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

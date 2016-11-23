@@ -21,7 +21,7 @@ _WinCPC is the Borland Delphi port of an Amstrad CPC emulator called vbCPC._
 [:link: **Emulator website**](http://www.wincpc.ch/?topic=projects-wincpc)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/wincpc/screen.jpg "WinCPC screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/wincpc/emulator_screenshot_01.jpg "WinCPC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

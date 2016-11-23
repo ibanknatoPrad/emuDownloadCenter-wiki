@@ -21,7 +21,7 @@ _EMU is a multi-system emulator for the following: ARM-HQ Bashkiria Bashkiria-2M
 [:link: **Emulator website**](http://bashkiria-2m.narod.ru/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu/screen.jpg "EMU screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu/emulator_screenshot_01.jpg "EMU screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

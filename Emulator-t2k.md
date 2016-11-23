@@ -21,7 +21,7 @@ _Jaguar Tempest 2000 Emulator is an Atari Jaguar emulator that has been specific
 [:link: **Emulator website**](http://www.yakyak.org/viewtopic.php?f=5&t=41691)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/t2k/screen.jpg "Jaguar Tempest 2000 Emulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/t2k/emulator_screenshot_01.jpg "Jaguar Tempest 2000 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

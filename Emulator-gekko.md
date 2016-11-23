@@ -23,7 +23,7 @@ _Gekko is a Nintendo GameCube emulator. NOTE: Screenshot from https://emulationk
 [:link: **Emulator website**](http://github.com/shonumi/gekko-gc-emu)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gekko/screen.jpg "Gekko screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gekko/emulator_screenshot_01.jpg "Gekko screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

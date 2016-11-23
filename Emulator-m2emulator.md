@@ -21,7 +21,7 @@ _Model 2 Emulator is a SEGA Model 2, 2A, 2B and 2C emulator. NOTE: To bypass the
 [:link: **Emulator website**](http://nebula.emulatronia.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m2emulator/screen.jpg "Sega Model 2 Emulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m2emulator/emulator_screenshot_01.jpg "Sega Model 2 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

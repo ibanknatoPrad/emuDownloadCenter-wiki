@@ -21,7 +21,7 @@ _nocash NES/FDS/PC10/VS emulator/debugger for windows._
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nones/screen.jpg "no$nes screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nones/emulator_screenshot_01.jpg "no$nes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

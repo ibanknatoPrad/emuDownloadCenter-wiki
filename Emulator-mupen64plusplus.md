@@ -23,7 +23,7 @@ _Mupen64++ (aka Mupen64k) is the emulator for online play woring with the most g
 [:link: **Emulator website**](http://mupen64k.blogspot.nl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plusplus/screen.jpg "Mupen64++ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plusplus/emulator_screenshot_01.jpg "Mupen64++ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

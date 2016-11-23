@@ -21,7 +21,7 @@ _XM7dash is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in 
 [:link: **Emulator website**](http://tomatoma.s54.xrea.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm7dash/screen.jpg "XM7dash screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm7dash/emulator_screenshot_01.jpg "XM7dash screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

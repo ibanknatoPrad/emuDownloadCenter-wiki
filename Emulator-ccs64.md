@@ -23,7 +23,7 @@ _CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms.
 [:link: **Emulator website**](http://www.ccs64.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ccs64/screen.jpg "CCS64 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ccs64/emulator_screenshot_01.jpg "CCS64 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

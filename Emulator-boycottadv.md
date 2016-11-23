@@ -21,7 +21,7 @@ _BoycottAdvance is a Game Boy Advance emulator._
 [:link: **Emulator website**](http://boycottadvance.emuunlim.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/boycottadv/screen.jpg "BoycottAdvance screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/boycottadv/emulator_screenshot_01.jpg "BoycottAdvance screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _jzIntv is an Intellivision emulator._
 [:link: **Emulator website**](http://spatula-city.org/~im14u2c/intv)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jzintv/screen.jpg "jzIntv screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jzintv/emulator_screenshot_01.jpg "jzIntv screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

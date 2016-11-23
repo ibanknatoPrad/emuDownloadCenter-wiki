@@ -21,7 +21,7 @@ _ArcEm is an Acorn Archimedes emulator_
 [:link: **Emulator website**](http://arcem.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arcem/screen.jpg "ArcEm screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arcem/emulator_screenshot_01.jpg "ArcEm screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

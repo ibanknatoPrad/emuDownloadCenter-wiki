@@ -21,7 +21,7 @@ _uoYabause is a Sega Saturn emulator based on Yabause._
 [:link: **Emulator website**](http://uoyabause.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/uoyabause/screen.jpg "uoYabause screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/uoyabause/emulator_screenshot_01.jpg "uoYabause screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

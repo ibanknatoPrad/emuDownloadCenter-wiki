@@ -21,7 +21,7 @@ _Atomulator is an emulator of an Acorn Atom - the first micro from Acorn in 1980
 [:link: **Emulator website**](http://atomulator.acornatom.co.uk/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atomulator/screen.jpg "Atomulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atomulator/emulator_screenshot_01.jpg "Atomulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

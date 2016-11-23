@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.3j (x86)**, released on **2006-
 _InfoVectrex is a Bandai Vectrex emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/infovectrex/screen.jpg "InfoVectrex screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/infovectrex/emulator_screenshot_01.jpg "InfoVectrex screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

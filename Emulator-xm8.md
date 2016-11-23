@@ -21,7 +21,7 @@ _XM8 is an NEC PC-8801 emulator. NOTE: Website is in Japanese._
 [:link: **Emulator website**](http://retropc.net/pi/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm8/screen.jpg "XM8 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm8/emulator_screenshot_01.jpg "XM8 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

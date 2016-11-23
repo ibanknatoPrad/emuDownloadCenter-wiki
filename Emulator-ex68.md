@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **215 (x86)**, released on **2001-0
 _EX68 is a Sharp X68000 emulator. NOTE: Emulator and Help Files are in Japanese._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ex68/screen.jpg "EX68 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ex68/emulator_screenshot_01.jpg "EX68 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

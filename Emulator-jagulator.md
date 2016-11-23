@@ -21,7 +21,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Jagulator is an Atari Jaguar emulator. It runs way to fast to be playable on my Laptop._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jagulator/screen.jpg "Jagulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jagulator/emulator_screenshot_01.jpg "Jagulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

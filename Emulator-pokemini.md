@@ -21,7 +21,7 @@ _Poke Mini is a Nintendo Pokemon-Mini emulator._
 [:link: **Emulator website**](http://sourceforge.net/projects/pokemini/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pokemini/screen.jpg "Poke Mini screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pokemini/emulator_screenshot_01.jpg "Poke Mini screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

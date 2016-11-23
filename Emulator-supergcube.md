@@ -23,7 +23,7 @@ _SuperGCube is a Nintendo Gamecube emulator._
 [:link: **Emulator website**](http://supergcube.sourceforge.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supergcube/screen.jpg "SuperGCube screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supergcube/emulator_screenshot_01.jpg "SuperGCube screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

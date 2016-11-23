@@ -23,7 +23,7 @@ _nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogba/screen.jpg "no$gba screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogba/emulator_screenshot_01.jpg "no$gba screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

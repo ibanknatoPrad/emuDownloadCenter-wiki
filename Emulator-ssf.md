@@ -21,7 +21,7 @@ _SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, 
 [:link: **Emulator website**](http://www.geocities.jp/mj3kj8o5/ssf/index.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ssf/screen.jpg "SSF screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ssf/emulator_screenshot_01.jpg "SSF screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

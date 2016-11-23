@@ -21,7 +21,7 @@ _YANESE (Yet Another NES Emulator) is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://www.yanese.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yanese/screen.jpg "YANESE (Yet Another NES Emulator) screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yanese/emulator_screenshot_01.jpg "YANESE (Yet Another NES Emulator) screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

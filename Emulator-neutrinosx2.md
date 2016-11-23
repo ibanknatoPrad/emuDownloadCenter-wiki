@@ -21,7 +21,7 @@ _neutrinoSX2 is a Sony Playstation 2 emulator._
 [:link: **Emulator website**](http://nsx2.emulation64.com/about.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neutrinosx2/screen.jpg "neutrinoSX2 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neutrinosx2/emulator_screenshot_01.jpg "neutrinoSX2 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

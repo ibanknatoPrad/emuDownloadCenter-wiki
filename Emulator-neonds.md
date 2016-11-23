@@ -23,7 +23,7 @@ _The NeonDS is an emulator of Nintendo’s latest handheld console, the Nintendo
 [:link: **Emulator website**](http://www.neonds.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neonds/screen.jpg "NeonDS screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neonds/emulator_screenshot_01.jpg "NeonDS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _X88000 is an NEC PC-8801 emulator._
 [:link: **Emulator website**](http://www.geocities.com/Area51/Dungeon/6809/x88000.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/x88000/screen.jpg "X88000 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/x88000/emulator_screenshot_01.jpg "X88000 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _Emu64 is a low-level emulation program, which emulates the Commodore 64. The op
 [:link: **Emulator website**](http://www.emu64-projekt.de/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu64/screen.jpg "Emu64 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu64/emulator_screenshot_01.jpg "Emu64 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

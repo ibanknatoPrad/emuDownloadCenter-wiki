@@ -21,7 +21,7 @@ _Z80Stealth is a Sinclair ZX Spectrum and Russian Clones emulator. NOTE: The Aut
 [:link: **Emulator website**](http://z80.emu-russia.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/z80stealth/screen.jpg "Z80Stealth screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/z80stealth/emulator_screenshot_01.jpg "Z80Stealth screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

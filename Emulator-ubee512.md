@@ -21,7 +21,7 @@ _uBee512 is an emulator for the Microbee Z80 ROM, FDD and HDD based models._
 [:link: **Emulator website**](http://www.microbee-mspp.org.au/repository)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ubee512/screen.jpg "uBee512 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ubee512/emulator_screenshot_01.jpg "uBee512 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -23,7 +23,7 @@ _Mupen64Plus is a Nintendo 64 emulator._
 [:link: **Emulator website**](http://mupen64plus.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plus/screen.jpg "Mupen64+ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plus/emulator_screenshot_01.jpg "Mupen64+ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

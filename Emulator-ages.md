@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.30a (x86)**, released on **2002
 _WinAGES is a Sega 32x, Game Gear, Genesis / Megadrive, Master System and Sega CD emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ages/screen.jpg "WinAGES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ages/emulator_screenshot_01.jpg "WinAGES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

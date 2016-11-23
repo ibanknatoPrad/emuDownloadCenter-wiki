@@ -21,7 +21,7 @@ _Hatari is an Atari ST, STE, TT and Falcon Emulator. A BIOS (TOS) File is not re
 [:link: **Emulator website**](http://hatari.tuxfamily.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hatari/screen.jpg "Hatari screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hatari/emulator_screenshot_01.jpg "Hatari screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

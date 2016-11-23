@@ -21,7 +21,7 @@ _GeePee32 is a Game-Park GP32 handheld console._
 [:link: **Emulator website**](http://users.skynet.be/firefly/gp32/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/geepee32/screen.jpg "GeePee32 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/geepee32/emulator_screenshot_01.jpg "GeePee32 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _GEST is an emulator for the Nintendo Game Boy, Game Boy Color and Super Game Bo
 [:link: **Emulator website**](http://koti.mbnet.fi/gest_emu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gest/screen.jpg "GEST screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gest/emulator_screenshot_01.jpg "GEST screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

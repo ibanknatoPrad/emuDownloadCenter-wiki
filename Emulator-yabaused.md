@@ -21,7 +21,7 @@ _Yabause-Devmiyax is a Sega Saturn emulator based on Yabause._
 [:link: **Emulator website**](http://www.tradu-france.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yabaused/screen.jpg "Yabause-Devmiyax screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yabaused/emulator_screenshot_01.jpg "Yabause-Devmiyax screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

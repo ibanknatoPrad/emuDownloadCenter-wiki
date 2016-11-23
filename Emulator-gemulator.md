@@ -21,7 +21,7 @@ _Gemulator 9.0 is an Atari 800, Atari ST and Apple Macintosh Classic emulator. N
 [:link: **Emulator website**](http://emulators.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gemulator/screen.jpg "Gemulator 9.0 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gemulator/emulator_screenshot_01.jpg "Gemulator 9.0 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

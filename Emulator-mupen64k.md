@@ -21,7 +21,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Mupen64k is a fork of Mupen64 with added Kaillera support._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64k/screen.jpg "Mupen64k screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64k/emulator_screenshot_01.jpg "Mupen64k screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

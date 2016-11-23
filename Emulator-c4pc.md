@@ -21,7 +21,7 @@ _This emulator is not intended to be used to PLAY / RUN / USE, but to TEST Cybik
 [:link: **Emulator website**](http://users.skynet.be/firefly/cybiko/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/c4pc/screen.jpg "C4PC screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/c4pc/emulator_screenshot_01.jpg "C4PC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

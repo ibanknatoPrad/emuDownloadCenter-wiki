@@ -21,7 +21,7 @@ _HPSX (Highly-Experimental Playstation Simulator) is a Sony Playstation 1 & Play
 [:link: **Emulator website**](https://sourceforge.net/projects/hpsx64/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hpsx64/screen.jpg "HPSX (Highly-Experimental Playstation Emulator) screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hpsx64/emulator_screenshot_01.jpg "HPSX (Highly-Experimental Playstation Emulator) screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _Welcome to the Acorn ATOM software emulator for PC's. This program enables you 
 [:link: **Emulator website**](http://www.stairwaytohell.com/atom/wouterras/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atom/screen.jpg "ACORN ATOM screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atom/emulator_screenshot_01.jpg "ACORN ATOM screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

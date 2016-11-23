@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Snes9x rerecording is a Nintendo SNES and Super Famicom emulator based on Snes9x._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9xrr/screen.jpg "SNES9X Rerecording screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9xrr/emulator_screenshot_01.jpg "SNES9X Rerecording screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

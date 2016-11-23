@@ -21,7 +21,7 @@ _Tunix 2001 is an Emerson Arcadia 2001, Interton VC4000, VTech Laser 200, Dick S
 [:link: **Emulator website**](http://www.gstsoftware.co.nz/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tunix2001/screen.jpg "Tunix 2001 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tunix2001/emulator_screenshot_01.jpg "Tunix 2001 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

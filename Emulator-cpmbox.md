@@ -21,7 +21,7 @@ _CP/M Box is an Amstrad PCW series emulator._
 [:link: **Emulator website**](http://www.habisoft.com/pcw/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpmbox/screen.jpg "CP/M Box screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpmbox/emulator_screenshot_01.jpg "CP/M Box screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

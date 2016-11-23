@@ -21,7 +21,7 @@ _higan is a multi-system emulator for the following systems: Nintendo Entertainm
 [:link: **Emulator website**](http://byuu.org/emulation/higan/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/higan/screen.jpg "higan screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/higan/emulator_screenshot_01.jpg "higan screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

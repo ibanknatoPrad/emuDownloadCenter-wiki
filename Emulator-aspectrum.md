@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Aspectrum is a Sinclair ZX Spectrum emulator. NOTE: Runs in Full-Screen mode ONLY. To access the Menu, press the 'ESC' key. To change the language (Spanish <-> English), press the 'F8' key._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aspectrum/screen.jpg "Aspectrum screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aspectrum/emulator_screenshot_01.jpg "Aspectrum screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

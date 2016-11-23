@@ -21,7 +21,7 @@ _nocash PS1 emulator/debugger for windows._
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nopsx/screen.jpg "no$psx screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nopsx/emulator_screenshot_01.jpg "no$psx screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

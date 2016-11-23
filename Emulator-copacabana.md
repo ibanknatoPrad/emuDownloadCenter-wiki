@@ -21,7 +21,7 @@ _CoPaCabana is an Amstrad CPC emulator._
 [:link: **Emulator website**](http://copacabana.emuunlim.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/copacabana/screen.jpg "CoPaCabana screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/copacabana/emulator_screenshot_01.jpg "CoPaCabana screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

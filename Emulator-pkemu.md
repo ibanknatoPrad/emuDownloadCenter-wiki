@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-0
 _PKEmu is a Sony Pocket Station emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pkemu/screen.jpg "PKEmu screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pkemu/emulator_screenshot_01.jpg "PKEmu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

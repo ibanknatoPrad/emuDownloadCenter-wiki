@@ -21,7 +21,7 @@ _Gens/GS is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Se
 [:link: **Emulator website**](http://sonicretro.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensgs/screen.jpg "Gens/GS screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensgs/emulator_screenshot_01.jpg "Gens/GS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

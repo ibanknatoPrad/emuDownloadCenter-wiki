@@ -21,7 +21,7 @@ _This emulator fully emulates the Sony Playstation. Compatibility is fairly high
 [:link: **Emulator website**](http://psxemulator.gazaxian.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/screen.jpg "pSX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/emulator_screenshot_01.jpg "pSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

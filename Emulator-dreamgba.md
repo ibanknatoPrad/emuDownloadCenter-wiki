@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **2.5 (x86)**, released on **2001-1
 _DreamGBA is a Nintendo Game Boy Advance emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamgba/screen.jpg "DreamGBA screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamgba/emulator_screenshot_01.jpg "DreamGBA screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

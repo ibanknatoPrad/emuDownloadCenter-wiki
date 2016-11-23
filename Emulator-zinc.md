@@ -21,7 +21,7 @@ _ZiNc is an emulator for various arcade games which ran on modified Sony PlaySta
 [:link: **Emulator website**](http://www.emuhype.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zinc/screen.jpg "ZiNc screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zinc/emulator_screenshot_01.jpg "ZiNc screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

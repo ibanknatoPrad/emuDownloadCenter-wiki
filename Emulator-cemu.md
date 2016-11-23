@@ -21,7 +21,7 @@ _Cemu is a highly experimental WiiU emulator. NOTE: Cemu is 64bit ONLY._
 [:link: **Emulator website**](http://cemu.info)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cemu/screen.jpg "Cemu screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cemu/emulator_screenshot_01.jpg "Cemu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

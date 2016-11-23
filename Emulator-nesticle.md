@@ -21,7 +21,7 @@ _NESticle is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://bloodlust.zophar.net/NESticle/nes.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesticle/screen.jpg "NESticle screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesticle/emulator_screenshot_01.jpg "NESticle screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

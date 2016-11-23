@@ -23,7 +23,7 @@ _EMU7800 is an Atari 7800 emulator implemented using Microsoft's .NET platform. 
 [:link: **Emulator website**](https://sourceforge.net/projects/emu7800/files/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu7800/screen.jpg "EMU7800 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu7800/emulator_screenshot_01.jpg "EMU7800 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

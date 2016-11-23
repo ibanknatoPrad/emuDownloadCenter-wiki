@@ -21,7 +21,7 @@ _zBoy is a Nintendo Game Boy emulator._
 [:link: **Emulator website**](http://zboy.sourceforge.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zboy/screen.jpg "zBoy screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zboy/emulator_screenshot_01.jpg "zBoy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

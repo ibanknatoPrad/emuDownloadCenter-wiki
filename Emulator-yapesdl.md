@@ -21,7 +21,7 @@ _yapeSDL is a Commodore plus/4 and 64 family emulator based on YAPE._
 [:link: **Emulator website**](https://yapesdl.codeplex.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yapesdl/screen.jpg "Yet Another Plus/4 Emulator SDL screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yapesdl/emulator_screenshot_01.jpg "Yet Another Plus/4 Emulator SDL screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

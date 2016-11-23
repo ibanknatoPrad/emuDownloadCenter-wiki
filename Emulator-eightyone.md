@@ -21,7 +21,7 @@ _EightyOne is a multiple system emulator for these systems: Sinclair ZX80, ZX81,
 [:link: **Emulator website**](https://www.aptanet.org/eightyone/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/eightyone/screen.jpg "EightyOne screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/eightyone/emulator_screenshot_01.jpg "EightyOne screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

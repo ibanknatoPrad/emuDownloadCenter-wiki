@@ -21,7 +21,7 @@ _Daedalus is a Nintendo N64 emulator._
 [:link: **Emulator website**](https://sourceforge.net/projects/daedalus-n64/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/daedalus/screen.jpg "Daedalus screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/daedalus/emulator_screenshot_01.jpg "Daedalus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

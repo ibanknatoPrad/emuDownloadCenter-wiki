@@ -21,7 +21,7 @@ _Xpeccy is a ZX Spectrum, Russian Clone and MSX-1 emulator. NOTE: BIOS images ar
 [:link: **Emulator website**](https://github.com/samstyle/Xpeccy)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xpeccy/screen.jpg "Xpeccy screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xpeccy/emulator_screenshot_01.jpg "Xpeccy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

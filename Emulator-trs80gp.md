@@ -21,7 +21,7 @@ _trs80gp is a Tandy/Radio Shack TRS-80 series emulator._
 [:link: **Emulator website**](http://members.shaw.ca/gp2000/trs80gp.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/trs80gp/screen.jpg "trs80gp screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/trs80gp/emulator_screenshot_01.jpg "trs80gp screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

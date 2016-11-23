@@ -21,7 +21,7 @@ _nesterJ is a Nintendo Entertainment System and Famicom emulator based on 'neste
 [:link: **Emulator website**](http://www.dcn.ne.jp/~otim2/nesterj/en/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesterj/screen.jpg "nesterJ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesterj/emulator_screenshot_01.jpg "nesterJ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

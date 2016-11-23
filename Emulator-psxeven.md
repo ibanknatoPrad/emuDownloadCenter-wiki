@@ -23,7 +23,7 @@ _PSXeven is a Sony Playstation 1 emulator. This emulator is released with defaul
 [:link: **Emulator website**](http://batard.psxfanatics.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxeven/screen.jpg "PSXeven screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxeven/emulator_screenshot_01.jpg "PSXeven screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

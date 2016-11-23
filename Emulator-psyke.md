@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.2.0 (x86)**, released on **1998
 _PSyKe is a Sony Playstation 1 emulator. This emulator requires the CD-ROM to be placed in the CD Drive._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psyke/screen.jpg "PSyKe screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psyke/emulator_screenshot_01.jpg "PSyKe screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

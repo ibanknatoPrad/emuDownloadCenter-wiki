@@ -21,7 +21,7 @@ _Virtual Panasonic JR-200U is an emulator for the Panasonic JR-200U._
 [:link: **Emulator website**](http://www.oocities.org/emucompboy/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtpanajr/screen.jpg "Virtual Panasonic JR-200U screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtpanajr/emulator_screenshot_01.jpg "Virtual Panasonic JR-200U screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

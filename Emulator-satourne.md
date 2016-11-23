@@ -23,7 +23,7 @@ _RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the 
 [:link: **Emulator website**](http://www.satourne.consollection.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/satourne/screen.jpg "Satourne screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/satourne/emulator_screenshot_01.jpg "Satourne screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

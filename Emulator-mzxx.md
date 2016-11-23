@@ -21,7 +21,7 @@ _MZXX is an multi-system emulator for the following: Sharp MZ-80K, MZ-80A, MZ-80
 [:link: **Emulator website**](http://www.sharpmz.org/mfranzenemu.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mzxx/screen.jpg "MZXX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mzxx/emulator_screenshot_01.jpg "MZXX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -23,7 +23,7 @@ _Cxbx is a Microsoft XBox emulator. This version is a fork of the original Cxbx.
 [:link: **Emulator website**](https://github.com/Echelon9/cxbx-shogun)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cxbx/screen.jpg "Cxbx screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cxbx/emulator_screenshot_01.jpg "Cxbx screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

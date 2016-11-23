@@ -21,7 +21,7 @@ _PCEjin is an NEC TurboGrafx-16 Entertainment SuperSystem and PC Engine emulator
 [:link: **Emulator website**](http://tasvideos.org/EmulatorResources/Pcejin.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcejin/screen.jpg "PCEjin screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcejin/emulator_screenshot_01.jpg "PCEjin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

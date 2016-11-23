@@ -21,7 +21,7 @@ _Emulator 2001 is a multi-system emulator that supports the Emerson Arcadia 2001
 [:link: **Emulator website**](http://www.gstsoftware.co.nz/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu2001/screen.jpg "Emulator2001 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu2001/emulator_screenshot_01.jpg "Emulator2001 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

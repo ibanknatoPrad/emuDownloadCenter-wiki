@@ -21,7 +21,7 @@ _fMSX is an MSX, MSX2 and MSX2+ emulator._
 [:link: **Emulator website**](http://fms.komkon.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fmsx/screen.jpg "fMSX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fmsx/emulator_screenshot_01.jpg "fMSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

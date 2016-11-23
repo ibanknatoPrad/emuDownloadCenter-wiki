@@ -21,7 +21,7 @@ _puNES is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://forums.nesdev.com/viewtopic.php?f=3&t=6928)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/punes/screen.jpg "puNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/punes/emulator_screenshot_01.jpg "puNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

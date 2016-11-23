@@ -21,7 +21,7 @@ _kat5200 is an emulator for the Atari 5200 and 8-bit computers._
 [:link: **Emulator website**](http://kat5200.jillybunch.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kat5200/screen.jpg "kat5200 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kat5200/emulator_screenshot_01.jpg "kat5200 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

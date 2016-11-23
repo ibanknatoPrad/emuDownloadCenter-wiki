@@ -21,7 +21,7 @@ _RascalBoy Advance is a Nintendo Game Boy Advance emulator._
 [:link: **Emulator website**](http://spazioinwind.libero.it/linoma/rascalboy.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rascalboyadv/screen.jpg "RascalBoy Advance screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rascalboyadv/emulator_screenshot_01.jpg "RascalBoy Advance screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

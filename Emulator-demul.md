@@ -23,7 +23,7 @@ _Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Nao
 [:link: **Emulator website**](http://demul.emulation64.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/demul/screen.jpg "Demul screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/demul/emulator_screenshot_01.jpg "Demul screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

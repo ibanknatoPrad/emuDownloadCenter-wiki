@@ -21,7 +21,7 @@ _3DNes is an emulator that renders Nintendo Entertainment System games in 3D wit
 [:link: **Emulator website**](http://geod.itch.io/3dnes)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dnes/screen.jpg "3DNes screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dnes/emulator_screenshot_01.jpg "3DNes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **2.78 (x86)**, released on **2005-
 _Anex86 is a PC-286, 386, 486 and 586 emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/anex86/screen.jpg "Anex86 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/anex86/emulator_screenshot_01.jpg "Anex86 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

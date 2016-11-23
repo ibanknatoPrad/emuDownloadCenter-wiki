@@ -21,7 +21,7 @@ _HomeLAB is an HomeLAB4 emulator for Windows_
 [:link: **Emulator website**](http://gaia.atilia.eu/content/view/3/4/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/screen.jpg "HomeLAB screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/emulator_screenshot_01.jpg "HomeLAB screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

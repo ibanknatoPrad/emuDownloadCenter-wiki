@@ -21,7 +21,7 @@ _M88 is an NEC PC8001 emulator. NOTE: The emulator is in Japanese._
 [:link: **Emulator website**](http://github.com/rururutan/m88)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m88/screen.jpg "M88 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m88/emulator_screenshot_01.jpg "M88 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.0.2 (x86)**, released on **2014
 _Short Waves is a Sony Playstation 3 emulator. NOTE: This emulator does not have a GUI, instead the path to the emulated '.elf' and all relevant settings must be specified in the configuration file 'sw_emu.ini', which must be located in a folder with the emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/shortwaves/screen.jpg "Short Waves screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/shortwaves/emulator_screenshot_01.jpg "Short Waves screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

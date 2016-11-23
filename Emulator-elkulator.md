@@ -21,7 +21,7 @@ _Elkulator is an Acorn Electron emulator._
 [:link: **Emulator website**](http://elkulator.acornelectron.co.uk/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/elkulator/screen.jpg "Elkulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/elkulator/emulator_screenshot_01.jpg "Elkulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

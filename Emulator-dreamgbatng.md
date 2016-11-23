@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **1.4 (x86)**, released on **2004-0
 _DreamGBA TNG is a Nintendo Game Boy Advance emulator based on DreamGBA. NOTE: Emulator is in Chinese. Controls are: Arrow (W, A, S, D) - Start (V) - Select (B) - ABLR ( J, K, U, I). Screenshot from http://www.starzaki.eu.org/~emukouncik/nr_online/e-k_28/e-k/ed8.htm._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamgbatng/screen.jpg "DreamGBA TNG screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamgbatng/emulator_screenshot_01.jpg "DreamGBA TNG screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

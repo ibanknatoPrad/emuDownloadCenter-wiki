@@ -23,7 +23,7 @@ _SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, 
 [:link: **Emulator website**](http://yabause.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yabause/screen.jpg "Yabause screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yabause/emulator_screenshot_01.jpg "Yabause screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

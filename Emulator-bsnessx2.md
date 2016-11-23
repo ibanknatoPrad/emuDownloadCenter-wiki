@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _BSNES-SX2 is a Nintendo Entertainment System, Famicom, SNES, Super Famicom, Game Boy Color, BS-X Satellaview and Sufami Turbo emulator based on BSNES v082._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnessx2/screen.jpg "BSNES-SX2 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnessx2/emulator_screenshot_01.jpg "BSNES-SX2 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _YoshiNES is a Nintendo Entertainment System emulator written in Visual Basic. I
 [:link: **Emulator website**](https://sourceforge.net/projects/yoshines/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yoshines/screen.jpg "YoshiNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yoshines/emulator_screenshot_01.jpg "YoshiNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

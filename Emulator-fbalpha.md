@@ -23,7 +23,7 @@ _FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1,
 [:link: **Emulator website**](http://www.fbalpha.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fbalpha/screen.jpg "FB Alpha screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fbalpha/emulator_screenshot_01.jpg "FB Alpha screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

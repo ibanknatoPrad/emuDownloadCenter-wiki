@@ -23,7 +23,7 @@ _Project64 is a Nintendo 64 emulator which at first seemed to have popped up out
 [:link: **Emulator website**](http://www.pj64-emu.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64/screen.jpg "Project64 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64/emulator_screenshot_01.jpg "Project64 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

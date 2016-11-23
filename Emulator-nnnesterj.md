@@ -21,7 +21,7 @@ _NNNesterJ is a Nintendo Entertainment System emulator based on NesterJ._
 [:link: **Emulator website**](http://www.emulation9.com/nnnesterj)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nnnesterj/screen.jpg "NNNesterJ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nnnesterj/emulator_screenshot_01.jpg "NNNesterJ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

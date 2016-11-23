@@ -21,7 +21,7 @@ _SainT is an Atari-ST emulator._
 [:link: **Emulator website**](http://leonard.oxg.free.fr/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saint/screen.jpg "SainT screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saint/emulator_screenshot_01.jpg "SainT screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

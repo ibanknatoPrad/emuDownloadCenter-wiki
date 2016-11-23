@@ -23,7 +23,7 @@ _Cxbx-Reloaded is a Microsoft XBox emulator. This version is a fork of the origi
 [:link: **Emulator website**](https://github.com/LukeUsher/Cxbx-Reloaded)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cxbxreloaded/screen.jpg "Cxbx Reloaded screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cxbxreloaded/emulator_screenshot_01.jpg "Cxbx Reloaded screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

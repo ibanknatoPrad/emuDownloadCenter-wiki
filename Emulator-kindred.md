@@ -21,7 +21,7 @@ _Kindred is an emulator for the Nintendo Entertainment System, Famicom Disk Syst
 [:link: **Emulator website**](http://www.crazysmart.net.au/kindred/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kindred/screen.jpg "Kindred screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kindred/emulator_screenshot_01.jpg "Kindred screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

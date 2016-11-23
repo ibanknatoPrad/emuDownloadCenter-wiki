@@ -21,7 +21,7 @@ _PSXjin is a Sony Playstation 1 emulator._
 [:link: **Emulator website**](http://code.google.com/p/psxjin/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxjin/screen.jpg "PSXjin screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxjin/emulator_screenshot_01.jpg "PSXjin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

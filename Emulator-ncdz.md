@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **2005.12.25 (x86)**, released on *
 _NEOGEO CD emulator-Z is a SNK Neo Geo CD emulator. NOTE: You must have the original games or a perfect (1:1) image (.iso, .mp3 etc. will NOT work). This is due to the emulator having an internal database of games and it blocks anything that doesn't match._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ncdz/screen.jpg "NEOGEO CD Emulator-Z screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ncdz/emulator_screenshot_01.jpg "NEOGEO CD Emulator-Z screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

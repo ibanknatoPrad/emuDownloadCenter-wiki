@@ -21,7 +21,7 @@ _Makaron is a Sega Dreamcast and Naomi emulator._
 [:link: **Emulator website**](http://dknute.livejournal.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/makaron/screen.jpg "Makaron screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/makaron/emulator_screenshot_01.jpg "Makaron screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

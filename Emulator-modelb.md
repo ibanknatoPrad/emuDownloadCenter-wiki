@@ -21,7 +21,7 @@ _model-b is an Acorn BBC emulator. NOTE: Screenshot from Author's Website._
 [:link: **Emulator website**](http://modelb.bbcmicro.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/modelb/screen.jpg "model-b screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/modelb/emulator_screenshot_01.jpg "model-b screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

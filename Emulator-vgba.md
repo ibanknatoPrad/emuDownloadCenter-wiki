@@ -21,7 +21,7 @@ _Virtual GameBoy Advance is a Nintendo Game Boy Advance emulator._
 [:link: **Emulator website**](http://fms.komkon.org/VGBA/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgba/screen.jpg "Virtual GameBoy Advance screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgba/emulator_screenshot_01.jpg "Virtual GameBoy Advance screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

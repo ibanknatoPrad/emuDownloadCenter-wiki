@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **4.2cb3 (x86)**, released on **201
 _Ti994W is a Texas Instruments TI99/4A emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ti994w/screen.jpg "Ti994W screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ti994w/emulator_screenshot_01.jpg "Ti994W screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

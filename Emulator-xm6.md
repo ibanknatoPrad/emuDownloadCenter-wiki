@@ -21,7 +21,7 @@ _XM 6 Type G is a Sharp X68000 emulator based on XM 6 by PI.. NOTE: 2.05 version
 [:link: **Emulator website**](http://www.ipc-tokai.or.jp/~ytanaka/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm6/screen.jpg "XM 6 Type G screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm6/emulator_screenshot_01.jpg "XM 6 Type G screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _88VA Eternal Grafx is a NEC PC-88VA, NEC PC-88VA2, NEC PC-9801VM, NEC PC-9801VX
 [:link: **Emulator website**](http://www.pc88.gr.jp/vaeg/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/88va/screen.jpg "88VA Eternal Grafx screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/88va/emulator_screenshot_01.jpg "88VA Eternal Grafx screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

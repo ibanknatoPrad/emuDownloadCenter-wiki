@@ -21,7 +21,7 @@ _ARAnyM (Atari Running on Any Machine) is an Atari ST, TT and Falcon emulator. N
 [:link: **Emulator website**](http://aranym.org/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aranym/screen.jpg "Atari on Any Machine screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aranym/emulator_screenshot_01.jpg "Atari on Any Machine screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

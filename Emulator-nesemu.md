@@ -21,7 +21,7 @@ _nes-emu is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://github.com/amaiorano/nes-emu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesemu/screen.jpg "nes-emu screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesemu/emulator_screenshot_01.jpg "nes-emu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

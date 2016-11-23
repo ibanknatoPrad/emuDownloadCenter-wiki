@@ -23,7 +23,7 @@ _AdriPSX is a Sony PlayStation emulator, It can run several games designed for t
 [:link: **Emulator website**](http://www.adripsx.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adripsx/screen.jpg "AdriPSX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adripsx/emulator_screenshot_01.jpg "AdriPSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

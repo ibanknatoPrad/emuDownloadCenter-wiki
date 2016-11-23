@@ -21,7 +21,7 @@ _ZEsarUX is an emulator for the Sinclair ZX Spectrum, ZX81 and ZX80, the Cambrid
 [:link: **Emulator website**](https://sourceforge.net/projects/zesarux/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zesarux/screen.jpg "ZEsarUX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zesarux/emulator_screenshot_01.jpg "ZEsarUX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

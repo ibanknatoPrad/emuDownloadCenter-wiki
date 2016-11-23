@@ -21,7 +21,7 @@ _PCSX-Reloaded is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT req
 [:link: **Emulator website**](http://pcsxr.codeplex.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsxr/screen.jpg "PCSX-Reloaded screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsxr/emulator_screenshot_01.jpg "PCSX-Reloaded screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

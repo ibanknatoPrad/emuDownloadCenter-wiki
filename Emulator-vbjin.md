@@ -21,7 +21,7 @@ _VBjin is a Nintendo Virtual Boy emulator._
 [:link: **Emulator website**](https://code.google.com/archive/p/vbjin/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbjin/screen.jpg "VBjin screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbjin/emulator_screenshot_01.jpg "VBjin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

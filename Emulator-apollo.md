@@ -21,7 +21,7 @@ _Apollo is a Nintendo 64 emulator._
 [:link: **Emulator website**](http://www.apollo64.com/indexn.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apollo/screen.jpg "Apollo screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apollo/emulator_screenshot_01.jpg "Apollo screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

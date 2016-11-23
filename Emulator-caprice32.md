@@ -21,7 +21,7 @@ _Caprice32 is a software emulator of the Amstrad CPC 8bit home computer series. 
 [:link: **Emulator website**](http://sourceforge.net/projects/caprice32/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/caprice32/screen.jpg "CaPriCe32 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/caprice32/emulator_screenshot_01.jpg "CaPriCe32 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

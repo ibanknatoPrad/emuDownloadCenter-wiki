@@ -21,7 +21,7 @@ _NullDC Naomi is a Sega Naomi emulator._
 [:link: **Emulator website**](http://github.com/skmp/nulldc)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nulldcn/screen.jpg "nullDC NAOMI screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nulldcn/emulator_screenshot_01.jpg "nullDC NAOMI screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

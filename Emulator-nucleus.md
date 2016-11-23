@@ -21,7 +21,7 @@ _Nucleus is a Sony Playstation 3 emulator. NOTE: This emulator requires PS3 firm
 [:link: **Emulator website**](http://github.com/AlexAltea/nucleus/releases)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nucleus/screen.jpg "Nucleus screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nucleus/emulator_screenshot_01.jpg "Nucleus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

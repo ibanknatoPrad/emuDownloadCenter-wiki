@@ -21,7 +21,7 @@ _RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the 
 [:link: **Emulator website**](http://www.rxnes.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rxnes/screen.jpg "RxNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rxnes/emulator_screenshot_01.jpg "RxNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

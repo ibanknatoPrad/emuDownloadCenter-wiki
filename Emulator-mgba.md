@@ -21,7 +21,7 @@ _mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator._
 [:link: **Emulator website**](http://mgba.io)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mgba/screen.jpg "mGBA screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mgba/emulator_screenshot_01.jpg "mGBA screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

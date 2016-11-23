@@ -23,7 +23,7 @@ _nullDC is a Sega Dreamcast emulator._
 [:link: **Emulator website**](http://github.com/skmp/nulldc)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nulldc/screen.jpg "nullDC screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nulldc/emulator_screenshot_01.jpg "nullDC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It 
 [:link: **Emulator website**](http://vba-m.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbam/screen.jpg "VisualBoyAdvance-M-WX screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbam/emulator_screenshot_01.jpg "VisualBoyAdvance-M-WX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

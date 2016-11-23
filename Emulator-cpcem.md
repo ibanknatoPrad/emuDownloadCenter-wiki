@@ -19,7 +19,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _This Amstrad CPC emulator that has been around for awhile by Tom Walker. It emulates Z80, video emulation, disc emulation, sound emulation, a GUI, SVGA, joysticks, and more._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcem/screen.jpg "CPC-em screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcem/emulator_screenshot_01.jpg "CPC-em screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

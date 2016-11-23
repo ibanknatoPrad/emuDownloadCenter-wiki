@@ -21,7 +21,7 @@ _Classic99 is a Texas Instruments TI-99/4A and TI-99/4 emulator._
 [:link: **Emulator website**](http://www.harmlesslion.com/classic99)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/classic99/screen.jpg "Classic99 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/classic99/emulator_screenshot_01.jpg "Classic99 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _Vic-20 Emulator is a Commodore Vic-20 emulator and debugger. NOTE: Ensure the c
 [:link: **Emulator website**](http://sourceforge.net/projects/vic20emu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vic20emu/screen.jpg "Vic-20 Emulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vic20emu/emulator_screenshot_01.jpg "Vic-20 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

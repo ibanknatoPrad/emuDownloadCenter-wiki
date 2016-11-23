@@ -21,7 +21,7 @@ _QLAY2 is a Sinclair QL emulator. It is a port of QLAY._
 [:link: **Emulator website**](http://www.jadiam.org/QL/QLAY2/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlay2/screen.jpg "QLAY2 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlay2/emulator_screenshot_01.jpg "QLAY2 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

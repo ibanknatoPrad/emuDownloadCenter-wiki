@@ -21,7 +21,7 @@ _HDNes is a Nintendo Entertainment System emulator with the ability to replace t
 [:link: **Emulator website**](http://forums.nesdev.com/viewtopic.php?f=3&t=9935)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hdnes/screen.jpg "HDNes screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hdnes/emulator_screenshot_01.jpg "HDNes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

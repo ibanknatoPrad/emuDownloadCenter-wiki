@@ -23,7 +23,7 @@ _Regen is an emulator which can emulate the following systems with very high acc
 [:link: **Emulator website**](http://aamirm.hacking-cult.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/regen/screen.jpg "Regen screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/regen/emulator_screenshot_01.jpg "Regen screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

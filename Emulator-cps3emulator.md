@@ -21,7 +21,7 @@ _Capcom Play System 3 Emulator is a Capcom Play System 3 emulator._
 [:link: **Emulator website**](http://nebula.emulatronia.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cps3emulator/screen.jpg "Capcom Play System 3 Emulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cps3emulator/emulator_screenshot_01.jpg "Capcom Play System 3 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

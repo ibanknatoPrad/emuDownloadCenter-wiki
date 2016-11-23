@@ -23,7 +23,7 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 [:link: **Emulator website**](http://freedo.org)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/freedo/screen.jpg "FreeDo screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/freedo/emulator_screenshot_01.jpg "FreeDo screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

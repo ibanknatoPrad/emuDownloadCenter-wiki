@@ -21,7 +21,7 @@ _SNESGT is a Nintendo SNES and Super Famicom emulator._
 [:link: **Emulator website**](http://gigo.retrogames.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snesgt/screen.jpg "SNESGT screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snesgt/emulator_screenshot_01.jpg "SNESGT screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

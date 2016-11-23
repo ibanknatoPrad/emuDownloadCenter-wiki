@@ -23,7 +23,7 @@ _CpcAlive is a programming environment Amstrad CPC compatible for graphics anima
 [:link: **Emulator website**](http://www.cpcalive.com/cpcalive_en.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcalive/screen.jpg "CpcAlive screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcalive/emulator_screenshot_01.jpg "CpcAlive screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

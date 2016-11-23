@@ -21,7 +21,7 @@ _Arnold is an Amstrad/Schneider CPC, Plus/CPC+ and VEB Mikroelektronik KC Compac
 [:link: **Emulator website**](http://arnold.cpc-live.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnold/screen.jpg "Arnold screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnold/emulator_screenshot_01.jpg "Arnold screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

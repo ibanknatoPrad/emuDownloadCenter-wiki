@@ -21,7 +21,7 @@ _Reality Boy is a Nintendo Virtual Boy emulator._
 [:link: **Emulator website**](http://goliathindustries.com/vb)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/realityboy/screen.jpg "Reality Boy screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/realityboy/emulator_screenshot_01.jpg "Reality Boy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -23,7 +23,7 @@ _VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Co
 [:link: **Emulator website**](http://vice-emu.sourceforge.net)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvice/screen.jpg "WinVICE screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvice/emulator_screenshot_01.jpg "WinVICE screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

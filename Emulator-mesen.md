@@ -21,7 +21,7 @@ _Mesen is a Nintendo Entertainment System and Famicom emulator._
 [:link: **Emulator website**](http://mesen.ca)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesen/screen.jpg "Mesen screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesen/emulator_screenshot_01.jpg "Mesen screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

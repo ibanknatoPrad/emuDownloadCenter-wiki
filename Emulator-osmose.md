@@ -21,7 +21,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _Osmose is a Sega Master System and Game Gear emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/osmose/screen.jpg "Osmose screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/osmose/emulator_screenshot_01.jpg "Osmose screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

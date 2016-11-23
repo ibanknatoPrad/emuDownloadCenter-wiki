@@ -23,7 +23,7 @@ _Dreamemu is an emulator for the Sega Dreamcast console. Dreamemu is in very ear
 [:link: **Emulator website**](http://www.dreamemu.net/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamemu/screen.jpg "DreamEmu screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dreamemu/emulator_screenshot_01.jpg "DreamEmu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

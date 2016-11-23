@@ -21,7 +21,7 @@ _NeoPocott is an SNK Neo Geo Pocket and Neo Geo Pocket Color emulator._
 [:link: **Emulator website**](http://neopocott.emuunlim.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neopocott/screen.jpg "NeoPocott screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neopocott/emulator_screenshot_01.jpg "NeoPocott screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.0.9.61 (x86)**, released on **2
 _Gens Plus! is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. It has many optimizations and new features, like new software graphics filters, new sound effects, support for cheats files, support for joysticks with axes, Master System/Game Gear emulation and new screen resolutions._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensplus/screen.jpg "Gens Plus! screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensplus/emulator_screenshot_01.jpg "Gens Plus! screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

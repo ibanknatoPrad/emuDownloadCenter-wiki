@@ -21,7 +21,7 @@ _UberNES is a Nintendo Entertainment System emulator._
 [:link: **Emulator website**](http://www.ubernes.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ubernes/screen.jpg "UberNES screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ubernes/emulator_screenshot_01.jpg "UberNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

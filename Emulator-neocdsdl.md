@@ -23,7 +23,7 @@ _NeoCD/SDL is a port of NeoCD using SDL libraries._
 [:link: **Emulator website**](http://pacifi3d.retrogames.com/neocdsdl/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neocdsdl/screen.jpg "NeoCD/SDL screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neocdsdl/emulator_screenshot_01.jpg "NeoCD/SDL screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

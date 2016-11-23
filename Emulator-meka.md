@@ -21,7 +21,7 @@ _MEKA is a multi-system emulator that emulates the following: Sega Game 1000 (SG
 [:link: **Emulator website**](http://www.smspower.org/meka)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/meka/screen.jpg "MEKA screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/meka/emulator_screenshot_01.jpg "MEKA screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **2009.09.09 (x86)**, released on *
 _PK201 is a Sony PocketStation emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pk201/screen.jpg "PK201 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pk201/emulator_screenshot_01.jpg "PK201 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

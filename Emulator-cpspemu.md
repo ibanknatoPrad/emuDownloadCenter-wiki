@@ -21,7 +21,7 @@ _CPSPEmu is a Sony Playstation Portable emulator._
 [:link: **Emulator website**](http://pspemu.soywiz.com)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpspemu/screen.jpg "CPSPEmu screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpspemu/emulator_screenshot_01.jpg "CPSPEmu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

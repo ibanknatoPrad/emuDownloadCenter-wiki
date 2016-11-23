@@ -21,7 +21,7 @@ _APF_EMUW emulates in a PC a computer APF Imagination Machine._
 [:link: **Emulator website**](http://www.nausicaa.net/~lgreenf/apfpage.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apfemuw/screen.jpg "APF EMUW screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apfemuw/emulator_screenshot_01.jpg "APF EMUW screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

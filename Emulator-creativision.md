@@ -21,7 +21,7 @@ _creatiVision Emulator is an emulator for the VTech Creativision, Dick Smith Wiz
 [:link: **Emulator website**](http://sourceforge.net/projects/creativisionemulator/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/creativision/screen.jpg "creatiVision Emulator screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/creativision/emulator_screenshot_01.jpg "creatiVision Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

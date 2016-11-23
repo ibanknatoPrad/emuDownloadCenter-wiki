@@ -21,7 +21,7 @@ _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulat
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nomsx/screen.jpg "no$msx screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nomsx/emulator_screenshot_01.jpg "no$msx screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -21,7 +21,7 @@ _DCHector is an Interact Home Computer System emulator and several other compute
 [:link: **Emulator website**](http://dchector.free.fr)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dchector/screen.jpg "DCHector screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dchector/emulator_screenshot_01.jpg "DCHector screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

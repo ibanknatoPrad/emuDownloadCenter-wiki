@@ -19,7 +19,7 @@ The latest version of the emulator on EDC is **0.5.0 (x86)**, released on **2002
 _Koyote is an SNK Neo Geo Pocket and Pocket Color emulator._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/koyote/screen.jpg "Koyote screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/koyote/emulator_screenshot_01.jpg "Koyote screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

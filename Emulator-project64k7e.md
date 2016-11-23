@@ -23,7 +23,7 @@ _Project64K7E is a Nintendo 64 emulator based on Project64._
 [:link: **Emulator website**](http://project64k7e.blogspot.com.au/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k7e/screen.jpg "Project64K7E screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k7e/emulator_screenshot_01.jpg "Project64K7E screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

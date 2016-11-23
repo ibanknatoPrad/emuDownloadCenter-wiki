@@ -21,7 +21,7 @@ _GB Enhanced+ is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulat
 [:link: **Emulator website**](http://github.com/shonumi/gbe-plus)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gbeplus/screen.jpg "GB Enhanced+ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gbeplus/emulator_screenshot_01.jpg "GB Enhanced+ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

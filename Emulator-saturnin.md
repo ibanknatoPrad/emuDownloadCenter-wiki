@@ -23,7 +23,7 @@ _Saturnin is an emulator for the Sega Saturn system and Sega Titan Video, develo
 [:link: **Emulator website**](http://saturnin.consollection.com/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saturnin/screen.jpg "Saturnin screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saturnin/emulator_screenshot_01.jpg "Saturnin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

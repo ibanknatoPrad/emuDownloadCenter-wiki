@@ -21,7 +21,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 _PSinex PC Emulator is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins._
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psinex/screen.jpg "PSinex screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psinex/emulator_screenshot_01.jpg "PSinex screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
