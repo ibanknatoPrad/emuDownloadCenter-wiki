@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |

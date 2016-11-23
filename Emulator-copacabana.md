@@ -12,7 +12,7 @@
 
 **CoPaCabana** is a emulator for **Amstrad CPC** made by **Regis Nicolas** and has a **Donationware** license.
 
-The latest version of the emulator on EDC is **0.74 (x86)**, released on **2006-04-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CoPaCabana.exe**.
+The latest version of the emulator on EDC is **0.74 (x86)**, released on **2006-04-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EMU\CoPaCabana.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

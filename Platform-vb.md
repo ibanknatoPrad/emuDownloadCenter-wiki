@@ -10,5 +10,6 @@
 | [:file_folder: **Reality Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-realityboy#menu) | :red_circle: Non-active (2008) | Freeware - Non-Commercial |
 | [:file_folder: **Red Dragon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-reddragon#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **VBjin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbjin#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
+| [:file_folder: **VBjin-OVR**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbjin-ovr#menu) | :large_blue_circle: Active (2016) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

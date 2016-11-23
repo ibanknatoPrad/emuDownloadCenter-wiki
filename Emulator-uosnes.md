@@ -24,6 +24,6 @@ _uosnes is a Nintendo SNES and Super Famicom emulator._
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **2010.08.25**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/uosnes/2010.08.25.7z) | 2010-08-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/uosnes/2010.08.25_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/uosnes/2010.08.25_contents.txt) | 0 KB |
+| [:floppy_disk: **2010.08.25**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/uosnes/2010.08.25.7z) | 2010-08-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/uosnes/2010.08.25_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/uosnes/2010.08.25_contents.txt) | 1492 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

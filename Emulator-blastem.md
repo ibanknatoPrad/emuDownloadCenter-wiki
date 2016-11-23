@@ -27,5 +27,6 @@ _BlastEm is a Sega Genesis emulator._
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **0.4.1**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/blastem/0.4.1.7z) | 2016-08-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/blastem/0.4.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/blastem/0.4.1_contents.txt) | 796 KB |
+| [:floppy_disk: **0.4.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/blastem/0.4.0.7z) | 2016-05-03 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/blastem/0.4.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/blastem/0.4.0_contents.txt) | 771 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

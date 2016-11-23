@@ -13,5 +13,6 @@
 | [:file_folder: **Gens Plus!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensplus#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |
 | [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: Non-active (2010) | Freeware |
 | [:file_folder: **PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | :red_circle: Non-active (2008) | Non-standard |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

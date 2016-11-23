@@ -27,5 +27,6 @@ _VBjin is a Nintendo Virtual Boy emulator._
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **svn61**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/vbjin/svn61.7z) | 2010-05-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/vbjin/svn61_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/vbjin/svn61_contents.txt) | 401 KB |
+| [:floppy_disk: **svn44**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/vbjin/svn44.7z) | 2010-04-30 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/vbjin/svn44_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/vbjin/svn44_contents.txt) | 471 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

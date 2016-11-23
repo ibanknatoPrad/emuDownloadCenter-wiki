@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BoycottAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-boycottadv#menu) | :red_circle: Non-active (2003) | Freeware |
 | [:file_folder: **DreamGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamgba#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |
 | [:file_folder: **DreamGBA TNG**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamgbatng#menu) | :red_circle: Non-active (2004) | GNU GPLv2 |
@@ -20,5 +21,6 @@
 | [:file_folder: **VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
 | [:file_folder: **Virtual GameBoy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgba#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

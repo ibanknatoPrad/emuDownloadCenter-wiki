@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnes#menu) | :red_circle: Non-active (2012) | Freeware |
 | [:file_folder: **BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **BSNES+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesplus#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
@@ -23,6 +24,7 @@
 | [:file_folder: **SNESGT**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snesgt#menu) | :red_circle: Non-active (2011) | UNKNOWN |
 | [:file_folder: **SneM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-snem#menu) | :red_circle: Non-active (2004) | UNKNOWN |
 | [:file_folder: **uosnes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-uosnes#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **ZSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zsnes#menu) | :red_circle: Non-active (2007) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

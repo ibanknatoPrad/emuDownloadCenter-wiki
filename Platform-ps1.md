@@ -7,6 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **AdriPSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adripsx#menu) | :red_circle: Non-active (2002) | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **ePSXe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-epsxe#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **HPSX (Highly-Experimental Playstation Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hpsx64#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
 | [:file_folder: **Jackal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jackal#menu) | :red_circle: Non-active (1999) | GNU GPLv2 |

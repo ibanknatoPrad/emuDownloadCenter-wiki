@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | :large_blue_circle: Active (2015) | Freeware |
 | [:file_folder: **BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **BSNES+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesplus#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |

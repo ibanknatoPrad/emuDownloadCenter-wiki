@@ -13,5 +13,6 @@
 | [:file_folder: **Nebula**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nebula#menu) | :red_circle: Non-active (2007) | Freeware |
 | [:file_folder: **NGAE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ngae#menu) | :red_circle: Non-active (2012) | UNKNOWN |
 | [:file_folder: **WinKawaks**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winkawaks#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

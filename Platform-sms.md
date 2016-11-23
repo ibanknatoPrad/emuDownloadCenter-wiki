@@ -7,6 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **Dega**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dega#menu) | :red_circle: Non-active (2011) | Freeware - Non-Commercial |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **Emukon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emukon#menu) | :red_circle: Non-active (2004) | KonTechs Freeware License |
@@ -24,7 +25,9 @@
 | [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | :large_blue_circle: Active (2016) | Free for Personal and Non-Commercial Use |
 | [:file_folder: **PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | :red_circle: Non-active (2008) | Non-standard |
 | [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | :red_circle: Non-active (2009) | Non-standard |
+| [:file_folder: **RetroCopy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-retrocopy#menu) | :red_circle: Non-active (2011) | Freeware |
 | [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **TwoMBit**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-twombit#menu) | :red_circle: Non-active (2012) | GNU GPLv3 |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,7 @@
 
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **Satourne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-satourne#menu) | :red_circle: Non-active (2005) | Freeware |
 | [:file_folder: **Saturnin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-saturnin#menu) | :red_circle: Non-active (2005) | Freeware |

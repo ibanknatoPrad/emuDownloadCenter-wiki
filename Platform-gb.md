@@ -7,6 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | :large_blue_circle: Active (2015) | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | :red_circle: Non-active (2011) | GNU GPLv3 |
 | [:file_folder: **DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | :white_circle: Active (2014) | GNU GPLv3 |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
@@ -24,6 +25,7 @@
 | [:file_folder: **VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |
 | [:file_folder: **Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | :large_blue_circle: Active (2016) | UNKNOWN |
 | [:file_folder: **VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **zBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zboy#menu) | :large_blue_circle: Active (2015) | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

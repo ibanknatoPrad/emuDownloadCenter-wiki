@@ -7,6 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: Non-active (2009) | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **ColEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-colem#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial - Attribution Required |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
