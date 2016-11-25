@@ -28,6 +28,6 @@ _TilEm is an emulator and debugger for Texas Instruments Z80-based graphing calc
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/ti994w/2.0.7z) | 2012-06-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_contents.txt) | 0 KB |
+| [:floppy_disk: **2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/tilem/2.0.7z) | 2012-06-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_contents.txt) | 0 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
