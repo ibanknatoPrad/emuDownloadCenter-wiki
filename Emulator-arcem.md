@@ -27,5 +27,6 @@ _ArcEm is an Acorn Archimedes emulator_
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.50**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/arcem/1.50.7z) | 2012-12-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/arcem/1.50_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/arcem/1.50_contents.txt) | 70 KB |
+| [:floppy_disk: **1.00**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/arcem/1.00.7z) | 2002-05-06 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/arcem/1.00_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/arcem/1.00_contents.txt) | 64 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

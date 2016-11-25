@@ -144,6 +144,7 @@
 | [:file_folder: **Texas Instruments TI-82**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti82) | :iphone: Calculator | ti82 |
 | [:file_folder: **Texas Instruments TI-83**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti83) | :iphone: Calculator | ti83 |
 | [:file_folder: **Texas Instruments TI-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti85) | :iphone: Calculator | ti85 |
+| [:file_folder: **Texas Instruments TI-86**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti86) | :iphone: Calculator | ti86 |
 | [:file_folder: **Texas Instruments TI-99/4A**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti99) | :computer: Computer | ti99 |
 | [:file_folder: **Tandy/Radio Shack TRS-80 Color Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-trs80) | :computer: Computer | trs80 |
 | [:file_folder: **Tomy Tutor/Pyuta**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tutor) | :computer: Computer | tutor |
@@ -156,6 +157,7 @@
 | [:file_folder: **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
 | [:file_folder: **Commodore VIC-20**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vic20) | :computer: Computer | vic20 |
 | [:file_folder: **Cosmac VIP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vip) | :computer: Computer | vip |
+| [:file_folder: **Nintendo Wii**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wii) | :fax: Console | wii |
 | [:file_folder: **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
 | [:file_folder: **Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :pager: Handheld | ws |
 | [:file_folder: **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :pager: Handheld | wsc |

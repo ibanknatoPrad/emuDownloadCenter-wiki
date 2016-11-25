@@ -18,7 +18,7 @@ The latest version of the emulator on EDC is **1.27 (x86)**, released on **2015-
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_gat Emulator is an Apple II and Agat 7/9 (Soviet clones) emulator. Its GUI uses the Russian language._
+_Agat Emulator is an Apple II and Agat 7/9 (Soviet clones) emulator. Its GUI uses the Russian language._
 
 [:link: **Emulator website**](https://sourceforge.net/projects/agatemulator/)
 ***

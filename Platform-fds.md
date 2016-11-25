@@ -7,7 +7,7 @@
 | Emulator   | Developement        | License     |
 |:-----------|:--------------------|:------------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
-| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :red_circle: Non-active (2013) | Freeware |
+| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 - Special for Commercial Use |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | :red_circle: Non-active (2012) | Freeware |

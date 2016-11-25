@@ -8,11 +8,11 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :large_blue_circle: Active (2016)
 
 **FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **2.2.2 (x86)**, released on **2013-09-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fceux.exe**.
+The latest version of the emulator on EDC is **2.2.3 (x86)**, released on **2016-07-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fceux.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -26,6 +26,7 @@ _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evoluti
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
+| [:floppy_disk: **2.2.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.3.7z) | 2016-07-28 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.3_contents.txt) | 2914 KB |
 | [:floppy_disk: **2.2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.2.7z) | 2013-09-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.2_contents.txt) | 2870 KB |
 | [:floppy_disk: **2.2.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.1.7z) | 2013-03-10 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.1_contents.txt) | 2727 KB |
 | [:floppy_disk: **2.2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.2.0.7z) | 2012-11-27 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.2.0_contents.txt) | 2714 KB |
@@ -35,6 +36,7 @@ _FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evoluti
 | [:floppy_disk: **2.1.4a-win98-win2000**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.1.4a-win98-win2000.7z) | 2010-06-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.4a-win98-win2000_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.4a-win98-win2000_contents.txt) | 1638 KB |
 | [:floppy_disk: **2.1.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.1.2.7z) | 2009-11-03 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.2_contents.txt) | 1549 KB |
 | [:floppy_disk: **2.1.1**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.1.1.7z) | 2009-07-29 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.1_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.1_contents.txt) | 1485 KB |
+| [:floppy_disk: **2.1.0a**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.1.0a.7z) | 2009-04-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.0a_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.0a_contents.txt) | 1467 KB |
 | [:floppy_disk: **2.1.0**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.1.0.7z) | 2009-03-29 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.1.0_contents.txt) | 1215 KB |
 | [:floppy_disk: **2.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.0.3.7z) | 2008-11-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.0.3_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.0.3_contents.txt) | 894 KB |
 | [:floppy_disk: **2.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/fceux/2.0.2.7z) | 2008-08-14 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.0.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/fceux/2.0.2_contents.txt) | 890 KB |

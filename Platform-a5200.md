@@ -13,5 +13,6 @@
 | [:file_folder: **Jum52**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jum52#menu) | :red_circle: Non-active (2010) | Freeware |
 | [:file_folder: **kat5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kat5200#menu) | :red_circle: Non-active (2009) | GNU GPL |
 | [:file_folder: **Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) | :red_circle: Non-active (2012) | UNKNOWN |
+| [:file_folder: **Virtual Super System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vss#menu) | :red_circle: Non-active (2004) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -43,6 +43,7 @@
 | [:file_folder: **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
 | [:file_folder: **Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
 | [:file_folder: **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
+| [:file_folder: **Nintendo Wii**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wii) | :fax: Console | wii |
 | [:file_folder: **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
 | [:file_folder: **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
 | [:file_folder: **Microsoft X-Box 360**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox360) | :fax: Console | xbox360 |

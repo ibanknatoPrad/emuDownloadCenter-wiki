@@ -15,7 +15,7 @@
 | [:file_folder: **BSNES-SX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnessx2#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **FakeNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fakenes#menu) | :red_circle: Non-active (2007) | Freeware |
-| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :red_circle: Non-active (2013) | Freeware |
+| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **HDNes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hdnes#menu) | :white_circle: Active (2014) | UNKNOWN |
 | [:file_folder: **iNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ines#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **Jnes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jnes#menu) | :red_circle: Non-active (2013) | Freeware |
@@ -25,7 +25,7 @@
 | [:file_folder: **Mercury Revival**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mercury#menu) | :white_circle: Active (2014) | UNKNOWN |
 | [:file_folder: **Mesen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mesen#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
 | [:file_folder: **My NES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mynes#menu) | :large_blue_circle: Active (2015) | GNU GPLv3 |
-| [:file_folder: **Nestopia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nestopia#menu) | :red_circle: Non-active (2008) | Open Source |
+| [:file_folder: **Nestopia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nestopia#menu) | :white_circle: Active (2014) | Open Source |
 | [:file_folder: **nes-emu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesemu#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **nesterJ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesterj#menu) | :red_circle: Non-active (2003) | GNU GPLv2 |
 | [:file_folder: **NESticle**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nesticle#menu) | :red_circle: Non-active (1997) | Freeware - Non-Commercial |
