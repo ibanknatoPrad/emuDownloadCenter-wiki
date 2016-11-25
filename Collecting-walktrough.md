@@ -3,7 +3,7 @@
 First you need to create a downloadhook for the emulator, you do this by:
 
 ### 1.1)
-Creating a folder in the downloadhooks folder, like: `downloadhooks\[emulatorfoldername]`
+Create a folder in the downloadhooks folder, like: `hooks\[emulatorfoldername]`
 
 **Specifications:**
 * **`emulatorfoldername`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
@@ -13,7 +13,7 @@ Create a **INFO INI** file in the `emulatorfoldername` wich contains basic infor
 
 The name of the INI file is: **`info.ini`**
 
-So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\info.ini`
+So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\emulator_info.ini`
 
 Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
 
@@ -47,14 +47,14 @@ Example Contents (Emulator Potator for Watara Supervision):
     Website             = 
     Notes               = This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility.
 
-Please note the Email is masked to prevent spamming (*=. | #=@)
+Please note the e-mail adress is masked to prevent spamming (*=. | #=@)
 
 ### 1.3)
 Create a **DOWNLOADS INI** file in the `emulatorfoldername` wich contains information about the emulator version(s).
 
-The name of the INI file is: **`downloads.ini`**
+The name of the INI file is: **`emulator_downloads.ini`**
 
-So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\downloads.ini`
+So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\emulator_downloads.ini`
 
 Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
 
@@ -70,6 +70,9 @@ DOWNLOADS INI file info:
 
 Contents of the DOWNLOADS INI file:
 
+    [INFO]
+    InfoVersion	                = Version of the INI file layout.
+
     [VERSION]
     EMU_Download                = The online location of the 7Z archive file (with ending slash /)
     EMU_ReleaseDate             = The releasedate of the emulator (if you cannot find it, use the date on the executable file)
@@ -79,16 +82,6 @@ Contents of the DOWNLOADS INI file:
     EMU_OS                      = Operating system.
     EMU_OSVersion               = Version of the operating system, comma seperated. (example: XP,Vista,7,8,10)
     EMU_OSArchitecture          = Operating system architecture, comma seperated. (example: x86 for win32 and x64 for win64)
-    CFG_ECCParameter            = ECC parameter line.
-    CFG_escape                  = Does the emulator needs the path in escapes? "" (default 1)
-    CFG_win8char                = Does the emulator need old 8.3 dosnames to work? (1 for yes, otherwise leave blank)
-    CFG_useCueFile              = Does the emulator needs a CUE file (possible in combination with script) to run? (1 for yes, otherwise leave blank)
-    CFG_filenameOnly            = Does the emulator only needs the filename to run? (1 for yes, otherwise leave blank)
-    CFG_noExtension             = Does the emulator only needs the filename to run without extension? (1 for yes, otherwise leave blank)
-    CFG_executeInEmuFolder      = Does the emulator needs to be executed from withing the emulator folder? (1 for yes, otherwise leave blank)
-    CFG_enableEccScript         = Does the emulator need a ECC script to start and run a ROM? (1 for yes, otherwise leave blank)
-    CFG_enableZipUnpackActive   = Does the ROM archive need to be extracted first? (1 for yes, otherwise leave blank)
-    CFG_enableZipUnpackSkip     = Skip already unpacked files (faster). (1 for yes, otherwise leave blank)
     INFO_PackedSize             = Autofilled by EDC manager in this GitHub repo. (Packed size of the archive contents)
     INFO_UnpackedSize           = Autofilled by EDC manager in this GitHub repo. (Unpacked size of the archive contents)
     INFO_CRC32Executable        = Autofilled by EDC manager in this GitHub repo. (CRC32 of the executable to start the emulator)
@@ -98,18 +91,6 @@ Contents of the DOWNLOADS INI file:
 * **`[VERSION]`** mostly exists of numbers, all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 * This version number must exist in the emulator download folder on a EDC repository, or EDC manager cannot find it to fill the details!
 * Always put the latest version on top and the oldest at the bottom!
-
-Please note that if you have 2 the same versions (and archive files) but diffrent platforms like x86 or x64, you have to make 2 sections, example snippets:
-
-    [0.1-win32]
-    EMU_OS                      = Windows
-    EMU_OSVersion               = XP,Vista,7,8,10
-    EMU_OSArchitecture          = x86
-
-    [0.1-win64]
-    EMU_OS                      = Windows
-    EMU_OSVersion               = Vista,7,8,10
-    EMU_OSArchitecture          = x64
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -122,6 +103,65 @@ Example Contents (Emulator Potator for Watara Supervision):
     EMU_OS                      = Windows
     EMU_OSVersion               = XP,Vista,7,8,10
     EMU_OSArchitecture          = x86,x64
+    INFO_PackedSize             = 179 
+    INFO_UnpackedSize           = 192 
+    INFO_CRC32Executable        = 6C059FFB 
+    INFO_CRC32Archive           = A8E52604
+
+**MISC**
+
+Please note that if you have 2 the same versions (and archive files) but diffrent architecture like x86 or x64, you have to make 2 sections, example snippets:
+
+    [0.1-win32]
+    EMU_OS                      = Windows
+    EMU_OSVersion               = XP,Vista,7,8,10
+    EMU_OSArchitecture          = x86
+
+    [0.1-win64]
+    EMU_OS                      = Windows
+    EMU_OSVersion               = Vista,7,8,10
+    EMU_OSArchitecture          = x64
+
+Other files for source, extras or other platforms should be named like:
+
+[version]-linux
+[version]-mac
+[version]-source
+[version]-extras
+
+### 1.4)
+Create a **ECC CONFIGURATION INI** file in the `emulatorfoldername` wich contains ecc configuration(s) about the emulator version(s).
+
+The name of the INI file is: **`configs_frontend_ecc.ini`**
+
+So, for example you have a emulator called `johndoe` it is `downloadhooks\johndoe\configs_frontend_ecc.ini`
+
+Ps. You can find templates over [here](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates)
+
+Contents of the ECC CONFIGURATION INI file:
+
+    [INFO]
+    InfoVersion	                = Version of the INI file layout.
+
+    [GLOBAL]
+    CFG_ECCParameter            = ECC parameter line.
+    CFG_escape                  = Does the emulator needs the path in escapes? "" (default 1)
+    CFG_win8char                = Does the emulator need old 8.3 dosnames to work? (1 for yes, otherwise leave blank)
+    CFG_useCueFile              = Does the emulator needs a CUE file (possible in combination with script) to run? (1 for yes, otherwise leave blank)
+    CFG_filenameOnly            = Does the emulator only needs the filename to run? (1 for yes, otherwise leave blank)
+    CFG_noExtension             = Does the emulator only needs the filename to run without extension? (1 for yes, otherwise leave blank)
+    CFG_executeInEmuFolder      = Does the emulator needs to be executed from withing the emulator folder? (1 for yes, otherwise leave blank)
+    CFG_enableEccScript         = Does the emulator need a ECC script to start and run a ROM? (1 for yes, otherwise leave blank)
+    CFG_enableZipUnpackActive   = Does the ROM archive need to be extracted first? (1 for yes, otherwise leave blank)
+    CFG_enableZipUnpackSkip     = Skip already unpacked files (faster). (1 for yes, otherwise leave blank)
+
+    [VERSION] (optional)
+
+[GLOBAL] sets the settings for all versions of this emulator, any specific configuration for a version can be placed in a new INI header [].
+
+Example Contents (Emulator Potator for Watara Supervision):
+
+    [GLOBAL]
     CFG_ECCParameter            = %ROM%
     CFG_escape                  = 1
     CFG_win8char                =
@@ -132,12 +172,8 @@ Example Contents (Emulator Potator for Watara Supervision):
     CFG_enableEccScript         = 
     CFG_enableZipUnpackActive   =
     CFG_enableZipUnpackSkip     =
-    INFO_PackedSize             = 179 
-    INFO_UnpackedSize           = 192 
-    INFO_CRC32Executable        = 6C059FFB 
-    INFO_CRC32Archive           = A8E52604
 
-### 1.3)
+### 1.5)
 Create a **SCREENSHOT** file in the `emulatorfoldername` wich is a screenshot taken from the emulator.
 
 The file has to be JPG, and the name of the JPG file is: **`screen.jpg`**
@@ -147,7 +183,7 @@ The file has to be JPG, and the name of the JPG file is: **`screen.jpg`**
 
 * This file **MUST** exists!, if there is no screenshot avaiable then use the one in the [**template**](https://github.com/PhoenixInteractiveNL/edc-masterhook/tree/master/downloadhooks/0_templates) folder.
 
-### 1.4) OPTIONAL
+### 1.6) OPTIONAL
 Create a **LOGO** file in the `emulatorfoldername` wich contains the logo of the emulator.
 
 The file has to be PNG or JPG, and the name of the file is: **`logo.png/logo.jpg`**

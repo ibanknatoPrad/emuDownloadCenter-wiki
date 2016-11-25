@@ -4,7 +4,7 @@
 | **Emulator: RedMSX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RedMSX is an MSX, MSX2 and MSX2+ emulator._
 
 [:link: **Emulator website**](http://redmsx.msxblue.com/index.htm)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/redmsx/emulator_screenshot_01.jpg "RedMSX screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/redmsx/emulator_screen_01.jpg "RedMSX screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Oswan (Unofficial)** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Oswan (Unofficial) is a Bandai WonderSwan and WonderSwan Color emulator. This is an unofficial build based on Oswan by Cal2._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/oswanu/emulator_screenshot_01.jpg "Oswan (Unofficial) screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/oswanu/emulator_screen_01.jpg "Oswan (Unofficial) screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: no$2k6** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nocash Atari 2600 emulator/debugger for windows._
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/no2k6/emulator_screenshot_01.jpg "no$2k6 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/no2k6/emulator_screen_01.jpg "no$2k6 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

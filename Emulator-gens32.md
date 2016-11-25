@@ -4,7 +4,7 @@
 | **Emulator: Gens32 Surreal** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Seg
 
 [:link: **Emulator website**](http://gens.consolemul.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens32/emulator_screenshot_01.jpg "Gens32 Surreal screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens32/emulator_screen_01.jpg "Gens32 Surreal screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: UltraHLE** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _UltraHLE is an emulator allowing games for the Nintendo 64 game console to be r
 
 [:link: **Emulator website**](http://www.emuunlim.com/UltraHLE/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ultrahle/emulator_screenshot_01.jpg "UltraHLE screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ultrahle/emulator_screen_01.jpg "UltraHLE screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

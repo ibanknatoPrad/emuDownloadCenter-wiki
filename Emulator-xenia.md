@@ -4,7 +4,7 @@
 | **Emulator: xenia** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _xenia is a Microsoft XBOX360 emulator. Screenshot from https://www.youtube.com/
 
 [:link: **Emulator website**](http://xenia.jp)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xenia/emulator_screenshot_01.jpg "xenia screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xenia/emulator_screen_01.jpg "xenia screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

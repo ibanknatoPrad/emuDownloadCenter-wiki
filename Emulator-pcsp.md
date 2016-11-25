@@ -4,7 +4,7 @@
 | **Emulator: PCSP** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **0.5.4 (x86)**, released on **2011
 
 _PCSP is a Sony Playstation Portable emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsp/emulator_screenshot_01.jpg "PCSP screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsp/emulator_screen_01.jpg "PCSP screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

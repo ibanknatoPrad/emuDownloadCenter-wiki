@@ -4,7 +4,7 @@
 | **Emulator: SainT** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SainT is an Atari-ST emulator._
 
 [:link: **Emulator website**](http://leonard.oxg.free.fr/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saint/emulator_screenshot_01.jpg "SainT screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/saint/emulator_screen_01.jpg "SainT screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

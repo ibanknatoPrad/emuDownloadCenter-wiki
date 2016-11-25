@@ -4,7 +4,7 @@
 | **Emulator: XM7** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _XM7 is an emulator for the Fujitsu FM-7. NOTE: Emulator and Website are in Japa
 
 [:link: **Emulator website**](http://xm7.la.coocan.jp/xm7/xm7.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm7/emulator_screenshot_01.jpg "XM7 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm7/emulator_screen_01.jpg "XM7 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

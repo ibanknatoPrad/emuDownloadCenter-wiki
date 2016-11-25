@@ -4,7 +4,7 @@
 | **Emulator: Hu6280** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Hu6280 is an NEC TurboGrafx-16 Entertainment SuperSystem and PC Engine emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hu6280/emulator_screenshot_01.jpg "Hu6280 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hu6280/emulator_screen_01.jpg "Hu6280 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

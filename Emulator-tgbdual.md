@@ -4,7 +4,7 @@
 | **Emulator: TGB Dual** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _TGB Dual is a Game Boy / Game Boy Color emulator that supports loading two diff
 
 [:link: **Emulator website**](http://gigo.retrogames.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tgbdual/emulator_screenshot_01.jpg "TGB Dual screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tgbdual/emulator_screen_01.jpg "TGB Dual screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

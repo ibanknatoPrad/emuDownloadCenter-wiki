@@ -4,7 +4,7 @@
 | **Emulator: CalcEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _CalcEm is a Texas Instruments TI-82, TI-83 and TI-85 emulator._
 
 [:link: **Emulator website**](http://calcem.sourceforge.net/calcem/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/calcem/emulator_screenshot_01.jpg "CalcEm screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/calcem/emulator_screen_01.jpg "CalcEm screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

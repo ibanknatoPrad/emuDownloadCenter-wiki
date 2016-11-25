@@ -4,7 +4,7 @@
 | **Emulator: Callus95** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Callus is a DirectX based Capcom CPS1 emulator that currently runs a selection 
 
 [:link: **Emulator website**](http://bloodlust.zophar.net/Callus/callus.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/callus/emulator_screenshot_01.jpg "Callus95 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/callus/emulator_screen_01.jpg "Callus95 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

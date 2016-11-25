@@ -4,7 +4,7 @@
 | **Emulator: Jagulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Jagulator is an Atari Jaguar emulator. It runs way to fast to be playable on my Laptop._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jagulator/emulator_screenshot_01.jpg "Jagulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jagulator/emulator_screen_01.jpg "Jagulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

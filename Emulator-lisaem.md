@@ -4,7 +4,7 @@
 | **Emulator: LisaEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _LisaEm is an Apple Lisa emulator._
 
 [:link: **Emulator website**](http://lisaem.sunder.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisaem/emulator_screenshot_01.jpg "LisaEm screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisaem/emulator_screen_01.jpg "LisaEm screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

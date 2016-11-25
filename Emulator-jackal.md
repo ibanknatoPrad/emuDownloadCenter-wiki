@@ -4,7 +4,7 @@
 | **Emulator: Jackal** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **0.009 (x86)**, released on **1999
 
 _Jackal is a Sony Playstation 1 emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jackal/emulator_screenshot_01.jpg "Jackal screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jackal/emulator_screen_01.jpg "Jackal screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: model-b** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _model-b is an Acorn BBC emulator. NOTE: Screenshot from Author's Website._
 
 [:link: **Emulator website**](http://modelb.bbcmicro.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/modelb/emulator_screenshot_01.jpg "model-b screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/modelb/emulator_screen_01.jpg "model-b screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

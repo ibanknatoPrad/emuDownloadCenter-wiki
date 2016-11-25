@@ -4,7 +4,7 @@
 | **Emulator: Mini vMac** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Mini vMac is an Apple Macintosh (using Motorola 680x0 processors) emulator._
 
 [:link: **Emulator website**](http://minivmac.sourceforge.net)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minivmac/emulator_screenshot_01.jpg "Mini vMac screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minivmac/emulator_screen_01.jpg "Mini vMac screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

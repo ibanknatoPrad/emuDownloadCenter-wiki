@@ -4,7 +4,7 @@
 | **Emulator: PMD85** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PMD85 is an emulator for the Tesla Piestany and Bratislava PMD85 computers and 
 
 [:link: **Emulator website**](http://www.schotek.cz/pmd/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pmd85/emulator_screenshot_01.jpg "PMD85 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pmd85/emulator_screen_01.jpg "PMD85 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

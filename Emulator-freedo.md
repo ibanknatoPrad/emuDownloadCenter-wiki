@@ -4,7 +4,7 @@
 | **Emulator: FreeDo** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _The FreeDO (closed-source) project exists to bring about an emulator or simulat
 
 [:link: **Emulator website**](http://freedo.org)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/freedo/emulator_screenshot_01.jpg "FreeDo screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/freedo/emulator_screen_01.jpg "FreeDo screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

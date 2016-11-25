@@ -4,7 +4,7 @@
 | **Emulator: BizHawk** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _BizHawk is a A multi-system emulator written in C#. BizHawk provides nice featu
 
 [:link: **Emulator website**](http://tasvideos.org/Bizhawk.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bizhawk/emulator_screenshot_01.jpg "BizHawk screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bizhawk/emulator_screen_01.jpg "BizHawk screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

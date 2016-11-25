@@ -4,7 +4,7 @@
 | **Emulator: pSX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _This emulator fully emulates the Sony Playstation. Compatibility is fairly high
 
 [:link: **Emulator website**](http://psxemulator.gazaxian.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/emulator_screenshot_01.jpg "pSX screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/emulator_screen_01.jpg "pSX screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

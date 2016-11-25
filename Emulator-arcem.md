@@ -4,7 +4,7 @@
 | **Emulator: ArcEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _ArcEm is an Acorn Archimedes emulator_
 
 [:link: **Emulator website**](http://arcem.sourceforge.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arcem/emulator_screenshot_01.jpg "ArcEm screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arcem/emulator_screen_01.jpg "ArcEm screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

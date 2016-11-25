@@ -4,7 +4,7 @@
 | **Emulator: Nemu64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Nemu64 is one of the oldest Nintendo 64 emulators in existance. For a long time
 
 [:link: **Emulator website**](http://nemu.emuunlim.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nemu64/emulator_screenshot_01.jpg "Nemu64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nemu64/emulator_screen_01.jpg "Nemu64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

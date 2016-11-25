@@ -4,7 +4,7 @@
 | **Emulator: Elkulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Elkulator is an Acorn Electron emulator._
 
 [:link: **Emulator website**](http://elkulator.acornelectron.co.uk/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/elkulator/emulator_screenshot_01.jpg "Elkulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/elkulator/emulator_screen_01.jpg "Elkulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

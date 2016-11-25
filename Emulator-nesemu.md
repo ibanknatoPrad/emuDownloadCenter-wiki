@@ -4,7 +4,7 @@
 | **Emulator: nes-emu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nes-emu is a Nintendo Entertainment System emulator._
 
 [:link: **Emulator website**](http://github.com/amaiorano/nes-emu/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesemu/emulator_screenshot_01.jpg "nes-emu screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nesemu/emulator_screen_01.jpg "nes-emu screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

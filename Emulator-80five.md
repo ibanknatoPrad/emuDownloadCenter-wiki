@@ -4,7 +4,7 @@
 | **Emulator: MarioNES / 80five** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _MarioNES / 80five is a Nintendo Entertainment System emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/80five/emulator_screenshot_01.jpg "MarioNES / 80five screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/80five/emulator_screen_01.jpg "MarioNES / 80five screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Atari800** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Linux, Amiga
 
 [:link: **Emulator website**](http://atari800.sourceforge.net)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800/emulator_screenshot_01.jpg "Atari800 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800/emulator_screen_01.jpg "Atari800 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

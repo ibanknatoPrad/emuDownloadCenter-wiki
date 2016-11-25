@@ -4,7 +4,7 @@
 | **Emulator: iNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _iNES is a Nintendo Entertainment System and Famicom emulator._
 
 [:link: **Emulator website**](http://fms.komkon.org/iNES)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ines/emulator_screenshot_01.jpg "iNES screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ines/emulator_screen_01.jpg "iNES screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

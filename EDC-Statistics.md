@@ -1,6 +1,6 @@
 ## EDC Statistics
 
-Last update: 2016-11-23
+Last update: 2016-11-25
 
 | :bar_chart: Emulator Statistics | |
 |:-----|------:|

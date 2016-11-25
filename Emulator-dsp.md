@@ -4,7 +4,7 @@
 | **Emulator: DSP Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DSP is a multi-system emulator that emulates the following: Nintendo NES, Ninte
 
 [:link: **Emulator website**](http://github.com/leniad/dsp-emulator)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dsp/emulator_screenshot_01.jpg "DSP Emulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dsp/emulator_screen_01.jpg "DSP Emulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

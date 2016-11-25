@@ -4,7 +4,7 @@
 | **Emulator: Dega** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Dega is a Sega Master System and Game Gear emulator._
 
 [:link: **Emulator website**](http://sourceforge.net/projects/dega/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dega/emulator_screenshot_01.jpg "Dega screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dega/emulator_screen_01.jpg "Dega screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

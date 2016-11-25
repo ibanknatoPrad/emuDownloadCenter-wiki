@@ -4,7 +4,7 @@
 | **Emulator: Arnold** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Arnold is an Amstrad/Schneider CPC, Plus/CPC+ and VEB Mikroelektronik KC Compac
 
 [:link: **Emulator website**](http://arnold.cpc-live.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnold/emulator_screenshot_01.jpg "Arnold screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnold/emulator_screen_01.jpg "Arnold screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

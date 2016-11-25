@@ -4,7 +4,7 @@
 | **Emulator: 1964** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _1964 as the name dictates is a Nintendo64 emulator with high compatibility. Bes
 
 [:link: **Emulator website**](http://www.1964emu.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/emulator_screenshot_01.jpg "1964 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/1964/emulator_screen_01.jpg "1964 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Micro64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Micro64 aims to be the most accurate Commodore 64 emulator._
 
 [:link: **Emulator website**](http://micro64.de/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/micro64/emulator_screenshot_01.jpg "Micro64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/micro64/emulator_screen_01.jpg "Micro64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

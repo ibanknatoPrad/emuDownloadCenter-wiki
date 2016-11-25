@@ -4,7 +4,7 @@
 | **Emulator: Sugarbox** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Sugarbox is an Amstrad CPC emulator._
 
 [:link: **Emulator website**](http://sugarbox.free.fr/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sugarbox/emulator_screenshot_01.jpg "Sugarbox screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sugarbox/emulator_screen_01.jpg "Sugarbox screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

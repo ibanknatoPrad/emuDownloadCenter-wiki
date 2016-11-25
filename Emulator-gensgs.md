@@ -4,7 +4,7 @@
 | **Emulator: Gens/GS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Gens/GS is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Se
 
 [:link: **Emulator website**](http://sonicretro.org)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensgs/emulator_screenshot_01.jpg "Gens/GS screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gensgs/emulator_screen_01.jpg "Gens/GS screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

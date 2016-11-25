@@ -4,7 +4,7 @@
 | **Emulator: bZSNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _bZSNES is a Nintendo SNES and Super Famicom emulator based on BSNES containing 
 
 [:link: **Emulator website**](http://byuu.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bzsnes/emulator_screenshot_01.jpg "bZSNES screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bzsnes/emulator_screen_01.jpg "bZSNES screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

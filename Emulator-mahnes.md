@@ -4,7 +4,7 @@
 | **Emulator: MahNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _MahNES is a Nintendo Entertainment System emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mahnes/emulator_screenshot_01.jpg "MahNES screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mahnes/emulator_screen_01.jpg "MahNES screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

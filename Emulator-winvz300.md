@@ -4,7 +4,7 @@
 | **Emulator: WinVZ300** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Winvz300 is a Classic VZ300 Computer Emulator for Windows that emulates the Dic
 
 [:link: **Emulator website**](http://emutopia.com/vzalive.bluebilby.com/winvz300/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvz300/emulator_screenshot_01.jpg "WinVZ300 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winvz300/emulator_screen_01.jpg "WinVZ300 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

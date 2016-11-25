@@ -4,7 +4,7 @@
 | **Emulator: Potemkin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **alpha01 (x86)**, released on **20
 
 _Potemkin (Codename DaSH) is an experimental HLE Sony Playstation Portable emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potemkin/emulator_screenshot_01.jpg "Potemkin screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/potemkin/emulator_screen_01.jpg "Potemkin screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

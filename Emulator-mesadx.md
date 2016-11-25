@@ -4,7 +4,7 @@
 | **Emulator: MesaDX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _MesaDX is a Sega Master System and Game Gear emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesadx/emulator_screenshot_01.jpg "MesaDX screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesadx/emulator_screen_01.jpg "MesaDX screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

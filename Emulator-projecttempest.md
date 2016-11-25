@@ -4,7 +4,7 @@
 | **Emulator: Project Tempest** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _It runs in Windows 9x/2000/XP and currently emulates many commercial games, som
 
 [:link: **Emulator website**](http://pt.emuunlim.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/projecttempest/emulator_screenshot_01.jpg "Project Tempest screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/projecttempest/emulator_screen_01.jpg "Project Tempest screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Parabellum's Java Vectrex Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Parabellum's Java Vectrex Emulator is a GCE Vectrex emulator. This emulator com
 
 [:link: **Emulator website**](http://vectrex-emu.blogspot.com.au/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/parajve/emulator_screenshot_01.jpg "Parabellum's Java Vectrex Emulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/parajve/emulator_screen_01.jpg "Parabellum's Java Vectrex Emulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

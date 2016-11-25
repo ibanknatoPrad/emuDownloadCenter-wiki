@@ -4,7 +4,7 @@
 | **Emulator: Mednafen** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-drive
 
 [:link: **Emulator website**](http://mednafen.fobby.net)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mednafen/emulator_screenshot_01.jpg "Mednafen screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mednafen/emulator_screen_01.jpg "Mednafen screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

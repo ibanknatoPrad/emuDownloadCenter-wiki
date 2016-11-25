@@ -4,7 +4,7 @@
 | **Emulator: NGAE** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _NGAE is a Neo Geo emulator based on MAME 146._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ngae/emulator_screenshot_01.jpg "NGAE screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ngae/emulator_screen_01.jpg "NGAE screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: NeonDS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _The NeonDS is an emulator of Nintendo’s latest handheld console, the Nintendo
 
 [:link: **Emulator website**](http://www.neonds.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neonds/emulator_screenshot_01.jpg "NeonDS screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neonds/emulator_screen_01.jpg "NeonDS screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

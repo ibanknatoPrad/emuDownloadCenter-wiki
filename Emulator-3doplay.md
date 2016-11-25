@@ -4,7 +4,7 @@
 | **Emulator: 3DOplay** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _3DOplay is a Russian emulator for the Panasonic 3DO forked from the FreeDO sour
 
 [:link: **Emulator website**](https://code.google.com/archive/p/3doplay/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3doplay/emulator_screenshot_01.jpg "3DOplay screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3doplay/emulator_screen_01.jpg "3DOplay screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

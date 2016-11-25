@@ -4,7 +4,7 @@
 | **Emulator: Hoxs64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Hoxs64 is a cycle-exact emulator of the Commodore 64._
 
 [:link: **Emulator website**](http://www.hoxs64.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hoxs64/emulator_screenshot_01.jpg "Hoxs64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hoxs64/emulator_screen_01.jpg "Hoxs64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

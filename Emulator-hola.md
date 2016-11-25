@@ -4,7 +4,7 @@
 | **Emulator: Hola!** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Hola! is a HomeLab Model 4 emulator. The Emulator and all documentation is in H
 
 [:link: **Emulator website**](http://gaia.atilia.eu/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hola/emulator_screenshot_01.jpg "Hola! screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hola/emulator_screen_01.jpg "Hola! screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

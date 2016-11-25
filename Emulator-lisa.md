@@ -4,7 +4,7 @@
 | **Emulator: Lisa** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **0.10a (x86)**, released on **2008
 
 _Lisa is an Apple Lisa emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisa/emulator_screenshot_01.jpg "Lisa screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/lisa/emulator_screen_01.jpg "Lisa screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

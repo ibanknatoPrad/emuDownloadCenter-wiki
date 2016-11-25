@@ -4,7 +4,7 @@
 | **Emulator: AdriPSX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _AdriPSX is a Sony PlayStation emulator, It can run several games designed for t
 
 [:link: **Emulator website**](http://www.adripsx.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adripsx/emulator_screenshot_01.jpg "AdriPSX screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adripsx/emulator_screen_01.jpg "AdriPSX screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

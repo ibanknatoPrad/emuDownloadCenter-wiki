@@ -4,7 +4,7 @@
 | **Emulator: ZXSpin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ZXSpin is a Sinclair ZX Spectrum and Pentagon emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zxspin/emulator_screenshot_01.jpg "ZXSpin screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zxspin/emulator_screen_01.jpg "ZXSpin screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

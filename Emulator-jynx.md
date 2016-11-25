@@ -4,7 +4,7 @@
 | **Emulator: Jynx** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wo
 
 [:link: **Emulator website**](http://github.com/jonathan-markland/Jynx)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jynx/emulator_screenshot_01.jpg "Jynx screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jynx/emulator_screen_01.jpg "Jynx screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

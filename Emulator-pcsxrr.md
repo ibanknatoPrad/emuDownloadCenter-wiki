@@ -4,7 +4,7 @@
 | **Emulator: PCSX-RR** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PCSX-RR is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required 
 
 [:link: **Emulator website**](http://code.google.com/p/pcsxrr/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsxrr/emulator_screenshot_01.jpg "PCSX-RR screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsxrr/emulator_screen_01.jpg "PCSX-RR screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: higan** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _higan is a multi-system emulator for the following systems: Nintendo Entertainm
 
 [:link: **Emulator website**](http://byuu.org/emulation/higan/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/higan/emulator_screenshot_01.jpg "higan screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/higan/emulator_screen_01.jpg "higan screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

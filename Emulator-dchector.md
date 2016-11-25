@@ -4,7 +4,7 @@
 | **Emulator: DCHector** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DCHector is an Interact Home Computer System emulator and several other compute
 
 [:link: **Emulator website**](http://dchector.free.fr)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dchector/emulator_screenshot_01.jpg "DCHector screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dchector/emulator_screen_01.jpg "DCHector screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

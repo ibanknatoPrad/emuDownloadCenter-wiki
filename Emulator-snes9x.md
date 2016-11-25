@@ -4,7 +4,7 @@
 | **Emulator: SNES9X** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emula
 
 [:link: **Emulator website**](http://www.snes9x.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9x/emulator_screenshot_01.jpg "SNES9X screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9x/emulator_screen_01.jpg "SNES9X screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

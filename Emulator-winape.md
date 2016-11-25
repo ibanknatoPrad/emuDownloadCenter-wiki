@@ -4,7 +4,7 @@
 | **Emulator: WinAPE** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _WinAPE is an Amstrad CPC and Amstrad Plus emulator._
 
 [:link: **Emulator website**](http://www.winape.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winape/emulator_screenshot_01.jpg "WinAPE screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winape/emulator_screen_01.jpg "WinAPE screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

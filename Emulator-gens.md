@@ -4,7 +4,7 @@
 | **Emulator: Gens** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earlie
 
 [:link: **Emulator website**](http://gens.me)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens/emulator_screenshot_01.jpg "Gens screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gens/emulator_screen_01.jpg "Gens screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

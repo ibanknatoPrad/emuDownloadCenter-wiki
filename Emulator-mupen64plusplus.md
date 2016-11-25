@@ -4,7 +4,7 @@
 | **Emulator: Mupen64++** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Mupen64++ (aka Mupen64k) is the emulator for online play woring with the most g
 
 [:link: **Emulator website**](http://mupen64k.blogspot.nl/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plusplus/emulator_screenshot_01.jpg "Mupen64++ screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mupen64plusplus/emulator_screen_01.jpg "Mupen64++ screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

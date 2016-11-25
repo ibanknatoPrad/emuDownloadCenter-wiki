@@ -4,7 +4,7 @@
 | **Emulator: VBjin-OVR** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VBjin-OVR is a Virtual Boy Emulator for Windows with support for the Oculus Rif
 
 [:link: **Emulator website**](https://github.com/braindx/vbjin-ovr)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbjin-ovr/emulator_screenshot_01.jpg "VBjin-OVR screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbjin-ovr/emulator_screen_01.jpg "VBjin-OVR screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

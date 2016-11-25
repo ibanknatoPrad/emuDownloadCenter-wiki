@@ -4,7 +4,7 @@
 | **Emulator: Speccy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Speccy is a Sinclair ZX Spectrum, Timex Sinclair, Sam Coupe, Didaktik Gama, Sco
 
 [:link: **Emulator website**](http://fms.komkon.org/speccy)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/speccy/emulator_screenshot_01.jpg "Speccy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/speccy/emulator_screen_01.jpg "Speccy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: ASCD** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _ASCD is a Sam Coupe and Sinclair ZX Spectrum emulator._
 
 [:link: **Emulator website**](http://keprt.cz)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ascd/emulator_screenshot_01.jpg "ASCD screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ascd/emulator_screen_01.jpg "ASCD screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

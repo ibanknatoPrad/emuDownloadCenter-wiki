@@ -4,7 +4,7 @@
 | **Emulator: PC6001VX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PC6001VX is an NEC PC-6000 series emulator based on PC6001V by Yumitaro. NOTE: 
 
 [:link: **Emulator website**](http://eighttails.seesaa.net)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001vx/emulator_screenshot_01.jpg "PC6001VX screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pc6001vx/emulator_screen_01.jpg "PC6001VX screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

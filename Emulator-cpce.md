@@ -4,7 +4,7 @@
 | **Emulator: CPCE** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _CPCE is an Amstrad CPC emulator._
 
 [:link: **Emulator website**](http://cpce.emuunlim.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpce/emulator_screenshot_01.jpg "CPCE screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpce/emulator_screen_01.jpg "CPCE screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

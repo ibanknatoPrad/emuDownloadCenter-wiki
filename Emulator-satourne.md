@@ -4,7 +4,7 @@
 | **Emulator: Satourne** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the 
 
 [:link: **Emulator website**](http://www.satourne.consollection.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/satourne/emulator_screenshot_01.jpg "Satourne screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/satourne/emulator_screen_01.jpg "Satourne screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

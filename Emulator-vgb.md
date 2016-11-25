@@ -4,7 +4,7 @@
 | **Emulator: Virtual GameBoy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Virtual GameBoy (VGB) is an emulator of the Nintendo Game Boy, Super Game Boy a
 
 [:link: **Emulator website**](http://fms.komkon.org/VGB/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgb/emulator_screenshot_01.jpg "Virtual GameBoy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vgb/emulator_screen_01.jpg "Virtual GameBoy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

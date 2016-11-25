@@ -4,7 +4,7 @@
 | **Emulator: Hyper64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Hyper64 is a working proof-of-concept of an experimental C64 emulator implement
 
 [:link: **Emulator website**](http://micro64.de/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hyper64/emulator_screenshot_01.jpg "Hyper64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hyper64/emulator_screen_01.jpg "Hyper64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

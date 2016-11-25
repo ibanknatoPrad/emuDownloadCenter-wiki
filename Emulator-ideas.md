@@ -4,7 +4,7 @@
 | **Emulator: iDeaS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _iDeaS is a Nintendo DS emulator that can also play Game Boy Advance games._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ideas/emulator_screenshot_01.jpg "iDeaS screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ideas/emulator_screen_01.jpg "iDeaS screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

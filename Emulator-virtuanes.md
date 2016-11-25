@@ -4,7 +4,7 @@
 | **Emulator: VirtuaNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VirtuaNES is an emulator for the Nintendo NES and Famicom. The website is a mix
 
 [:link: **Emulator website**](http://virtuanes.s1.xrea.com:8080/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanes/emulator_screenshot_01.jpg "VirtuaNES screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanes/emulator_screen_01.jpg "VirtuaNES screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: VecXGL** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VecXGL is a GCE Vectrex emulator based on vecx by Valavan Manohararajah._
 
 [:link: **Emulator website**](http://jum.pdroms.de/emulators/emul.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vecxgl/emulator_screenshot_01.jpg "VecXGL screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vecxgl/emulator_screen_01.jpg "VecXGL screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

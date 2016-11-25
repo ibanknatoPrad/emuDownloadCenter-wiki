@@ -4,7 +4,7 @@
 | **Emulator: RPCemu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RPCEmu allows you to emulate classic Acorn systems, such as the Risc PC and A70
 
 [:link: **Emulator website**](http://www.marutan.net/rpcemu/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/emulator_screenshot_01.jpg "RPCemu screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcemu/emulator_screen_01.jpg "RPCemu screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

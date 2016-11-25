@@ -4,7 +4,7 @@
 | **Emulator: Horizon** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **2.1 (x86)**, released on **2012-0
 
 _Horizon emulates the Acorn BBC Micro (Model B) with 32K RAM. B+ and Master models are not supported._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/horizon/emulator_screenshot_01.jpg "Horizon screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/horizon/emulator_screen_01.jpg "Horizon screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

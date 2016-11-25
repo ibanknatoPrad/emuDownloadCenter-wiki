@@ -4,7 +4,7 @@
 | **Emulator: Red Squirrel** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _This is another Acorn Archimedes emulator for Windows. You will need to obtain 
 
 [:link: **Emulator website**](http://www.red-squirrel.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/redsquirrel/emulator_screenshot_01.jpg "Red Squirrel screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/redsquirrel/emulator_screen_01.jpg "Red Squirrel screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

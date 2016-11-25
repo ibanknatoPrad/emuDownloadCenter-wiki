@@ -4,7 +4,7 @@
 | **Emulator: XRoar** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _XRoar is an emulator for the following systems: DragonData Dragon 32, Dragon 64
 
 [:link: **Emulator website**](http://www.6809.org.uk/xroar/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xroar/emulator_screenshot_01.jpg "XRoar screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xroar/emulator_screen_01.jpg "XRoar screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

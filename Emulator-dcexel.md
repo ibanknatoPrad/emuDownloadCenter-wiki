@@ -4,7 +4,7 @@
 | **Emulator: DCEXEL** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DCEXEL is an emulator for Exelvision 8bit computers: EXL100, Exeltel, Exetel VS
 
 [:link: **Emulator website**](http://dcexel.free.fr)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcexel/emulator_screenshot_01.jpg "DCEXEL screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcexel/emulator_screen_01.jpg "DCEXEL screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

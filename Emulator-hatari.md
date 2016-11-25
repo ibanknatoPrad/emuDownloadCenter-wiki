@@ -4,7 +4,7 @@
 | **Emulator: Hatari** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Hatari is an Atari ST, STE, TT and Falcon Emulator. A BIOS (TOS) File is not re
 
 [:link: **Emulator website**](http://hatari.tuxfamily.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hatari/emulator_screenshot_01.jpg "Hatari screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hatari/emulator_screen_01.jpg "Hatari screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

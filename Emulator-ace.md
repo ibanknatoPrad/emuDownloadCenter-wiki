@@ -4,7 +4,7 @@
 | **Emulator: Another Capcom (play system) Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _ace is an emulator capable of running a selection of games from the Capcom CPS1
 
 [:link: **Emulator website**](http://ace.emuunlim.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ace/emulator_screenshot_01.jpg "Another Capcom (play system) Emulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ace/emulator_screen_01.jpg "Another Capcom (play system) Emulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: CPCemu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _CPCEMU emulates an Amstrad CPC on your computer. You need at least an AT 386 wi
 
 [:link: **Emulator website**](http://www.cpc-emu.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcemu/emulator_screenshot_01.jpg "CPCemu screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcemu/emulator_screen_01.jpg "CPCemu screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

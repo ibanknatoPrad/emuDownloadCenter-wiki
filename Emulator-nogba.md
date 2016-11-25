@@ -4,7 +4,7 @@
 | **Emulator: no$gba** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note 
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogba/emulator_screenshot_01.jpg "no$gba screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nogba/emulator_screen_01.jpg "no$gba screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: JavaCPC** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _JavaCPC is a Java-based CPC emulator that has a complete Desktop environment._
 
 [:link: **Emulator website**](http://cpc-live.com/news.php)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/javacpc/emulator_screenshot_01.jpg "JavaCPC screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/javacpc/emulator_screen_01.jpg "JavaCPC screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

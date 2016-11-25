@@ -4,7 +4,7 @@
 | **Emulator: Xe** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Xe is a multi system emulator for Windows and Linux that emulates many console 
 
 [:link: **Emulator website**](http://www.xe-emulator.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xe/emulator_screenshot_01.jpg "Xe screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xe/emulator_screen_01.jpg "Xe screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

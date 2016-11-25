@@ -4,7 +4,7 @@
 | **Emulator: Handy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Handy is an Atari Lynx emulator. the Lynx BIOS is not required, unless you wish
 
 [:link: **Emulator website**](http://handy.sourceforge.net)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/handy/emulator_screenshot_01.jpg "Handy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/handy/emulator_screen_01.jpg "Handy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

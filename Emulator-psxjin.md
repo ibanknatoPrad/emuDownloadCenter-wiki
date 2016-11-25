@@ -4,7 +4,7 @@
 | **Emulator: PSXjin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PSXjin is a Sony Playstation 1 emulator._
 
 [:link: **Emulator website**](http://code.google.com/p/psxjin/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxjin/emulator_screenshot_01.jpg "PSXjin screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psxjin/emulator_screen_01.jpg "PSXjin screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

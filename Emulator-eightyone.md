@@ -4,7 +4,7 @@
 | **Emulator: EightyOne** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _EightyOne is a multiple system emulator for these systems: Sinclair ZX80, ZX81,
 
 [:link: **Emulator website**](https://www.aptanet.org/eightyone/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/eightyone/emulator_screenshot_01.jpg "EightyOne screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/eightyone/emulator_screen_01.jpg "EightyOne screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

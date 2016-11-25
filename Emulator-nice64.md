@@ -4,7 +4,7 @@
 | **Emulator: NICE64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _NICE64 is a Nintendo 64 emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nice64/emulator_screenshot_01.jpg "NICE64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nice64/emulator_screen_01.jpg "NICE64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

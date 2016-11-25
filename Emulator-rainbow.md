@@ -4,7 +4,7 @@
 | **Emulator: Rainbow** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Rainbow emulates the Atari 8-bit series of home computers including the 400/800, 800XL,130XE and the 5200 games console._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rainbow/emulator_screenshot_01.jpg "Rainbow screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rainbow/emulator_screen_01.jpg "Rainbow screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

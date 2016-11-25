@@ -4,7 +4,7 @@
 | **Emulator: ePSXe** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for 
 
 [:link: **Emulator website**](http://www.epsxe.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/epsxe/emulator_screenshot_01.jpg "ePSXe screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/epsxe/emulator_screen_01.jpg "ePSXe screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

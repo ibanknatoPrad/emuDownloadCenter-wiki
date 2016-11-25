@@ -4,7 +4,7 @@
 | **Emulator: ENTER** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ENTER is an Enterprise Computers Enterprise emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/enter/emulator_screenshot_01.jpg "ENTER screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/enter/emulator_screen_01.jpg "ENTER screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

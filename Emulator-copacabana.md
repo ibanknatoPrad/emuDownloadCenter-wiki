@@ -4,7 +4,7 @@
 | **Emulator: CoPaCabana** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _CoPaCabana is an Amstrad CPC emulator._
 
 [:link: **Emulator website**](http://copacabana.emuunlim.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/copacabana/emulator_screenshot_01.jpg "CoPaCabana screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/copacabana/emulator_screen_01.jpg "CoPaCabana screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

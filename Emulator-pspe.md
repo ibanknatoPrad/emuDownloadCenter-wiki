@@ -4,7 +4,7 @@
 | **Emulator: pspe** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **0.9b (x86)**, released on **2005-
 
 _Emulation is growing every day, and PSPE is a perfect prove of that, even though this emulator still can't run any commercial PSP game, you can try it by playing some demos and homebrew games._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pspe/emulator_screenshot_01.jpg "pspe screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pspe/emulator_screen_01.jpg "pspe screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

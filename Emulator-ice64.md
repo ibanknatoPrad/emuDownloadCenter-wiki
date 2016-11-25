@@ -4,7 +4,7 @@
 | **Emulator: ICE64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _ICE64 is a Nintendo 64 emulator base on the NICE64 v2.1.2 code base_
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ice64/emulator_screenshot_01.jpg "ICE64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ice64/emulator_screen_01.jpg "ICE64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

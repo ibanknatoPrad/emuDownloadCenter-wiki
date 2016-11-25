@@ -4,7 +4,7 @@
 | **Emulator: VirtuaNES Plus** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VirtuaNES Plus is an emulator for the Nintendo NES and Famicom based on VirtuaN
 
 [:link: **Emulator website**](http://github.com/KOT040188/myvirtuanes)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanesplus/emulator_screenshot_01.jpg "VirtuaNES Plus screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtuanesplus/emulator_screen_01.jpg "VirtuaNES Plus screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

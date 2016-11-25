@@ -4,7 +4,7 @@
 | **Emulator: zBoy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _zBoy is a Nintendo Game Boy emulator._
 
 [:link: **Emulator website**](http://zboy.sourceforge.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zboy/emulator_screenshot_01.jpg "zBoy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zboy/emulator_screen_01.jpg "zBoy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

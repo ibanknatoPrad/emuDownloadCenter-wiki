@@ -4,7 +4,7 @@
 | **Emulator: Dualis** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Dualis is a Nintendo DS emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dualis/emulator_screenshot_01.jpg "Dualis screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dualis/emulator_screen_01.jpg "Dualis screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

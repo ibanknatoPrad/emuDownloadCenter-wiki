@@ -4,7 +4,7 @@
 | **Emulator: SNEeSe** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _SNEeSe is an emulator for the Nintendo SNES console for x86 PCs. SNEeSe is writ
 
 [:link: **Emulator website**](http://sneese.sf.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sneese/emulator_screenshot_01.jpg "SNEeSe screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sneese/emulator_screen_01.jpg "SNEeSe screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

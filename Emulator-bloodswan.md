@@ -4,7 +4,7 @@
 | **Emulator: BLooDsWan** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _BLooDsWan is a Bandai Wonderswan and Wonderswan Color emulator based on Cygne._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bloodswan/emulator_screenshot_01.jpg "BLooDsWan screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bloodswan/emulator_screen_01.jpg "BLooDsWan screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Agat Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _gat Emulator is an Apple II and Agat 7/9 (Soviet clones) emulator. Its GUI uses
 
 [:link: **Emulator website**](https://sourceforge.net/projects/agatemulator/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/agat/emulator_screenshot_01.jpg "Agat Emulator screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/agat/emulator_screen_01.jpg "Agat Emulator screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

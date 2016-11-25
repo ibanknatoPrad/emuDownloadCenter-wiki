@@ -4,7 +4,7 @@
 | **Emulator: Calice32** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Calice is an emulator that is capable of playing almost all SNK Neo Geo ROMs pl
 
 [:link: **Emulator website**](http://calice.emuunlim.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/calice/emulator_screenshot_01.jpg "Calice32 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/calice/emulator_screen_01.jpg "Calice32 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

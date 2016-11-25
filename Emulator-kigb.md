@@ -4,7 +4,7 @@
 | **Emulator: KiGB** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _KiGB is a Nintendo Game Boy and Game Boy Color emulator._
 
 [:link: **Emulator website**](http://kigb.emuunlim.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kigb/emulator_screenshot_01.jpg "KiGB screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kigb/emulator_screen_01.jpg "KiGB screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

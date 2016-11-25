@@ -4,7 +4,7 @@
 | **Emulator: SharpChip-8** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SharpChip-8 is an interpreted language emulator chip-8. It is still experimenta
 
 [:link: **Emulator website**](http://sharpchip8.codeplex.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sharpchip8/emulator_screenshot_01.jpg "SharpChip-8 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sharpchip8/emulator_screen_01.jpg "SharpChip-8 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

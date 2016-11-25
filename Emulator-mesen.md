@@ -4,7 +4,7 @@
 | **Emulator: Mesen** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Mesen is a Nintendo Entertainment System and Famicom emulator._
 
 [:link: **Emulator website**](http://mesen.ca)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesen/emulator_screenshot_01.jpg "Mesen screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mesen/emulator_screen_01.jpg "Mesen screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Alice32** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Alice32 is a Matra-Hachette Alice32 emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/alice32/emulator_screenshot_01.jpg "Alice32 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/alice32/emulator_screen_01.jpg "Alice32 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Cygne** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Cygne is a Bandai Wonderswan and Wonderswan Color emulator._
 
 [:link: **Emulator website**](http://cygne.emuunlim.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cygne/emulator_screenshot_01.jpg "Cygne screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cygne/emulator_screen_01.jpg "Cygne screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

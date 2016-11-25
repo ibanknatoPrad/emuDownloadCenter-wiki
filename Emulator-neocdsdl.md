@@ -4,7 +4,7 @@
 | **Emulator: NeoCD/SDL** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _NeoCD/SDL is a port of NeoCD using SDL libraries._
 
 [:link: **Emulator website**](http://pacifi3d.retrogames.com/neocdsdl/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neocdsdl/emulator_screenshot_01.jpg "NeoCD/SDL screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neocdsdl/emulator_screen_01.jpg "NeoCD/SDL screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

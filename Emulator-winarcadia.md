@@ -4,7 +4,7 @@
 | **Emulator: WinArcadia** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _WinArcadia is a multi-system emulator of these machines: Emerson Arcadia 2001 c
 
 [:link: **Emulator website**](http://amigan.1emu.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winarcadia/emulator_screenshot_01.jpg "WinArcadia screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winarcadia/emulator_screen_01.jpg "WinArcadia screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

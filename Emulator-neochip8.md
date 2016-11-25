@@ -4,7 +4,7 @@
 | **Emulator: NeoChip8** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _NeoChip8 is a RCA COSMAC VIP and Chip-8 emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neochip8/emulator_screenshot_01.jpg "NeoChip8 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/neochip8/emulator_screen_01.jpg "NeoChip8 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

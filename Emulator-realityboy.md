@@ -4,7 +4,7 @@
 | **Emulator: Reality Boy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Reality Boy is a Nintendo Virtual Boy emulator._
 
 [:link: **Emulator website**](http://goliathindustries.com/vb)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/realityboy/emulator_screenshot_01.jpg "Reality Boy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/realityboy/emulator_screen_01.jpg "Reality Boy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

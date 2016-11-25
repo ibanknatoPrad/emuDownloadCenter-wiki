@@ -4,7 +4,7 @@
 | **Emulator: YANESE (Yet Another NES Emulator)** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _YANESE (Yet Another NES Emulator) is a Nintendo Entertainment System emulator._
 
 [:link: **Emulator website**](http://www.yanese.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yanese/emulator_screenshot_01.jpg "YANESE (Yet Another NES Emulator) screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yanese/emulator_screen_01.jpg "YANESE (Yet Another NES Emulator) screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

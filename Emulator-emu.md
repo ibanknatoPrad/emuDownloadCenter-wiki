@@ -4,7 +4,7 @@
 | **Emulator: EMU** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _EMU is a multi-system emulator for the following: ARM-HQ Bashkiria Bashkiria-2M
 
 [:link: **Emulator website**](http://bashkiria-2m.narod.ru/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu/emulator_screenshot_01.jpg "EMU screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emu/emulator_screen_01.jpg "EMU screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

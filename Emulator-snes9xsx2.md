@@ -4,7 +4,7 @@
 | **Emulator: SNES9X-SX2** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _snes9x-sx2 is a Nintendo SNES and Super Famicom emulator based on snes9x_
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9xsx2/emulator_screenshot_01.jpg "SNES9X-SX2 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/snes9xsx2/emulator_screen_01.jpg "SNES9X-SX2 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

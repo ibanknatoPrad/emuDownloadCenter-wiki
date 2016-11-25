@@ -4,7 +4,7 @@
 | **Emulator: PPSSPP** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PPSSPP is a Sony Playstation Portable emulator._
 
 [:link: **Emulator website**](http://www.ppsspp.org/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ppsspp/emulator_screenshot_01.jpg "PPSSPP screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ppsspp/emulator_screen_01.jpg "PPSSPP screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

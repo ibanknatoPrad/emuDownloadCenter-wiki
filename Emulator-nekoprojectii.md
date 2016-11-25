@@ -4,7 +4,7 @@
 | **Emulator: Neko Project II** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Neko Project II is an NEC PC-9801 series emulator. NOTE: Website is in Japanese
 
 [:link: **Emulator website**](http://www.yui.ne.jp/np2/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nekoprojectii/emulator_screenshot_01.jpg "Neko Project II screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nekoprojectii/emulator_screen_01.jpg "Neko Project II screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

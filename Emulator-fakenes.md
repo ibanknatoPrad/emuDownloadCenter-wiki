@@ -4,7 +4,7 @@
 | **Emulator: FakeNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _FakeNES is a portable, Open Source Nintendo Entertainment System and Famicom em
 
 [:link: **Emulator website**](http://fakenes.sourceforge.net/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fakenes/emulator_screenshot_01.jpg "FakeNES screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fakenes/emulator_screen_01.jpg "FakeNES screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

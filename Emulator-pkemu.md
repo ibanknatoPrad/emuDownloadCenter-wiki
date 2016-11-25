@@ -4,7 +4,7 @@
 | **Emulator: PKEmu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-0
 
 _PKEmu is a Sony Pocket Station emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pkemu/emulator_screenshot_01.jpg "PKEmu screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pkemu/emulator_screen_01.jpg "PKEmu screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

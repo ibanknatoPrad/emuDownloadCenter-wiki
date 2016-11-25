@@ -4,7 +4,7 @@
 | **Emulator: BSNES+** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _BSNES+ is a Nintendo Entertainment System, Famicom, SNES, Super Famicom, Game B
 
 [:link: **Emulator website**](http://github.com/devinacker/bsnes-plus)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnesplus/emulator_screenshot_01.jpg "BSNES+ screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnesplus/emulator_screen_01.jpg "BSNES+ screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

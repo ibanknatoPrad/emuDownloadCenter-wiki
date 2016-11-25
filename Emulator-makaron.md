@@ -4,7 +4,7 @@
 | **Emulator: Makaron** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Makaron is a Sega Dreamcast and Naomi emulator._
 
 [:link: **Emulator website**](http://dknute.livejournal.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/makaron/emulator_screenshot_01.jpg "Makaron screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/makaron/emulator_screen_01.jpg "Makaron screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

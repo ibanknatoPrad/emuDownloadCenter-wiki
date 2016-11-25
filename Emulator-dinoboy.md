@@ -4,7 +4,7 @@
 | **Emulator: DinoBoy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DinoBoy is a Nintendo Game Boy and Game Boy Color emulator._
 
 [:link: **Emulator website**](http://www.pradsprojects.com/dinoboy.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dinoboy/emulator_screenshot_01.jpg "DinoBoy screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dinoboy/emulator_screen_01.jpg "DinoBoy screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

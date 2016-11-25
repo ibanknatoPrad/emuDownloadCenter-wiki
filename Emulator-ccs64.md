@@ -4,7 +4,7 @@
 | **Emulator: CCS64** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms.
 
 [:link: **Emulator website**](http://www.ccs64.com/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ccs64/emulator_screenshot_01.jpg "CCS64 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ccs64/emulator_screen_01.jpg "CCS64 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Oricutron** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Oricutron is an Oric Atmos, Oric-1, Telestrat and Pravetz 8D emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/oricutron/emulator_screenshot_01.jpg "Oricutron screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/oricutron/emulator_screen_01.jpg "Oricutron screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

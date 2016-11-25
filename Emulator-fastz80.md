@@ -4,7 +4,7 @@
 | **Emulator: FastZ80** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _FastZ80 is a Tandy/Radio Shack TRS-80, HT-1080Z, EACA VideoGenie-1, PMC-80, Dic
 
 [:link: **Emulator website**](http://ht.homeserver.hu/html/emulatorfastz80.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fastz80/emulator_screenshot_01.jpg "FastZ80 screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fastz80/emulator_screen_01.jpg "FastZ80 screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

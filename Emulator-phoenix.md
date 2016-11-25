@@ -4,7 +4,7 @@
 | **Emulator: Phoenix** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Phoenix is a Russian multi-system emulator for the Panasonic 3DO, Coleco Coleco
 
 [:link: **Emulator website**](https://arts-union.ru/node/23)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/phoenix/emulator_screenshot_01.jpg "Phoenix screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/phoenix/emulator_screen_01.jpg "Phoenix screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

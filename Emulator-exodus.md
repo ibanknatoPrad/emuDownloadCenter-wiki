@@ -4,7 +4,7 @@
 | **Emulator: Exodus** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Exodus is a platform for emulating various devices. Currently it emulates the S
 
 [:link: **Emulator website**](http://exodusemulator.com)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/exodus/emulator_screenshot_01.jpg "Exodus screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/exodus/emulator_screen_01.jpg "Exodus screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Archie** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Archie is an Acorn Archimedes emulator for DOS. It is freeware and is not to be
 
 [:link: **Emulator website**](http://web.archive.org/web/20010812000248/http://www.geocities.com/chris-o/)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/archie/emulator_screenshot_01.jpg "Archie screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/archie/emulator_screen_01.jpg "Archie screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: GSPort** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _GSport is an Apple IIGS emulator based on the KEGS cross-platform IIgs emulator
 
 [:link: **Emulator website**](http://gsport.sourceforge.net/index.html)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gsport/emulator_screenshot_01.jpg "GSPort screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gsport/emulator_screen_01.jpg "GSPort screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

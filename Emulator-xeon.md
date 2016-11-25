@@ -4,7 +4,7 @@
 | **Emulator: Xeon** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Xeon is a Microsoft XBox emulator. NOTE: You will need a tool such as xISO to extract the contents of the ISO, making sure that the directory structure of the ISO is preserved. Also, this emulator supposedly ONLY runs Halo (NTSC version)._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xeon/emulator_screenshot_01.jpg "Xeon screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xeon/emulator_screen_01.jpg "Xeon screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

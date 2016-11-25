@@ -4,7 +4,7 @@
 | **Emulator: Red Dragon** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Red Dragon is a Nintendo Virtual Boy emulator._
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/reddragon/emulator_screenshot_01.jpg "Red Dragon screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/reddragon/emulator_screen_01.jpg "Red Dragon screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

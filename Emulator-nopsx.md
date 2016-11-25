@@ -4,7 +4,7 @@
 | **Emulator: no$psx** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screenshot) |
+| [:sunrise: screen](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nocash PS1 emulator/debugger for windows._
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nopsx/emulator_screenshot_01.jpg "no$psx screenshot.")
+## screen
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nopsx/emulator_screen_01.jpg "no$psx screen.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
