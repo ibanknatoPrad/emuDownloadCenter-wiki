@@ -8,5 +8,6 @@
 |:-----------|:--------------------|:------------|
 | [:file_folder: **Classic99**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-classic99#menu) | :large_blue_circle: Active (2016) | Open Source (Restrictive) |
 | [:file_folder: **Ti994W**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ti994w#menu) | :red_circle: Non-active (2010) | UNKNOWN |
+| [:file_folder: **Win994a**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-win994a#menu) | :red_circle: Non-active (2013) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
