@@ -74,18 +74,21 @@ Contents of the DOWNLOADS INI file:
     InfoVersion	                = Version of the INI file layout.
 
     [VERSION]
-    EMU_Download                = The online location of the 7Z archive file (with ending slash /)
-    EMU_ReleaseDate             = The releasedate of the emulator (if you cannot find it, use the date on the executable file)
-    EMU_Notes                   = Some small emulator notes (Working / Not working)
+    FILE_ContentType            = Content type of the archive, can be: Program / Installer / Source / Extra.
+    FILE_ContentCategory        = Category of the content type, can be: Emulator / Plugin / Drivers.
+    FILE_Notes                  = Notes supporting the content of the archive (optional).
+    EMU_Download                = The online location of the 7Z archive file (with ending slash /).
+    EMU_ReleaseDate             = The releasedate of the emulator (if you cannot find it, use the date on the executable file).
+    EMU_Notes                   = Some small emulator notes (Working / Not working).
     EMU_ExecutableFile          = Executable file to start the emulator (EXE/COM), please no CMD/BAT files.
     EMU_ExecutableFolder        = Path inside archive where executable file is located.
     EMU_OS                      = Operating system.
-    EMU_OSVersion               = Version of the operating system, comma seperated. (example: XP,Vista,7,8,10)
-    EMU_OSArchitecture          = Operating system architecture, comma seperated. (example: x86 for win32 and x64 for win64)
-    INFO_PackedSize             = Autofilled by EDC manager in this GitHub repo. (Packed size of the archive contents)
-    INFO_UnpackedSize           = Autofilled by EDC manager in this GitHub repo. (Unpacked size of the archive contents)
-    INFO_CRC32Executable        = Autofilled by EDC manager in this GitHub repo. (CRC32 of the executable to start the emulator)
-    INFO_CRC32Archive           = Autofilled by EDC manager in this GitHub repo. (CRC32 of the emulator archive)
+    EMU_OSVersion               = Version of the operating system, comma seperated. (example: XP,Vista,7,8,10).
+    EMU_OSArchitecture          = Operating system architecture, comma seperated. (example: x86 for win32 and x64 for win64).
+    INFO_PackedSize             = Autofilled by EDC manager in this GitHub repo. (Packed size of the archive contents).
+    INFO_UnpackedSize           = Autofilled by EDC manager in this GitHub repo. (Unpacked size of the archive contents).
+    INFO_CRC32Executable        = Autofilled by EDC manager in this GitHub repo. (CRC32 of the executable to start the emulator).
+    INFO_CRC32Archive           = Autofilled by EDC manager in this GitHub repo. (CRC32 of the emulator archive).
 
 **Specifications:**
 * **`[VERSION]`** mostly exists of numbers, all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
@@ -95,6 +98,9 @@ Contents of the DOWNLOADS INI file:
 Example Contents (Emulator Potator for Watara Supervision):
 
     [0.7]
+    FILE_ContentType            = Program
+    FILE_Notes                  = Emulator
+    FILE_Notes                  = 
     EMU_DownloadUrl             = https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/
     EMU_ReleaseDate             = 2004-10-19
     EMU_Notes                   = Has a commandline parameter to start roms.
