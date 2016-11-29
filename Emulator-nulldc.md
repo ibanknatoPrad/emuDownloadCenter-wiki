@@ -26,9 +26,18 @@ _nullDC is a Sega Dreamcast emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nulldc/emulator_screen_01.jpg "nullDC screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.04_r136**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/nulldc/1.04_r136.7z) | 2011-08-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r136_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r136_contents.txt) | 916 KB |
-| [:floppy_disk: **1.04_r50**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/nulldc/1.04_r50.7z) | 2010-06-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r50_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r50_contents.txt) | 731 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**1.04_r136**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/nulldc/1.04_r136.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2011-08-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r136_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r136_contents.txt) | 916 KB |
+| [**1.04_r50**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/nulldc/1.04_r50.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2010-06-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r50_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/nulldc/1.04_r50_contents.txt) | 731 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

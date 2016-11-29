@@ -24,8 +24,17 @@ _No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulat
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nomsx/emulator_screen_01.jpg "no$msx screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nomsx/1.5.7z) | 2003-05-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_contents.txt) | 207 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**1.5**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/nomsx/1.5.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2003-05-01 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/nomsx/1.5_contents.txt) | 207 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -24,8 +24,17 @@ _Makaron is a Sega Dreamcast and Naomi emulator._
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/makaron/emulator_screen_01.jpg "Makaron screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **12.7**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/makaron/12.7.7z) | 2011-02-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/makaron/12.7_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/makaron/12.7_contents.txt) | 424 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**12.7**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/makaron/12.7.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2011-02-05 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/makaron/12.7_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/makaron/12.7_contents.txt) | 424 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

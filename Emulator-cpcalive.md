@@ -26,10 +26,19 @@ _CpcAlive is a programming environment Amstrad CPC compatible for graphics anima
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcalive/emulator_screen_01.jpg "CpcAlive screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.16**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.16.7z) | 2014-12-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16_contents.txt) | 2425 KB |
-| [:floppy_disk: **1.16-dos**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.16-dos.7z) | 2014-12-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16-dos_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16-dos_contents.txt) | 1658 KB |
-| [:floppy_disk: **1.12**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.12.7z) | 2014-03-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.12_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.12_contents.txt) | 2944 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**1.16**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.16.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-12-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16_contents.txt) | 2425 KB |
+| [**1.16-dos**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.16-dos.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_dos_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-12-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16-dos_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.16-dos_contents.txt) | 1658 KB |
+| [**1.12**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cpcalive/1.12.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-03-02 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.12_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cpcalive/1.12_contents.txt) | 2944 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

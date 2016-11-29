@@ -24,8 +24,17 @@ _Arnold is an Amstrad/Schneider CPC, Plus/CPC+ and VEB Mikroelektronik KC Compac
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnold/emulator_screen_01.jpg "Arnold screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **04.01.2004**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/arnold/04.01.2004.7z) | 2004.01.04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_contents.txt) | 296 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**04.01.2004**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/arnold/04.01.2004.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2004.01.04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/arnold/04.01.2004_contents.txt) | 296 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

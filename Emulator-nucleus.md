@@ -24,10 +24,19 @@ _Nucleus is a Sony Playstation 3 emulator. NOTE: This emulator requires PS3 firm
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nucleus/emulator_screen_01.jpg "Nucleus screenshot.")
 ***
 ## Downloads
-| Version  | Release date  | Info       | Info       | DL Size    |
-|:---------|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **0.1.0-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.1.0-win64.7z) | 2016-05-13 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.1.0-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.1.0-win64_contents.txt) | 640 KB |
-| [:floppy_disk: **0.0.4-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.0.4-win64.7z) | 2015-02-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.4-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.4-win64_contents.txt) | 2665 KB |
-| [:floppy_disk: **0.0.3-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.0.3-win64.7z) | 2015-01-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.3-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.3-win64_contents.txt) | 252 KB |
+Legend:
+| ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **Program** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) **Installer** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) **Source** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
+
+
+| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
+|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
+| [**0.1.0-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.1.0-win64.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2016-05-13 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.1.0-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.1.0-win64_contents.txt) | 640 KB |
+| [**0.0.4-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.0.4-win64.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2015-02-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.4-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.4-win64_contents.txt) | 2665 KB |
+| [**0.0.3-win64**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/nucleus/0.0.3-win64.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2015-01-21 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.3-win64_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/nucleus/0.0.3-win64_contents.txt) | 252 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
