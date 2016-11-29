@@ -4,7 +4,7 @@
 | **Emulator: 3DOplay** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -14,7 +14,7 @@
 
 **3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license.
 
-The latest version of the emulator on EDC is **1.8.2 (x86, x64)**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3DOplay.exe**.
+The latest version of the emulator on EDC is **1.8.2 (x86)**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3DOplay.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -37,6 +37,6 @@ Legend:
 
 | Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
 |:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
-| [**1.8.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3doplay/1.8.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) | 2012-04-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_contents.txt) | 2706 KB |
+| [**1.8.2**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3doplay/1.8.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-04-20 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3doplay/1.8.2_contents.txt) | 2706 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

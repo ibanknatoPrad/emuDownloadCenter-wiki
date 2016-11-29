@@ -4,7 +4,7 @@
 | **Emulator: Steem SSE (Steven Seagal Edition)** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About

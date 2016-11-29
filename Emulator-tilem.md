@@ -4,7 +4,7 @@
 | **Emulator: TilEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -38,5 +38,7 @@ Legend:
 | Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
 |:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
 | [**2.0**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/tilem/2.0.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-06-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0_contents.txt) | 0 KB |
+| [**2.0-installer**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/tilem/2.0-installer.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-06-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0-installer_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0-installer_contents.txt) | 0 KB |
+| [**2.0-source**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/tilem/2.0-source.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_source_code_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-06-07 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0-source_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/tilem/2.0-source_contents.txt) | 0 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

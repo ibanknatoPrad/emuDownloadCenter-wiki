@@ -4,7 +4,7 @@
 | **Emulator: 88VA Eternal Grafx** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About

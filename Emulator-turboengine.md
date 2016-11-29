@@ -4,7 +4,7 @@
 | **Emulator: Turbo Engine 16** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About

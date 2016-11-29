@@ -4,7 +4,7 @@
 | **Emulator: Win994a** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: Screenshot](#screen) |
+| [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -12,7 +12,7 @@
 
 **Win994a** is a emulator for **Texas Instruments TI-99/4A** made by **Cory Burr** and has a **Freeware** license.
 
-The latest version of the emulator on EDC is **3.010-win64 (x64)**, released on **2013-03-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Win994a.exe**.
+The latest version of the emulator on EDC is **3.010-win64 (x64)**, released on **2013-03-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Win994a_x64.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 

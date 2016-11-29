@@ -6,7 +6,7 @@ Last update: 2016-11-29
 |:-----|------:|
 | Platforms available | 162 |
 | Platform Emulators | 399 |
-| Emulator Versions  | 1004 |
+| Emulator Versions  | 1006 |
 
 | :package: Archive Statistics | |
 |:-----|------:|
