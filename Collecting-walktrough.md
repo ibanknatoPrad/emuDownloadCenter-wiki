@@ -26,8 +26,8 @@ Contents of the INFO INI file:
 
     [EMULATOR]
     Author              = Author(s) of the emulator.
-    Contact             = E-mail of the Author.
-    License             = The License of the Emulator (Freeware/Shareware/Open Source/GPL).
+    Contact             = E-mail adress of the Author.
+    License             = The License of the Emulator (Freeware/Shareware/Open Source/GNU GPLvx).
     BiosNeeded          = Does the Emulator need BIOS ROM(S) to run? (1=yes)
     Website             = The Website where the emulator can be found (starting with http://)
     Notes               = Small description of the emulator.
@@ -93,7 +93,9 @@ Contents of the DOWNLOADS INI file:
 **Specifications:**
 * **`[VERSION]`** mostly exists of numbers, all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 * This version number must exist in the emulator download folder on a EDC repository, or EDC manager cannot find it to fill the details!
-* Always put the latest version on top and the oldest at the bottom!
+* In emulators, always put the latest version on top and the oldest at the bottom!
+* In versions, always put x64 versions top and x86 beneath x64.
+* Content category can be left 'Emulator' for ContentType: Program / Installer / Source
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -108,7 +110,7 @@ Example Contents (Emulator Potator for Watara Supervision):
     EMU_ExecutableFolder        =
     EMU_OS                      = Windows
     EMU_OSVersion               = XP,Vista,7,8,10
-    EMU_OSArchitecture          = x86,x64
+    EMU_OSArchitecture          = x86
     INFO_PackedSize             = 179 
     INFO_UnpackedSize           = 192 
     INFO_CRC32Executable        = 6C059FFB 
@@ -128,12 +130,14 @@ Please note that if you have 2 the same versions (and archive files) but diffren
     EMU_OSVersion               = Vista,7,8,10
     EMU_OSArchitecture          = x64
 
-Other files for source, extras or other platforms should be named like:
+Other files for source, extras or platforms should be named like:
 
 [version]-linux
 [version]-mac
 [version]-source
-[version]-extras
+[version]-drivers
+[version]-extras or extras-[description]
+[version]-plugin or plugin-[description]
 
 ### 1.4)
 Create a **ECC CONFIGURATION INI** file in the `emulatorfoldername` wich contains ecc configuration(s) about the emulator version(s).
@@ -264,7 +268,4 @@ Please note the **same** emulator can be added to multiple platforms.
 
 Emulators to exclude from EDC at the moment:
 
-- Emulators for **Linux** and **MacOs** (you can add them to the repo like **-linux** and **-mac**, don't add them in the emulator downloads INI file.)
-- Emulators **Source** files (you can add them to the repo like **-source**, don't add them in the emulator downloads INI file.)
-- Emulators that have **installers** to run first.
 - Emulators that are **Java** based (JAR).
