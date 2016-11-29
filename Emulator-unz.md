@@ -4,7 +4,7 @@
 | **Emulator: UNZ** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **0.5L30 (x86)**, released on **201
 
 _UNZ is a Fujitsu FM Towns and FM Marty emulator._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/unz/emulator_screen_01.jpg "UNZ screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/unz/emulator_screen_01.jpg "UNZ screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: pSX** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,15 +20,15 @@ _This emulator fully emulates the Sony Playstation. Compatibility is fairly high
 
 [:link: **Emulator website**](http://psxemulator.gazaxian.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/emulator_screen_01.jpg "pSX screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/psx/emulator_screen_01.jpg "pSX screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
 |:---------|:-------------:|:-----------|:-----------|-----------:|
 | [:floppy_disk: **1.13**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.13.7z) | 2007-08-27 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.13_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.13_contents.txt) | 573 KB |
 | [:floppy_disk: **1.12**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.12.7z) | 2007-07-23 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.12_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.12_contents.txt) | 567 KB |
-| [:floppy_disk: **1.11**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.11.7z) | 007-02-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.11_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.11_contents.txt) | 492 KB |
+| [:floppy_disk: **1.11**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.11.7z) | 2007-02-24 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.11_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.11_contents.txt) | 492 KB |
 | [:floppy_disk: **1.10**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.10.7z) | 2006-11-04 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.10_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.10_contents.txt) | 475 KB |
 | [:floppy_disk: **1.9**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.9.7z) | 2006-09-25 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.9_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.9_contents.txt) | 336 KB |
 | [:floppy_disk: **1.8**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/psx/1.8.7z) | 2006-08-13 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/psx/1.8_contents.txt) | 336 KB |

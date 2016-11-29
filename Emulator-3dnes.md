@@ -4,7 +4,7 @@
 | **Emulator: 3DNes** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _3DNes is an emulator that renders Nintendo Entertainment System games in 3D wit
 
 [:link: **Emulator website**](http://geod.itch.io/3dnes)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dnes/emulator_screen_01.jpg "3DNes screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/3dnes/emulator_screen_01.jpg "3DNes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

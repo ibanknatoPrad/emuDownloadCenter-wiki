@@ -4,7 +4,7 @@
 | **Emulator: Genesis Plus** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Genesis Plus is a Sega Genesis and MegaDrive emulator._
 
 [:link: **Emulator website**](http://www.techno-junk.org/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/genesisplus/emulator_screen_01.jpg "Genesis Plus screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/genesisplus/emulator_screen_01.jpg "Genesis Plus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

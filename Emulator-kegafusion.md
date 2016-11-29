@@ -4,7 +4,7 @@
 | **Emulator: Kega Fusion** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, S
 
 [:link: **Emulator website**](http://www.carpeludum.com/kega-fusion/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegafusion/emulator_screen_01.jpg "Kega Fusion screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegafusion/emulator_screen_01.jpg "Kega Fusion screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

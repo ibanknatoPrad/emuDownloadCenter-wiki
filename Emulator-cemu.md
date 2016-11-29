@@ -4,7 +4,7 @@
 | **Emulator: Cemu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Cemu is a highly experimental WiiU emulator. NOTE: Cemu is 64bit ONLY._
 
 [:link: **Emulator website**](http://cemu.info)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cemu/emulator_screen_01.jpg "Cemu screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cemu/emulator_screen_01.jpg "Cemu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

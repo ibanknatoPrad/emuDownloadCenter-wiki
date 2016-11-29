@@ -4,7 +4,7 @@
 | **Emulator: jzIntv** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _jzIntv is an Intellivision emulator._
 
 [:link: **Emulator website**](http://spatula-city.org/~im14u2c/intv)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jzintv/emulator_screen_01.jpg "jzIntv screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jzintv/emulator_screen_01.jpg "jzIntv screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

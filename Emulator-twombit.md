@@ -4,7 +4,7 @@
 | **Emulator: TwoMBit** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _TwoMBit is an Sega Master System, Game Gear and SG-1000 emulator._
 
 [:link: **Emulator website**](http://sourceforge.net/projects/twombit/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/twombit/emulator_screen_01.jpg "TwoMBit screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/twombit/emulator_screen_01.jpg "TwoMBit screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

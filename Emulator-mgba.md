@@ -4,7 +4,7 @@
 | **Emulator: mGBA** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator._
 
 [:link: **Emulator website**](http://mgba.io)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mgba/emulator_screen_01.jpg "mGBA screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mgba/emulator_screen_01.jpg "mGBA screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

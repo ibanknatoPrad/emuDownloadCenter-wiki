@@ -4,7 +4,7 @@
 | **Emulator: CpcAlive** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _CpcAlive is a programming environment Amstrad CPC compatible for graphics anima
 
 [:link: **Emulator website**](http://www.cpcalive.com/cpcalive_en.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcalive/emulator_screen_01.jpg "CpcAlive screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcalive/emulator_screen_01.jpg "CpcAlive screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: RxNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the 
 
 [:link: **Emulator website**](http://www.rxnes.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rxnes/emulator_screen_01.jpg "RxNES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rxnes/emulator_screen_01.jpg "RxNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

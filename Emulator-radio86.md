@@ -4,7 +4,7 @@
 | **Emulator: RADIO-86** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RADIO-86 is a Radio 86RK emulator. This emulator comes with several games._
 
 [:link: **Emulator website**](http://www.itwas.ru/radio/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/radio86/emulator_screen_01.jpg "RADIO-86 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/radio86/emulator_screen_01.jpg "RADIO-86 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

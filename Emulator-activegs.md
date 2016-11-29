@@ -4,7 +4,7 @@
 | **Emulator: ActiveGS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _ActiveGS is an Apple IIGS emulator._
 
 [:link: **Emulator website**](http://activegs.freetoolsassociation.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/activegs/emulator_screen_01.jpg "ActiveGS screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/activegs/emulator_screen_01.jpg "ActiveGS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

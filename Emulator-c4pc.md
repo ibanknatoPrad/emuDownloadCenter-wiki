@@ -4,7 +4,7 @@
 | **Emulator: C4PC** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _This emulator is not intended to be used to PLAY / RUN / USE, but to TEST Cybik
 
 [:link: **Emulator website**](http://users.skynet.be/firefly/cybiko/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/c4pc/emulator_screen_01.jpg "C4PC screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/c4pc/emulator_screen_01.jpg "C4PC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

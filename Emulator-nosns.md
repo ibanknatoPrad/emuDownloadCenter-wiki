@@ -4,7 +4,7 @@
 | **Emulator: no$sns** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nocash SNES/Super Famicom emulator/debugger for windows._
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nosns/emulator_screen_01.jpg "no$sns screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nosns/emulator_screen_01.jpg "no$sns screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

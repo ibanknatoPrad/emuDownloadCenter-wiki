@@ -4,7 +4,7 @@
 | **Emulator: HDNes** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _HDNes is a Nintendo Entertainment System emulator with the ability to replace t
 
 [:link: **Emulator website**](http://forums.nesdev.com/viewtopic.php?f=3&t=9935)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hdnes/emulator_screen_01.jpg "HDNes screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hdnes/emulator_screen_01.jpg "HDNes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

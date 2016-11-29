@@ -4,7 +4,7 @@
 | **Emulator: DGen** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DGen is a Sega Mega Drive and Genesis emulator._
 
 [:link: **Emulator website**](http://sourceforge.net/projects/dgen/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dgen/emulator_screen_01.jpg "DGen screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dgen/emulator_screen_01.jpg "DGen screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

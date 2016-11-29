@@ -4,7 +4,7 @@
 | **Emulator: WinFellow** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _WinFellow is a high performance Amiga Emulator primarily targeted for Windows. 
 
 [:link: **Emulator website**](http://petschau.github.io/WinFellow/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winfellow/emulator_screen_01.jpg "WinFellow screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/winfellow/emulator_screen_01.jpg "WinFellow screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

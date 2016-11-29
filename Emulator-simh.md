@@ -4,7 +4,7 @@
 | **Emulator: SIMH** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SIMH is a multi-system emulator for the following systems: Data General Nova, E
 
 [:link: **Emulator website**](http://simh.trailing-edge.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simh/emulator_screen_01.jpg "SIMH screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simh/emulator_screen_01.jpg "SIMH screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

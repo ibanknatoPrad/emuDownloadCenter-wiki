@@ -4,7 +4,7 @@
 | **Emulator: YoshiNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _YoshiNES is a Nintendo Entertainment System emulator written in Visual Basic. I
 
 [:link: **Emulator website**](https://sourceforge.net/projects/yoshines/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yoshines/emulator_screen_01.jpg "YoshiNES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yoshines/emulator_screen_01.jpg "YoshiNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: James VZ200** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _James's VZ200, an emulator for the VZ200 computer_
 
 [:link: **Emulator website**](http://www.lchr.org/a/18/2t/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jvz200/emulator_screen_01.jpg "James VZ200 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jvz200/emulator_screen_01.jpg "James VZ200 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

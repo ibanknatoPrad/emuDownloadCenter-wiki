@@ -4,7 +4,7 @@
 | **Emulator: BlastEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _BlastEm is a Sega Genesis emulator._
 
 [:link: **Emulator website**](http://rhope.retrodev.com/files/blastem.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/blastem/emulator_screen_01.jpg "BlastEm screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/blastem/emulator_screen_01.jpg "BlastEm screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

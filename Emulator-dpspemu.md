@@ -4,7 +4,7 @@
 | **Emulator: PSPEmu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PSPEmu is a Sony Playstation Portable emulator._
 
 [:link: **Emulator website**](http://pspemu.soywiz.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dpspemu/emulator_screen_01.jpg "PSPEmu screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dpspemu/emulator_screen_01.jpg "PSPEmu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

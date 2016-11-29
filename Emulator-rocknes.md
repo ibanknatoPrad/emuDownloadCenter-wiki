@@ -4,7 +4,7 @@
 | **Emulator: RockNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RockNES is a Nintendo Entertainment System emulator and '.nsf' player._
 
 [:link: **Emulator website**](http://rocknes.web.fc2.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rocknes/emulator_screen_01.jpg "RockNES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rocknes/emulator_screen_01.jpg "RockNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

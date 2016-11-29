@@ -4,7 +4,7 @@
 | **Emulator: Sega Model 2 Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Model 2 Emulator is a SEGA Model 2, 2A, 2B and 2C emulator. NOTE: To bypass the
 
 [:link: **Emulator website**](http://nebula.emulatronia.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m2emulator/emulator_screen_01.jpg "Sega Model 2 Emulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/m2emulator/emulator_screen_01.jpg "Sega Model 2 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

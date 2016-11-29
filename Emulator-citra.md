@@ -4,7 +4,7 @@
 | **Emulator: Citra** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Citra is an experimental open-source Nintendo 3DS emulator/debugger written in 
 
 [:link: **Emulator website**](https://citra-emu.org/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/citra/emulator_screen_01.jpg "Citra screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/citra/emulator_screen_01.jpg "Citra screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Altirra** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Altirra is an emulator that simulates the hardware of the Atari 8-bit computer 
 
 [:link: **Emulator website**](http://www.virtualdub.org/altirra.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/altirra/emulator_screen_01.jpg "Altirra screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/altirra/emulator_screen_01.jpg "Altirra screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

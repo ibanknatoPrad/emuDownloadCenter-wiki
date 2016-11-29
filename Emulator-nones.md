@@ -4,7 +4,7 @@
 | **Emulator: no$nes** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nocash NES/FDS/PC10/VS emulator/debugger for windows._
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nones/emulator_screen_01.jpg "no$nes screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nones/emulator_screen_01.jpg "no$nes screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

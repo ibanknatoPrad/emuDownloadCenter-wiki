@@ -4,7 +4,7 @@
 | **Emulator: TilEm** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _TilEm is an emulator and debugger for Texas Instruments Z80-based graphing calc
 
 [:link: **Emulator website**](http://lpg.ticalc.org/prj_tilem/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tilem/emulator_screen_01.jpg "TilEm screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/tilem/emulator_screen_01.jpg "TilEm screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

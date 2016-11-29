@@ -4,7 +4,7 @@
 | **Emulator: Virtual Aquarius** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Virtual Aquarius is an emulator for the Radofin Electronics Aquarius Home Compu
 
 [:link: **Emulator website**](http://www.lchr.org/a/18/2t/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vaquarius/emulator_screen_01.jpg "Virtual Aquarius screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vaquarius/emulator_screen_01.jpg "Virtual Aquarius screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

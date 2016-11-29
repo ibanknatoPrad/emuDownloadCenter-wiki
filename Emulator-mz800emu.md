@@ -4,7 +4,7 @@
 | **Emulator: MZ-800 Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _MZ800Emu is a Sharp MZ-700 and MZ-800 emulator._
 
 [:link: **Emulator website**](http://sourceforge.net/projects/mz800emu/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mz800emu/emulator_screen_01.jpg "MZ-800 Emulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mz800emu/emulator_screen_01.jpg "MZ-800 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

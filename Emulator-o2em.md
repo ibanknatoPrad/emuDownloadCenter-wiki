@@ -4,7 +4,7 @@
 | **Emulator: O2EM** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _O2EM is a Philips Videopac G700, Videopac+ G7400 and Magnavox Odyssey 2 emulato
 
 [:link: **Emulator website**](http://o2em.sourceforge.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/o2em/emulator_screen_01.jpg "O2EM screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/o2em/emulator_screen_01.jpg "O2EM screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

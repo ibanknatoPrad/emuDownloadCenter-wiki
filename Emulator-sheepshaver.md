@@ -4,7 +4,7 @@
 | **Emulator: Sheep Shaver** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SheepShaver is a MacOS run-time environment that runs MacOS 7.5.2 thru 9.0.4._
 
 [:link: **Emulator website**](http://sheepshaver.cebix.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sheepshaver/emulator_screen_01.jpg "Sheep Shaver screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/sheepshaver/emulator_screen_01.jpg "Sheep Shaver screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

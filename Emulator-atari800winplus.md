@@ -4,7 +4,7 @@
 | **Emulator: Atari800Win-PLus** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Atari800Win Plus is an emulator that is based off the Atari800 kernel and the A
 
 [:link: **Emulator website**](http://atariarea.krap.pl/PLus/index_us.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800winplus/emulator_screen_01.jpg "Atari800Win-PLus screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/atari800winplus/emulator_screen_01.jpg "Atari800Win-PLus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

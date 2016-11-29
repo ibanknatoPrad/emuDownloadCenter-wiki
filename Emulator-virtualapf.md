@@ -4,7 +4,7 @@
 | **Emulator: Virtual APF** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Virtual APF, an emulator for the APF Imagination Machine_
 
 [:link: **Emulator website**](http://www.geocities.com/emucompboy/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualapf/emulator_screen_01.jpg "Virtual APF screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualapf/emulator_screen_01.jpg "Virtual APF screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: PCSX2** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator. Its purpose is to emu
 
 [:link: **Emulator website**](https://github.com/PCSX2/pcsx2/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsx2/emulator_screen_01.jpg "PCSX2 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcsx2/emulator_screen_01.jpg "PCSX2 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

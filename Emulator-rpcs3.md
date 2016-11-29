@@ -4,7 +4,7 @@
 | **Emulator: RPCS3** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _RPCS3 is a Sony Playstation 3 emulator. Screenshot from Author's Website._
 
 [:link: **Emulator website**](http://rpcs3.net/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcs3/emulator_screen_01.jpg "RPCS3 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/rpcs3/emulator_screen_01.jpg "RPCS3 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Aspectrum** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Aspectrum is a Sinclair ZX Spectrum emulator. NOTE: Runs in Full-Screen mode ONLY. To access the Menu, press the 'ESC' key. To change the language (Spanish <-> English), press the 'F8' key._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aspectrum/emulator_screen_01.jpg "Aspectrum screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/aspectrum/emulator_screen_01.jpg "Aspectrum screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

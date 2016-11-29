@@ -4,7 +4,7 @@
 | **Emulator: PearPC** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC req
 
 [:link: **Emulator website**](http://github.com/sebastianbiallas/pearpc)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pearpc/emulator_screen_01.jpg "PearPC screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pearpc/emulator_screen_01.jpg "PearPC screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

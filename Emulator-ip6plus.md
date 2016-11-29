@@ -4,7 +4,7 @@
 | **Emulator: iP6** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ The latest version of the emulator on EDC is **4.7 (x86)**, released on **2004-0
 
 _iP6 Plus is an NEC PC-6001, PC-6001 mk2, PC-6601, PC-6601mk2SR, PC-6601SR, PC-6006SR and PC-6007SR emulator based on the iP6 emulator by Mr Ishioka._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ip6plus/emulator_screen_01.jpg "iP6 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ip6plus/emulator_screen_01.jpg "iP6 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

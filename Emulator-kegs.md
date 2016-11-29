@@ -4,7 +4,7 @@
 | **Emulator: Kent's Emulated GS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _KEGS is an Apple IIgs emulator for Mac OS X, Linux, and Win32. The Apple IIgs w
 
 [:link: **Emulator website**](http://kegs.sourceforge.net/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegs/emulator_screen_01.jpg "Kent's Emulated GS screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kegs/emulator_screen_01.jpg "Kent's Emulated GS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

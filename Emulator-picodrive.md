@@ -4,7 +4,7 @@
 | **Emulator: PicoDrive** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Picodrive is a Sega 32X, Sega Megadrive / Genesis, Sega Master System & Sega Me
 
 [:link: **Emulator website**](http://notaz.gp2x.de/svp.php)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/picodrive/emulator_screen_01.jpg "PicoDrive screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/picodrive/emulator_screen_01.jpg "PicoDrive screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

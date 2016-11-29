@@ -4,7 +4,7 @@
 | **Emulator: Fuse (The Free Unix Spectrum Emulator)** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Fuse (The Free Unix Spectrum Emulator) is a Sinclair ZX Spectrum, Timex TC2038,
 
 [:link: **Emulator website**](http://fuse-emulator.sourceforge.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fuse/emulator_screen_01.jpg "Fuse (The Free Unix Spectrum Emulator) screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/fuse/emulator_screen_01.jpg "Fuse (The Free Unix Spectrum Emulator) screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

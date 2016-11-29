@@ -4,7 +4,7 @@
 | **Emulator: Mega8** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Mega8 is a Chip-8, MegaChip8 and SuperChip emulator. It includes the Revival St
 
 [:link: **Emulator website**](http://www.ready4next.be/section-26/folder-3/27-08-2014-Let-s-talk-about-Emulation/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mega8/emulator_screen_01.jpg "Mega8 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mega8/emulator_screen_01.jpg "Mega8 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

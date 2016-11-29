@@ -4,7 +4,7 @@
 | **Emulator: DCMOTO** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DCMOTO is an emulator for all Thomson 8 bit computers: MO5, MO5E, German MO5E, 
 
 [:link: **Emulator website**](http://dcmoto.free.fr)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmoto/emulator_screen_01.jpg "DCMOTO screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmoto/emulator_screen_01.jpg "DCMOTO screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

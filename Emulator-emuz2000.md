@@ -4,7 +4,7 @@
 | **Emulator: EmuZ-2000** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _EmuZ-2000 is a Sharp MZ-2000, MZ-2200, MZ-80B and MZ-80B2 emulator. All documentation is in Japanese._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emuz2000/emulator_screen_01.jpg "EmuZ-2000 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emuz2000/emulator_screen_01.jpg "EmuZ-2000 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

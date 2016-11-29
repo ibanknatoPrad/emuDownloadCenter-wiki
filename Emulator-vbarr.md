@@ -4,7 +4,7 @@
 | **Emulator: VisualBoyAdvance-rerecording** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VBA rerecording is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emu
 
 [:link: **Emulator website**](http://code.google.com/archive/p/vba-rerecording/wikis)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbarr/emulator_screen_01.jpg "VisualBoyAdvance-rerecording screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vbarr/emulator_screen_01.jpg "VisualBoyAdvance-rerecording screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

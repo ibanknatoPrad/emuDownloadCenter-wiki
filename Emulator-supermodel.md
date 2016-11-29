@@ -4,7 +4,7 @@
 | **Emulator: Supermodel** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Supermodel is a Sega Model 3 emulator. There are a few games that are playable,
 
 [:link: **Emulator website**](http://supermodel3.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supermodel/emulator_screen_01.jpg "Supermodel screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supermodel/emulator_screen_01.jpg "Supermodel screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

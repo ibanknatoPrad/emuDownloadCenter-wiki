@@ -4,7 +4,7 @@
 | **Emulator: Yet Another Plus/4 Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _YAPE is a Commodore 264 family emulator. It's an 8-bit microcomputer family fro
 
 [:link: **Emulator website**](http://yape.plus4.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yape/emulator_screen_01.jpg "Yet Another Plus/4 Emulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yape/emulator_screen_01.jpg "Yet Another Plus/4 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

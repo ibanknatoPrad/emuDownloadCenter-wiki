@@ -4,7 +4,7 @@
 | **Emulator: Virtual Jaguar** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source co
 
 [:link: **Emulator website**](http://icculus.org/virtualjaguar/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualjaguar/emulator_screen_01.jpg "Virtual Jaguar screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualjaguar/emulator_screen_01.jpg "Virtual Jaguar screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: ARNIMEDES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _ARNIMEDES is an Amstrad CPC emulator. NOTE: Emulator appears to only run in Ful
 
 [:link: **Emulator website**](http://arnimedes.de)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnimedes/emulator_screen_01.jpg "ARNIMEDES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arnimedes/emulator_screen_01.jpg "ARNIMEDES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

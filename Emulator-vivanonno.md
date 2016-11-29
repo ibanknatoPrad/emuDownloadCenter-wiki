@@ -4,7 +4,7 @@
 | **Emulator: viva nonno** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _'viva nonno' is a namco system 22 emulator for Windows and DirectX._
 
 [:link: **Emulator website**](http://vivanonno.vg-network.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vivanonno/emulator_screen_01.jpg "viva nonno screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vivanonno/emulator_screen_01.jpg "viva nonno screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

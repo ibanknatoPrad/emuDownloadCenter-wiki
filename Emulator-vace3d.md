@@ -4,7 +4,7 @@
 | **Emulator: Vace3D** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Vace3D is a Jupiter Cantab Jupiter Ace emulator. This is a truly weird emulator as the Computer and Screen are rendered in a 3D environment! It is hard to use and is mainly here for novelty value._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vace3d/emulator_screen_01.jpg "Vace3D screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vace3d/emulator_screen_01.jpg "Vace3D screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

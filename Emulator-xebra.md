@@ -4,7 +4,7 @@
 | **Emulator: XEBRA** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _XEBRA is a Sony Playstation 1 and PocketStation emulator. NOTE: To run PocketStation games you need both XEBRA and PK201. Basically, you put both emulators in a folder together with respective FROM, KROM and OSROM files, run PK201 and do the initial setup, select File -> Save STAT and close it. Now you run XEBRA, select whatever game you like, then select Run -> Run-1/2/3 to start the game. When in game, select Run -> Outer Card to start the PocketStation emulation._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xebra/emulator_screen_01.jpg "XEBRA screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xebra/emulator_screen_01.jpg "XEBRA screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

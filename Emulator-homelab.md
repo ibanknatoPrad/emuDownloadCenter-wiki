@@ -4,7 +4,7 @@
 | **Emulator: HomeLAB** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _HomeLAB is an HomeLAB4 emulator for Windows_
 
 [:link: **Emulator website**](http://gaia.atilia.eu/content/view/3/4/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/emulator_screen_01.jpg "HomeLAB screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/homelab/emulator_screen_01.jpg "HomeLAB screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

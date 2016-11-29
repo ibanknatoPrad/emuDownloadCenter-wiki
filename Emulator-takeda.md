@@ -4,7 +4,7 @@
 | **Emulator: Takeda Archive** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _This emulator collection by Toshiya Takeda contains multiple executables for ma
 
 [:link: **Emulator website**](http://takeda-toshiya.my.coocan.jp/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/takeda/emulator_screen_01.jpg "Takeda Archive screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/takeda/emulator_screen_01.jpg "Takeda Archive screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

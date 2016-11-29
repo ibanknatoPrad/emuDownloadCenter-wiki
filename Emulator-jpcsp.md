@@ -4,7 +4,7 @@
 | **Emulator: JPCSP** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _JPCSP is a Sony Playstation Portable emulator. NOTE: You may have to amend the 
 
 [:link: **Emulator website**](http://www.jpcsp.org)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jpcsp/emulator_screen_01.jpg "JPCSP screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/jpcsp/emulator_screen_01.jpg "JPCSP screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

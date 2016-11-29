@@ -4,7 +4,7 @@
 | **Emulator: QLAY** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _QLAY is a Sinclair QL emulator._
 
 [:link: **Emulator website**](http://www.inter.nl.net/hcc/A.Jaw.Venema)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlayw/emulator_screen_01.jpg "QLAY screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/qlayw/emulator_screen_01.jpg "QLAY screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: puNES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _puNES is a Nintendo Entertainment System emulator._
 
 [:link: **Emulator website**](http://forums.nesdev.com/viewtopic.php?f=3&t=6928)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/punes/emulator_screen_01.jpg "puNES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/punes/emulator_screen_01.jpg "puNES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: no$cpc** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _nocash Amstrad/Schneider CPC Emulator/Debugger for DOS/Windows._
 
 [:link: **Emulator website**](http://problemkaputt.de/index.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nocpc/emulator_screen_01.jpg "no$cpc screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nocpc/emulator_screen_01.jpg "no$cpc screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

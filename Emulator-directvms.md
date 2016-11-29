@@ -4,7 +4,7 @@
 | **Emulator: DirectVMS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DirectVMS is a DirectX port of SoftVMS, an emulator for the Sega Dreamcast Visu
 
 [:link: **Emulator website**](http://rpging.simplenet.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/directvms/emulator_screen_01.jpg "DirectVMS screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/directvms/emulator_screen_01.jpg "DirectVMS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

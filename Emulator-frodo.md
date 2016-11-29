@@ -4,7 +4,7 @@
 | **Emulator: Frodo** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Frodo is a Commodore C64 emulator. It comes in 3 versions: Standard line-based 
 
 [:link: **Emulator website**](http://frodo.cebix.net/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/frodo/emulator_screen_01.jpg "Frodo screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/frodo/emulator_screen_01.jpg "Frodo screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

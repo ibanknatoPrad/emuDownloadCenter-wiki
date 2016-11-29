@@ -4,7 +4,7 @@
 | **Emulator: Project64k** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Project64k is a modified version of the Nintendo 64 emulator, Project64 1.4. It
 
 [:link: **Emulator website**](http://pj64k.blogspot.nl/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/emulator_screen_01.jpg "Project64k screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/project64k/emulator_screen_01.jpg "Project64k screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

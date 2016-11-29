@@ -4,7 +4,7 @@
 | **Emulator: AppleWin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _AppleWin is an Apple II emulator._
 
 [:link: **Emulator website**](http://github.com/AppleWin/AppleWin)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/applewin/emulator_screen_01.jpg "AppleWin screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/applewin/emulator_screen_01.jpg "AppleWin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Basilisk II** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Basilisk II is an Apple 68k Macintosh emulator._
 
 [:link: **Emulator website**](http://basilisk.cebix.net/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/basiliskii/emulator_screen_01.jpg "Basilisk II screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/basiliskii/emulator_screen_01.jpg "Basilisk II screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

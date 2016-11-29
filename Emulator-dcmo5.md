@@ -4,7 +4,7 @@
 | **Emulator: DCMO5** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DCMO5 is a Thomson MO5 emualtor. Screenshot from Author's Website._
 
 [:link: **Emulator website**](http://dcmo5.free.fr)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmo5/emulator_screen_01.jpg "DCMO5 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcmo5/emulator_screen_01.jpg "DCMO5 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: X88000** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _X88000 is an NEC PC-8801 emulator._
 
 [:link: **Emulator website**](http://www.geocities.com/Area51/Dungeon/6809/x88000.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/x88000/emulator_screen_01.jpg "X88000 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/x88000/emulator_screen_01.jpg "X88000 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

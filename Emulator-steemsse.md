@@ -4,7 +4,7 @@
 | **Emulator: Steem SSE (Steven Seagal Edition)** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Steem SSE (Steven Seagal Edition) is an Atari-ST emulator based on Steem._
 
 [:link: **Emulator website**](http://sourceforge.net/projects/steemsse/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/steemsse/emulator_screen_01.jpg "Steem SSE (Steven Seagal Edition) screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/steemsse/emulator_screen_01.jpg "Steem SSE (Steven Seagal Edition) screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: CPC-em** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _This Amstrad CPC emulator that has been around for awhile by Tom Walker. It emulates Z80, video emulation, disc emulation, sound emulation, a GUI, SVGA, joysticks, and more._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcem/emulator_screen_01.jpg "CPC-em screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/cpcem/emulator_screen_01.jpg "CPC-em screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

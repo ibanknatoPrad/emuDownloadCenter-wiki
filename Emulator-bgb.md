@@ -4,7 +4,7 @@
 | **Emulator: BGB** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _BGB is a Gameboy emulator, a program that lets you play Gameboy and Gameboy Col
 
 [:link: **Emulator website**](http://bgb.bircd.org/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bgb/emulator_screen_01.jpg "BGB screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bgb/emulator_screen_01.jpg "BGB screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

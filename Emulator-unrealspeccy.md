@@ -4,7 +4,7 @@
 | **Emulator: UnrealSpeccy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _UnrealSpeccy is a ZX Spectrum and Russian Clones emulator. The original emulato
 
 [:link: **Emulator website**](hhttp://dlcorp.nedopc.com/viewforum.php?f=27)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/unrealspeccy/emulator_screen_01.jpg "UnrealSpeccy screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/unrealspeccy/emulator_screen_01.jpg "UnrealSpeccy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

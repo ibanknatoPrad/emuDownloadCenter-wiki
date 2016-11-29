@@ -4,7 +4,7 @@
 | **Emulator: BSNES Classic** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _BSNES Classic is a Nintendo Entertainment System, Famicom, SNES, Super Famicom,
 
 [:link: **Emulator website**](http://github.com/awjackson/bsnes-classic)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnesclassic/emulator_screen_01.jpg "BSNES Classic screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/bsnesclassic/emulator_screen_01.jpg "BSNES Classic screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

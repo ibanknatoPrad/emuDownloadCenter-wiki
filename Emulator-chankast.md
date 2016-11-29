@@ -4,7 +4,7 @@
 | **Emulator: Chankast** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Chankast is a Sega Dreamcast emulator._
 
 [:link: **Emulator website**](http://chanka.emulatronia.com/FrameSetDC_DC.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/chankast/emulator_screen_01.jpg "Chankast screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/chankast/emulator_screen_01.jpg "Chankast screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

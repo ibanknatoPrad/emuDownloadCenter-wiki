@@ -4,7 +4,7 @@
 | **Emulator: Daphne** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Daphne is a LaserDisc Arcade Game emulator. As at v1.0.0 it can play the follow
 
 [:link: **Emulator website**](http://www.daphne-emu.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/daphne/emulator_screen_01.jpg "Daphne screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/daphne/emulator_screen_01.jpg "Daphne screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

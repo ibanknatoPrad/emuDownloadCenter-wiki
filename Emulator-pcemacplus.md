@@ -4,7 +4,7 @@
 | **Emulator: PCE-MacPlus** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _PCE-MacPlus is an Apple Macintosh Plus emulator._
 
 [:link: **Emulator website**](http://hampa.ch/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcemacplus/emulator_screen_01.jpg "PCE-MacPlus screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pcemacplus/emulator_screen_01.jpg "PCE-MacPlus screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Virtual Super System** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _VSS is an Atari 5200 Super System emulator for MSDOS. The current version runs 
 
 [:link: **Emulator website**](http://www.atarihq.com/danb)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vss/emulator_screen_01.jpg "Virtual Super System screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vss/emulator_screen_01.jpg "Virtual Super System screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

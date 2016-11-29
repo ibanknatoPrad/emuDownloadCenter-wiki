@@ -4,7 +4,7 @@
 | **Emulator: DMGBoy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DMGBoy (Dot Matrix Game Boy) is a Game Boy emulator written in C++. It uses wxW
 
 [:link: **Emulator website**](https://code.google.com/archive/p/dmgboy/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dmgboy/emulator_screen_01.jpg "DMGBoy screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dmgboy/emulator_screen_01.jpg "DMGBoy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

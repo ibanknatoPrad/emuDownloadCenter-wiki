@@ -4,7 +4,7 @@
 | **Emulator: Dolphin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Dolphin is a GameCube and Wii emulator with high compatibility across the major
 
 [:link: **Emulator website**](https://dolphin-emu.org/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dolphin/emulator_screen_01.jpg "Dolphin screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dolphin/emulator_screen_01.jpg "Dolphin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

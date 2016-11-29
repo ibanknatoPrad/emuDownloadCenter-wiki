@@ -4,7 +4,7 @@
 | **Emulator: SoftVMS** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SoftVMS is an emulator for the Sega Dreamcast Visual Memory System capable of r
 
 [:link: **Emulator website**](http://mc.pp.se/dc/sw.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/softvms/emulator_screen_01.jpg "SoftVMS screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/softvms/emulator_screen_01.jpg "SoftVMS screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

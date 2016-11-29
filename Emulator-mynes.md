@@ -4,7 +4,7 @@
 | **Emulator: My NES** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _My NES is a portable, open source, low level Nintendo Entertainment Systema and
 
 [:link: **Emulator website**](http://sourceforge.net/projects/mynes/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mynes/emulator_screen_01.jpg "My NES screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/mynes/emulator_screen_01.jpg "My NES screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

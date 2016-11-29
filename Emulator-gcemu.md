@@ -4,7 +4,7 @@
 | **Emulator: GCEmu** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _GCEmu is a very incomplete emulator for the Nintendo Gamecube. It uses recompil
 
 [:link: **Emulator website**](https://sourceforge.net/projects/gcemu-project/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gcemu/emulator_screen_01.jpg "GCEmu screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/gcemu/emulator_screen_01.jpg "GCEmu screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

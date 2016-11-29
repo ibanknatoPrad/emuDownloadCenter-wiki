@@ -4,7 +4,7 @@
 | **Emulator: XM 6 Type G** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _XM 6 Type G is a Sharp X68000 emulator based on XM 6 by PI.. NOTE: 2.05 version
 
 [:link: **Emulator website**](http://www.ipc-tokai.or.jp/~ytanaka/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm6/emulator_screen_01.jpg "XM 6 Type G screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xm6/emulator_screen_01.jpg "XM 6 Type G screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Dolwin** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Dolwin is an open source Game Cube emulator fully written with dolwinC. Even th
 
 [:link: **Emulator website**](http://www.emulation64.com/files/info/86/dolwin.html/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dolwin/emulator_screen_01.jpg "Dolwin screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dolwin/emulator_screen_01.jpg "Dolwin screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

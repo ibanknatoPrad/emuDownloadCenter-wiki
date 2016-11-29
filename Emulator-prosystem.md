@@ -4,7 +4,7 @@
 | **Emulator: ProSystem** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _ProSystem is an emulator for the Windows operating system that will allow you t
 
 [:link: **Emulator website**](http://home.comcast.net/~gscottstanton/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/emulator_screen_01.jpg "ProSystem screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/prosystem/emulator_screen_01.jpg "ProSystem screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

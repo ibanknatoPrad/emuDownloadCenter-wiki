@@ -4,7 +4,7 @@
 | **Emulator: Minus4w** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Minus / 4 is a C16 / Plus/4 emulator for Windows._
 
 [:link: **Emulator website**](http://minus4.plus4.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minus4/emulator_screen_01.jpg "Minus4w screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/minus4/emulator_screen_01.jpg "Minus4w screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

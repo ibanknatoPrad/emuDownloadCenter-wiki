@@ -4,7 +4,7 @@
 | **Emulator: CoolCV** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _CoolCV is a Coleco Colecovision, Coleco Adam and Sega SG-1000 emulator. NOTE: T
 
 [:link: **Emulator website**](http://nanochess.org/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/coolcv/emulator_screen_01.jpg "CoolCV screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/coolcv/emulator_screen_01.jpg "CoolCV screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

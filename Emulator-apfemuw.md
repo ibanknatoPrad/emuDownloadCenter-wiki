@@ -4,7 +4,7 @@
 | **Emulator: APF EMUW** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _APF_EMUW emulates in a PC a computer APF Imagination Machine._
 
 [:link: **Emulator website**](http://www.nausicaa.net/~lgreenf/apfpage.htm)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apfemuw/emulator_screen_01.jpg "APF EMUW screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/apfemuw/emulator_screen_01.jpg "APF EMUW screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

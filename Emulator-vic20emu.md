@@ -4,7 +4,7 @@
 | **Emulator: Vic-20 Emulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Vic-20 Emulator is a Commodore Vic-20 emulator and debugger. NOTE: Ensure the c
 
 [:link: **Emulator website**](http://sourceforge.net/projects/vic20emu/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vic20emu/emulator_screen_01.jpg "Vic-20 Emulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vic20emu/emulator_screen_01.jpg "Vic-20 Emulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: Nestopia** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _Nestopia is an open source NES/Famicom emulator written in standard C++, focuse
 
 [:link: **Emulator website**](http://nestopia.sourceforge.net/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nestopia/emulator_screen_01.jpg "Nestopia screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nestopia/emulator_screen_01.jpg "Nestopia screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

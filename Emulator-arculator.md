@@ -4,7 +4,7 @@
 | **Emulator: Arculator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Arculator emulates an old-style Archimedes (A3xx,A4xx,A3000,A540) with an ARM2 
 
 [:link: **Emulator website**](http://b-em.bbcmicro.com/arculator/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arculator/emulator_screen_01.jpg "Arculator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/arculator/emulator_screen_01.jpg "Arculator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

@@ -4,7 +4,7 @@
 | **Emulator: AdViEmulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _AdViEmulator is an Entex Adventure Vision with debugging capabilities._
 
 [:link: **Emulator website**](https://sourceforge.net/projects/adviemulator/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adviem/emulator_screen_01.jpg "AdViEmulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/adviem/emulator_screen_01.jpg "AdViEmulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

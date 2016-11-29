@@ -4,7 +4,7 @@
 | **Emulator: RetroCopy** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _RetroCopy emulates home consoles and arcade systems so that you can play the ga
 
 [:link: **Emulator website**](http://www.retrocopy.com/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/retrocopy/emulator_screen_01.jpg "RetroCopy screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/retrocopy/emulator_screen_01.jpg "RetroCopy screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

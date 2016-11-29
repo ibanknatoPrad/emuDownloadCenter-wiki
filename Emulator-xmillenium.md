@@ -4,7 +4,7 @@
 | **Emulator: XMillenium** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _XMillenium is a Sharp X-1 series emulator based on X1EMU._
 
 [:link: **Emulator website**](http://www.retropc.net/yui/xmil.html)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xmillenium/emulator_screen_01.jpg "XMillenium screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xmillenium/emulator_screen_01.jpg "XMillenium screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

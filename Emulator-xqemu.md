@@ -4,7 +4,7 @@
 | **Emulator: XQEMU** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _XQEMU is a Microsoft XBox emulator. NOTE: This emulator is very complicated to 
 
 [:link: **Emulator website**](http://xqemu.com)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xqemu/emulator_screen_01.jpg "XQEMU screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/xqemu/emulator_screen_01.jpg "XQEMU screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

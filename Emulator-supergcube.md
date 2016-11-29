@@ -4,7 +4,7 @@
 | **Emulator: SuperGCube** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -22,8 +22,8 @@ _SuperGCube is a Nintendo Gamecube emulator._
 
 [:link: **Emulator website**](http://supergcube.sourceforge.net)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supergcube/emulator_screen_01.jpg "SuperGCube screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/supergcube/emulator_screen_01.jpg "SuperGCube screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

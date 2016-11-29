@@ -4,7 +4,7 @@
 | **Emulator: SimCoupe** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _SimCoupe is a Miles Gordon Technology SAM Coupe emulator._
 
 [:link: **Emulator website**](http://simcoupe.org)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simcoupe/emulator_screen_01.jpg "SimCoupe screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/simcoupe/emulator_screen_01.jpg "SimCoupe screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

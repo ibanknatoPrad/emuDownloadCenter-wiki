@@ -4,7 +4,7 @@
 | **Emulator: Nintendulator** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Nintendulator is a Nintendo Entertainment System emulator._
 
 [:link: **Emulator website**](http://www.qmtpro.com/~nes/nintendulator/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nintendulator/emulator_screen_01.jpg "Nintendulator screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/nintendulator/emulator_screen_01.jpg "Nintendulator screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

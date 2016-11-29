@@ -4,7 +4,7 @@
 | **Emulator: DCVG5K** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _DCVG5K is a Philips, Radiola and Schneider VG5000 emulator._
 
 [:link: **Emulator website**](http://dcvg5k.free.fr)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcvg5k/emulator_screen_01.jpg "DCVG5K screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dcvg5k/emulator_screen_01.jpg "DCVG5K screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

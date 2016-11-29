@@ -4,7 +4,7 @@
 | **Emulator: Turbo Engine 16** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -18,8 +18,8 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Turbo Engine 16 is an NEC TurboGrafx-16 Entertainment SuperSystem, PC Engine, SuperGrafx, PC Engine 2, CDROM and Super CDROM emulator._
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/turboengine/emulator_screen_01.jpg "Turbo Engine 16 screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/turboengine/emulator_screen_01.jpg "Turbo Engine 16 screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

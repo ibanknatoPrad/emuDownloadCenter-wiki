@@ -4,7 +4,7 @@
 | **Emulator: YAGE** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _YAPE is a Commodore 264 family emulator. It's an 8-bit microcomputer family fro
 
 [:link: **Emulator website**](http://www.stud.enst.fr/~pitrou/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yage/emulator_screen_01.jpg "YAGE screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/yage/emulator_screen_01.jpg "YAGE screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

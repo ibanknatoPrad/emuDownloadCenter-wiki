@@ -4,7 +4,7 @@
 | **Emulator: Zero** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Zero is a Sinclair ZX Spectrum and Pentagon 128K emulator._
 
 [:link: **Emulator website**](http://zero.arjunnair.in/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zero/emulator_screen_01.jpg "Zero screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/zero/emulator_screen_01.jpg "Zero screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |

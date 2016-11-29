@@ -4,7 +4,7 @@
 | **Emulator: Kindred** |
 |:---------|
 | [:clipboard: About](#about) |
-| [:sunrise: screen](#screen) |
+| [:sunrise: Screenshot](#screen) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
@@ -20,8 +20,8 @@ _Kindred is an emulator for the Nintendo Entertainment System, Famicom Disk Syst
 
 [:link: **Emulator website**](http://www.crazysmart.net.au/kindred/)
 ***
-## screen
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kindred/emulator_screen_01.jpg "Kindred screen.")
+## Screenshot
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/kindred/emulator_screen_01.jpg "Kindred screenshot.")
 ***
 ## Downloads
 | Version  | Release date  | Info       | Info       | DL Size    |
