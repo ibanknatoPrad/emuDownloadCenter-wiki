@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dcvmu_teaser.png "Sega Dreamcast VMU ECC teaser.")
 ###### ECC ID: **dcvmu**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **DirectVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-directvms#menu) | :red_circle: Non-active (2000) | Freeware |
 | [:file_folder: **SoftVMS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-softvms#menu) | :red_circle: Non-active (2000) | Freeware |
 

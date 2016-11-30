@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cybiko_teaser.png "Cybiko Classic ECC teaser.")
 ###### ECC ID: **cybiko**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | :red_circle: Non-active (2001) | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

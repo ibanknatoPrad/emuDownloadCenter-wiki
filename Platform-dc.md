@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dc_teaser.png "Sega Dreamcast ECC teaser.")
 ###### ECC ID: **dc**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Chankast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-chankast#menu) | :red_circle: Non-active (2004) | UNKNOWN |
 | [:file_folder: **Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | :large_blue_circle: Active (2016) | UNKNOWN |
 | [:file_folder: **DreamEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamemu#menu) | :red_circle: Non-active (2002) | Freeware |

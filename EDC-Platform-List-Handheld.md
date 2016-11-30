@@ -2,8 +2,8 @@
 ***
 # EDC Platform listing (handheld
 
-| Platform   | Category      | ECC ID      |
-|:-----------|:--------------|:------------|
+| Platform | Category | ECC ID |
+|:---------|:---------|:-------|
 | [:file_folder: **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :pager: Handheld | 3ds |
 | [:file_folder: **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :pager: Handheld | advision |
 | [:file_folder: **Cybiko Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cybiko) | :pager: Handheld | cybiko |

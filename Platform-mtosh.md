@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtosh_teaser.png "Apple Macintosh ECC teaser.")
 ###### ECC ID: **mtosh**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **Gemulator 9.0**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gemulator#menu) | :red_circle: Non-active (2008) | UNKNOWN |
 | [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |

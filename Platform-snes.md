@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_snes_teaser.png "Nintendo Super Nintendo ECC teaser.")
 ###### ECC ID: **snes**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BSNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnes#menu) | :red_circle: Non-active (2012) | Freeware |
 | [:file_folder: **BSNES Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnesclassic#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |

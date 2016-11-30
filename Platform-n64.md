@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_n64_teaser.png "Nintendo N64 ECC teaser.")
 ###### ECC ID: **n64**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **1964**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-1964#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_hcs_teaser.png "Interact Home Computer System ECC teaser.")
 ###### ECC ID: **hcs**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **DCHector**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dchector#menu) | :red_circle: Non-active (2005) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

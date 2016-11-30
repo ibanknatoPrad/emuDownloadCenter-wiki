@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sg1000_teaser.png "Sega SG-1000 ECC teaser.")
 ###### ECC ID: **sg1000**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: Active (2016) | Donationware |

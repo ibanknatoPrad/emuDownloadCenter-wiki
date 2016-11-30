@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gen_teaser.png "Sega Mega Drive/Genesis ECC teaser.")
 ###### ECC ID: **gen**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BlastEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-blastem#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |

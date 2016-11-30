@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gc_teaser.png "Nintendo GameCube ECC teaser.")
 ###### ECC ID: **gc**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Dolphin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolphin#menu) | :large_blue_circle: Active (2016) | GNU GPLv2+ |
 | [:file_folder: **Dolwin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolwin#menu) | :red_circle: Non-active (2005) | Freeware |
 | [:file_folder: **GCEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gcemu#menu) | :red_circle: Non-active (2005) | Freeware |

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msx_teaser.png "MSX Home Computer ECC teaser.")
 ###### ECC ID: **msx**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |

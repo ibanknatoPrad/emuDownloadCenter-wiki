@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l350_teaser.png "Vtech Laser 350/500/700 ECC teaser.")
 ###### ECC ID: **l350**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **WinVZ300**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvz300#menu) | :red_circle: Non-active (2012) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

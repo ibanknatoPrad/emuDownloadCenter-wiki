@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_psp_teaser.png "Sony PlayStation Portable ECC teaser.")
 ###### ECC ID: **psp**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **CPSPEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpspemu#menu) | :red_circle: Non-active (2013) | GNU GPLv3 |
 | [:file_folder: **PSPEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dpspemu#menu) | :red_circle: Non-active (2011) | GNU GPLv3 |
 | [:file_folder: **JPCSP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jpcsp#menu) | :red_circle: Non-active (2010) | GNU GPLv3 |

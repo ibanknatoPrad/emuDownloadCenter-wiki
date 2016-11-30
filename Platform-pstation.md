@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pstation_teaser.png "Sony PocketStation ECC teaser.")
 ###### ECC ID: **pstation**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **PK201**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pk201#menu) | :red_circle: Non-active (2009) | UNKNOWN |
 | [:file_folder: **PKEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pkemu#menu) | :red_circle: Non-active (1999) | UNKNOWN |

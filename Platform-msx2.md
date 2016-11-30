@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msx2_teaser.png "MSX 2 Home Computer ECC teaser.")
 ###### ECC ID: **msx2**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **fMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fmsx#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |

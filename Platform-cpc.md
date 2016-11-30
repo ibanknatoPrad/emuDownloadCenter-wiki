@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cpc_teaser.png "Amstrad CPC ECC teaser.")
 ###### ECC ID: **cpc**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **ARNIMEDES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnimedes#menu) | :red_circle: Non-active (2012) | UNKNOWN |
 | [:file_folder: **Arnold**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arnold#menu) | :red_circle: Non-active (2004) | GNU GPLv2 |
 | [:file_folder: **CaPriCe32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-caprice32#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |

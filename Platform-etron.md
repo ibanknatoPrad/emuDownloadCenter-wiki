@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_etron_teaser.png "Acorn Electron ECC teaser.")
 ###### ECC ID: **etron**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **ElectrEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-electrem#menu) | :red_circle: Non-active (2007) | UNKNOWN |
 | [:file_folder: **Elkulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-elkulator#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
 

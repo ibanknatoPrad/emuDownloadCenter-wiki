@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_3do_teaser.png "Panasonic 3DO ECC teaser.")
 ###### ECC ID: **3do**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **3DOplay**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3doplay#menu) | :red_circle: Non-active (2012) | GNU GPLv3 |
 | [:file_folder: **4DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-4do#menu) | :large_blue_circle: Active (2015) | Freeware |
 | [:file_folder: **FreeDo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-freedo#menu) | :red_circle: Non-active (2010) | Freeware |

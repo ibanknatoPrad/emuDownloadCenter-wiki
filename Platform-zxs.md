@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_zxs_teaser.png "Sinclair ZX Spectrum ECC teaser.")
 ###### ECC ID: **zxs**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **ASCD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ascd#menu) | :red_circle: Non-active (2012) | Freeware - Non-Commercial |
 | [:file_folder: **Aspectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aspectrum#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |

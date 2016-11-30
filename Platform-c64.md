@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c64_teaser.png "Commodore 64 ECC teaser.")
 ###### ECC ID: **c64**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Come Back 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-comeback64#menu) | :red_circle: Non-active (1999) | GNU GPLv2 |
 | [:file_folder: **Dream64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dream64#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **Emu64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu64#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |

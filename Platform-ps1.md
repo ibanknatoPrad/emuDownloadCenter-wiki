@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ps1_teaser.png "Sony PlayStation 1 ECC teaser.")
 ###### ECC ID: **ps1**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **AdriPSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adripsx#menu) | :red_circle: Non-active (2002) | Freeware |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **ePSXe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-epsxe#menu) | :large_blue_circle: Active (2016) | Freeware |

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_x68000_teaser.png "Sharp X68000 ECC teaser.")
 ###### ECC ID: **x68000**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **EX68**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ex68#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |
 | [:file_folder: **XM 6 Type G**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm6#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial (Restricted Distribution) |
 

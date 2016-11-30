@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_teaser.png "Nintendo FDS ECC teaser.")
 ###### ECC ID: **fds**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 - Special for Commercial Use |

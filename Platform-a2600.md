@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a2600_teaser.png "Atari 2600 ECC teaser.")
 ###### ECC ID: **a2600**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **EMU7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu7800#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **no$2k6**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-no2k6#menu) | :red_circle: Non-active (2012) | Freeware |

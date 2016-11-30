@@ -2,8 +2,8 @@
 ***
 # EDC Platform listing (console)
 
-| Platform   | Category      | ECC ID      |
-|:-----------|:--------------|:------------|
+| Platform | Category | ECC ID |
+|:---------|:---------|:-------|
 | [:file_folder: **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
 | [:file_folder: **Panasonic 3DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3do) | :fax: Console | 3do |
 | [:file_folder: **Atari 2600**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a2600) | :fax: Console | a2600 |

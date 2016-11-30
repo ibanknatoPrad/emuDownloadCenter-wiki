@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple2gs_teaser.png "Apple 2GS ECC teaser.")
 ###### ECC ID: **apple2gs**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **ActiveGS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-activegs#menu) | :white_circle: Active (2014) | UNKNOWN |
 | [:file_folder: **GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | :white_circle: Active (2014) | GNU GPLv2 |
 | [:file_folder: **Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | :red_circle: Non-active (2006) | GNU GPLv2 |

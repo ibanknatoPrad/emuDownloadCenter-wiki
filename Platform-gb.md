@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gb_teaser.png "Nintendo Game Boy ECC teaser.")
 ###### ECC ID: **gb**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BGB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bgb#menu) | :large_blue_circle: Active (2015) | Freeware |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | :red_circle: Non-active (2011) | GNU GPLv3 |

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gba_teaser.png "Nintendo Game Boy Advance ECC teaser.")
 ###### ECC ID: **gba**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BoycottAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-boycottadv#menu) | :red_circle: Non-active (2003) | Freeware |
 | [:file_folder: **DreamGBA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dreamgba#menu) | :red_circle: Non-active (2001) | GNU GPLv2 |

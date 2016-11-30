@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l200_teaser.png "Vtech Laser 200/210/310 ECC teaser.")
 ###### ECC ID: **l200**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | :red_circle: Non-active (2007) | Freeware |
 | [:file_folder: **James VZ200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jvz200#menu) | :red_circle: Non-active (2005) | Freeware |
 | [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: Non-active (2006) | SPECIAL - 'see Licence Agreement.txt' |

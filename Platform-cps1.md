@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cps1_teaser.png "Capcom Play System 1 ECC teaser.")
 ###### ECC ID: **cps1**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **Callus95**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-callus#menu) | :red_circle: Non-active (2000) | Freeware |

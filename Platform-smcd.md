@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_smcd_teaser.png "Sega Mega-CD ECC teaser.")
 ###### ECC ID: **smcd**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | :red_circle: Non-active (2006) | GNU GPLv2 |
 | [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | :red_circle: Non-active (2013) | GNU GPLv2 |

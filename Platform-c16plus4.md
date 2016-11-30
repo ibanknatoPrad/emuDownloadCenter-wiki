@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c16plus4_teaser.png "Commodore 16/plus4 ECC teaser.")
 ###### ECC ID: **c16plus4**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **CCS64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ccs64#menu) | :large_blue_circle: Active (2015) | Freeware |
 | [:file_folder: **Minus4w**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minus4#menu) | :red_circle: Non-active (2007) | Freeware |
 | [:file_folder: **no$c64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-noc64#menu) | :red_circle: Non-active (2005) | Freeware |

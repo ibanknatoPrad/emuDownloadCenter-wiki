@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ng_teaser.png "SNK NeoGeo ECC teaser.")
 ###### ECC ID: **ng**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **AES4ALL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aes4all#menu) | :red_circle: Non-active (2011) | UNKNOWN |
 | [:file_folder: **Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | :red_circle: Non-active (2004) | Freeware |

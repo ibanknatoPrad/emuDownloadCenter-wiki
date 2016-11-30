@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ngcd_teaser.png "SNK NeoGeo CD ECC teaser.")
 ###### ECC ID: **ngcd**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **NEOGEO CD Emulator-Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ncdz#menu) | :red_circle: Non-active (2005) | UNKNOWN |
 | [:file_folder: **NeoCD/SDL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neocdsdl#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |

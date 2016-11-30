@@ -2,8 +2,8 @@
 ***
 # EDC Platform listing (arcade)
 
-| Platform   | Category      | ECC ID      |
-|:-----------|:--------------|:------------|
+| Platform | Category | ECC ID |
+|:---------|:---------|:-------|
 | [:file_folder: **Sega Sammy Atomiswave**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-atomisw) | :tv: Arcade | atomisw |
 | [:file_folder: **Capcom Play System 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps1) | :tv: Arcade | cps1 |
 | [:file_folder: **Capcom Play System 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps2) | :tv: Arcade | cps2 |

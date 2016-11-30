@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ws_teaser.png "Bandai Wonderswan ECC teaser.")
 ###### ECC ID: **ws**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **BLooDsWan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bloodswan#menu) | :red_circle: Non-active (2002) | UNKNOWN |
 | [:file_folder: **bws**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bws#menu) | :large_blue_circle: Active (2016) | UNKNOWN |

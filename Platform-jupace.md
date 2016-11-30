@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jupace_teaser.png "Jupiter Cantab - Jupiter Ace ECC teaser.")
 ###### ECC ID: **jupace**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: Non-active (2010) | GNU GPLv2 |
 | [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: Non-active (2012) | Freeware |

@@ -33,7 +33,7 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
 | Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
-|:--------|:----:|:--:|:------------:|:----:|:----:|--------:|
+|:--------|:----:|---:|:------------:|:----:|:----:|--------:|
 | [:floppy_disk: **1.0.3**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/genieous/1.0.3.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2015-02-12 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.3_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.3_contents.txt) | 158 KB |
 | [:floppy_disk: **1.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/genieous/1.0.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2011-02-19 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.2_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/genieous/1.0.2_contents.txt) | 118 KB |
 

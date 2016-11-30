@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gp32_teaser.png "GamePark GP32 ECC teaser.")
 ###### ECC ID: **gp32**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **GeePee32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-geepee32#menu) | :red_circle: Non-active (2004) | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

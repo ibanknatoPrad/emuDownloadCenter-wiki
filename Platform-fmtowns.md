@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fmtowns_teaser.png "Fujitsu FM Towns ECC teaser.")
 ###### ECC ID: **fmtowns**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **UNZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-unz#menu) | :red_circle: Non-active (2010) | Freeware |
 | [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
 

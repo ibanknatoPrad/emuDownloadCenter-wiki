@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_oric_teaser.png "Oric Atmos/Telestrat ECC teaser.")
 ###### ECC ID: **oric**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | :white_circle: Active (2014) | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

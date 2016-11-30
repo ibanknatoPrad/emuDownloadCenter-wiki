@@ -4,8 +4,8 @@
 
 ###### By category: [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator)
 
-| Platform   | Category      | ECC ID      |
-|:-----------|:--------------|:------------|
+| Platform | Category | ECC ID |
+|:---------|:---------|:-------|
 | [:file_folder: **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
 | [:file_folder: **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :pager: Handheld | 3ds |
 | [:file_folder: **Panasonic 3DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3do) | :fax: Console | 3do |

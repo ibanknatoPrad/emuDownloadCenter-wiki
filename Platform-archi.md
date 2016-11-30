@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_archi_teaser.png "Acorn Archimedes ECC teaser.")
 ###### ECC ID: **archi**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **ArcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arcem#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
 | [:file_folder: **Arculator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-arculator#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **Red Squirrel**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-redsquirrel#menu) | :red_circle: Non-active (2002) | Freeware |

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_im_teaser.png "APF Electronics Imagination Machine ECC teaser.")
 ###### ECC ID: **im**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | :red_circle: Non-active (2008) | Freeware |
 | [:file_folder: **Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | :red_circle: Non-active (2000) | Freeware |
 

@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sat_teaser.png "Sega Saturn ECC teaser.")
 ###### ECC ID: **sat**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **Satourne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-satourne#menu) | :red_circle: Non-active (2005) | Freeware |

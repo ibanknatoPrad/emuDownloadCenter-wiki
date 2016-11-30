@@ -31,7 +31,7 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
 | Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
-|:--------|:----:|:--:|:------------:|:----:|:----:|--------:|
+|:--------|:----:|---:|:------------:|:----:|:----:|--------:|
 | [:floppy_disk: **2.5.5**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/real80pro/2.5.5.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2008-03-08 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/real80pro/2.5.5_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/real80pro/2.5.5_contents.txt) | 379 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

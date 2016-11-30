@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_primo_teaser.png "Microkey Primo ECC teaser.")
 ###### ECC ID: **primo**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Ultimo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultimo#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

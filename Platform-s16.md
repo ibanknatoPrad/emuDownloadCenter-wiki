@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_s16_teaser.png "Sega System 16 ECC teaser.")
 ###### ECC ID: **s16**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |
 | [:file_folder: **Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |

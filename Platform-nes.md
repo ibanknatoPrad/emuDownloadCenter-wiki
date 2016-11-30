@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_nes_teaser.png "Nintendo NES/Famicom ECC teaser.")
 ###### ECC ID: **nes**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **3DNes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dnes#menu) | :large_blue_circle: Active (2016) | Donationware |
 | [:file_folder: **MarioNES / 80five**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-80five#menu) | :red_circle: Non-active (2004) | UNKNOWN |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |

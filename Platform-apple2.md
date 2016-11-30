@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple2_teaser.png "Apple 2 ECC teaser.")
 ###### ECC ID: **apple2**
 
-| Emulator   | Developement        | License     |
-|:-----------|:--------------------|:------------|
+| Emulator | Developement | License |
+|:---------|:-------------|:--------|
 | [:file_folder: **Agat Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-agat#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **AIPC (Apple in a PC)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aipc#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
 | [:file_folder: **AppleWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-applewin#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
