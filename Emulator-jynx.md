@@ -32,9 +32,8 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
- 
-| Version  | TYPE | OS | Release date  | Info       | Info       | DL Size    |
-|:---------|:----:|:--:|:-------------:|:-----------|:-----------|-----------:|
-| [:floppy_disk: **1.0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jynx/1.0.8.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-09-16 | [:page_facing_up: Changelog](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_changelog.txt) | [:mag_right: Contents](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_contents.txt) | 286 KB |
+| Version  | TYPE | OS | Release date  | CLOG | CONT | DL Size  |
+|:---------|:----:|:--:|:-------------:|:-----|:-----|---------:|
+| [:floppy_disk: **1.0.8**](https://github.com/PhoenixInteractiveNL/edc-repo0002/raw/master/jynx/1.0.8.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-09-16 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0002/blob/master/jynx/1.0.8_contents.txt) | 286 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
