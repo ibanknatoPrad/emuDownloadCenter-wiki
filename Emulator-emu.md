@@ -32,8 +32,8 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
-| Version  | TYPE | OS | Release date  | CLOG | CONT | DL Size  |
-|:---------|:----:|:--:|:-------------:|:-----|:-----|---------:|
+| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
+|:--------|:----:|:--:|:------------:|:----:|:----:|--------:|
 | [:floppy_disk: **1.01**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/emu/1.01.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2016-04-05 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/emu/1.01_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/emu/1.01_contents.txt) | 1161 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

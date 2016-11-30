@@ -30,8 +30,8 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
-| Version  | TYPE | OS | Release date  | CLOG | CONT | DL Size  |
-|:---------|:----:|:--:|:-------------:|:-----|:-----|---------:|
+| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
+|:--------|:----:|:--:|:------------:|:----:|:----:|--------:|
 | [:floppy_disk: **2.5**](https://github.com/PhoenixInteractiveNL/edc-repo0007/raw/master/dreamgba/2.5.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2001-12-12 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/dreamgba/2.5_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/dreamgba/2.5_contents.txt) | 91 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -30,8 +30,8 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
  
-| Version  | TYPE | OS | Release date  | CLOG | CONT | DL Size  |
-|:---------|:----:|:--:|:-------------:|:-----|:-----|---------:|
+| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
+|:--------|:----:|:--:|:------------:|:----:|:----:|--------:|
 | [:floppy_disk: **1.52r185**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/snes9xrr/1.52r185.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2010-10-11 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xrr/1.52r185_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xrr/1.52r185_contents.txt) | 1030 KB |
 | [:floppy_disk: **1.51v6**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/snes9xrr/1.51v6.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2009-11-16 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xrr/1.51v6_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xrr/1.51v6_contents.txt) | 1111 KB |
 
