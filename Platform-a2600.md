@@ -9,6 +9,7 @@
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **EMU7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu7800#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
 | [:file_folder: **no$2k6**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-no2k6#menu) | :red_circle: Non-active (2012) | Freeware |
+| [:file_folder: **PC Atari Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcae#menu) | :red_circle: Non-active (2002) | Freeware |
 | [:file_folder: **Stella**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-stella#menu) | :large_blue_circle: Active (2016) | GPL |
 | [:file_folder: **Z26**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-z26#menu) | :red_circle: Non-active (2011) | Freeware |
 
