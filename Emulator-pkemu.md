@@ -29,7 +29,7 @@ Legend:
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_extra_24.png) **Extra** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_plugin_24.png) **Plugin** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tools_24.png) **Tools** | 
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tools** | 
  
 | Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
 |:--------|:----:|---:|:------------:|:----:|:----:|--------:|

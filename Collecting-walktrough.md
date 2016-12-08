@@ -75,7 +75,7 @@ Contents of the DOWNLOADS INI file:
 
     [VERSION]
     FILE_ContentType            = Content type of the archive, can be: Program / Installer / Source / Extra.
-    FILE_ContentCategory        = Category of the content type, can be: Emulator / Plugin / Drivers / Tools.
+    FILE_ContentCategory        = Category of the content type, can be: Emulator / Plugin / Driver / Tool.
     FILE_Notes                  = Notes supporting the content of the archive (optional).
     EMU_Download                = The online location of the 7Z archive folder (with ending slash /).
     EMU_ReleaseDate             = The releasedate of the emulator (if you cannot find it, use the date of the executable file).
