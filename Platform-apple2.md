@@ -10,6 +10,7 @@
 | [:file_folder: **AIPC (Apple in a PC)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aipc#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 |
 | [:file_folder: **AppleWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-applewin#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
+| [:file_folder: **dapple2-emu][**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dapple2-emuii#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | :white_circle: Active (2014) | GNU GPLv2 |
 | [:file_folder: **Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | :red_circle: Non-active (2006) | GNU GPLv2 |
 | [:file_folder: **Virtu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtu#menu) | :red_circle: Non-active (2012) | GNU GPLv2 |
