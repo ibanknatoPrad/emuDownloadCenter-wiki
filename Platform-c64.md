@@ -9,6 +9,7 @@
 | [:file_folder: **Come Back 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-comeback64#menu) | :red_circle: Non-active (1999) | GNU GPLv2 |
 | [:file_folder: **Dream64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dream64#menu) | :red_circle: Non-active (2009) | Freeware |
 | [:file_folder: **Emu64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu64#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **Frodo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-frodo#menu) | :red_circle: Non-active (1997) | Freeware - Non-Commercial |
 | [:file_folder: **Hyper64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hyper64#menu) | :red_circle: Non-active (2008) | Freeware |
 | [:file_folder: **Hoxs64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hoxs64#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |

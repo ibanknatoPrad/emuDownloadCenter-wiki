@@ -13,6 +13,7 @@
 | [:file_folder: **Nintendo Game Boy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gba) | :pager: Handheld | gba |
 | [:file_folder: **Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :pager: Handheld | gbc |
 | [:file_folder: **Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :pager: Handheld | gg |
+| [:file_folder: **Hartung Game Master**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gm) | :pager: Handheld | gm |
 | [:file_folder: **GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :pager: Handheld | gp32 |
 | [:file_folder: **Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :pager: Handheld | lynx |
 | [:file_folder: **Nintendo DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nds) | :pager: Handheld | nds |

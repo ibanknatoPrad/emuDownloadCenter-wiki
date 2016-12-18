@@ -10,6 +10,7 @@
 | [:file_folder: **Aspectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aspectrum#menu) | :red_circle: Non-active (2005) | GNU GPLv2 |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: Active (2016) | Freeware - Non-Commercial |
 | [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: Active (2015) | GNU GPLv2 |
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **EmuZWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emuzwin#menu) | :red_circle: Non-active (2006) | UNKNOWN |
 | [:file_folder: **Fuse (The Free Unix Spectrum Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fuse#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
 | [:file_folder: **Klive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-klive#menu) | :red_circle: Non-active (2002) | Freeware - Non-Commercial |

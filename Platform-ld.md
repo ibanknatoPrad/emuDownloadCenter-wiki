@@ -6,6 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: Non-active (2004) | Freeware |
 | [:file_folder: **Daphne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daphne#menu) | :red_circle: Non-active (2009) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

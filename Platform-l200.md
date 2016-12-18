@@ -7,6 +7,7 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | :red_circle: Non-active (2007) | Freeware |
+| [:file_folder: **DSVZ200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsvz200#menu) | :large_blue_circle: Active (2016) | Freeware |
 | [:file_folder: **James VZ200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jvz200#menu) | :red_circle: Non-active (2005) | Freeware |
 | [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: Non-active (2006) | SPECIAL - 'see Licence Agreement.txt' |
 | [:file_folder: **VZEM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vzem#menu) | :red_circle: Non-active (2009) | Freeware |

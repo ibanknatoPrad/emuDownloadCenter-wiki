@@ -35,6 +35,7 @@
 | [:file_folder: **APF Electronics Imagination Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-im) | :computer: Computer | im |
 | [:file_folder: **Panasonic JR-200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jr200) | :computer: Computer | jr200 |
 | [:file_folder: **Jupiter Cantab - Jupiter Ace**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jupace) | :computer: Computer | jupace |
+| [:file_folder: **Robotron KC series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-kc) | :computer: Computer | kc |
 | [:file_folder: **Vtech Laser 100/110**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l100) | :computer: Computer | l100 |
 | [:file_folder: **Vtech Laser 200/210/310**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l200) | :computer: Computer | l200 |
 | [:file_folder: **Vtech Laser 350/500/700**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l350) | :computer: Computer | l350 |
