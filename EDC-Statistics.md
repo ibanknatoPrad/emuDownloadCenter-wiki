@@ -15,6 +15,6 @@ Last update: 2016-12-18
 | Compression ratio | 71% |
 ***
 ## History
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_statistics/edc_statistics_emulators.png"EDC emulator statistics history")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_statistics/edc_statistics_emulators.png "EDC emulator statistics history")
 
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_statistics/edc_statistics_archive.png"EDC archive statistics history")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_statistics/edc_statistics_archive.png "EDC archive statistics history")
