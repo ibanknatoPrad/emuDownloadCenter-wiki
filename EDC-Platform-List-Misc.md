@@ -6,9 +6,8 @@
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
-| [:file_folder: **Texas Instruments TI-82**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti82) | :iphone: Calculator | ti82 |
-| [:file_folder: **Texas Instruments TI-83**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti83) | :iphone: Calculator | ti83 |
-| [:file_folder: **Texas Instruments TI-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti85) | :iphone: Calculator | ti85 |
-| [:file_folder: **Texas Instruments TI-86**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti86) | :iphone: Calculator | ti86 |
+| [:file_folder: **DOSbox - DOS emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dosbox) | :loop: Misc | dosbox |
+| [:file_folder: **Pinball - Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fp) | :loop: Misc | fp |
+| [:file_folder: **Fruit Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fruit) | :loop: Misc | fruit |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
