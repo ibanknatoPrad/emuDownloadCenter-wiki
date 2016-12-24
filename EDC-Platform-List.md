@@ -131,7 +131,7 @@
 | [:file_folder: **Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
 | [:file_folder: **Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
 | [:file_folder: **Mikrosha Radio-86RK**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-r86rk) | :computer: Computer | r86rk |
-| [:file_folder: **Unknown**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-radio2) | :question: Unknown | radio2 |
+| [:file_folder: **RCA Studio II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-studio2) | :fax: Console | studio2 |
 | [:file_folder: **Namco System 11**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s11) | :tv: Arcade | s11 |
 | [:file_folder: **Sega System 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s16) | :tv: Arcade | s16 |
 | [:file_folder: **Sega System 18**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s18) | :tv: Arcade | s18 |

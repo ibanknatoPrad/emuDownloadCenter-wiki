@@ -1,8 +1,8 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
-## _Unknown (Unknown)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_radio2_teaser.png "Unknown ECC teaser.")
-###### ECC ID: **radio2**
+## _RCA Studio II (Console)_
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_studio2_teaser.png "RCA Studio II ECC teaser.")
+###### ECC ID: **studio2**
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
