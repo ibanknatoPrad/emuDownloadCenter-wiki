@@ -2,6 +2,8 @@
 ***
 # EDC Platform listing (arcade)
 
+###### By category: [TOTAL](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) | [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator) | [Misc](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Misc)
+
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
 | [:file_folder: **Sega Sammy Atomiswave**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-atomisw) | :tv: Arcade | atomisw |

@@ -2,6 +2,8 @@
 ***
 # EDC Platform listing (console)
 
+###### By category: [TOTAL](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) | [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator) | [Misc](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Misc)
+
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
 | [:file_folder: **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
@@ -12,6 +14,7 @@
 | [:file_folder: **Commodore Amiga CD32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amigacd32) | :fax: Console | amigacd32 |
 | [:file_folder: **Emerson Arcadia 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-arc) | :fax: Console | arc |
 | [:file_folder: **Commodore CDTV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdtv) | :fax: Console | cdtv |
+| [:file_folder: **Philips CD-i**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdi) | :fax: Console | cdi |
 | [:file_folder: **Coleco ColecoVision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-col) | :fax: Console | col |
 | [:file_folder: **Vtech Creativision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cv) | :fax: Console | cv |
 | [:file_folder: **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |

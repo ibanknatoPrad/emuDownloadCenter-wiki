@@ -6,6 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
+| [:file_folder: **Colour Emu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coloremu#menu) | :red_circle: Non-active (1997) | Freeware |
 | [:file_folder: **Genieous**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-genieous#menu) | :large_blue_circle: Active (2015) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

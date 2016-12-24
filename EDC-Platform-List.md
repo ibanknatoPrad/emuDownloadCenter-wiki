@@ -2,7 +2,7 @@
 ***
 # EDC Platform listing (total)
 
-###### By category: [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator)
+###### By category: [TOTAL](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) | [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator) | [Misc](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Misc)
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
@@ -31,10 +31,12 @@
 | [:file_folder: **Commodore 16/plus4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c16plus4) | :computer: Computer | c16plus4 |
 | [:file_folder: **Commodore 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c64) | :computer: Computer | c64 |
 | [:file_folder: **Commodore CDTV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdtv) | :fax: Console | cdtv |
+| [:file_folder: **Philips CD-i**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdi) | :fax: Console | cdi |
 | [:file_folder: **EACA/TS Colour Genie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cg) | :computer: Computer | cg |
 | [:file_folder: **Unknown**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-chip8) | :question: Unknown | chip8 |
 | [:file_folder: **Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
 | [:file_folder: **Coleco ColecoVision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-col) | :fax: Console | col |
+| [:file_folder: **Comx WOL - Comx-35**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-comx35) | :computer: Computer | comx35 |
 | [:file_folder: **Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
 | [:file_folder: **Capcom Play System 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps1) | :tv: Arcade | cps1 |
 | [:file_folder: **Capcom Play System 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cps2) | :tv: Arcade | cps2 |
@@ -44,6 +46,7 @@
 | [:file_folder: **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |
 | [:file_folder: **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :pager: Handheld | dcvmu |
 | [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
+| [:file_folder: **DOSbox - DOS emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dosbox) | :loop: Misc | dosbox |
 | [:file_folder: **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
 | [:file_folder: **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
 | [:file_folder: **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
@@ -51,6 +54,8 @@
 | [:file_folder: **Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
 | [:file_folder: **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
 | [:file_folder: **Fujitsu FM Towns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fmtowns) | :computer: Computer | fmtowns |
+| [:file_folder: **Pinball - Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fp) | :loop: Misc | fp |
+| [:file_folder: **Fruit Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fruit) | :loop: Misc | fruit |
 | [:file_folder: **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
 | [:file_folder: **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :pager: Handheld | gamecom |
 | [:file_folder: **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :pager: Handheld | gb |
@@ -126,6 +131,7 @@
 | [:file_folder: **Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
 | [:file_folder: **Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
 | [:file_folder: **Mikrosha Radio-86RK**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-r86rk) | :computer: Computer | r86rk |
+| [:file_folder: **Unknown**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-radio2) | :question: Unknown | radio2 |
 | [:file_folder: **Namco System 11**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s11) | :tv: Arcade | s11 |
 | [:file_folder: **Sega System 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s16) | :tv: Arcade | s16 |
 | [:file_folder: **Sega System 18**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-s18) | :tv: Arcade | s18 |

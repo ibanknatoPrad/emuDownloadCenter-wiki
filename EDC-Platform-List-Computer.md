@@ -2,6 +2,8 @@
 ***
 # EDC Platform listing (computer)
 
+###### By category: [TOTAL](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) | [Handheld](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Handheld) | [Console](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Console) | [Computer](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Computer) | [Arcade](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Arcade) | [Calculator](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Calculator) | [Misc](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List-Misc)
+
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
 | [:file_folder: **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
@@ -20,6 +22,7 @@
 | [:file_folder: **Commodore 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c64) | :computer: Computer | c64 |
 | [:file_folder: **EACA/TS Colour Genie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cg) | :computer: Computer | cg |
 | [:file_folder: **Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
+| [:file_folder: **Comx WOL - Comx-35**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-comx35) | :computer: Computer | comx35 |
 | [:file_folder: **Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
 | [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
 | [:file_folder: **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
