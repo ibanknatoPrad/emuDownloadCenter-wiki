@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winfellow_logo_200.jpg "WinFellow logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **WinFellow** is a emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje** and has a **GNU GPLv2** license.
 

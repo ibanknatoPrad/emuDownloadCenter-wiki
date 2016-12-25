@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **PCEjin** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Paul_t** and has a **GNU GPLv2** license.
 

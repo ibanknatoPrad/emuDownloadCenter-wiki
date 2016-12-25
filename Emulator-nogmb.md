@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2000)
+**Developement state:** :red_circle: 2000
 
 **no$gmb** is a emulator for **Nintendo Game Boy** made by **Martin Korth** and has a **Shareware** license.
 

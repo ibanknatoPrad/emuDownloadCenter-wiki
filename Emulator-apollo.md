@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **Apollo** is a emulator for **Nintendo N64** made by **Aziber** and has a **Freeware** license.
 

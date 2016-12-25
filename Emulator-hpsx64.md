@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **HPSX (Highly-Experimental Playstation Emulator)** is a emulator for **Sony PlayStation 1** made by **TheGangster** and has a **GNU GPLv3** license.
 

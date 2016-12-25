@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **SNESGT** is a emulator for **Nintendo Super Nintendo** made by **GIGO and Hii** and has a **UNKNOWN** license.
 

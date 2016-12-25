@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Xpeccy** is a emulator for **MSX Home Computer** made by **SAM style** and has a **Freeware** license.
 

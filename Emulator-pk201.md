@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **PK201** is a emulator for **Sony PocketStation** made by **Dr. Hell** and has a **UNKNOWN** license.
 

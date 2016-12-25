@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **Anex86** is a emulator for **NEC PC-9801** made by **A.N.** and has a **UNKNOWN** license.
 

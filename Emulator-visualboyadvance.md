@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/visualboyadvance_logo_200.jpg "VisualBoyAdvance logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **VisualBoyAdvance** is a emulator for **Nintendo Game Boy** made by **Forgotten & kxu** and has a **Freeware** license.
 

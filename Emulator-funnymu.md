@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **FunnyMU** is a emulator for **Vtech Creativision** made by **Pablo** and has a **Freeware** license.
 

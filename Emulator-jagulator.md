@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jagulator_logo_200.jpg "Jagulator logo.")
 
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **Jagulator** is a emulator for **Atari Jaguar** made by **SubQMod** and has a **UNKNOWN** license.
 

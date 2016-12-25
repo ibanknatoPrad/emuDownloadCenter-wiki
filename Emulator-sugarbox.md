@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sugarbox_logo_200.jpg "Sugarbox logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Sugarbox** is a emulator for **Amstrad CPC** made by **Thomas Guillemin** and has a **UNKNOWN** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1999)
+**Developement state:** :red_circle: 1999
 
 **ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras** and has a **Freeware** license.
 

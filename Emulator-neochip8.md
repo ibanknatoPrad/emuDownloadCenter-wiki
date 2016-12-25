@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **NeoChip8** is a emulator for **Cosmac VIP** made by **Eric Scrivner aka zenogais** and has a **UNKNOWN** license.
 

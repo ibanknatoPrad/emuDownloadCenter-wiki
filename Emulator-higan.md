@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **higan** is a emulator for **Nintendo FDS** made by **byuu** and has a **GNU GPLv3 - Special for Commercial Use** license.
 

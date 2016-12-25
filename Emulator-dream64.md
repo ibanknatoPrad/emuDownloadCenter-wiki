@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **Dream64** is a emulator for **Commodore 64** made by **tprodigy1** and has a **Freeware** license.
 

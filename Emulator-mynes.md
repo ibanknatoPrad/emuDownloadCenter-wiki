@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **My NES** is a emulator for **Nintendo NES/Famicom** made by **Ala Ibrahim Hadid** and has a **GNU GPLv3** license.
 

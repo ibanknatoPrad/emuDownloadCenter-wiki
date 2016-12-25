@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **no$c64** is a emulator for **Commodore 16/plus4** made by **Martin Korth** and has a **Freeware** license.
 

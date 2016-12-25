@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/freedo_logo_200.jpg "FreeDo logo.")
 
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons** and has a **Freeware** license.
 

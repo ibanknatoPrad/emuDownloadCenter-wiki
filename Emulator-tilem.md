@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tilem_logo_200.jpg "TilEm logo.")
 
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **TilEm** is a emulator for **Texas Instruments TI-82** made by **Benjamin Moody and Thibault Duponchelle** and has a **Freeware** license.
 

@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ASCD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ascd#menu) | :red_circle: (2012) | Freeware - Non-Commercial |
-| [:file_folder: **SimCoupe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-simcoupe#menu) | :red_circle: (2006) | Freeware |
-| [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | :large_blue_circle: (2016) | Freeware - Non-Commercial |
-| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: (2016) | GNU GPLv3 |
+| [:file_folder: **ASCD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ascd#menu) | :red_circle: 2012 | Freeware - Non-Commercial |
+| [:file_folder: **SimCoupe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-simcoupe#menu) | :red_circle: 2006 | Freeware |
+| [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: 2016 | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

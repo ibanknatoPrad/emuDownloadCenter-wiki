@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **MZXX** is a emulator for **Coleco ColecoVision** made by **Michael Franzen** and has a **GNU GPLv2** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **TGB Dual** is a emulator for **Nintendo Game Boy** made by **Gigo and Hii** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **PSXjin** is a emulator for **Sony PlayStation 1** made by **The PSXjin Team** and has a **GNU GPLv2** license.
 

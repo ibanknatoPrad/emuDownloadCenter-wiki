@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **Tunix 2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner** and has a **SPECIAL - 'see Licence Agreement.txt'** license.
 

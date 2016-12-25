@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Speccy** is a emulator for **MGT Sam Coupé** made by **Marat Fayzullin** and has a **Freeware - Non-Commercial** license.
 

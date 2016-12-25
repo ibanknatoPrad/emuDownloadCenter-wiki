@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **KC85EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kc85emu#menu) | :red_circle: (2011) | GNU GPL |
+| [:file_folder: **KC85EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kc85emu#menu) | :red_circle: 2011 | GNU GPL |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

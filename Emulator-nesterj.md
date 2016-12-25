@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2003)
+**Developement state:** :red_circle: 2003
 
 **nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license.
 

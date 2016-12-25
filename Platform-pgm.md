@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: (2016) | Freeware - Non-Commercial |
-| [:file_folder: **Nebula**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nebula#menu) | :red_circle: (2007) | Freeware |
+| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **Nebula**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nebula#menu) | :red_circle: 2007 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

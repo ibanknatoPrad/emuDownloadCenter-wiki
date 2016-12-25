@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **DMGBoy** is a emulator for **Nintendo Game Boy** made by **Pablo Gasco** and has a **GNU GPLv3** license.
 

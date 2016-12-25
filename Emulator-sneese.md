@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sneese_logo_200.jpg "SNEeSe logo.")
 
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **SNEeSe** is a emulator for **Nintendo Super Nintendo** made by **Charles Bilyue** and has a **Freeware** license.
 

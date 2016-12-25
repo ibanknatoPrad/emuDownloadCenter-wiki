@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **Kent's Emulated GS** is a emulator for **Apple 2** made by **Kent Dickey** and has a **GNU GPLv2** license.
 

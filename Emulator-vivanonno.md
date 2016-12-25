@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vivanonno_logo_200.jpg "viva nonno logo.")
 
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **viva nonno** is a emulator for **Namco System 22** made by **Karl Stenerud** and has a **Freeware** license.
 

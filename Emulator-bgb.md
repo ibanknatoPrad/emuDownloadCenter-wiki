@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bgb_logo_200.jpg "BGB logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **BGB** is a emulator for **Nintendo Game Boy** made by **Bas Steendijk** and has a **Freeware** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/epsxe_logo_200.jpg "ePSXe logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license.
 

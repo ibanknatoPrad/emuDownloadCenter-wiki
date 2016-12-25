@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **XEBRA** is a emulator for **Sony PlayStation 1** made by **Dr. Hell** and has a **UNKNOWN** license.
 

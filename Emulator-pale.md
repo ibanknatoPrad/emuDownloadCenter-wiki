@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pale_logo_200.jpg "Pete's Amazing Lynx Emulator logo.")
 
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **Pete's Amazing Lynx Emulator** is a emulator for **Camputers Lynx** made by **Pete Todd** and has a **Freeware** license.
 

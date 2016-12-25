@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psinex_logo_200.jpg "PSinex logo.")
 
-**Developement state:** :red_circle: (2001)
+**Developement state:** :red_circle: 2001
 
 **PSinex** is a emulator for **Sony PlayStation 1** made by **pSyChOjAk and Shunt** and has a **GNU GPLv2** license.
 

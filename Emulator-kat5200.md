@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **kat5200** is a emulator for **Atari 5200** made by **Brian Berlin** and has a **GNU GPL** license.
 

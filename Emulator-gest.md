@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **GEST** is a emulator for **Nintendo Game Boy** made by **TM** and has a **GNU GPLv2** license.
 

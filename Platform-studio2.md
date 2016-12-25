@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: (2016) | GNU LGPL 2.1 |
+| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: 2016 | GNU LGPL 2.1 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

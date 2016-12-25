@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1999)
+**Developement state:** :red_circle: 1999
 
 **Come Back 64** is a emulator for **Commodore 64** made by **D Luxen** and has a **GNU GPLv2** license.
 

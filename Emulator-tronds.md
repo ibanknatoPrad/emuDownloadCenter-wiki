@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tronds_logo_200.jpg "TronDS logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco** and has a **Freeware** license.
 

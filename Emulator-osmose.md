@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/osmose_logo_200.jpg "Osmose logo.")
 
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **Osmose** is a emulator for **Sega Game Gear** made by **Bruno Vedder** and has a **GNU GPLv2** license.
 

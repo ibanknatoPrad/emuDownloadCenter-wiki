@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **RPCS3** is a emulator for **Sony PlayStation 3** made by **The RPCS3 Team** and has a **GNU GPLv2** license.
 

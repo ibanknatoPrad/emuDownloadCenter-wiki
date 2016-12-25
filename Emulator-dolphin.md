@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dolphin_logo_200.jpg "Dolphin logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Dolphin** is a emulator for **Nintendo GameCube** made by **Dolphin team** and has a **GNU GPLv2+** license.
 

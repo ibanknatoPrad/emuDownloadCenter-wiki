@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **AdViEmulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adviem#menu) | :red_circle: (2013) | GNU GPLv2 |
+| [:file_folder: **AdViEmulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adviem#menu) | :red_circle: 2013 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

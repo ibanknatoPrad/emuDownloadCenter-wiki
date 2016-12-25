@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | :red_circle: (2001) | UNKNOWN |
+| [:file_folder: **C4PC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-c4pc#menu) | :red_circle: 2001 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

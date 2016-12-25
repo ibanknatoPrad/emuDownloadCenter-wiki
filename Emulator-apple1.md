@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **Apple 1 Emulator** is a emulator for **Apple 1** made by **Peter Rittwage** and has a **Freeware** license.
 

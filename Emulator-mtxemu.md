@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2000)
+**Developement state:** :red_circle: 2000
 
 **Mt. Xemu** is a emulator for **Memotech MTX 500/512** made by **Per Persson and Bemmu Sepponen** and has a **UNKNOWN** license.
 

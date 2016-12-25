@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Cemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cemu#menu) | :large_blue_circle: (2016) | UNKNOWN |
+| [:file_folder: **Cemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cemu#menu) | :large_blue_circle: 2016 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

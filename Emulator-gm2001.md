@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1998)
+**Developement state:** :red_circle: 1998
 
 **GM2001** is a emulator for **Hartung Game Master** made by **Hanz Freemurmur** and has a **Freeware** license.
 

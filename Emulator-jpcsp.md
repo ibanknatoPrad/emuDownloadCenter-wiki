@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **JPCSP** is a emulator for **Sony PlayStation Portable** made by **JCPSP Team** and has a **GNU GPLv3** license.
 

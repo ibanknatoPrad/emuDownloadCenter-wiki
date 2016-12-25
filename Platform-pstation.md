@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **PK201**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pk201#menu) | :red_circle: (2009) | UNKNOWN |
-| [:file_folder: **PKEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pkemu#menu) | :red_circle: (1999) | UNKNOWN |
-| [:file_folder: **XEBRA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xebra#menu) | :large_blue_circle: (2016) | UNKNOWN |
+| [:file_folder: **no$gba**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nogba#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **PK201**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pk201#menu) | :red_circle: 2009 | UNKNOWN |
+| [:file_folder: **PKEmu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pkemu#menu) | :red_circle: 1999 | UNKNOWN |
+| [:file_folder: **XEBRA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xebra#menu) | :large_blue_circle: 2016 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

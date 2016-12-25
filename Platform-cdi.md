@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **CD-i Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cdiemulator#menu) | :red_circle: (2005) | Shareware (Limited edition) |
+| [:file_folder: **CD-i Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cdiemulator#menu) | :red_circle: 2005 | Shareware (Limited edition) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

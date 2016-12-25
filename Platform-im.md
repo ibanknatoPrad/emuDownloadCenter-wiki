@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | :red_circle: (2008) | Freeware |
-| [:file_folder: **Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | :red_circle: (2000) | Freeware |
+| [:file_folder: **APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | :red_circle: 2008 | Freeware |
+| [:file_folder: **Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | :red_circle: 2000 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

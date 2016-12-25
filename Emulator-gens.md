@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gens_logo_200.jpg "Gens logo.")
 
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville** and has a **GNU GPLv2** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/whinecube_logo_200.jpg "WhineCube logo.")
 
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **WhineCube** is a emulator for **Nintendo GameCube** made by **Masken** and has a **Freeware** license.
 

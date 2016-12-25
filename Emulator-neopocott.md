@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2000)
+**Developement state:** :red_circle: 2000
 
 **NeoPocott** is a emulator for **SNK NeoGeo Pocket** made by **Julien FRELAT "Gollum"** and has a **UNKNOWN** license.
 

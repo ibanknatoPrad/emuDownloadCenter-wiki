@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **atari++** is a emulator for **Atari 5200** made by **Thomas Richter** and has a **THOR Public Licence** license.
 

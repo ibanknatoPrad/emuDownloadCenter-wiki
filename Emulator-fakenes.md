@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **FakeNES** is a emulator for **Nintendo NES/Famicom** made by **randilyn, TRAC, Lord_Nightmare and KittyCat** and has a **Freeware** license.
 

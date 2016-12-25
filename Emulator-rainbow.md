@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **Rainbow** is a emulator for **Atari 5200** made by **Chris Lam** and has a **UNKNOWN** license.
 

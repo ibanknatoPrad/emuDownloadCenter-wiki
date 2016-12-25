@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | :red_circle: (1998) | GNU GPLv2 |
-| [:file_folder: **TilEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tilem#menu) | :red_circle: (2012) | Freeware |
+| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | :red_circle: 1998 | GNU GPLv2 |
+| [:file_folder: **TilEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tilem#menu) | :red_circle: 2012 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

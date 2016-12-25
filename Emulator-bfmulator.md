@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **BFMulator** is a emulator for **Fruit Machine** made by **Juergen Buchmueller, Mike Balfour, Howie Cohen, Oliver Galibert** and has a **Freeware** license.
 

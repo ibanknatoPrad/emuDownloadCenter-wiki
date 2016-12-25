@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **Turbo Engine 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-turboengine#menu) | :red_circle: (2010) | Freeware - Non-Commercial |
-| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: (2009) | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **Turbo Engine 16**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-turboengine#menu) | :red_circle: 2010 | Freeware - Non-Commercial |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: 2009 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

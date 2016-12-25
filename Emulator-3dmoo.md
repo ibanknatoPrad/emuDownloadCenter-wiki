@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo_200.jpg "3dmoo logo.")
 
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly** and has a **Open Source** license.
 

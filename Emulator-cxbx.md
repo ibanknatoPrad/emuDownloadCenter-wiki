@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cxbx_logo_200.jpg "Cxbx logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **Cxbx** is a emulator for **Microsoft X-Box** made by **Echelon9** and has a **GNU GPLv2** license.
 

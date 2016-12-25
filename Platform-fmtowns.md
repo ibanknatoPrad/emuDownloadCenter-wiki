@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **UNZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-unz#menu) | :red_circle: (2010) | Freeware |
-| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: (2009) | Freeware |
+| [:file_folder: **UNZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-unz#menu) | :red_circle: 2010 | Freeware |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: 2009 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

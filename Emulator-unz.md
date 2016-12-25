@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **UNZ** is a emulator for **Fujitsu FM Towns** made by **Kasanova** and has a **Freeware** license.
 

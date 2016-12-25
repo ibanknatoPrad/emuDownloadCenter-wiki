@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **NewSneM** is a emulator for **Nintendo Super Nintendo** made by **Tom Walker** and has a **UNKNOWN** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1999)
+**Developement state:** :red_circle: 1999
 
 **Jackal** is a emulator for **Sony PlayStation 1** made by **Expert and Floating Point** and has a **GNU GPLv2** license.
 

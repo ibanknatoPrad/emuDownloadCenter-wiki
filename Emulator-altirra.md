@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Altirra** is a emulator for **Atari 5200** made by **Phaeron** and has a **GNU GPLv2** license.
 

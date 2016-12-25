@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **mGBA** is a emulator for **Nintendo Game Boy** made by **Jeffrey Pfau** and has a **Mozilla Public License version 2.0** license.
 

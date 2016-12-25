@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **SNES9X-SX2** is a emulator for **Nintendo Super Nintendo** made by **LuigiBlood** and has a **Freeware - Non-Commercial** license.
 

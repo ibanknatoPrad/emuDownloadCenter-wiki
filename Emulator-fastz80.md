@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **FastZ80** is a emulator for **Híradástechnika HT-1080Z** made by **Lajos Kintli** and has a **UNKNOWN** license.
 

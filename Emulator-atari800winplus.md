@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier** and has a **GNU General Licence** license.
 

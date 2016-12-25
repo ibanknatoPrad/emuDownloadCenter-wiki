@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **Ti994W** is a emulator for **Texas Instruments TI-99/4A** made by **Frederik G Kaal** and has a **UNKNOWN** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **KC85EMU** is a emulator for **Robotron KC series** made by **Frank Ludwig** and has a **GNU GPL** license.
 

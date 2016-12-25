@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **bws** is a emulator for **Bandai Wonderswan** made by **byuu** and has a **UNKNOWN** license.
 

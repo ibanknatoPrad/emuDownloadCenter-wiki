@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **xenia** is a emulator for **Microsoft X-Box 360** made by **Ben Vanik** and has a **BSD Licence** license.
 

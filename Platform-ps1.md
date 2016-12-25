@@ -6,21 +6,21 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **AdriPSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adripsx#menu) | :red_circle: (2002) | Freeware |
-| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **ePSXe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-epsxe#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **HPSX (Highly-Experimental Playstation Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hpsx64#menu) | :large_blue_circle: (2016) | GNU GPLv3 |
-| [:file_folder: **Jackal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jackal#menu) | :red_circle: (1999) | GNU GPLv2 |
-| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: (2016) | GNU GPLv2 |
-| [:file_folder: **no$psx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nopsx#menu) | :white_circle: (2014) | Freeware |
-| [:file_folder: **PCSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsx#menu) | :red_circle: (2003) | UNKNOWN |
-| [:file_folder: **PCSX-Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxr#menu) | :red_circle: (2013) | GNU GPLv2 |
-| [:file_folder: **PCSX-RR**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxrr#menu) | :red_circle: (2009) | GNU GPLv2 |
-| [:file_folder: **PSinex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psinex#menu) | :red_circle: (2001) | GNU GPLv2 |
-| [:file_folder: **pSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psx#menu) | :red_circle: (2007) | Freeware |
-| [:file_folder: **PSXeven**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psxeven#menu) | :red_circle: (2005) | Freeware |
-| [:file_folder: **PSXjin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psxjin#menu) | :red_circle: (2011) | GNU GPLv2 |
-| [:file_folder: **PSyKe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psyke#menu) | :red_circle: (1998) | Freeware - Non-Commercial |
-| [:file_folder: **XEBRA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xebra#menu) | :large_blue_circle: (2016) | UNKNOWN |
+| [:file_folder: **AdriPSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adripsx#menu) | :red_circle: 2002 | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **ePSXe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-epsxe#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **HPSX (Highly-Experimental Playstation Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hpsx64#menu) | :large_blue_circle: 2016 | GNU GPLv3 |
+| [:file_folder: **Jackal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jackal#menu) | :red_circle: 1999 | GNU GPLv2 |
+| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
+| [:file_folder: **no$psx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nopsx#menu) | :white_circle: 2014 | Freeware |
+| [:file_folder: **PCSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsx#menu) | :red_circle: 2003 | UNKNOWN |
+| [:file_folder: **PCSX-Reloaded**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxr#menu) | :red_circle: 2013 | GNU GPLv2 |
+| [:file_folder: **PCSX-RR**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsxrr#menu) | :red_circle: 2009 | GNU GPLv2 |
+| [:file_folder: **PSinex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psinex#menu) | :red_circle: 2001 | GNU GPLv2 |
+| [:file_folder: **pSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psx#menu) | :red_circle: 2007 | Freeware |
+| [:file_folder: **PSXeven**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psxeven#menu) | :red_circle: 2005 | Freeware |
+| [:file_folder: **PSXjin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psxjin#menu) | :red_circle: 2011 | GNU GPLv2 |
+| [:file_folder: **PSyKe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-psyke#menu) | :red_circle: 1998 | Freeware - Non-Commercial |
+| [:file_folder: **XEBRA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xebra#menu) | :large_blue_circle: 2016 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

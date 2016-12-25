@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **LisaEm** is a emulator for **Apple Lisa** made by **Ray A. Arachelian** and has a **GNU GPLv2** license.
 

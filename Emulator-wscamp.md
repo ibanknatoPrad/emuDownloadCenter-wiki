@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **WSCamp** is a emulator for **Bandai Wonderswan** made by **UNKNOWN** and has a **UNKNOWN** license.
 

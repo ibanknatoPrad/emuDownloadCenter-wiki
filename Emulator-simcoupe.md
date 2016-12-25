@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **SimCoupe** is a emulator for **MGT Sam Coupé** made by **Simon Owen** and has a **Freeware** license.
 

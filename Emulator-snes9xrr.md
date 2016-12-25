@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **SNES9X Rerecording** is a emulator for **Nintendo Super Nintendo** made by **UNKNOWN** and has a **Freeware - Non-Commercial** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/4do_logo_200.jpg "4DO logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **4DO** is a emulator for **Panasonic 3DO** made by **JohnnyDude & Viktor** and has a **Freeware** license.
 

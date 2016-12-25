@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **EightyOne** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Michael D Wynne** and has a **GNU GPLv2** license.
 

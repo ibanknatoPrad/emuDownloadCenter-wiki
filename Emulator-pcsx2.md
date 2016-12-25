@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsx2_logo_200.jpg "PCSX2 logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **PCSX2** is a emulator for **Sony PlayStation 2** made by **PCSX2 team** and has a **GNU GPL v3** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1999)
+**Developement state:** :red_circle: 1999
 
 **QLAY** is a emulator for **Sinclair QL** made by **Jan Venema** and has a **Freeware - Non-Commercial** license.
 

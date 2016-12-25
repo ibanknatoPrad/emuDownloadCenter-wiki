@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Bliss**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bliss#menu) | :red_circle: (2005) | GNU GPL |
-| [:file_folder: **jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | :red_circle: (2012) | GNU GPLv2 |
-| [:file_folder: **Nostalgia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nostalgia#menu) | :red_circle: (20??) | Freeware |
+| [:file_folder: **Bliss**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bliss#menu) | :red_circle: 2005 | GNU GPL |
+| [:file_folder: **jzIntv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jzintv#menu) | :red_circle: 2012 | GNU GPLv2 |
+| [:file_folder: **Nostalgia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nostalgia#menu) | :red_circle: 20?? | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

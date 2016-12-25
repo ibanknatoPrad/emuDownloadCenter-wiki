@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **SainT** is a emulator for **Atari ST** made by **Arnaud Carre and James Boulton** and has a **UNKNOWN** license.
 

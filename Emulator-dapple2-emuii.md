@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **dapple2-emuII** is a emulator for **Apple 2** made by **Steve Nickolas** and has a **Freeware** license.
 

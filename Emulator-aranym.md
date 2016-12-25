@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **Atari on Any Machine** is a emulator for **Atari Falcon** made by **The ARAnyM  Team** and has a **GNU GPLv2** license.
 

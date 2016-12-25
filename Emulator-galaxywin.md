@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **Galaxy Win** is a emulator for **Galaksija - Galaksija Plus** made by **Sadrzaj** and has a **UNKNOWN** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ideas_logo_200.jpg "iDeaS logo.")
 
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **iDeaS** is a emulator for **Nintendo Game Boy Advance** made by **Lino and Actarus** and has a **GNU GPLv2** license.
 

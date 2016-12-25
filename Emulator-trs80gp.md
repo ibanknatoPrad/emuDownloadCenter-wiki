@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **trs80gp** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **George Phillips** and has a **UNKNOWN** license.
 

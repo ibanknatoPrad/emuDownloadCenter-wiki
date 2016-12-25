@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **SSF** is a emulator for **Sega Saturn** made by **Shima** and has a **Freeware** license.
 

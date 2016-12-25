@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **Handy** is a emulator for **Atari Lynx** made by **K Wilkins** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **Minus4w** is a emulator for **Commodore 16/plus4** made by **Mike Dailly** and has a **Freeware** license.
 

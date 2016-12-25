@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **O2EM** is a emulator for **Philips Videopac G7000** made by **Daniel Boris** and has a **Clarified Artistic Licence** license.
 

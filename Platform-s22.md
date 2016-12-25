@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | :red_circle: (2002) | Freeware |
+| [:file_folder: **viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | :red_circle: 2002 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **DCEXEL** is a emulator for **Exelvision EXL100** made by **Daniel Coulom** and has a **Freeware - Non-Commercial** license.
 

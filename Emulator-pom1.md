@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pom1_logo_200.jpg "Pom1 logo.")
 
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud** and has a **GNU GPLv2** license.
 

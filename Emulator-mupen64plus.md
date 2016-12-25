@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64plus_logo_200.jpg "Mupen64+ logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **Mupen64+** is a emulator for **Nintendo N64** made by **richard42g** and has a **GNU GPLv2** license.
 

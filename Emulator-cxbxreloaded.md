@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cxbxreloaded_logo_200.jpg "Cxbx Reloaded logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Cxbx Reloaded** is a emulator for **Microsoft X-Box** made by **Luke Usher** and has a **GNU GPLv2** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/desmume_logo_200.jpg "DesMuME logo.")
 
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **DesMuME** is a emulator for **Nintendo DS** made by **yopyop, DeSmuME team** and has a **GNU GPLv2** license.
 

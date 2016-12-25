@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **BeebEm** is a emulator for **Acorn BBC** made by **Mike Wyatt, David Adam Gilbert and Others** and has a **GNU GPLv2** license.
 

@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | :red_circle: (2007) | Freeware |
-| [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: (2006) | SPECIAL - 'see Licence Agreement.txt' |
-| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: (2016) | Freeware Non-Commercial |
+| [:file_folder: **Emulator2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu2001#menu) | :red_circle: 2007 | Freeware |
+| [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: 2006 | SPECIAL - 'see Licence Agreement.txt' |
+| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: 2016 | Freeware Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

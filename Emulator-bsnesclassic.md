@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **BSNES Classic** is a emulator for **Nintendo Game Boy Color** made by **Devin Acker, Alex W. Jackson, Michal Ziabkowski and Maximilian Rehkopf** and has a **GNU GPLv2** license.
 

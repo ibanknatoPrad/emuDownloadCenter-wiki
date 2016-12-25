@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **Oricutron** is a emulator for **Oric Atmos/Telestrat** made by **Peter Gordon** and has a **UNKNOWN** license.
 

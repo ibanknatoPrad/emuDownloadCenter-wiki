@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1998)
+**Developement state:** :red_circle: 1998
 
 **YAGE** is a emulator for **Amstrad CPC** made by **Antoine Pitrou** and has a **Freeware** license.
 

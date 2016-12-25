@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winape_logo_200.jpg "WinAPE logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson** and has a **Freeware** license.
 

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zsnes_logo_200.jpg "ZSNES logo.")
 
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **Capcom Play System 3 Emulator** is a emulator for **Capcom Play System 3** made by **ElSemi** and has a **UNKNOWN** license.
 

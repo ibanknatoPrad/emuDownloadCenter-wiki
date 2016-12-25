@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **GeePee32** is a emulator for **GamePark GP32** made by **Tim Schuerewegen** and has a **UNKNOWN** license.
 

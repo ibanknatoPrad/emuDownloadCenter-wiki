@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes** and has a **Freeware** license.
 

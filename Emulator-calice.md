@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/calice_logo_200.jpg "Calice32 logo.")
 
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2001)
+**Developement state:** :red_circle: 2001
 
 **ENTER** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker** and has a **GNU GPLv2** license.
 

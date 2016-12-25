@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | :red_circle: (2005) | UNKNOWN |
+| [:file_folder: **Galaxy Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-galaxywin#menu) | :red_circle: 2005 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **WinAGES** is a emulator for **Sega Mega Drive 32X** made by **Quinntesson** and has a **Freeware - Non-Commercial** license.
 

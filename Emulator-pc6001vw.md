@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **PC6001VW** is a emulator for **NEC PC-6001** made by **Bernie Mask** and has a **GNU GPLv2.1** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2000)
+**Developement state:** :red_circle: 2000
 
 **Return of CoCo** is a emulator for **Dragon Data - Dragon 32/64** made by **Russ Le Blang** and has a **UNKNOWN** license.
 

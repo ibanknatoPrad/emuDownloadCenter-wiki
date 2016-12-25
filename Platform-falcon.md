@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Atari on Any Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aranym#menu) | :white_circle: (2014) | GNU GPLv2 |
-| [:file_folder: **Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | :large_blue_circle: (2015) | GNU GPLv2 |
+| [:file_folder: **Atari on Any Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aranym#menu) | :white_circle: 2014 | GNU GPLv2 |
+| [:file_folder: **Hatari**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hatari#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

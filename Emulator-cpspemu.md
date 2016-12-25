@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **CPSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license.
 

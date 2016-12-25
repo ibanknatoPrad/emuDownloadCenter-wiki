@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2001)
+**Developement state:** :red_circle: 2001
 
 **Daedalus** is a emulator for **Nintendo N64** made by **StrmnNrmn** and has a **GNU GPLv2** license.
 

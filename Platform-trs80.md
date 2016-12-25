@@ -6,12 +6,12 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: (2008) | Freeware |
-| [:file_folder: **FastZ80**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fastz80#menu) | :red_circle: (2008) | UNKNOWN |
-| [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | :red_circle: (2011) | Freeware |
-| [:file_folder: **Return of CoCo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-roc#menu) | :red_circle: (2000) | UNKNOWN |
-| [:file_folder: **sdltrs**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sdltrs#menu) | :red_circle: (2010) | BSD Licence |
-| [:file_folder: **trs80gp**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-trs80gp#menu) | :red_circle: (2011) | UNKNOWN |
-| [:file_folder: **XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | :large_blue_circle: (2016) | GNU GPLv2 |
+| [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: 2008 | Freeware |
+| [:file_folder: **FastZ80**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fastz80#menu) | :red_circle: 2008 | UNKNOWN |
+| [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | :red_circle: 2011 | Freeware |
+| [:file_folder: **Return of CoCo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-roc#menu) | :red_circle: 2000 | UNKNOWN |
+| [:file_folder: **sdltrs**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sdltrs#menu) | :red_circle: 2010 | BSD Licence |
+| [:file_folder: **trs80gp**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-trs80gp#menu) | :red_circle: 2011 | UNKNOWN |
+| [:file_folder: **XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

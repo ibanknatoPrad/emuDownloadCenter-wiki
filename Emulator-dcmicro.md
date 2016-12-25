@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **DCMicroColor** is a emulator for **Matra/Hachette Alice** made by **Daniel Coulom** and has a **Freeware** license.
 

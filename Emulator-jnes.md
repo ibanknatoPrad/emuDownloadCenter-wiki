@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jnes_logo_200.jpg "Jnes logo.")
 
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **Jnes** is a emulator for **Nintendo NES/Famicom** made by **Jabo** and has a **Freeware** license.
 

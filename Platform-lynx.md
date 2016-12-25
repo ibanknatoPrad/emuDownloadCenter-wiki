@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **Handy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-handy#menu) | :red_circle: (2007) | Freeware |
-| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: (2016) | GNU GPLv2 |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **Handy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-handy#menu) | :red_circle: 2007 | Freeware |
+| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

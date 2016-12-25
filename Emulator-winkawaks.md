@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winkawaks_logo_200.jpg "WinKawaks logo.")
 
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **WinKawaks** is a emulator for **Capcom Play System 1** made by **The WinKawaks Team** and has a **Freeware** license.
 

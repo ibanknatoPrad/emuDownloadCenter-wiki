@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | :red_circle: (2012) | Freeware - Non-Commercial |
+| [:file_folder: **DCEXEL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcexel#menu) | :red_circle: 2012 | Freeware - Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

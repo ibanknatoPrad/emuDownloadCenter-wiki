@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **YoshiNES** is a emulator for **Nintendo NES/Famicom** made by **omundodogabriel** and has a **UNKNOWN** license.
 

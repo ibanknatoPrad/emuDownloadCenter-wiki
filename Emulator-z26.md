@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/z26_logo_200.jpg "Z26 logo.")
 
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **Z26** is a emulator for **Atari 2600** made by **John Saeger** and has a **Freeware** license.
 

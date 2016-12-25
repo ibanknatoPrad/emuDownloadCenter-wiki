@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2006)
+**Developement state:** :red_circle: 2006
 
 **Hu6280** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Vobbo** and has a **Freeware** license.
 

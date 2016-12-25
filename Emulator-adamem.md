@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1999)
+**Developement state:** :red_circle: 1999
 
 **ADAMEm** is a emulator for **Coleco Adam** made by **Marcel de Kogel** and has a **Freeware** license.
 

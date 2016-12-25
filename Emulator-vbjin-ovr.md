@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **VBjin-OVR** is a emulator for **Nintendo Virtual Boy** made by **Jay Mattis** and has a **Freeware** license.
 

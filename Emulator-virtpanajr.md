@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **Virtual Panasonic JR-200U** is a emulator for **Panasonic JR-200** made by **James the Animal Tamer** and has a **GNU GPLv2** license.
 

@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **xenia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xenia#menu) | :large_blue_circle: (2016) | BSD Licence |
+| [:file_folder: **xenia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xenia#menu) | :large_blue_circle: 2016 | BSD Licence |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

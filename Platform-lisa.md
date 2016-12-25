@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | :red_circle: (2008) | Freeware |
-| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | :red_circle: (2007) | GNU GPLv2 |
+| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | :red_circle: 2008 | Freeware |
+| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | :red_circle: 2007 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

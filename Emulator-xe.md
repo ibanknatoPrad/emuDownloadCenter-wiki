@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xe_logo_200.jpg "Xe logo.")
 
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **Xe** is a emulator for **Nintendo FDS** made by **Unknown** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Virtual GameBoy** is a emulator for **Nintendo Game Boy** made by **Marat Fayzullin** and has a **UNKNOWN** license.
 

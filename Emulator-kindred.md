@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Kindred** is a emulator for **Nintendo Game Boy** made by **Kris Bleakley** and has a **Freeware - Non-Commercial** license.
 

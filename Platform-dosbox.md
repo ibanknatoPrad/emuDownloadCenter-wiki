@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **DOSBox**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dosbox#menu) | :red_circle: (2012) | Freeware |
+| [:file_folder: **DOSBox**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dosbox#menu) | :red_circle: 2012 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

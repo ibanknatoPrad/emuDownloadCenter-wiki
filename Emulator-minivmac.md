@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2013)
+**Developement state:** :red_circle: 2013
 
 **Mini vMac** is a emulator for **Apple Macintosh** made by **Paul C Pratt and Others** and has a **GNU GPLv2** license.
 

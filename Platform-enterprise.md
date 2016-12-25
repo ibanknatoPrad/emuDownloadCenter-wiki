@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ENTER**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-enter#menu) | :red_circle: (2001) | GNU GPLv2 |
-| [:file_folder: **ep32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ep32#menu) | :red_circle: (2006) | GNU GPLv2 |
+| [:file_folder: **ENTER**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-enter#menu) | :red_circle: 2001 | GNU GPLv2 |
+| [:file_folder: **ep32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ep32#menu) | :red_circle: 2006 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

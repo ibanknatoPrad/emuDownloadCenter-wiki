@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **Zero** is a emulator for **Sinclair ZX Spectrum** made by **Arjun Nair** and has a **Freeware** license.
 

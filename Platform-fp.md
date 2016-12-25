@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-futurepinball#menu) | :red_circle: (2010) | Freeware |
+| [:file_folder: **Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-futurepinball#menu) | :red_circle: 2010 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

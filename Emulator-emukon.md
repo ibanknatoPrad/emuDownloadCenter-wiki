@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **Emukon** is a emulator for **Sega Game Gear** made by **Martin and Robert Konrad** and has a **KonTechs Freeware License** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **Cygne** is a emulator for **Bandai Wonderswan** made by **Dox** and has a **GNU GPL** license.
 

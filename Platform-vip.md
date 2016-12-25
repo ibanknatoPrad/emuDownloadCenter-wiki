@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Fish 'N' Chips**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fnc#menu) | :red_circle: (2008) | Freeware - Non-Commercial |
-| [:file_folder: **NeoChip8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neochip8#menu) | :red_circle: (2004) | UNKNOWN |
+| [:file_folder: **Fish 'N' Chips**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fnc#menu) | :red_circle: 2008 | Freeware - Non-Commercial |
+| [:file_folder: **NeoChip8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-neochip8#menu) | :red_circle: 2004 | UNKNOWN |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

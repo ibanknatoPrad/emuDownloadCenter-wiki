@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **ActiveGS** is a emulator for **Apple 2GS** made by **Olivier Goguel** and has a **UNKNOWN** license.
 

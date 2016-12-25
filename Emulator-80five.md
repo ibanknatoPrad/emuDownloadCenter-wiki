@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **MarioNES / 80five** is a emulator for **Nintendo NES/Famicom** made by **Gary Boyes** and has a **UNKNOWN** license.
 

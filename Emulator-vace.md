@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (1998)
+**Developement state:** :red_circle: 1998
 
 **Vace** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license.
 

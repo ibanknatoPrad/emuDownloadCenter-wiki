@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **Turbo Engine 16** is a emulator for **NEC Turbografx-16/PC-Engine** made by **AamirM** and has a **Freeware - Non-Commercial** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2007)
+**Developement state:** :red_circle: 2007
 
 **Potemkin** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard (aka ector)** and has a **GNU GPLv2** license.
 

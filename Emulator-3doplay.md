@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo_200.jpg "3DOplay logo.")
 
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license.
 

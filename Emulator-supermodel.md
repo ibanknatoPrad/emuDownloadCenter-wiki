@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2011)
+**Developement state:** :red_circle: 2011
 
 **Supermodel** is a emulator for **Sega Model 3** made by **Bart Trzynadlowski** and has a **GNU GPLv3** license.
 

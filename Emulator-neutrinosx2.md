@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2003)
+**Developement state:** :red_circle: 2003
 
 **neutrinoSX2** is a emulator for **Sony PlayStation 2** made by **Muad and nSX2 Team** and has a **GNU GPLv2** license.
 

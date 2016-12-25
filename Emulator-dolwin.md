@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **Dolwin** is a emulator for **Nintendo GameCube** made by **Dolwin Team** and has a **Freeware** license.
 

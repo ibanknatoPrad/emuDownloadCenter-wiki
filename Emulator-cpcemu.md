@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cpcemu_logo_200.jpg "CPCemu logo.")
 
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **CPCemu** is a emulator for **Amstrad CPC** made by **Marco Vieth** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James The Animal Tamer** and has a **UNKNOWN** license.
 

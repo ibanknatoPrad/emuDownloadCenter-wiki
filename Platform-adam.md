@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ADAMEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adamem#menu) | :red_circle: (1999) | Freeware |
-| [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: (2016) | Donationware |
+| [:file_folder: **ADAMEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-adamem#menu) | :red_circle: 1999 | Freeware |
+| [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: 2016 | Donationware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

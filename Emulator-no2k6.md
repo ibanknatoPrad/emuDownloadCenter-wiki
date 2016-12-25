@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **no$2k6** is a emulator for **Atari 2600** made by **Martin Korth** and has a **Freeware** license.
 

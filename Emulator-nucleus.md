@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Nucleus** is a emulator for **Sony PlayStation 3** made by **Alexandro Sanchez Bach** and has a **GNU GPLv2** license.
 

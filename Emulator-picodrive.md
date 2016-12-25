@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz** and has a **Non-standard** license.
 

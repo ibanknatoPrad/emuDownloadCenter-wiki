@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **88VA Eternal Grafx** is a emulator for **NEC PC-9801** made by **shinra** and has a **Freeware - Non-Commercial** license.
 

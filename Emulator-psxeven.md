@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psxeven_logo_200.jpg "PSXeven logo.")
 
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **PSXeven** is a emulator for **Sony PlayStation 1** made by **Xeven** and has a **Freeware** license.
 

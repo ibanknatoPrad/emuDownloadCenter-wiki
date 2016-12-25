@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **WinAPE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winape#menu) | :large_blue_circle: (2016) | Freeware |
+| [:file_folder: **WinAPE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winape#menu) | :large_blue_circle: 2016 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

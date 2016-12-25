@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/adripsx_logo_200.jpg "AdriPSX logo.")
 
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **AdriPSX** is a emulator for **Sony PlayStation 1** made by **Roor Makurosu** and has a **Freeware** license.
 

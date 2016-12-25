@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: (2010) | Freeware |
-| [:file_folder: **PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | :red_circle: (2008) | Non-standard |
+| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: 2010 | Freeware |
+| [:file_folder: **PicoDrive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-picodrive#menu) | :red_circle: 2008 | Non-standard |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

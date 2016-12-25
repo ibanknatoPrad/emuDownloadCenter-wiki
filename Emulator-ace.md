@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2002)
+**Developement state:** :red_circle: 2002
 
 **Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol** and has a **Freeware - Non-Commercial** license.
 

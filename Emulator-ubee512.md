@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **uBee512** is a emulator for **Applied Technologies Microbee** made by **Stewart Kay** and has a **GNU GPLv2** license.
 

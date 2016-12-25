@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **Arculator** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
 

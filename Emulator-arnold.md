@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2004)
+**Developement state:** :red_circle: 2004
 
 **Arnold** is a emulator for **Amstrad CPC** made by **Kevin Thacker** and has a **GNU GPLv2** license.
 

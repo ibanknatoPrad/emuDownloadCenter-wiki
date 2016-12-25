@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Jynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jynx#menu) | :white_circle: (2014) | GNU GPLv3 |
-| [:file_folder: **Pete's Amazing Lynx Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pale#menu) | :white_circle: (2014) | Freeware |
+| [:file_folder: **Jynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jynx#menu) | :white_circle: 2014 | GNU GPLv3 |
+| [:file_folder: **Pete's Amazing Lynx Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pale#menu) | :white_circle: 2014 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

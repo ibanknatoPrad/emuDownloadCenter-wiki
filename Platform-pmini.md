@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | :large_blue_circle: (2015) | GNU GPLv3 |
+| [:file_folder: **Poke Mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pokemini#menu) | :large_blue_circle: 2015 | GNU GPLv3 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

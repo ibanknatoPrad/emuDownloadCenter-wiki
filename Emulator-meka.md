@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **MEKA** is a emulator for **Coleco ColecoVision** made by **Omar Cornut** and has a **Unrestrictive BSD-like** license.
 

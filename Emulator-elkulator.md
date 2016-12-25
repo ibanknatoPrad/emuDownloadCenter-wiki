@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2010)
+**Developement state:** :red_circle: 2010
 
 **Elkulator** is a emulator for **Acorn Electron** made by **Tom Walker** and has a **GNU GPLv2** license.
 

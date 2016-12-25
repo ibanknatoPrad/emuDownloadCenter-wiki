@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **Takeda Archive** is a emulator for **Fujitsu FM-7** made by **Various** and has a **GNU GPLv2** license.
 

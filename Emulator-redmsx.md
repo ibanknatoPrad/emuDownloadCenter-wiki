@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2005)
+**Developement state:** :red_circle: 2005
 
 **RedMSX** is a emulator for **MSX Home Computer** made by **SLotman** and has a **UNKNOWN** license.
 

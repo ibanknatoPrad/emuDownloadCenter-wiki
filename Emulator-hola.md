@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **Hola!** is a emulator for **HomeLAB series - HomeLAB 4** made by **Attila Grosz** and has a **UNKNOWN** license.
 

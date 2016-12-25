@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2016)
+**Developement state:** :large_blue_circle: 2016
 
 **AIPC (Apple in a PC)** is a emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7** and has a **GNU GPLv3** license.
 

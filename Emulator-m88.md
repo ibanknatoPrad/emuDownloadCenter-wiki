@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **M88** is a emulator for **NEC PC-8801** made by **rururutan** and has a **NewBSD** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2003)
+**Developement state:** :red_circle: 2003
 
 **Genesis Plus** is a emulator for **Sega Mega Drive/Genesis** made by **Charles MacDonald** and has a **GNU GPLv2** license.
 

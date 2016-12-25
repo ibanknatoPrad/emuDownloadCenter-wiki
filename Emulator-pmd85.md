@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2003)
+**Developement state:** :red_circle: 2003
 
 **PMD85** is a emulator for **Tesla PMD-85** made by **Martin Schotek** and has a **UNKNOWN** license.
 

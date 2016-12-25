@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: (2016) | Freeware Non-Commercial |
+| [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: 2016 | Freeware Non-Commercial |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

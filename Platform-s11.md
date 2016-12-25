@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | :red_circle: (2005) | Freeware |
+| [:file_folder: **ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | :red_circle: 2005 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

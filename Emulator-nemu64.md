@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nemu64_logo_200.jpg "Nemu64 logo.")
 
-**Developement state:** :red_circle: (2003)
+**Developement state:** :red_circle: 2003
 
 **Nemu64** is a emulator for **Nintendo N64** made by **Lemmy, LaC, hWnd** and has a **Freeware** license.
 

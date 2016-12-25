@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2008)
+**Developement state:** :red_circle: 2008
 
 **Reality Boy** is a emulator for **Nintendo Virtual Boy** made by **David Tucker** and has a **Freeware - Non-Commercial** license.
 

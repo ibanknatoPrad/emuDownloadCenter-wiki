@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | :large_blue_circle: (2016) | Freeware |
-| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: (2004) | Freeware |
+| [:file_folder: **EMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emu#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: (2014)
+**Developement state:** :white_circle: 2014
 
 **Short Waves** is a emulator for **Sony PlayStation 3** made by **InoriRus** and has a **UNKNOWN** license.
 

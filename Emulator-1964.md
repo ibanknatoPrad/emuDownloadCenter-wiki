@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/1964_logo_200.jpg "1964 logo.")
 
-**Developement state:** :red_circle: (2009)
+**Developement state:** :red_circle: 2009
 
 **1964** is a emulator for **Nintendo N64** made by **Joel Middendorf (schibo) & Rice** and has a **Freeware** license.
 

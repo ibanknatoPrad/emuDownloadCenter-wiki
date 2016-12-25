@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: (2012)
+**Developement state:** :red_circle: 2012
 
 **B-em** is a emulator for **Acorn BBC** made by **Tom Walker** and has a **GNU GPLv2** license.
 

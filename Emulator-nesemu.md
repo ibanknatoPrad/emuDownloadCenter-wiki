@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: (2015)
+**Developement state:** :large_blue_circle: 2015
 
 **nes-emu** is a emulator for **Nintendo NES/Famicom** made by **Antonio Maiorano** and has a **GNU GPLv2** license.
 
