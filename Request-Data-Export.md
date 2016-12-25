@@ -1,4 +1,4 @@
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_misc/image_export.jpg "Export data")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images/image_export.jpg "Export data")
 
 Hi, maybe you want to use the data on EDC for a specific purpose? or it needs to be in a specific file format?, like in:
 
