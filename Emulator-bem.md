@@ -33,8 +33,8 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
-| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
-|:--------|:----:|---:|:------------:|:----:|:----:|--------:|
-| [:floppy_disk: **2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0007/raw/master/bem/2.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-06-03 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bem/2.2_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bem/2.2_contents.txt) | 3832 KB |
+| Version | OS | Release date | CLOG | CONT | DL Size |
+|:--------|---:|:------------:|:----:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **2.2**](https://github.com/PhoenixInteractiveNL/edc-repo0007/raw/master/bem/2.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-06-03 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bem/2.2_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bem/2.2_contents.txt) | 3832 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -33,8 +33,8 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
-| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
-|:--------|:----:|---:|:------------:|:----:|:----:|--------:|
-| [:floppy_disk: **1.0.4.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ideas/1.0.4.0.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2011-10-02 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ideas/1.0.4.0_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ideas/1.0.4.0_contents.txt) | 262 KB |
+| Version | OS | Release date | CLOG | CONT | DL Size |
+|:--------|---:|:------------:|:----:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **1.0.4.0**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/ideas/1.0.4.0.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2011-10-02 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ideas/1.0.4.0_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/ideas/1.0.4.0_contents.txt) | 262 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

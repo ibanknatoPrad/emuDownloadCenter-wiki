@@ -33,8 +33,8 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
-| Version | TYPE | OS | Release date | CLOG | CONT | DL Size |
-|:--------|:----:|---:|:------------:|:----:|:----:|--------:|
-| [:floppy_disk: **20140603**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3dmoo/20140603.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-06-03 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3dmoo/20140603_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3dmoo/20140603_contents.txt) | 565 KB |
+| Version | OS | Release date | CLOG | CONT | DL Size |
+|:--------|---:|:------------:|:----:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **20140603**](https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/3dmoo/20140603.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2014-06-03 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3dmoo/20140603_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0001/blob/master/3dmoo/20140603_contents.txt) | 565 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
