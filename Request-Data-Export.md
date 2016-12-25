@@ -16,7 +16,7 @@ I can make that data parse in the EDC manager so it can be exported for you on e
 
 The request can be made freely, i will not charge you for it, but... you have to work on EDC for it!
 
-Your mission:
+Your mission (as you choose to accept it :sunglasses:):
 - Add 100 emulator versions that we do not have yet in our database! and i will create your export wish!, you can find a [walktrough here](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Collecting-walktrough)
 
 Exported data rules:
