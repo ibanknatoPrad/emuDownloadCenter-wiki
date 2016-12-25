@@ -13,7 +13,7 @@
 ### Data Export / API
 [**Export - ECC EMU INI**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/tree/master/export/ecc_emu_ini)
 
-[**Request Export/API**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Request-Export-API)
+[**Request Data Export**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Request-Data-Export)
 ***
 ### emuControlCenter
 [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
