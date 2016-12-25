@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Red Dragon** is a emulator for **Nintendo Virtual Boy** made by **frostgiant and Parasyte** and has a **Freeware** license.
 

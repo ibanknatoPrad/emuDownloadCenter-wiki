@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **NICE64** is a emulator for **Nintendo N64** made by **Rice and Pokefan** and has a **GNU GPLv2** license.
 

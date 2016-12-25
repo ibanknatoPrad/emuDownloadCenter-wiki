@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **DSVZ200** is a emulator for **Vtech Laser 200/210/310** made by **The_Author and DynaChicken** and has a **Freeware** license.
 

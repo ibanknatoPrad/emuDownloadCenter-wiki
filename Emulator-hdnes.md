@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **HDNes** is a emulator for **Nintendo NES/Famicom** made by **mkwong98** and has a **UNKNOWN** license.
 

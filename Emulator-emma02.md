@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emma02_logo_200.jpg "EMMA 02 logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **EMMA 02** is a emulator for **Comx WOL - Comx-35** made by **Marcel van Tongeren** and has a **GNU LGPL 2.1** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **Atari800** is a emulator for **Atari 5200** made by **The Atari800 Development Team** and has a **GNU GPLv2** license.
 

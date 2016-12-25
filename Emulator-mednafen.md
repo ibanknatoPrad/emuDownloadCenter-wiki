@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mednafen_logo_200.jpg "Mednafen logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team** and has a **GNU GPLv2** license.
 

@@ -6,83 +6,83 @@
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
-| [:file_folder: **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
-| [:file_folder: **Coleco Adam**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-adam) | :computer: Computer | adam |
-| [:file_folder: **Matra/Hachette Alice**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-alice) | :computer: Computer | alice |
-| [:file_folder: **Commodore Amiga**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amiga) | :computer: Computer | amiga |
-| [:file_folder: **Apple 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple1) | :computer: Computer | apple1 |
-| [:file_folder: **Apple 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple2) | :computer: Computer | apple2 |
-| [:file_folder: **Apple 2GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple2gs) | :computer: Computer | apple2gs |
-| [:file_folder: **Mattel Aquarius**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-aqua) | :computer: Computer | aqua |
-| [:file_folder: **Acorn Archimedes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-archi) | :computer: Computer | archi |
-| [:file_folder: **Acorn Atom**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-atom) | :computer: Computer | atom |
-| [:file_folder: **Acorn BBC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-bbc) | :computer: Computer | bbc |
-| [:file_folder: **Commodore C128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c128) | :computer: Computer | c128 |
-| [:file_folder: **Commodore 16/plus4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c16plus4) | :computer: Computer | c16plus4 |
-| [:file_folder: **Commodore 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c64) | :computer: Computer | c64 |
-| [:file_folder: **EACA/TS Colour Genie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cg) | :computer: Computer | cg |
-| [:file_folder: **Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
-| [:file_folder: **Comx WOL - Comx-35**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-comx35) | :computer: Computer | comx35 |
-| [:file_folder: **Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
-| [:file_folder: **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
-| [:file_folder: **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
-| [:file_folder: **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
-| [:file_folder: **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
-| [:file_folder: **Atari Falcon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-falcon) | :computer: Computer | falcon |
-| [:file_folder: **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
-| [:file_folder: **Fujitsu FM Towns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fmtowns) | :computer: Computer | fmtowns |
-| [:file_folder: **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
-| [:file_folder: **Interact Home Computer System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-hcs) | :computer: Computer | hcs |
-| [:file_folder: **HomeLAB series - HomeLAB 4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-homelab4) | :computer: Computer | homelab4 |
-| [:file_folder: **Híradástechnika HT-1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ht1080z) | :computer: Computer | ht1080z |
-| [:file_folder: **APF Electronics Imagination Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-im) | :computer: Computer | im |
-| [:file_folder: **Panasonic JR-200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jr200) | :computer: Computer | jr200 |
-| [:file_folder: **Jupiter Cantab - Jupiter Ace**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jupace) | :computer: Computer | jupace |
-| [:file_folder: **Robotron KC series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-kc) | :computer: Computer | kc |
-| [:file_folder: **Vtech Laser 100/110**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l100) | :computer: Computer | l100 |
-| [:file_folder: **Vtech Laser 200/210/310**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l200) | :computer: Computer | l200 |
-| [:file_folder: **Vtech Laser 350/500/700**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l350) | :computer: Computer | l350 |
-| [:file_folder: **Apple Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lisa) | :computer: Computer | lisa |
-| [:file_folder: **V. I. Lenin L'vov/Lviv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lviv) | :computer: Computer | lviv |
-| [:file_folder: **Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
-| [:file_folder: **Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
-| [:file_folder: **MSX Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx) | :computer: Computer | msx |
-| [:file_folder: **MSX 2 Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx2) | :computer: Computer | msx2 |
-| [:file_folder: **MSX Turbo R (Panasonic FS-A1GT/ST)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msxtr) | :computer: Computer | msxtr |
-| [:file_folder: **Apple Macintosh**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtosh) | :computer: Computer | mtosh |
-| [:file_folder: **Memotech MTX 500/512**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtx) | :computer: Computer | mtx |
-| [:file_folder: **Sharp MZ-700/1500**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz1500) | :computer: Computer | mz1500 |
-| [:file_folder: **Sharp MZ-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2000) | :computer: Computer | mz2000 |
-| [:file_folder: **Sharp MZ-2500/SuperMZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2500) | :computer: Computer | mz2500 |
-| [:file_folder: **Oric Atmos/Telestrat**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-oric) | :computer: Computer | oric |
-| [:file_folder: **NEC PC-6001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc6001) | :computer: Computer | pc6001 |
-| [:file_folder: **NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
-| [:file_folder: **NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |
-| [:file_folder: **NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
-| [:file_folder: **Amstrad PCW/Schneider Joyce**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcw) | :computer: Computer | pcw |
-| [:file_folder: **DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
-| [:file_folder: **DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
-| [:file_folder: **Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |
-| [:file_folder: **Signetics Pipbug**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pipbug) | :computer: Computer | pipbug |
-| [:file_folder: **Tesla PMD-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmd85) | :computer: Computer | pmd85 |
-| [:file_folder: **Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
-| [:file_folder: **Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
-| [:file_folder: **Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
-| [:file_folder: **Mikrosha Radio-86RK**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-r86rk) | :computer: Computer | r86rk |
-| [:file_folder: **MGT Sam Coupé**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-samc) | :computer: Computer | samc |
-| [:file_folder: **Sega SC-3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sc3000) | :computer: Computer | sc3000 |
-| [:file_folder: **Sord M5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sordm5) | :computer: Computer | sordm5 |
-| [:file_folder: **Atari ST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-st) | :computer: Computer | st |
-| [:file_folder: **Spectravideo SV318/328**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sv318) | :computer: Computer | sv318 |
-| [:file_folder: **Texas Instruments TI-99/4A**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti99) | :computer: Computer | ti99 |
-| [:file_folder: **Tandy/Radio Shack TRS-80 Color Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-trs80) | :computer: Computer | trs80 |
-| [:file_folder: **Tomy Tutor/Pyuta**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tutor) | :computer: Computer | tutor |
-| [:file_folder: **Philips VG-5000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg5000) | :computer: Computer | vg5000 |
-| [:file_folder: **Commodore VIC-20**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vic20) | :computer: Computer | vic20 |
-| [:file_folder: **Cosmac VIP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vip) | :computer: Computer | vip |
-| [:file_folder: **Sharp X1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x1) | :computer: Computer | x1 |
-| [:file_folder: **Sharp X68000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x68000) | :computer: Computer | x68000 |
-| [:file_folder: **Sinclair ZX81**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zx81) | :computer: Computer | zx81 |
-| [:file_folder: **Sinclair ZX Spectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zxs) | :computer: Computer | zxs |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a8bit_nav.png) **Atari 8-bit series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a8bit) | :computer: Computer | a8bit |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_adam_nav.png) **Coleco Adam**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-adam) | :computer: Computer | adam |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_alice_nav.png) **Matra/Hachette Alice**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-alice) | :computer: Computer | alice |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_amiga_nav.png) **Commodore Amiga**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amiga) | :computer: Computer | amiga |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple1_nav.png) **Apple 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple1) | :computer: Computer | apple1 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple2_nav.png) **Apple 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple2) | :computer: Computer | apple2 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_apple2gs_nav.png) **Apple 2GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-apple2gs) | :computer: Computer | apple2gs |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_aqua_nav.png) **Mattel Aquarius**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-aqua) | :computer: Computer | aqua |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_archi_nav.png) **Acorn Archimedes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-archi) | :computer: Computer | archi |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_atom_nav.png) **Acorn Atom**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-atom) | :computer: Computer | atom |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_bbc_nav.png) **Acorn BBC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-bbc) | :computer: Computer | bbc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c128_nav.png) **Commodore C128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c128) | :computer: Computer | c128 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c16plus4_nav.png) **Commodore 16/plus4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c16plus4) | :computer: Computer | c16plus4 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_c64_nav.png) **Commodore 64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-c64) | :computer: Computer | c64 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cg_nav.png) **EACA/TS Colour Genie**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cg) | :computer: Computer | cg |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_clynx_nav.png) **Camputers Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-clynx) | :computer: Computer | clynx |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_comx35_nav.png) **Comx WOL - Comx-35**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-comx35) | :computer: Computer | comx35 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cpc_nav.png) **Amstrad CPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cpc) | :computer: Computer | cpc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dragon_nav.png) **Dragon Data - Dragon 32/64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dragon) | :computer: Computer | dragon |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_enterprise_nav.png) **Enterprise Systems - Enterprise 64/128**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-enterprise) | :computer: Computer | enterprise |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_etron_nav.png) **Acorn Electron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-etron) | :computer: Computer | etron |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_exl100_nav.png) **Exelvision EXL100**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-exl100) | :computer: Computer | exl100 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_falcon_nav.png) **Atari Falcon**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-falcon) | :computer: Computer | falcon |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fm7_nav.png) **Fujitsu FM-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fm7) | :computer: Computer | fm7 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fmtowns_nav.png) **Fujitsu FM Towns**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fmtowns) | :computer: Computer | fmtowns |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_galplus_nav.png) **Galaksija - Galaksija Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-galplus) | :computer: Computer | galplus |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_hcs_nav.png) **Interact Home Computer System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-hcs) | :computer: Computer | hcs |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_homelab4_nav.png) **HomeLAB series - HomeLAB 4**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-homelab4) | :computer: Computer | homelab4 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ht1080z_nav.png) **Híradástechnika HT-1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ht1080z) | :computer: Computer | ht1080z |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_im_nav.png) **APF Electronics Imagination Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-im) | :computer: Computer | im |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jr200_nav.png) **Panasonic JR-200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jr200) | :computer: Computer | jr200 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jupace_nav.png) **Jupiter Cantab - Jupiter Ace**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jupace) | :computer: Computer | jupace |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_kc_nav.png) **Robotron KC series**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-kc) | :computer: Computer | kc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l100_nav.png) **Vtech Laser 100/110**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l100) | :computer: Computer | l100 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l200_nav.png) **Vtech Laser 200/210/310**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l200) | :computer: Computer | l200 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l350_nav.png) **Vtech Laser 350/500/700**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-l350) | :computer: Computer | l350 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lisa_nav.png) **Apple Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lisa) | :computer: Computer | lisa |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lviv_nav.png) **V. I. Lenin L'vov/Lviv**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lviv) | :computer: Computer | lviv |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mb_nav.png) **Applied Technologies Microbee**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mb) | :computer: Computer | mb |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mo5_nav.png) **Thomson MO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mo5) | :computer: Computer | mo5 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msx_nav.png) **MSX Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx) | :computer: Computer | msx |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msx2_nav.png) **MSX 2 Home Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msx2) | :computer: Computer | msx2 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_msxtr_nav.png) **MSX Turbo R (Panasonic FS-A1GT/ST)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-msxtr) | :computer: Computer | msxtr |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtosh_nav.png) **Apple Macintosh**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtosh) | :computer: Computer | mtosh |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtx_nav.png) **Memotech MTX 500/512**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mtx) | :computer: Computer | mtx |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mz1500_nav.png) **Sharp MZ-700/1500**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz1500) | :computer: Computer | mz1500 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mz2000_nav.png) **Sharp MZ-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2000) | :computer: Computer | mz2000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mz2500_nav.png) **Sharp MZ-2500/SuperMZ**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-mz2500) | :computer: Computer | mz2500 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_oric_nav.png) **Oric Atmos/Telestrat**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-oric) | :computer: Computer | oric |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc6001_nav.png) **NEC PC-6001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc6001) | :computer: Computer | pc6001 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc8801_nav.png) **NEC PC-8801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc8801) | :computer: Computer | pc8801 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pc9801_nav.png) **NEC PC-9801**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pc9801) | :computer: Computer | pc9801 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pcfx_nav.png) **NEC PC-FX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcfx) | :computer: Computer | pcfx |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pcw_nav.png) **Amstrad PCW/Schneider Joyce**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcw) | :computer: Computer | pcw |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pdp1_nav.png) **DEC PDP-1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp1) | :computer: Computer | pdp1 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pdp7_nav.png) **DEC PDP-7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pdp7) | :computer: Computer | pdp7 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pet_nav.png) **Commodore PET**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pet) | :computer: Computer | pet |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pipbug_nav.png) **Signetics Pipbug**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pipbug) | :computer: Computer | pipbug |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pmd85_nav.png) **Tesla PMD-85**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmd85) | :computer: Computer | pmd85 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_primo_nav.png) **Microkey Primo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-primo) | :computer: Computer | primo |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv2000_nav.png) **Casio PV-2000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv2000) | :computer: Computer | pv2000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ql_nav.png) **Sinclair QL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ql) | :computer: Computer | ql |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_r86rk_nav.png) **Mikrosha Radio-86RK**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-r86rk) | :computer: Computer | r86rk |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_samc_nav.png) **MGT Sam Coupé**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-samc) | :computer: Computer | samc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sc3000_nav.png) **Sega SC-3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sc3000) | :computer: Computer | sc3000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sordm5_nav.png) **Sord M5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sordm5) | :computer: Computer | sordm5 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_st_nav.png) **Atari ST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-st) | :computer: Computer | st |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sv318_nav.png) **Spectravideo SV318/328**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sv318) | :computer: Computer | sv318 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ti99_nav.png) **Texas Instruments TI-99/4A**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ti99) | :computer: Computer | ti99 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_trs80_nav.png) **Tandy/Radio Shack TRS-80 Color Computer**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-trs80) | :computer: Computer | trs80 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tutor_nav.png) **Tomy Tutor/Pyuta**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tutor) | :computer: Computer | tutor |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vg5000_nav.png) **Philips VG-5000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg5000) | :computer: Computer | vg5000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vic20_nav.png) **Commodore VIC-20**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vic20) | :computer: Computer | vic20 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vip_nav.png) **Cosmac VIP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vip) | :computer: Computer | vip |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_x1_nav.png) **Sharp X1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x1) | :computer: Computer | x1 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_x68000_nav.png) **Sharp X68000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-x68000) | :computer: Computer | x68000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_zx81_nav.png) **Sinclair ZX81**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zx81) | :computer: Computer | zx81 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_zxs_nav.png) **Sinclair ZX Spectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-zxs) | :computer: Computer | zxs |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

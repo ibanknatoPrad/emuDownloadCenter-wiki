@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **SIMH** is a emulator for **DEC PDP-1** made by **Bob Supnik and Others** and has a **Modified X-Windows** license.
 

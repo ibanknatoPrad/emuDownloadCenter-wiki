@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg "Project64k logo.")
 
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **Project64k** is a emulator for **Nintendo N64** made by **Smasherx74** and has a **Freeware** license.
 

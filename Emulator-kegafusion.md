@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg "Kega Fusion logo.")
 
-**Developement state:** :red_circle: Non-active (2010)
+**Developement state:** :red_circle: (2010)
 
 **Kega Fusion** is a emulator for **Sega Mega Drive 32X** made by **Steve Snake** and has a **Freeware** license.
 

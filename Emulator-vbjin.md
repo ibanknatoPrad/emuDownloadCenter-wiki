@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2010)
+**Developement state:** :red_circle: (2010)
 
 **VBjin** is a emulator for **Nintendo Virtual Boy** made by **Paul_t** and has a **GNU GPLv2** license.
 

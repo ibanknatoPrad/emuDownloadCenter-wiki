@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **nullDC NAOMI** is a emulator for **Sega Naomi** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **GNU GPLv2** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2010)
+**Developement state:** :red_circle: (2010)
 
 **Parabellum's Java Vectrex Emulator** is a emulator for **GCE/MB Vectrex** made by **Franck Chevassu** and has a **Freeware - Non-Commercial** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2001)
+**Developement state:** :red_circle: (2001)
 
 **DreamGBA** is a emulator for **Nintendo Game Boy Advance** made by **Kervin** and has a **GNU GPLv2** license.
 

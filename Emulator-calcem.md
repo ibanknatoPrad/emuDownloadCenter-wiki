@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1998)
+**Developement state:** :red_circle: (1998)
 
 **CalcEm** is a emulator for **Texas Instruments TI-82** made by **David Eriksson** and has a **GNU GPLv2** license.
 

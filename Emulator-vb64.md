@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vb64_logo_200.jpg "VB64 logo.")
 
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **VB64** is a emulator for **Commodore 64** made by **Amigafeeva** and has a **GNU GPLv2** license.
 

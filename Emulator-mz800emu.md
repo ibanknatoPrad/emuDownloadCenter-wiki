@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **MZ-800 Emulator** is a emulator for **Sharp MZ-700/1500** made by **Michael Hucik aka chaky** and has a **GNU GPLv3** license.
 

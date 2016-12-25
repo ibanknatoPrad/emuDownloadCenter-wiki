@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg "ProSystem logo.")
 
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton** and has a **Freeware** license.
 

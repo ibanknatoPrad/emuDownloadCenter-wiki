@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **XM7** is a emulator for **Fujitsu FM-7** made by **PI. and Ryu Takegami** and has a **UNKNOWN** license.
 

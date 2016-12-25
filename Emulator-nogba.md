@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nogba_logo_200.jpg "no$gba logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth** and has a **Freeware** license.
 

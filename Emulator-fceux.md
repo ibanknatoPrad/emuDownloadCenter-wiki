@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license.
 

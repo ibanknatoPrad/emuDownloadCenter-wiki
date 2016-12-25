@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **Aspectrum** is a emulator for **Sinclair ZX Spectrum** made by **Santiago Romero Iglesias and The Aspectrum Team** and has a **GNU GPLv2** license.
 

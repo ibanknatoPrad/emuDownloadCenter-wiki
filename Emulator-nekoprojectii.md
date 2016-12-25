@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Neko Project II** is a emulator for **NEC PC-9801** made by **NP Team** and has a **UNKNOWN** license.
 

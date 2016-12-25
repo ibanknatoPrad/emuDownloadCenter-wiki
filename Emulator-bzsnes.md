@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **bZSNES** is a emulator for **Nintendo Super Nintendo** made by **byuu** and has a **GNU GPLv2** license.
 

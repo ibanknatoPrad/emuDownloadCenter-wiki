@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license.
 

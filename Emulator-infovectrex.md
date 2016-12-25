@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **InfoVectrex** is a emulator for **GCE/MB Vectrex** made by **Jay's Factory** and has a **Freeware** license.
 

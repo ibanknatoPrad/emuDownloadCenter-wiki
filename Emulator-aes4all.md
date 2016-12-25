@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **AES4ALL** is a emulator for **SNK NeoGeo** made by **Chui** and has a **UNKNOWN** license.
 

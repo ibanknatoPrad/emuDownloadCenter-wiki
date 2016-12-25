@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/twombit_logo_200.jpg "TwoMBit logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **TwoMBit** is a emulator for **Sega Game Gear** made by **piciji** and has a **GNU GPLv3** license.
 

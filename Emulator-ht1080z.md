@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz** and has a **Freeware** license.
 

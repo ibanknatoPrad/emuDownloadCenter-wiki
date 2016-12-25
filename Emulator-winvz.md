@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2001)
+**Developement state:** :red_circle: (2001)
 
 **WinVZ** is a emulator for **Vtech Laser 200/210/310** made by **xip** and has a **UNKNOWN** license.
 

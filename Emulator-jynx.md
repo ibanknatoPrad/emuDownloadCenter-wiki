@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license.
 

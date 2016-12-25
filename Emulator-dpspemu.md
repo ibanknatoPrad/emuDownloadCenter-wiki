@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **PSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license.
 

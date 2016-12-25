@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1998)
+**Developement state:** :red_circle: (1998)
 
 **PSyKe** is a emulator for **Sony PlayStation 1** made by **Giovanni Bajo and Stefano Crosara** and has a **Freeware - Non-Commercial** license.
 

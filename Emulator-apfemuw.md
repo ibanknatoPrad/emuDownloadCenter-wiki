@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **APF EMUW** is a emulator for **APF Electronics Imagination Machine** made by **Enrique Collado** and has a **Freeware** license.
 

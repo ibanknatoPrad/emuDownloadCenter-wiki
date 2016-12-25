@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fbalpha_logo_200.jpg "FB Alpha logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team** and has a **Freeware - Non-Commercial** license.
 

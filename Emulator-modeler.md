@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2001)
+**Developement state:** :red_circle: (2001)
 
 **Modeler** is a emulator for **Sega Model 1** made by **Farftch'd, R Belmont and Sarayan** and has a **Freeware - Non-Commercial** license.
 

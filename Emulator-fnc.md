@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **Fish 'N' Chips** is a emulator for **Unknown** made by **hap** and has a **Freeware - Non-Commercial** license.
 

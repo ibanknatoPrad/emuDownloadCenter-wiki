@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1999)
+**Developement state:** :red_circle: (1999)
 
 **PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **UNKNOWN** license.
 

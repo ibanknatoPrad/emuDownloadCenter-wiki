@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **EmuZWin** is a emulator for **Sinclair ZX Spectrum** made by **Vladimir Kladov** and has a **UNKNOWN** license.
 

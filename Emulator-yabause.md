@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yabause_logo_200.jpg "Yabause logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Yabause** is a emulator for **Sega Saturn** made by **Yabouse Team** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **RockNES X** is a emulator for **Nintendo NES/Famicom** made by **Alexandre da Veiga** and has a **Freeware - Non-Commercial** license.
 

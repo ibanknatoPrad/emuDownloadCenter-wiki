@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1997)
+**Developement state:** :red_circle: (1997)
 
 **NESticle** is a emulator for **Nintendo NES/Famicom** made by **Bloodlust Software** and has a **Freeware - Non-Commercial** license.
 

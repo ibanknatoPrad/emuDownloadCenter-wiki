@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neocdsdl_logo_200.jpg "NeoCD/SDL logo.")
 
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **NeoCD/SDL** is a emulator for **SNK NeoGeo CD** made by **Fosters** and has a **Freeware** license.
 

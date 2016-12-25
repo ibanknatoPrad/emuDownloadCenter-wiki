@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/makaronex_logo_200.jpg "MakaronEX logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **MakaronEX** is a emulator for **Sega Dreamcast** made by **MakaronEx team** and has a **Freeware** license.
 

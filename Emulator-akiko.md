@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/akiko_logo_200.jpg "Akiko logo.")
 
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **Akiko** is a emulator for **Commodore Amiga CD32** made by **Andreas Falkenhahn** and has a **Freeware** license.
 

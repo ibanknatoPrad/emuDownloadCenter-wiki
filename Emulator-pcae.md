@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **PC Atari Emulator** is a emulator for **Atari 2600** made by **John Dullea** and has a **Freeware** license.
 

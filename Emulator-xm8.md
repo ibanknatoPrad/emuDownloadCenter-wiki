@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **XM8** is a emulator for **NEC PC-8801** made by **PI.** and has a **GNU GPLv2** license.
 

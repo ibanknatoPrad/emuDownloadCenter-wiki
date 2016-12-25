@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg "Nestopia logo.")
 
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license.
 

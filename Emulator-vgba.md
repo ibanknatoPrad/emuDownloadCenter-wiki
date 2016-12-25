@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Virtual GameBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Marat Fayzullin** and has a **Freeware** license.
 

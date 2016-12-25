@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **vecx** is a emulator for **GCE/MB Vectrex** made by **Valavan Manohararajah** and has a **UNKNOWN** license.
 

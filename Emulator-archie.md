@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2000)
+**Developement state:** :red_circle: (2000)
 
 **Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license.
 

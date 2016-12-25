@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **no$nes** is a emulator for **Nintendo FDS** made by **Martin Korth** and has a **Freeware** license.
 

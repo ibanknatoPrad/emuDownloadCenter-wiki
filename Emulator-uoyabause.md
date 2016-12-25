@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **uoYabause** is a emulator for **Sega Saturn** made by **uoYabause Team** and has a **GNU GPLv2** license.
 

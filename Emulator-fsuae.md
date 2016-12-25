@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim** and has a **GNU GPLv2** license.
 

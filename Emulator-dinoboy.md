@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **DinoBoy** is a emulator for **Nintendo Game Boy** made by **Prads** and has a **GNU GPLv3** license.
 

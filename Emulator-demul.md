@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/demul_logo_200.jpg "Demul logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Demul** is a emulator for **Sega Sammy Atomiswave** made by **Demul Team** and has a **UNKNOWN** license.
 

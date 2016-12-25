@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Atomulator** is a emulator for **Acorn Atom** made by **Tom Walker** and has a **GNU GPLv2** license.
 

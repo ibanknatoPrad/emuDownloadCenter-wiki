@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopop_logo_200.jpg "NeoPop logo.")
 
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **NeoPop** is a emulator for **SNK NeoGeo Pocket Color** made by **neopop_uk** and has a **GNU GPLv2** license.
 

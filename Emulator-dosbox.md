@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dosbox_logo_200.jpg "DOSBox logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **DOSBox** is a emulator for **DOSbox - DOS emulator** made by **Peter Veenstra (Qbix)** and has a **Freeware** license.
 

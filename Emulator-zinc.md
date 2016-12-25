@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **ZiNc** is a emulator for **Namco System 11** made by **The_Author and DynaChicken** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **MahNES** is a emulator for **Nintendo NES/Famicom** made by **H Lorenzi** and has a **BSD** license.
 

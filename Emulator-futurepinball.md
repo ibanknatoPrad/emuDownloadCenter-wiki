@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/futurepinball_logo_200.jpg "Future Pinball logo.")
 
-**Developement state:** :red_circle: Non-active (2010)
+**Developement state:** :red_circle: (2010)
 
 **Future Pinball** is a emulator for **Pinball - Future Pinball** made by **Christopher Leathley** and has a **Freeware** license.
 

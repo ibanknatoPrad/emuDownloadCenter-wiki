@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Potator** is a emulator for **Watara Supervision** made by **David Raingeard** and has a **Freeware** license.
 

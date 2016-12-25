@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **Exodus** is a emulator for **Sega Mega Drive/Genesis** made by **The Exodus Team** and has a **Freeware** license.
 

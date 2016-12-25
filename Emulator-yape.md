@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Yet Another Plus/4 Emulator** is a emulator for **Commodore 16/plus4** made by **Attila Grosz** and has a **Freeware** license.
 

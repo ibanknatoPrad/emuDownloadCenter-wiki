@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **Koyote** is a emulator for **SNK NeoGeo Pocket** made by **David Raingeard and Romain Tisserand** and has a **UNKNOWN** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **ASCD** is a emulator for **MGT Sam Coupé** made by **Aley Keprt** and has a **Freeware - Non-Commercial** license.
 

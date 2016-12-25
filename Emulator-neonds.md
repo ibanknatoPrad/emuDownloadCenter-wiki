@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neonds_logo_200.jpg "NeonDS logo.")
 
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **NeonDS** is a emulator for **Nintendo DS** made by **release, jitc, notrace** and has a **Freeware** license.
 

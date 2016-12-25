@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **PCSX** is a emulator for **Sony PlayStation 1** made by **PCSX Team** and has a **UNKNOWN** license.
 

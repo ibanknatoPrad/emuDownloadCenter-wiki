@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nebula_logo_200.jpg "Nebula logo.")
 
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **Nebula** is a emulator for **Capcom Play System 1** made by **ElSemi** and has a **Freeware** license.
 

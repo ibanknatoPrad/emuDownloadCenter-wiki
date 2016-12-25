@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **PCSX-Reloaded** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license.
 

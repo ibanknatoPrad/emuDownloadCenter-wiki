@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **PS2EMU** is a emulator for **Sony PlayStation 2** made by **Roor Makurosu, Scar_T and Shunt** and has a **Freeware - Non-Commercial** license.
 

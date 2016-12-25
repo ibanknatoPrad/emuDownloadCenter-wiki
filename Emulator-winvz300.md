@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2010)
+**Developement state:** :red_circle: (2010)
 
 **sdltrs** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **Mark Grebe** and has a **BSD Licence** license.
 

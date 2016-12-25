@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **CP/M Box** is a emulator for **Amstrad PCW/Schneider Joyce** made by **habi** and has a **GNU GPLv2** license.
 

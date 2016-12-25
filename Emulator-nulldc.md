@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nulldc_logo_200.jpg "nullDC logo.")
 
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **nullDC** is a emulator for **Sega Dreamcast** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **UNKNOWN** license.
 

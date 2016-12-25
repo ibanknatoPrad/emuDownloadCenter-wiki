@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **3DNes** is a emulator for **Nintendo NES/Famicom** made by **geod** and has a **Donationware** license.
 

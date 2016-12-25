@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **MesaDX** is a emulator for **Sega Game Gear** made by **Eric R Quinn** and has a **Freeware - Non-Commercial** license.
 

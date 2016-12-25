@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2000)
+**Developement state:** :red_circle: (2000)
 
 **XGS/32** is a emulator for **Apple 2GS** made by **smentzer** and has a **Freeware** license.
 

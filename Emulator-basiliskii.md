@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **Basilisk II** is a emulator for **Apple Macintosh** made by **Christian Bauer aka cebix** and has a **GNU GPLv2** license.
 

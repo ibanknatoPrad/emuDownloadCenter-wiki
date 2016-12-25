@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **GCEmu** is a emulator for **Nintendo GameCube** made by **Duddie, Tratax, Pete Bernert** and has a **Freeware** license.
 

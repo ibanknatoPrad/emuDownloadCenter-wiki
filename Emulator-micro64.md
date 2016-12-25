@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **Micro64** is a emulator for **Commodore 64** made by **Benjamin 'BeRo' Rosseaux** and has a **Freeware** license.
 

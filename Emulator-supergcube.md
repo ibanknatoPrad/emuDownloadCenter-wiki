@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/supergcube_logo_200.jpg "SuperGCube logo.")
 
-**Developement state:** :red_circle: Non-active (2009)
+**Developement state:** :red_circle: (2009)
 
 **SuperGCube** is a emulator for **Nintendo GameCube** made by **spartan11-7** and has a **GNU GPLv2** license.
 

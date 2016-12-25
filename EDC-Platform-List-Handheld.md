@@ -6,27 +6,27 @@
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
-| [:file_folder: **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :pager: Handheld | 3ds |
-| [:file_folder: **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :pager: Handheld | advision |
-| [:file_folder: **Cybiko Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cybiko) | :pager: Handheld | cybiko |
-| [:file_folder: **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :pager: Handheld | dcvmu |
-| [:file_folder: **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :pager: Handheld | gamecom |
-| [:file_folder: **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :pager: Handheld | gb |
-| [:file_folder: **Nintendo Game Boy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gba) | :pager: Handheld | gba |
-| [:file_folder: **Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :pager: Handheld | gbc |
-| [:file_folder: **Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :pager: Handheld | gg |
-| [:file_folder: **Hartung Game Master**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gm) | :pager: Handheld | gm |
-| [:file_folder: **GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :pager: Handheld | gp32 |
-| [:file_folder: **Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :pager: Handheld | lynx |
-| [:file_folder: **Nintendo DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nds) | :pager: Handheld | nds |
-| [:file_folder: **SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :pager: Handheld | ngp |
-| [:file_folder: **SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :pager: Handheld | ngpc |
-| [:file_folder: **Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :pager: Handheld | pmini |
-| [:file_folder: **Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :pager: Handheld | psp |
-| [:file_folder: **Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :pager: Handheld | pstation |
-| [:file_folder: **Watara Supervision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-svn) | :pager: Handheld | svn |
-| [:file_folder: **Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :pager: Handheld | vb |
-| [:file_folder: **Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :pager: Handheld | ws |
-| [:file_folder: **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :pager: Handheld | wsc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_3ds_nav.png) **Nintendo 3DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3ds) | :pager: Handheld | 3ds |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_advision_nav.png) **Entex Adventure Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-advision) | :pager: Handheld | advision |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cybiko_nav.png) **Cybiko Classic**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cybiko) | :pager: Handheld | cybiko |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dcvmu_nav.png) **Sega Dreamcast VMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dcvmu) | :pager: Handheld | dcvmu |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gamecom_nav.png) **Tiger Electronics Game.com**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gamecom) | :pager: Handheld | gamecom |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gb_nav.png) **Nintendo Game Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gb) | :pager: Handheld | gb |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gba_nav.png) **Nintendo Game Boy Advance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gba) | :pager: Handheld | gba |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gbc_nav.png) **Nintendo Game Boy Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gbc) | :pager: Handheld | gbc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gg_nav.png) **Sega Game Gear**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gg) | :pager: Handheld | gg |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gm_nav.png) **Hartung Game Master**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gm) | :pager: Handheld | gm |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gp32_nav.png) **GamePark GP32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gp32) | :pager: Handheld | gp32 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lynx_nav.png) **Atari Lynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-lynx) | :pager: Handheld | lynx |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_nds_nav.png) **Nintendo DS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nds) | :pager: Handheld | nds |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ngp_nav.png) **SNK NeoGeo Pocket**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngp) | :pager: Handheld | ngp |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ngpc_nav.png) **SNK NeoGeo Pocket Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngpc) | :pager: Handheld | ngpc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pmini_nav.png) **Nintendo Pokémon mini**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pmini) | :pager: Handheld | pmini |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_psp_nav.png) **Sony PlayStation Portable**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-psp) | :pager: Handheld | psp |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pstation_nav.png) **Sony PocketStation**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pstation) | :pager: Handheld | pstation |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_svn_nav.png) **Watara Supervision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-svn) | :pager: Handheld | svn |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vb_nav.png) **Nintendo Virtual Boy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vb) | :pager: Handheld | vb |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ws_nav.png) **Bandai Wonderswan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ws) | :pager: Handheld | ws |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_wsc_nav.png) **Bandai Wonderswan Color**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wsc) | :pager: Handheld | wsc |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

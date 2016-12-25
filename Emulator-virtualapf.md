@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2000)
+**Developement state:** :red_circle: (2000)
 
 **Virtual APF** is a emulator for **APF Electronics Imagination Machine** made by **James the Animal Tamer** and has a **Freeware** license.
 

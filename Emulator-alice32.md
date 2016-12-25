@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **Alice32** is a emulator for **Matra/Hachette Alice** made by **James the Animal Tamer** and has a **Freeware - Non-Commercial** license.
 

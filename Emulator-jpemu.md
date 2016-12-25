@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jpemu_logo_200.jpg "JPeMu IMPACT Emulator logo.")
 
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **JPeMu IMPACT Emulator** is a emulator for **Fruit Machine** made by **Tony Friery** and has a **Freeware** license.
 

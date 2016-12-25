@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **Real-80 PRO** is a emulator for **Híradástechnika HT-1080Z** made by **Kollar Zoltan** and has a **UNKNOWN** license.
 

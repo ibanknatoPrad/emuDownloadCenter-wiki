@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **BoycottAdvance** is a emulator for **Nintendo Game Boy Advance** made by **Julien FRELAT aka Gollum** and has a **Freeware** license.
 

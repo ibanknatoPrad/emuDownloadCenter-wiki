@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2001)
+**Developement state:** :red_circle: (2001)
 
 **EX68** is a emulator for **Sharp X68000** made by **Yamama** and has a **GNU GPLv2** license.
 

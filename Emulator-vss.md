@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Virtual Super System** is a emulator for **Atari 5200** made by **Daniel Boris** and has a **Freeware** license.
 

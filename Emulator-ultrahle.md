@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultrahle_logo_200.jpg "UltraHLE logo.")
 
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **UltraHLE** is a emulator for **Nintendo N64** made by **Epsilon and RealityMan** and has a **Freeware** license.
 

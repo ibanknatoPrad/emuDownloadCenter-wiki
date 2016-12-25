@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **jzIntv** is a emulator for **Mattel Intellivision** made by **Joe Zbiciak** and has a **GNU GPLv2** license.
 

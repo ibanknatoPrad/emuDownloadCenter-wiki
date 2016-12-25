@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2000)
+**Developement state:** :red_circle: (2000)
 
 **no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth** and has a **Freeware** license.
 

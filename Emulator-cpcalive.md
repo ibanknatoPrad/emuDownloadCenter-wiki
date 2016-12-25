@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cpcalive_logo_200.jpg "CpcAlive logo.")
 
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **CpcAlive** is a emulator for **Amstrad CPC** made by **Unknown** and has a **Freeware** license.
 

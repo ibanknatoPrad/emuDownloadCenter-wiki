@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gekko_logo_200.jpg "Gekko logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **Gekko** is a emulator for **Nintendo GameCube** made by **shonumi** and has a **GNU GPLv2** license.
 

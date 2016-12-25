@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kigb_logo_200.jpg "KiGB logo.")
 
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **KiGB** is a emulator for **Nintendo Game Boy** made by **Ricky Liu and Scott Nash** and has a **GNU GPLv2** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth** and has a **Shareware** license.
 

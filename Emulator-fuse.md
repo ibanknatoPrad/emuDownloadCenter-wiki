@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Fuse (The Free Unix Spectrum Emulator)** is a emulator for **Sinclair ZX Spectrum** made by **Philip Kendall and the Fuse Team** and has a **GNU GPLv2** license.
 

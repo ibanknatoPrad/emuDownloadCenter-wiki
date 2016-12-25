@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/applewin_logo_200.jpg "AppleWin logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **AppleWin** is a emulator for **Apple 2** made by **AppleWin Team** and has a **GNU GPLv2** license.
 

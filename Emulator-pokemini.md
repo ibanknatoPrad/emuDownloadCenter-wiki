@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **Poke Mini** is a emulator for **Nintendo Pokémon mini** made by **JustBurn** and has a **GNU GPLv3** license.
 

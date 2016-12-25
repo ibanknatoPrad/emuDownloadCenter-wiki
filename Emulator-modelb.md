@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **model-b** is a emulator for **Acorn BBC** made by **Tom Seddon** and has a **Freeware** license.
 

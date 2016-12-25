@@ -6,50 +6,50 @@
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
-| [:file_folder: **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
-| [:file_folder: **Panasonic 3DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3do) | :fax: Console | 3do |
-| [:file_folder: **Atari 2600**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a2600) | :fax: Console | a2600 |
-| [:file_folder: **Atari 5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a5200) | :fax: Console | a5200 |
-| [:file_folder: **Atari 7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a7800) | :fax: Console | a7800 |
-| [:file_folder: **Commodore Amiga CD32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amigacd32) | :fax: Console | amigacd32 |
-| [:file_folder: **Emerson Arcadia 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-arc) | :fax: Console | arc |
-| [:file_folder: **Commodore CDTV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdtv) | :fax: Console | cdtv |
-| [:file_folder: **Philips CD-i**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdi) | :fax: Console | cdi |
-| [:file_folder: **Coleco ColecoVision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-col) | :fax: Console | col |
-| [:file_folder: **Vtech Creativision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cv) | :fax: Console | cv |
-| [:file_folder: **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |
-| [:file_folder: **Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
-| [:file_folder: **Nintendo GameCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gc) | :fax: Console | gc |
-| [:file_folder: **Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
-| [:file_folder: **Amstrad GX4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gx4000) | :fax: Console | gx4000 |
-| [:file_folder: **Mattel Intellivision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-int) | :fax: Console | int |
-| [:file_folder: **Atari Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jag) | :fax: Console | jag |
-| [:file_folder: **Nintendo N64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-n64) | :fax: Console | n64 |
-| [:file_folder: **Nintendo NES/Famicom**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nes) | :fax: Console | nes |
-| [:file_folder: **SNK NeoGeo CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngcd) | :fax: Console | ngcd |
-| [:file_folder: **NEC Turbografx-16/PC-Engine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce) | :fax: Console | pce |
-| [:file_folder: **NEC Supergrafx/PC-Engine 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce2) | :fax: Console | pce2 |
-| [:file_folder: **NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
-| [:file_folder: **Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
-| [:file_folder: **Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
-| [:file_folder: **Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
-| [:file_folder: **Sony PlayStation 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps3) | :fax: Console | ps3 |
-| [:file_folder: **Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
-| [:file_folder: **RCA Studio II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-studio2) | :fax: Console | studio2 |
-| [:file_folder: **Sega Saturn**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sat) | :fax: Console | sat |
-| [:file_folder: **Epoch/Yeno Super Cassette Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-scv) | :fax: Console | scv |
-| [:file_folder: **Sega SG-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sg1000) | :fax: Console | sg1000 |
-| [:file_folder: **Sega Mega-CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-smcd) | :fax: Console | smcd |
-| [:file_folder: **Sega Master System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sms) | :fax: Console | sms |
-| [:file_folder: **Nintendo Super Nintendo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-snes) | :fax: Console | snes |
-| [:file_folder: **Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
-| [:file_folder: **Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
-| [:file_folder: **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
-| [:file_folder: **Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
-| [:file_folder: **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
-| [:file_folder: **Nintendo Wii**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wii) | :fax: Console | wii |
-| [:file_folder: **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
-| [:file_folder: **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
-| [:file_folder: **Microsoft X-Box 360**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox360) | :fax: Console | xbox360 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_32x_nav.png) **Sega Mega Drive 32X**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-32x) | :fax: Console | 32x |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_3do_nav.png) **Panasonic 3DO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-3do) | :fax: Console | 3do |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a2600_nav.png) **Atari 2600**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a2600) | :fax: Console | a2600 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a5200_nav.png) **Atari 5200**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a5200) | :fax: Console | a5200 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_a7800_nav.png) **Atari 7800**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-a7800) | :fax: Console | a7800 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_amigacd32_nav.png) **Commodore Amiga CD32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-amigacd32) | :fax: Console | amigacd32 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_arc_nav.png) **Emerson Arcadia 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-arc) | :fax: Console | arc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cdtv_nav.png) **Commodore CDTV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdtv) | :fax: Console | cdtv |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cdi_nav.png) **Philips CD-i**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cdi) | :fax: Console | cdi |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_col_nav.png) **Coleco ColecoVision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-col) | :fax: Console | col |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_cv_nav.png) **Vtech Creativision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-cv) | :fax: Console | cv |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dc_nav.png) **Sega Dreamcast**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dc) | :fax: Console | dc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_nav.png) **Nintendo FDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fds) | :fax: Console | fds |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gc_nav.png) **Nintendo GameCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gc) | :fax: Console | gc |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gen_nav.png) **Sega Mega Drive/Genesis**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gen) | :fax: Console | gen |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gx4000_nav.png) **Amstrad GX4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-gx4000) | :fax: Console | gx4000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_int_nav.png) **Mattel Intellivision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-int) | :fax: Console | int |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_jag_nav.png) **Atari Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-jag) | :fax: Console | jag |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_n64_nav.png) **Nintendo N64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-n64) | :fax: Console | n64 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_nes_nav.png) **Nintendo NES/Famicom**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-nes) | :fax: Console | nes |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ngcd_nav.png) **SNK NeoGeo CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ngcd) | :fax: Console | ngcd |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pce_nav.png) **NEC Turbografx-16/PC-Engine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce) | :fax: Console | pce |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pce2_nav.png) **NEC Supergrafx/PC-Engine 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pce2) | :fax: Console | pce2 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pcecd_nav.png) **NEC PC-Engine CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pcecd) | :fax: Console | pcecd |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pico_nav.png) **Sega Pico**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pico) | :fax: Console | pico |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ps1_nav.png) **Sony PlayStation 1**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps1) | :fax: Console | ps1 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ps2_nav.png) **Sony PlayStation 2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps2) | :fax: Console | ps2 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ps3_nav.png) **Sony PlayStation 3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-ps3) | :fax: Console | ps3 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv1000_nav.png) **Casio PV-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-pv1000) | :fax: Console | pv1000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_studio2_nav.png) **RCA Studio II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-studio2) | :fax: Console | studio2 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sat_nav.png) **Sega Saturn**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sat) | :fax: Console | sat |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_scv_nav.png) **Epoch/Yeno Super Cassette Vision**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-scv) | :fax: Console | scv |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sg1000_nav.png) **Sega SG-1000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sg1000) | :fax: Console | sg1000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_smcd_nav.png) **Sega Mega-CD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-smcd) | :fax: Console | smcd |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_sms_nav.png) **Sega Master System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-sms) | :fax: Console | sms |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_snes_nav.png) **Nintendo Super Nintendo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-snes) | :fax: Console | snes |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_tvgames_nav.png) **Elektor TV Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-tvgames) | :fax: Console | tvgames |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vc4000_nav.png) **Interton VC-4000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vc4000) | :fax: Console | vc4000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vec_nav.png) **GCE/MB Vectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vec) | :fax: Console | vec |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vg7000_nav.png) **Philips Videopac G7000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7000) | :fax: Console | vg7000 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vg7400_nav.png) **Philips Videopac+ G7400**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-vg7400) | :fax: Console | vg7400 |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_wii_nav.png) **Nintendo Wii**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wii) | :fax: Console | wii |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_wiiu_nav.png) **Nintendo Wii U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-wiiu) | :fax: Console | wiiu |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_xbox_nav.png) **Microsoft X-Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox) | :fax: Console | xbox |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_xbox360_nav.png) **Microsoft X-Box 360**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-xbox360) | :fax: Console | xbox360 |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

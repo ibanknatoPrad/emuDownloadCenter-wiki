@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ccs64_logo_200.jpg "CCS64 logo.")
 
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **CCS64** is a emulator for **Commodore 16/plus4** made by **Per Håkan Sundell** and has a **Freeware** license.
 

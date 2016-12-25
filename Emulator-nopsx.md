@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **no$psx** is a emulator for **Sony PlayStation 1** made by **Martin Korth** and has a **Freeware** license.
 

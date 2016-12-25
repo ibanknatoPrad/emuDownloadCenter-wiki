@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **UnrealSpeccy** is a emulator for **Sinclair ZX Spectrum** made by **deathsoft** and has a **Freeware** license.
 

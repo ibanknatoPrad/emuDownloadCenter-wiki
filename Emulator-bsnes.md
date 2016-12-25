@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnes_logo_200.jpg "BSNES logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **BSNES** is a emulator for **Nintendo NES/Famicom** made by **Byuu** and has a **Freeware** license.
 

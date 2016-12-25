@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/stella_logo_200.jpg "Stella logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Stella** is a emulator for **Atari 2600** made by **Bradford Mott & Stephen Anthony** and has a **GPL** license.
 

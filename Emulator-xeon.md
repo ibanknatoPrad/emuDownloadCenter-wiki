@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xeon_logo_200.jpg "Xeon logo.")
 
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **Xeon** is a emulator for **Microsoft X-Box** made by **SF** and has a **GNU GPLv2** license.
 

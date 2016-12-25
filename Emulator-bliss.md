@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bliss_logo_200.jpg "Bliss logo.")
 
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **Bliss** is a emulator for **Mattel Intellivision** made by **Kyle Davis** and has a **GNU GPL** license.
 

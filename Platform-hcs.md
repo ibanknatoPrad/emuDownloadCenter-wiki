@@ -1,11 +1,11 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Interact Home Computer System (Computer)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_hcs_teaser.png "Interact Home Computer System ECC teaser.")
-###### ECC ID: **hcs**
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_hcs_cell.png "Interact Home Computer System Platform ECCID")
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_hcs_teaser.png "Interact Home Computer System ECC platform teaser.")
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **DCHector**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dchector#menu) | :red_circle: Non-active (2005) | Freeware |
+| [:file_folder: **DCHector**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dchector#menu) | :red_circle: (2005) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

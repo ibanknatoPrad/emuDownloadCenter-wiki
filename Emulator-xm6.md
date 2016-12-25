@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **XM 6 Type G** is a emulator for **Sharp X68000** made by **GIMONS** and has a **Freeware - Non-Commercial (Restricted Distribution)** license.
 

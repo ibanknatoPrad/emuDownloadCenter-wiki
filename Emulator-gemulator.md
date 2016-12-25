@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **Gemulator 9.0** is a emulator for **Atari 8-bit series** made by **Emulators, Inc.** and has a **UNKNOWN** license.
 

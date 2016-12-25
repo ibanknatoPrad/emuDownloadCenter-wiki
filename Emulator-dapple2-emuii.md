@@ -1,16 +1,16 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: dapple2-emu][** |
+| **Emulator: dapple2-emuII** |
 |:---------|
 | [:clipboard: About](#about) |
 | [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
-**dapple2-emu][** is a emulator for **Apple 2** made by **Steve Nickolas** and has a **Freeware** license.
+**dapple2-emuII** is a emulator for **Apple 2** made by **Steve Nickolas** and has a **Freeware** license.
 
 The latest version of the emulator on EDC is **0.40 (x86)**, released on **2004-05-06**, it runs on **Windows 98,XP**, you can start this emulator with **emu2.exe**.
 
@@ -21,7 +21,7 @@ _Dapple/NDapple are Apple ][ emulators, aiming to support a well-fitted Apple ][
 [:link: **Emulator website**](https://sourceforge.net/projects/dapple/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dapple2-emuii/emulator_screen_01.jpg "dapple2-emu][ screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dapple2-emuii/emulator_screen_01.jpg "dapple2-emuII screenshot.")
 ***
 ## Downloads
 Legend: | 

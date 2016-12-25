@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license.
 

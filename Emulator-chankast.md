@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/chankast_logo_200.jpg "Chankast logo.")
 
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi** and has a **UNKNOWN** license.
 

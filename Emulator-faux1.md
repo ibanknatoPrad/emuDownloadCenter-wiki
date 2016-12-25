@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/faux1_logo_200.jpg "faux1 logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **faux1** is a emulator for **Apple 1** made by **Edward Patel** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **pspe** is a emulator for **Sony PlayStation Portable** made by **Unknown** and has a **Freeware** license.
 

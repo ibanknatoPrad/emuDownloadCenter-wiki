@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **ep32** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker and Vincze Bela Gyorgy** and has a **GNU GPLv2** license.
 

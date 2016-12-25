@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1999)
+**Developement state:** :red_circle: (1999)
 
 **Vace3D** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **Win994a** is a emulator for **Texas Instruments TI-99/4A** made by **Cory Burr** and has a **Freeware** license.
 

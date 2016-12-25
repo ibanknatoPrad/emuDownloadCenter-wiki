@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (1997)
+**Developement state:** :red_circle: (1997)
 
 **Frodo** is a emulator for **Commodore 64** made by **Christian Bauer et al.** and has a **Freeware - Non-Commercial** license.
 

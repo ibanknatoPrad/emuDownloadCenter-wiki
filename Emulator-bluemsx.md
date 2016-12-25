@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2009)
+**Developement state:** :red_circle: (2009)
 
 **blueMSX** is a emulator for **Coleco ColecoVision** made by **Daniel Vik** and has a **Freeware** license.
 

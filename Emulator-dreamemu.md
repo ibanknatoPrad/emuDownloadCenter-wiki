@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dreamemu_logo_200.jpg "DreamEmu logo.")
 
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **DreamEmu** is a emulator for **Sega Dreamcast** made by **Lord Cheese** and has a **Freeware** license.
 

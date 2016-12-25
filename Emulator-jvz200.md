@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer** and has a **Freeware** license.
 

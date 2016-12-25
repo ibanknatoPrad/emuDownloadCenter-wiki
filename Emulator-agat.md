@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/agat_logo_200.jpg "Agat Emulator logo.")
 
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **Agat Emulator** is a emulator for **Apple 1** made by **Odintsov O.A** and has a **GNU GPLv2** license.
 

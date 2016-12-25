@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **DCHector** is a emulator for **Interact Home Computer System** made by **Daniel Coulom** and has a **Freeware** license.
 

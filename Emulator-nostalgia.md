@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nostalgia_logo_200.jpg "Nostalgia logo.")
 
-**Developement state:** :red_circle: Non-active (20??)
+**Developement state:** :red_circle: (20??)
 
 **Nostalgia** is a emulator for **Mattel Intellivision** made by **Joe Fisher** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **Klive** is a emulator for **Sinclair ZX Spectrum** made by **Steve Snake** and has a **Freeware - Non-Commercial** license.
 

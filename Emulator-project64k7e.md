@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k7e_logo_200.jpg "Project64K7E logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **Project64K7E** is a emulator for **Nintendo N64** made by **Gaudy** and has a **UNKNOWN** license.
 

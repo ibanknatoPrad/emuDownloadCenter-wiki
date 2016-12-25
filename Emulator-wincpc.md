@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **WinCPC** is a emulator for **Amstrad CPC** made by **Flynn** and has a **Freeware** license.
 

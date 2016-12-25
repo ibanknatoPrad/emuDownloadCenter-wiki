@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :white_circle: Active (2014)
+**Developement state:** :white_circle: (2014)
 
 **Mega8** is a emulator for **Unknown** made by **Ready4Next/Junta** and has a **UNKNOWN** license.
 

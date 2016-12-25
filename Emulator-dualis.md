@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **Dualis** is a emulator for **Nintendo DS** made by **Mic** and has a **UNKNOWN** license.
 

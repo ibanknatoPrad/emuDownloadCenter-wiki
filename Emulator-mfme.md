@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2004)
+**Developement state:** :red_circle: (2004)
 
 **Multiple Fruit Machine Emulator** is a emulator for **Fruit Machine** made by **C.J. Wren** and has a **Freeware** license.
 

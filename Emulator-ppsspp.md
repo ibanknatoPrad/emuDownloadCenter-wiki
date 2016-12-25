@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **PPSSPP** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard** and has a **GNU GPLv2** license.
 

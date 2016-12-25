@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2013)
+**Developement state:** :red_circle: (2013)
 
 **PCE-MacPlus** is a emulator for **Apple Macintosh** made by **Hampa Hug** and has a **GNU GPLv2** license.
 

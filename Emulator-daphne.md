@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2009)
+**Developement state:** :red_circle: (2009)
 
 **Daphne** is a emulator for **MCA Laserdisc Arcade** made by **Matt Ownby** and has a **GNU GPLv2** license.
 

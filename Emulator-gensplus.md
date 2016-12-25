@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **Gens Plus!** is a emulator for **Sega Mega Drive 32X** made by **Rodrigo Cardoso** and has a **GNU GPLv2** license.
 

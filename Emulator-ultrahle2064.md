@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultrahle2064_logo_200.jpg "UltraHLE 2064 logo.")
 
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **UltraHLE 2064** is a emulator for **Nintendo N64** made by **The UltraHLE 2064 team** and has a **Freeware** license.
 

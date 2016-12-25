@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2003)
+**Developement state:** :red_circle: (2003)
 
 **QLAY2** is a emulator for **Sinclair QL** made by **Jimmy Montesinos and Raphael Zhou** and has a **Freeware - Non-Commercial** license.
 

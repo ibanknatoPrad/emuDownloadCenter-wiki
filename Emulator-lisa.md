@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2008)
+**Developement state:** :red_circle: (2008)
 
 **Lisa** is a emulator for **Apple Lisa** made by **Gilles Fetis** and has a **Freeware** license.
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **Dega** is a emulator for **Sega Game Gear** made by **Dave** and has a **Freeware - Non-Commercial** license.
 

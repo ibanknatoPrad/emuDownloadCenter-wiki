@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coloremu_logo_200.jpg "Colour Emu logo.")
 
-**Developement state:** :red_circle: Non-active (1997)
+**Developement state:** :red_circle: (1997)
 
 **Colour Emu** is a emulator for **EACA/TS Colour Genie** made by **Burkhard Lehner & Stephan Scholz** and has a **Freeware** license.
 

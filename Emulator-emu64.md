@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Emu64** is a emulator for **Commodore 64** made by **Thorsten Kattanek** and has a **GNU GPLv2** license.
 

@@ -1,11 +1,11 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Casio PV-1000 (Console)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv1000_teaser.png "Casio PV-1000 ECC teaser.")
-###### ECC ID: **pv1000**
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv1000_cell.png "Casio PV-1000 Platform ECCID")
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_pv1000_teaser.png "Casio PV-1000 ECC platform teaser.")
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: (2016) | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

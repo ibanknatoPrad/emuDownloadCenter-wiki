@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **Emulator2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner** and has a **Freeware** license.
 

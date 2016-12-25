@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2000)
+**Developement state:** :red_circle: (2000)
 
 **DirectVMS** is a emulator for **Sega Dreamcast VMU** made by **biggs** and has a **Freeware** license.
 

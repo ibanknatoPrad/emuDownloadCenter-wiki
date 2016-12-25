@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2006)
+**Developement state:** :red_circle: (2006)
 
 **RascalBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Lino Maglione** and has a **Limited Use Software Licence Agreement** license.
 

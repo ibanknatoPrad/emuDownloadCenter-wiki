@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **DCMO5** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **GNU GPLv3** license.
 

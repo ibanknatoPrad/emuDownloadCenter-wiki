@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware - Non-Commercial** license.
 

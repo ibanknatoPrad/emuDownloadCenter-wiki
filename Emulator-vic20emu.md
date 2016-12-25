@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **Vic-20 Emulator** is a emulator for **Commodore VIC-20** made by **muehlenf** and has a **UNKNOWN** license.
 

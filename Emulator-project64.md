@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64_logo_200.jpg "Project64 logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Project64** is a emulator for **Nintendo N64** made by **Zilmar and Jabo** and has a **Freeware** license.
 

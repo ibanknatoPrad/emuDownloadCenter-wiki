@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **CaPriCe32** is a emulator for **Amstrad CPC** made by **Ulrich Doewich** and has a **GNU GPLv2** license.
 

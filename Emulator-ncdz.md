@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **NEOGEO CD Emulator-Z** is a emulator for **SNK NeoGeo CD** made by **NJ** and has a **UNKNOWN** license.
 

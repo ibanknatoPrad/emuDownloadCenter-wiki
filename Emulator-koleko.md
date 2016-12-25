@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **KOLEKO** is a emulator for **Coleco ColecoVision** made by **Saverio Russo aka SiRioKD** and has a **Freeware** license.
 

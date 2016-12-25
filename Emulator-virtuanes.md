@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2007)
+**Developement state:** :red_circle: (2007)
 
 **VirtuaNES** is a emulator for **Nintendo FDS** made by **Norix** and has a **Freeware - Non-Commercial** license.
 

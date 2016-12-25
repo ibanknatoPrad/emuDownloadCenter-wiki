@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ice64_logo_200.jpg "ICE64 logo.")
 
-**Developement state:** :red_circle: Non-active (2012)
+**Developement state:** :red_circle: (2012)
 
 **ICE64** is a emulator for **Nintendo N64** made by **Pokefan** and has a **UNKNOWN** license.
 

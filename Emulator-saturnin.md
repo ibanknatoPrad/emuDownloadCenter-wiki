@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/saturnin_logo_200.jpg "Saturnin logo.")
 
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **Saturnin** is a emulator for **Sega Saturn** made by **Runik** and has a **Freeware** license.
 

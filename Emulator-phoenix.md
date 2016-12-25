@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer** and has a **Free for Personal and Non-Commercial Use** license.
 

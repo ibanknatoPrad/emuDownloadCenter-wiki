@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/satourne_logo_200.jpg "Satourne logo.")
 
-**Developement state:** :red_circle: Non-active (2005)
+**Developement state:** :red_circle: (2005)
 
 **Satourne** is a emulator for **Sega Saturn** made by **Fabien Autrel** and has a **Freeware** license.
 

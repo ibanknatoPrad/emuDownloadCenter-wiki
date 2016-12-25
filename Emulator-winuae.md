@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winuae_logo_200.jpg "WinUAE logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **WinUAE** is a emulator for **Commodore Amiga** made by **Toni Wilen & WinUAE Team** and has a **Freeware - GNU** license.
 

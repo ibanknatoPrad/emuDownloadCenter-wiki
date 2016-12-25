@@ -6,8 +6,8 @@
 
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
-| [:file_folder: **DOSbox - DOS emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dosbox) | :loop: Misc | dosbox |
-| [:file_folder: **Pinball - Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fp) | :loop: Misc | fp |
-| [:file_folder: **Fruit Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fruit) | :loop: Misc | fruit |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dosbox_nav.png) **DOSbox - DOS emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dosbox) | :loop: Misc | dosbox |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fp_nav.png) **Pinball - Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fp) | :loop: Misc | fp |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fruit_nav.png) **Fruit Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fruit) | :loop: Misc | fruit |
 
 [:arrow_backward: Go to platform listing (total)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

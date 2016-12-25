@@ -1,18 +1,18 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## _Nintendo FDS (Console)_
-![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_teaser.png "Nintendo FDS ECC teaser.")
-###### ECC ID: **fds**
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_cell.png "Nintendo FDS Platform ECCID")
+![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fds_teaser.png "Nintendo FDS ECC platform teaser.")
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: Active (2016) | Freeware |
-| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :large_blue_circle: Active (2016) | Freeware |
-| [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: Active (2016) | GNU GPLv3 - Special for Commercial Use |
-| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: Active (2016) | GNU GPLv2 |
-| [:file_folder: **no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | :red_circle: Non-active (2012) | Freeware |
-| [:file_folder: **VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | :red_circle: Non-active (2007) | Freeware - Non-Commercial |
-| [:file_folder: **VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | :red_circle: Non-active (2013) | Freeware - Non-Commercial |
-| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: Non-active (2009) | Freeware |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: (2016) | Freeware |
+| [:file_folder: **FCEUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fceux#menu) | :large_blue_circle: (2016) | Freeware |
+| [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: (2016) | GNU GPLv3 - Special for Commercial Use |
+| [:file_folder: **Mednafen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mednafen#menu) | :large_blue_circle: (2016) | GNU GPLv2 |
+| [:file_folder: **no$nes**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nones#menu) | :red_circle: (2012) | Freeware |
+| [:file_folder: **VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | :red_circle: (2007) | Freeware - Non-Commercial |
+| [:file_folder: **VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | :red_circle: (2013) | Freeware - Non-Commercial |
+| [:file_folder: **Xe**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xe#menu) | :red_circle: (2009) | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/regen_logo_200.jpg "Regen logo.")
 
-**Developement state:** :red_circle: Non-active (2009)
+**Developement state:** :red_circle: (2009)
 
 **Regen** is a emulator for **Sega Mega Drive/Genesis** made by **AamirM** and has a **Non-standard** license.
 

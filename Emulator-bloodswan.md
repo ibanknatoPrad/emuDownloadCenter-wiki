@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :red_circle: Non-active (2002)
+**Developement state:** :red_circle: (2002)
 
 **BLooDsWan** is a emulator for **Bandai Wonderswan** made by **Blood Soft** and has a **UNKNOWN** license.
 

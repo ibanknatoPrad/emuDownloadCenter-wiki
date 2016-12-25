@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/retrocopy_logo_200.jpg "RetroCopy logo.")
 
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **RetroCopy** is a emulator for **Sega Mega Drive/Genesis** made by **Unknown** and has a **Freeware** license.
 

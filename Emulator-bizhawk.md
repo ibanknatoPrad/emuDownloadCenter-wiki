@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bizhawk_logo_200.jpg "BizHawk logo.")
 
-**Developement state:** :large_blue_circle: Active (2016)
+**Developement state:** :large_blue_circle: (2016)
 
 **BizHawk** is a emulator for **Atari 2600** made by **BizHawk Team** and has a **Freeware** license.
 

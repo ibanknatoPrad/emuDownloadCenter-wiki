@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-**Developement state:** :large_blue_circle: Active (2015)
+**Developement state:** :large_blue_circle: (2015)
 
 **BSNES+** is a emulator for **Nintendo Game Boy Color** made by **BSNES+ Team** and has a **GNU GPLv2** license.
 

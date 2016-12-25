@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64k_logo_200.jpg "Mupen64k logo.")
 
-**Developement state:** :red_circle: Non-active (2011)
+**Developement state:** :red_circle: (2011)
 
 **Mupen64k** is a emulator for **Nintendo N64** made by **UNKNOWN** and has a **UNKNOWN** license.
 
