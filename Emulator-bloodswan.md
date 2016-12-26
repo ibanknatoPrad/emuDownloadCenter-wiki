@@ -31,8 +31,8 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
-| Version | OS | Release date | CLOG | CONT | DL Size |
-|:--------|---:|:------------:|:----:|:----:|--------:|
-| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **0.2a**](https://github.com/PhoenixInteractiveNL/edc-repo0007/raw/master/bloodswan/0.2a.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2002-04-07 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bloodswan/0.2a_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bloodswan/0.2a_contents.txt) | 70 KB |
+| Version | OS | Release date | Info | DL Size |
+|:--------|---:|:------------:|-----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.2a**](https://github.com/PhoenixInteractiveNL/edc-repo0007/raw/master/bloodswan/0.2a.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2002-04-07 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bloodswan/0.2a_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0007/blob/master/bloodswan/0.2a_contents.txt) | 70 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

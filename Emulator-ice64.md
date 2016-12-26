@@ -33,8 +33,8 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_driver_24.png) **Driver** | 
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
-| Version | OS | Release date | CLOG | CONT | DL Size |
-|:--------|---:|:------------:|:----:|:----:|--------:|
-| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png) **3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png)![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-10-23 | [:page_facing_up:](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) | [:mag_right:](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
+| Version | OS | Release date | Info | DL Size |
+|:--------|---:|:------------:|-----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **3.7.0b**](https://github.com/PhoenixInteractiveNL/edc-repo0004/raw/master/ice64/3.7.0b.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-10-23 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0004/blob/master/ice64/3.7.0b_contents.txt) | 2328 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
