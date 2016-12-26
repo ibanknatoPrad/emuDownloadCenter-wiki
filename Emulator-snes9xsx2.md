@@ -32,7 +32,7 @@ Legend: |
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_tool_24.png) **Tool** | 
  
 | Version | OS | Release date | Info | DL Size |
-|:--------|:--:|:------------:|:----:|--------:|
+|:--------|---:|:------------:|:----:|--------:|
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0005/raw/master/snes9xsx2/0.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2012-10-31 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xsx2/0.2_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0005/blob/master/snes9xsx2/0.2_contents.txt) | 2506 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
