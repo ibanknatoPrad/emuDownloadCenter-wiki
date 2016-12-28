@@ -5,9 +5,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_alice_teaser.png "Matra/Hachette Alice ECC platform teaser.")
 
 | Emulator | Developement | License | Language |
-|:---------|:-------------|:--------|:---------|
-| [:file_folder: **Alice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-alice32#menu) | :red_circle: 2006 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
-| [:file_folder: **DCALICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcalice#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
-| [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+|:---------|:-------------|:--------|:--------:|
+| [:file_folder: **Alice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-alice32#menu) | :red_circle: 2006 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **DCALICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcalice#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

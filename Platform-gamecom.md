@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_gamecom_teaser.png "Tiger Electronics Game.com ECC platform teaser.")
 
 | Emulator | Developement | License | Language |
-|:---------|:-------------|:--------|:---------|
-| [:file_folder: **Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | :red_circle: 1998 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+|:---------|:-------------|:--------|:--------:|
+| [:file_folder: **Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | :red_circle: 1998 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

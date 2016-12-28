@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_comx35_teaser.png "Comx WOL - Comx-35 ECC platform teaser.")
 
 | Emulator | Developement | License | Language |
-|:---------|:-------------|:--------|:---------|
-| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: 2016 | GNU LGPL 2.1 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+|:---------|:-------------|:--------|:--------:|
+| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: 2016 | GNU LGPL 2.1 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

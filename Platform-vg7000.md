@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_vg7000_teaser.png "Philips Videopac G7000 ECC platform teaser.")
 
 | Emulator | Developement | License | Language |
-|:---------|:-------------|:--------|:---------|
-| [:file_folder: **O2EM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-o2em#menu) | :red_circle: 2007 | Clarified Artistic Licence | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+|:---------|:-------------|:--------|:--------:|
+| [:file_folder: **O2EM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-o2em#menu) | :red_circle: 2007 | Clarified Artistic Licence | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

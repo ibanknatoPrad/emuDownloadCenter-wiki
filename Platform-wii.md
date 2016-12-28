@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_wii_teaser.png "Nintendo Wii ECC platform teaser.")
 
 | Emulator | Developement | License | Language |
-|:---------|:-------------|:--------|:---------|
-| [:file_folder: **Dolphin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolphin#menu) | :large_blue_circle: 2016 | GNU GPLv2+ | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+|:---------|:-------------|:--------|:--------:|
+| [:file_folder: **Dolphin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dolphin#menu) | :large_blue_circle: 2016 | GNU GPLv2+ | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
