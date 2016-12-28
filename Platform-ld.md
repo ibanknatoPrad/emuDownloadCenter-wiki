@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ld_cell.png "MCA Laserdisc Arcade Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ld_teaser.png "MCA Laserdisc Arcade ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware |
-| [:file_folder: **Daphne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daphne#menu) | :red_circle: 2009 | GNU GPLv2 |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Daphne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daphne#menu) | :red_circle: 2009 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -4,22 +4,22 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_n64_cell.png "Nintendo N64 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_n64_teaser.png "Nintendo N64 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **1964**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-1964#menu) | :red_circle: 2009 | Freeware |
-| [:file_folder: **Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | :red_circle: 2004 | Freeware |
-| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
-| [:file_folder: **Daedalus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daedalus#menu) | :red_circle: 2001 | GNU GPLv2 |
-| [:file_folder: **ICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ice64#menu) | :red_circle: 2012 | Freeware |
-| [:file_folder: **Mupen64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64k#menu) | :red_circle: 2011 | Freeware |
-| [:file_folder: **Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
-| [:file_folder: **Mupen64++**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plusplus#menu) | :large_blue_circle: 2015 | Freeware |
-| [:file_folder: **Nemu64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nemu64#menu) | :red_circle: 2003 | Freeware |
-| [:file_folder: **NICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nice64#menu) | :red_circle: 2012 | GNU GPLv2 |
-| [:file_folder: **Project64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64#menu) | :large_blue_circle: 2016 | Freeware |
-| [:file_folder: **Project64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k#menu) | :large_blue_circle: 2015 | Freeware |
-| [:file_folder: **Project64K7E**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k7e#menu) | :red_circle: 2012 | Freeware |
-| [:file_folder: **UltraHLE 2064**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle2064#menu) | :red_circle: 2003 | Freeware |
-| [:file_folder: **UltraHLE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle#menu) | :red_circle: 2002 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **1964**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-1964#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Apollo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apollo#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Daedalus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daedalus#menu) | :red_circle: 2001 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **ICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ice64#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Mupen64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64k#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Mupen64+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plus#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Mupen64++**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mupen64plusplus#menu) | :large_blue_circle: 2015 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Nemu64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nemu64#menu) | :red_circle: 2003 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **NICE64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nice64#menu) | :red_circle: 2012 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Project64**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Project64k**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k#menu) | :large_blue_circle: 2015 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Project64K7E**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-project64k7e#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **UltraHLE 2064**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle2064#menu) | :red_circle: 2003 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **UltraHLE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ultrahle#menu) | :red_circle: 2002 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

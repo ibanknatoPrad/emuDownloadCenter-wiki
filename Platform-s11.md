@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_s11_cell.png "Namco System 11 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_s11_teaser.png "Namco System 11 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | :red_circle: 2005 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **ZiNc**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zinc#menu) | :red_circle: 2005 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

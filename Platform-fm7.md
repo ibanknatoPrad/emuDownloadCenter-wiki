@@ -4,10 +4,10 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fm7_cell.png "Fujitsu FM-7 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fm7_teaser.png "Fujitsu FM-7 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
-| [:file_folder: **XM7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7#menu) | :white_circle: 2014 | Freeware |
-| [:file_folder: **XM7dash**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7dash#menu) | :large_blue_circle: 2015 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **XM7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **XM7dash**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7dash#menu) | :large_blue_circle: 2015 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

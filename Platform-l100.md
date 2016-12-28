@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l100_cell.png "Vtech Laser 100/110 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_l100_teaser.png "Vtech Laser 100/110 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **WinVZ300**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvz300#menu) | :red_circle: 2012 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **WinVZ300**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winvz300#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

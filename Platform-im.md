@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_im_cell.png "APF Electronics Imagination Machine Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_im_teaser.png "APF Electronics Imagination Machine ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | :red_circle: 2008 | Freeware |
-| [:file_folder: **Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | :red_circle: 2000 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **APF EMUW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-apfemuw#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Virtual APF**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualapf#menu) | :red_circle: 2000 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

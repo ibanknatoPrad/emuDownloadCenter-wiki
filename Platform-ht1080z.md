@@ -4,10 +4,10 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ht1080z_cell.png "Híradástechnika HT-1080Z Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ht1080z_teaser.png "Híradástechnika HT-1080Z ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **FastZ80**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fastz80#menu) | :red_circle: 2008 | Freeware |
-| [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | :red_circle: 2011 | Freeware |
-| [:file_folder: **Real-80 PRO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-real80pro#menu) | :red_circle: 2008 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **FastZ80**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fastz80#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Real-80 PRO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-real80pro#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

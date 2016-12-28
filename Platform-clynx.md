@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_clynx_cell.png "Camputers Lynx Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_clynx_teaser.png "Camputers Lynx ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **Jynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jynx#menu) | :white_circle: 2014 | GNU GPLv3 |
-| [:file_folder: **Pete's Amazing Lynx Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pale#menu) | :white_circle: 2014 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **Jynx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jynx#menu) | :white_circle: 2014 | GNU GPLv3 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Pete's Amazing Lynx Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pale#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

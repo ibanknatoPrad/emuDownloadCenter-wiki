@@ -26,8 +26,9 @@ Contents of the INFO INI file:
 
     [EMULATOR]
     Author              = Author(s) of the emulator.
-    Contact             = E-mail adress of the Author.
-    License             = The License of the Emulator (Freeware/Shareware/Open Source/GNU GPLvx).
+    Contact             = E-mail adress of the Author in masked e-mail (*=. | #=@) to prevent spamming.
+    License             = The License of the Emulator (Freeware|GNU GPLv1|v2|v2+|v3|THOR Public License|Clarified Artistic Licence|Open Source|Donationware|Shareware).
+    Language            = The Language of the Emulator GUI (EN|DE|FR|HU|RU|CH|JP).
     BiosNeeded          = Does the Emulator need BIOS ROM(S) to run? (1=yes)
     Website             = The Website where the emulator can be found (starting with http://)
     Notes               = Small description of the emulator.
@@ -46,8 +47,6 @@ Example Contents (Emulator Potator for Watara Supervision):
     BiosNeeded          = 0
     Website             = 
     Notes               = This appears to be the first Watara Supervision emulator for Windows. It uses the SDL library and has good compatibility.
-
-Please note the e-mail adress is masked to prevent spamming (*=. | #=@)
 
 ### 1.3)
 Create a **DOWNLOADS INI** file in the `emulatorfoldername` wich contains information about the emulator version(s).
@@ -74,16 +73,16 @@ Contents of the DOWNLOADS INI file:
     InfoVersion	                = Version of the INI file layout.
 
     [VERSION]
-    FILE_ContentType            = Content type of the archive, can be: Program / Installer / Source / Extra.
-    FILE_ContentCategory        = Category of the content type, can be: Emulator / Plugin / Driver / Tool.
+    FILE_ContentType            = Content type of the archive, can be: Program|Installer|Source|Extra.
+    FILE_ContentCategory        = Category of the content type, can be: Emulator|Plugin|Driver|Tool.
     FILE_Notes                  = Notes supporting the content of the archive (optional).
     EMU_Download                = The online location of the 7Z archive folder (with ending slash /).
-    EMU_ReleaseDate             = The releasedate of the emulator (if you cannot find it, use the date of the executable file).
+    EMU_ReleaseDate             = The releasedate of the emulator in YYYY-MM-DD (if you cannot find it, use the date of the executable file).
     EMU_Notes                   = Some small emulator notes (Working / Not working / Needs...).
     EMU_ExecutableFile          = Executable file to start the emulator .EXE or .COM, high exeption for .CMD and .BAT files.
     EMU_ExecutableFolder        = Relative path inside the archive where the executable file is located (with ending slash \).
-    EMU_OS                      = Operating system, can be: Windows, DOS, Mac, Linux.
-    EMU_OSVersion               = Version of the operating system, comma seperated. (example: XP,Vista,7,8,10).
+    EMU_OS                      = Operating system, can be: Windows|Linux|Mac|DOS.
+    EMU_OSVersion               = Version of the operating system, comma seperated, can be: 95|98|XP|Vista|7|8|10|Ubuntu|Debian|OS-X|6.22.
     EMU_OSArchitecture          = Operating system architecture, can be: x86 (for win32) or x64 (for win64).
     INFO_PackedSize             = Autofilled by EDC manager in this GitHub repo. (Packed size of the archive contents).
     INFO_UnpackedSize           = Autofilled by EDC manager in this GitHub repo. (Unpacked size of the archive contents).
@@ -154,7 +153,8 @@ Contents of the ECC CONFIGURATION INI file:
     InfoVersion	                = Version of the INI file layout.
 
     [GLOBAL]
-    CFG_ECCParameter            = ECC parameter line.
+    CFG_Notes                   = Specific configuration notes.
+    CFG_param                   = ECC parameter line.
     CFG_escape                  = Does the emulator needs the path in escapes? "" (default 1)
     CFG_win8char                = Does the emulator need old 8.3 dosnames to work? (1 for yes, otherwise leave blank)
     CFG_useCueFile              = Does the emulator needs a CUE file (possible in combination with script) to run? (1 for yes, otherwise leave blank)

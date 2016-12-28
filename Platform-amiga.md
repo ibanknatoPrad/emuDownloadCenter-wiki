@@ -4,10 +4,10 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_amiga_cell.png "Commodore Amiga Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_amiga_teaser.png "Commodore Amiga ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **FS-UAE Amiga Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fsuae#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
-| [:file_folder: **WinFellow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winfellow#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
-| [:file_folder: **WinUAE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winuae#menu) | :large_blue_circle: 2016 | Freeware - GNU |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **FS-UAE Amiga Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fsuae#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **WinFellow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winfellow#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **WinUAE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winuae#menu) | :large_blue_circle: 2016 | Freeware - GNU | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

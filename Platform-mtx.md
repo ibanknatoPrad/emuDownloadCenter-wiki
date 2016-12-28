@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtx_cell.png "Memotech MTX 500/512 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_mtx_teaser.png "Memotech MTX 500/512 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **Mt. Xemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mtxemu#menu) | :red_circle: 2000 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **Mt. Xemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mtxemu#menu) | :red_circle: 2000 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lisa_cell.png "Apple Lisa Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_lisa_teaser.png "Apple Lisa ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | :red_circle: 2008 | Freeware |
-| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | :red_circle: 2007 | GNU GPLv2 |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | :red_circle: 2007 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

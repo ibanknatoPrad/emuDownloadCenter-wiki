@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_studio2_cell.png "RCA Studio II Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_studio2_teaser.png "RCA Studio II ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: 2016 | GNU LGPL 2.1 |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **EMMA 02**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emma02#menu) | :large_blue_circle: 2016 | GNU LGPL 2.1 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

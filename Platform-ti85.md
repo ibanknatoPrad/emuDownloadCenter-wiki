@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ti85_cell.png "Texas Instruments TI-85 Platform ECCID")
 ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_ti85_teaser.png "Texas Instruments TI-85 ECC platform teaser.")
 
-| Emulator | Developement | License |
-|:---------|:-------------|:--------|
-| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | :red_circle: 1998 | GNU GPLv2 |
-| [:file_folder: **TilEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tilem#menu) | :red_circle: 2012 | Freeware |
+| Emulator | Developement | License | Language |
+|:---------|:-------------|:--------|:---------|
+| [:file_folder: **CalcEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calcem#menu) | :red_circle: 1998 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **TilEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tilem#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
