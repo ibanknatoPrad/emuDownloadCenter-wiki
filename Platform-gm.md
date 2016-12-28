@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **GM2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gm2001#menu) | :red_circle: 1998 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **GM2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gm2001#menu) | :red_circle: 1998 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

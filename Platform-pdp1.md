@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **SIMH**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-simh#menu) | :red_circle: 2012 | Modified X-Windows | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **SIMH**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-simh#menu) | :red_circle: 2012 | Modified X-Windows | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

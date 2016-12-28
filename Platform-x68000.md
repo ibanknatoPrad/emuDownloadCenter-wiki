@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **EX68**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ex68#menu) | :red_circle: 2001 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **XM 6 Type G**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm6#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **EX68**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ex68#menu) | :red_circle: 2001 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **XM 6 Type G**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm6#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

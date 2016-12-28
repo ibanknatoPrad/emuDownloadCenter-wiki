@@ -6,11 +6,11 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Gemulator 9.0**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gemulator#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | :red_circle: 2011 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Sheep Shaver**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sheepshaver#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Gemulator 9.0**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gemulator#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | :red_circle: 2011 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Sheep Shaver**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sheepshaver#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

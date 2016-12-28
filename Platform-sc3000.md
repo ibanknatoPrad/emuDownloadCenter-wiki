@@ -6,10 +6,10 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: 2010 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | :red_circle: 2010 | Unrestrictive BSD-like | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | :red_circle: 2009 | Non-standard | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: 2010 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | :red_circle: 2010 | Unrestrictive BSD-like | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Regen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-regen#menu) | :red_circle: 2009 | Non-standard | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

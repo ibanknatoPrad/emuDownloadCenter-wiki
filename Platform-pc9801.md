@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **88VA Eternal Grafx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-88va#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Anex86**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-anex86#menu) | :red_circle: 2005 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Neko Project II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nekoprojectii#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **88VA Eternal Grafx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-88va#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Anex86**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-anex86#menu) | :red_circle: 2005 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Neko Project II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nekoprojectii#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

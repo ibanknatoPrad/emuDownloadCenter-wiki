@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **Jagulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jagulator#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Project Tempest**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-projecttempest#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Jaguar Tempest 2000 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-t2k#menu) | :red_circle: 2007 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualjaguar#menu) | :white_circle: 2014 | Open Source | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Jagulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jagulator#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Project Tempest**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-projecttempest#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Jaguar Tempest 2000 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-t2k#menu) | :red_circle: 2007 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualjaguar#menu) | :white_circle: 2014 | Open Source | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: 2010 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: 2016 | GNU GPLv3 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: 2015 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: 2010 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: 2016 | GNU GPLv3 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:---------|
-| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
-| [:file_folder: **XMillenium**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xmillenium#menu) | :red_circle: 2007 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png |
+| [:file_folder: **Takeda Archive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-takeda#menu) | :large_blue_circle: 2016 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
+| [:file_folder: **XMillenium**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xmillenium#menu) | :red_circle: 2007 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png) |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
