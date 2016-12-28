@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol** and has a **Freeware - Non-Commercial** license.
+**Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1** made by **friol** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.9 (x86)**, released on **2002-02-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ace.exe**.
 

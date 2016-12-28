@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**CPSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license.
+**CPSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **r555 (x86)**, released on **2013-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **cspspemu.exe**.
 

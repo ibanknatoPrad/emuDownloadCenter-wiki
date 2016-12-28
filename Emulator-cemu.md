@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Cemu** is a emulator for **Nintendo Wii U** made by **Cemu Team** and has a **UNKNOWN** license.
+**Cemu** is a emulator for **Nintendo Wii U** made by **Cemu Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.6.2 (x64)**, released on **2016-11-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cemu.exe**.
 

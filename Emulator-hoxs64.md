@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Hoxs64** is a emulator for **Commodore 64** made by **David Horrocks** and has a **GNU GPLv2** license.
+**Hoxs64** is a emulator for **Commodore 64** made by **David Horrocks** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.8.9-win64 (x64)**, released on **2016-05-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hoxs64.exe**.
 

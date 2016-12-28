@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**SNES9X-SX2** is a emulator for **Nintendo Super Nintendo** made by **LuigiBlood** and has a **Freeware - Non-Commercial** license.
+**SNES9X-SX2** is a emulator for **Nintendo Super Nintendo** made by **LuigiBlood** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.2 (x86)**, released on **2012-10-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **snes9x.exe**.
 

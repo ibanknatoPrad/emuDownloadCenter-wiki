@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**nes-emu** is a emulator for **Nintendo NES/Famicom** made by **Antonio Maiorano** and has a **GNU GPLv2** license.
+**nes-emu** is a emulator for **Nintendo NES/Famicom** made by **Antonio Maiorano** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3 (x86)**, released on **2015-04-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nes-emu.exe**.
 

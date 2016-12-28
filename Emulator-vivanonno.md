@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2002
 
-**viva nonno** is a emulator for **Namco System 22** made by **Karl Stenerud** and has a **Freeware** license.
+**viva nonno** is a emulator for **Namco System 22** made by **Karl Stenerud** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **22.0.3 (x86)**, released on **2002-08-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vivanonno.exe**.
 

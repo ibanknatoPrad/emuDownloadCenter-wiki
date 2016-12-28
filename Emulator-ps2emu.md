@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**PS2EMU** is a emulator for **Sony PlayStation 2** made by **Roor Makurosu, Scar_T and Shunt** and has a **Freeware - Non-Commercial** license.
+**PS2EMU** is a emulator for **Sony PlayStation 2** made by **Roor Makurosu, Scar_T and Shunt** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **alpha01 (x86)**, released on **2004-05-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PS2EMU.exe**.
 

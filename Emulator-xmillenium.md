@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**XMillenium** is a emulator for **Sharp X1** made by **Adrastea** and has a **UNKNOWN** license.
+**XMillenium** is a emulator for **Sharp X1** made by **Adrastea** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.26 (x86)**, released on **2007-06-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XmillMK2.exe**.
 

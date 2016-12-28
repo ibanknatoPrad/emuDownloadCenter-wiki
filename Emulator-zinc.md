@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**ZiNc** is a emulator for **Namco System 11** made by **The_Author and DynaChicken** and has a **Freeware** license.
+**ZiNc** is a emulator for **Namco System 11** made by **The_Author and DynaChicken** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2005-01-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ZiNc.exe**.
 

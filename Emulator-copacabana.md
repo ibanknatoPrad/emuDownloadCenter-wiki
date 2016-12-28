@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**CoPaCabana** is a emulator for **Amstrad CPC** made by **Regis Nicolas** and has a **Donationware** license.
+**CoPaCabana** is a emulator for **Amstrad CPC** made by **Regis Nicolas** and has a **Donationware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.74 (x86)**, released on **2006-04-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EMU\CoPaCabana.exe**.
 

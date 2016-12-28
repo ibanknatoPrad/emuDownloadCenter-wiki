@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license.
+**3DOplay** is a emulator for **Panasonic 3DO** made by **Viktor Ivanov** and has a **GNU GPLv3** license, the GUI language is **Russian**.
 
 The latest version of the emulator on EDC is **1.8.2 (x86)**, released on **2012-04-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3DOplay.exe**.
 

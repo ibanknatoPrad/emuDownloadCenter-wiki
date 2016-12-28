@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2009
 
-**PCSX-RR** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license.
+**PCSX-RR** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.1.2 (x86)**, released on **2009-08-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx.exe**.
 

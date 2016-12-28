@@ -12,9 +12,9 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team** and has a **Freeware - Non-Commercial** license.
+**FB Alpha** is a emulator for **Coleco ColecoVision** made by **The FBA Team** and has a **Freeware** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **0.2.97.39-win32 (x86)**, released on **2016-10-16**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **fba.exe**.
+The latest version of the emulator on EDC is **0.2.97.39-win64 (x64)**, released on **2016-10-16**, it runs on **Windows Vista,7,8,10**, you can start this emulator with **fba64.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 

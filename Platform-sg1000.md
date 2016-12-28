@@ -9,7 +9,7 @@
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware |
 | [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: 2016 | Donationware |
-| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **Kega Fusion**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegafusion#menu) | :red_circle: 2010 | Freeware |
 | [:file_folder: **MEKA**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-meka#menu) | :red_circle: 2010 | Unrestrictive BSD-like |
 | [:file_folder: **Phoenix**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-phoenix#menu) | :large_blue_circle: 2016 | Free for Personal and Non-Commercial Use |

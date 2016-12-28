@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 20??
 
-**Nostalgia** is a emulator for **Mattel Intellivision** made by **Joe Fisher** and has a **Freeware** license.
+**Nostalgia** is a emulator for **Mattel Intellivision** made by **Joe Fisher** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **5.0.5.0 (x86)**, released on **20??-??-??**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nostalgia.exe**.
 

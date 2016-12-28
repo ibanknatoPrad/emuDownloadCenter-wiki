@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Emukon** is a emulator for **Sega Game Gear** made by **Martin and Robert Konrad** and has a **KonTechs Freeware License** license.
+**Emukon** is a emulator for **Sega Game Gear** made by **Martin and Robert Konrad** and has a **KonTechs Freeware License** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.05 (x86)**, released on **2004-07-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Emukon.exe**.
 

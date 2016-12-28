@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2000
 
-**Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license.
+**Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.9 (x86)**, released on **2000-09-05**, it runs on **DOS 6.22**, you can start this emulator with **ARCHIE.EXE**.
 

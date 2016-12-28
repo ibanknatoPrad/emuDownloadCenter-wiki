@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud** and has a **GNU GPLv2** license.
+**Pom1** is a emulator for **Apple 1** made by **John D Corrado and Verhille Arnaud** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.0 (x86)**, released on **2012-03-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pom1.exe**.
 

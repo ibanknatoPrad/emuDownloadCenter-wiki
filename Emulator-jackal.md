@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1999
 
-**Jackal** is a emulator for **Sony PlayStation 1** made by **Expert and Floating Point** and has a **GNU GPLv2** license.
+**Jackal** is a emulator for **Sony PlayStation 1** made by **Expert and Floating Point** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.009 (x86)**, released on **1999-10-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **jackal.exe**.
 

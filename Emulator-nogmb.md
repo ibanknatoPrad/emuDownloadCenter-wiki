@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2000
 
-**no$gmb** is a emulator for **Nintendo Game Boy** made by **Martin Korth** and has a **Shareware** license.
+**no$gmb** is a emulator for **Nintendo Game Boy** made by **Martin Korth** and has a **Shareware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.5 (x86)**, released on **2000-07-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **GMB.BAT**.
 

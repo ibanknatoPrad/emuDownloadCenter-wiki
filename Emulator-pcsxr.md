@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**PCSX-Reloaded** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license.
+**PCSX-Reloaded** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.9.93 (x86)**, released on **2013-08-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsxr.exe**.
 

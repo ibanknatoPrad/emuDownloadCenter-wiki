@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2001
 
-**Daedalus** is a emulator for **Nintendo N64** made by **StrmnNrmn** and has a **GNU GPLv2** license.
+**Daedalus** is a emulator for **Nintendo N64** made by **StrmnNrmn** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.07b (x86)**, released on **2001-06-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Daedalus.exe**.
 

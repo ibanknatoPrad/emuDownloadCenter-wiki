@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **GeePee32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-geepee32#menu) | :red_circle: 2004 | UNKNOWN |
+| [:file_folder: **GeePee32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-geepee32#menu) | :red_circle: 2004 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

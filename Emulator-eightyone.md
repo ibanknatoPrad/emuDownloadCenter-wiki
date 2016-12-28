@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**EightyOne** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Michael D Wynne** and has a **GNU GPLv2** license.
+**EightyOne** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Michael D Wynne** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.2 (x86)**, released on **2015-11-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EightyOne.exe**.
 

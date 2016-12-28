@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Real-80 PRO** is a emulator for **Híradástechnika HT-1080Z** made by **Kollar Zoltan** and has a **UNKNOWN** license.
+**Real-80 PRO** is a emulator for **Híradástechnika HT-1080Z** made by **Kollar Zoltan** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.5.5 (x86)**, released on **2008-03-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Real80pro.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license.
+**Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1.2-win64 (x64)**, released on **2014-10-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **virtualjaguar.exe**.
 

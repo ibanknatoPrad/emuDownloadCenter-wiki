@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**NICE64** is a emulator for **Nintendo N64** made by **Rice and Pokefan** and has a **GNU GPLv2** license.
+**NICE64** is a emulator for **Nintendo N64** made by **Rice and Pokefan** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1.1 (x86)**, released on **2012-05-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NICE64.exe**.
 

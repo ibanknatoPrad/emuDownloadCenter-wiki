@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier** and has a **GNU General Licence** license.
+**Atari800Win-PLus** is a emulator for **Atari 5200** made by **Marcin Lewandoski aka Jaskier** and has a **GNU GPL** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **4.0 (x86)**, released on **2005-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Atari800Win.exe**.
 

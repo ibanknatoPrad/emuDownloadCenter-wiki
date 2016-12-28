@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**WinUAE** is a emulator for **Commodore Amiga** made by **Toni Wilen & WinUAE Team** and has a **Freeware - GNU** license.
+**WinUAE** is a emulator for **Commodore Amiga** made by **Toni Wilen & WinUAE Team** and has a **Freeware - GNU** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.3.0-win64 (x64)**, released on **2016-06-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **winuae64.exe**.
 

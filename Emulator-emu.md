@@ -10,13 +10,13 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**EMU** is a emulator for **V. I. Lenin L'vov/Lviv** made by **Tselikov** and has a **Freeware** license.
+**EMU** is a emulator for **V. I. Lenin L'vov/Lviv** made by **Tselikov** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.01 (x86)**, released on **2016-04-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EMU.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
-_EMU is a multi-system emulator for the following: ARM-HQ Bashkiria Bashkiria-2M, Agat-7, Alesta 520EH, Apogee, BC-0010, BC-0011M, Vector-06C, Vector start-1200, Christa-2, DCK, DCK-2, Irisha, Corvette, Scarce, Lick, Lvov PK-01, Micro 80, Microsha, MS 2721, Nairi, Ocean 240, Orion 128, Orion Pro Partner, PC 6128ts, PC 8000 Sura / West / Hobbies, PC 8002 Elf Search-1, Radio-86RK, specialist, specialist-MX, Junior, UT-88, MSX, MSX-2, Robotron 1715, Sinclair ZX Spectrum 48 and ZX Spectrum 128. NOTE: Website is in Russian._
+_EMU is a multi-system emulator for the following: ARM-HQ Bashkiria Bashkiria-2M, Agat-7, Alesta 520EH, Apogee, BC-0010, BC-0011M, Vector-06C, Vector start-1200, Christa-2, DCK, DCK-2, Irisha, Corvette, Scarce, Lick, Lvov PK-01, Micro 80, Microsha, MS 2721, Nairi, Ocean 240, Orion 128, Orion Pro Partner, PC 6128ts, PC 8000 Sura / West / Hobbies, PC 8002 Elf Search-1, Radio-86RK, specialist, specialist-MX, Junior, UT-88, MSX, MSX-2, Robotron 1715, Sinclair ZX Spectrum 48 and ZX Spectrum 128._
 
 [:link: **Emulator website**](http://bashkiria-2m.narod.ru/)
 ***

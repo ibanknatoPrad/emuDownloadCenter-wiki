@@ -13,7 +13,7 @@
 | [:file_folder: **BSNES-SX2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bsnessx2#menu) | :red_circle: 2012 | GNU GPLv2 |
 | [:file_folder: **DinoBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dinoboy#menu) | :red_circle: 2011 | GNU GPLv3 |
 | [:file_folder: **DMGBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dmgboy#menu) | :white_circle: 2014 | GNU GPLv3 |
-| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **GB Enhanced+**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gbeplus#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
 | [:file_folder: **GEST**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gest#menu) | :red_circle: 2011 | GNU GPLv2 |
 | [:file_folder: **higan**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-higan#menu) | :large_blue_circle: 2016 | GNU GPLv3 - Special for Commercial Use |
@@ -24,6 +24,6 @@
 | [:file_folder: **TGB Dual**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tgbdual#menu) | :red_circle: 2004 | Freeware |
 | [:file_folder: **VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | :red_circle: 2013 | GNU GPLv2 |
 | [:file_folder: **VisualBoyAdvance**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualboyadvance#menu) | :large_blue_circle: 2016 | Freeware |
-| [:file_folder: **Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | :large_blue_circle: 2016 | UNKNOWN |
+| [:file_folder: **Virtual GameBoy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vgb#menu) | :large_blue_circle: 2016 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

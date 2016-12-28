@@ -7,6 +7,6 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware |
-| [:file_folder: **NLMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nlmsx#menu) | :red_circle: 2003 | UNKNOWN |
+| [:file_folder: **NLMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nlmsx#menu) | :red_circle: 2003 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

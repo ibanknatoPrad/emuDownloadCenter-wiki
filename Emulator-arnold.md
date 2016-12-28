@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Arnold** is a emulator for **Amstrad CPC** made by **Kevin Thacker** and has a **GNU GPLv2** license.
+**Arnold** is a emulator for **Amstrad CPC** made by **Kevin Thacker** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **04.01.2004 (x86)**, released on **2004.01.04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **arnold.exe**.
 

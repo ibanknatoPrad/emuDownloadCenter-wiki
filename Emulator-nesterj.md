@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license.
+**nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.51b (x86)**, released on **2003-07-27**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nesterJ.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**FunnyMU** is a emulator for **Vtech Creativision** made by **Pablo** and has a **Freeware** license.
+**FunnyMU** is a emulator for **Vtech Creativision** made by **Pablo** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.43 (x86)**, released on **2002-01-19**, it runs on **Windows XP, Vista**, you can start this emulator with **funnymu.exe**.
 

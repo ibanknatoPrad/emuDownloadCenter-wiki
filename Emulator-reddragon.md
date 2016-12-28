@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Red Dragon** is a emulator for **Nintendo Virtual Boy** made by **frostgiant and Parasyte** and has a **Freeware** license.
+**Red Dragon** is a emulator for **Nintendo Virtual Boy** made by **frostgiant and Parasyte** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.38 (x86)**, released on **2004-09-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **rdragon.exe**.
 

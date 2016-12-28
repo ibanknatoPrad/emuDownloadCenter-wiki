@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Koyote** is a emulator for **SNK NeoGeo Pocket** made by **David Raingeard and Romain Tisserand** and has a **UNKNOWN** license.
+**Koyote** is a emulator for **SNK NeoGeo Pocket** made by **David Raingeard and Romain Tisserand** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.5.0 (x86)**, released on **2002-08-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **koyote.exe**.
 

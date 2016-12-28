@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1997
 
-**Frodo** is a emulator for **Commodore 64** made by **Christian Bauer et al.** and has a **Freeware - Non-Commercial** license.
+**Frodo** is a emulator for **Commodore 64** made by **Christian Bauer et al.** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **4.1 (x86)**, released on **1997-11-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **frodo.exe**.
 

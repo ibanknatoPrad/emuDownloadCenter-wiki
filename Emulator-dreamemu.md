@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2002
 
-**DreamEmu** is a emulator for **Sega Dreamcast** made by **Lord Cheese** and has a **Freeware** license.
+**DreamEmu** is a emulator for **Sega Dreamcast** made by **Lord Cheese** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.0.4.1 (x86)**, released on **2002-10-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dreamemu.exe**.
 

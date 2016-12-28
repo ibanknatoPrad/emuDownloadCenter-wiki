@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth** and has a **Shareware** license.
+**no$msx** is a emulator for **MSX Home Computer** made by **Martin Korth** and has a **Shareware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.5 (x86)**, released on **2003-05-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$MSX.exe**.
 

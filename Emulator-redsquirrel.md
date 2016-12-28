@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes** and has a **Freeware** license.
+**Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.6 (x86)**, released on **2002-02-17**, it runs on **Windows XP,Vista**, you can start this emulator with **RedSquirrel.exe**.
 

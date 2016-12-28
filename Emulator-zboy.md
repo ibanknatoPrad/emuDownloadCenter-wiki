@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**zBoy** is a emulator for **Nintendo Game Boy** made by **Mateusz Viste** and has a **GNU GPLv3** license.
+**zBoy** is a emulator for **Nintendo Game Boy** made by **Mateusz Viste** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.60 (x86)**, released on **2015-04-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **zboy.exe**.
 

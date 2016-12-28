@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2007
 
-**ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license.
+**ZSNES** is a emulator for **Nintendo Super Nintendo** made by **zsKnight, -Demo-, and Pharos** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.51 (x86)**, released on **2007-01-24**, it runs on **Windows XP,Vista,7**, you can start this emulator with **zsnesw.exe**.
 

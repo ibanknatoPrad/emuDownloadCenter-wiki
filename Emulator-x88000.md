@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**X88000** is a emulator for **NEC PC-8801** made by **Manuke** and has a **UNKNOWN** license.
+**X88000** is a emulator for **NEC PC-8801** made by **Manuke** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.4.0 (x86)**, released on **2012-02-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **x88x3.exe**.
 

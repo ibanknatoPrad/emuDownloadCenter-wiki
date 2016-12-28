@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**BSNES+** is a emulator for **Nintendo Game Boy Color** made by **BSNES+ Team** and has a **GNU GPLv2** license.
+**BSNES+** is a emulator for **Nintendo Game Boy Color** made by **BSNES+ Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **073.2-win32 (x86)**, released on **2015-11-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bsnes.exe**.
 

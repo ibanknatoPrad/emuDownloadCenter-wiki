@@ -12,7 +12,7 @@
 
 **Developement state:** :white_circle: 2014
 
-**CpcAlive** is a emulator for **Amstrad CPC** made by **Unknown** and has a **Freeware** license.
+**CpcAlive** is a emulator for **Amstrad CPC** made by **Unknown** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.16 (x86)**, released on **2014-12-16**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **CpcAlive (Vista,7).bat**.
 

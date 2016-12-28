@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**MahNES** is a emulator for **Nintendo NES/Famicom** made by **H Lorenzi** and has a **BSD** license.
+**MahNES** is a emulator for **Nintendo NES/Famicom** made by **H Lorenzi** and has a **BSD** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.3.004 (x86)**, released on **2013-01-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MahNES.exe**.
 

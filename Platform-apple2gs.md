@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ActiveGS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-activegs#menu) | :white_circle: 2014 | UNKNOWN |
+| [:file_folder: **ActiveGS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-activegs#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **GSPort**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gsport#menu) | :white_circle: 2014 | GNU GPLv2 |
 | [:file_folder: **Kent's Emulated GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-kegs#menu) | :red_circle: 2006 | GNU GPLv2 |
 | [:file_folder: **XGS/32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xgs32#menu) | :red_circle: 2000 | Freeware |

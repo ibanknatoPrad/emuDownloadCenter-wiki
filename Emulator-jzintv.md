@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**jzIntv** is a emulator for **Mattel Intellivision** made by **Joe Zbiciak** and has a **GNU GPLv2** license.
+**jzIntv** is a emulator for **Mattel Intellivision** made by **Joe Zbiciak** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0b4 (x86)**, released on **2012-08-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bin\jzintv.exe**.
 

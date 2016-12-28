@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**NewSneM** is a emulator for **Nintendo Super Nintendo** made by **Tom Walker** and has a **UNKNOWN** license.
+**NewSneM** is a emulator for **Nintendo Super Nintendo** made by **Tom Walker** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.1 (x86)**, released on **2007-10-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeuSneM.exe**.
 

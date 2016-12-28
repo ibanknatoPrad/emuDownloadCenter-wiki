@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Lisa** is a emulator for **Apple Lisa** made by **Gilles Fetis** and has a **Freeware** license.
+**Lisa** is a emulator for **Apple Lisa** made by **Gilles Fetis** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.10a (x86)**, released on **2008-04-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **idle.exe**.
 

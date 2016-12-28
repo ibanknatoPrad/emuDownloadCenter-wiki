@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**AIPC (Apple in a PC)** is a emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7** and has a **GNU GPLv3** license.
+**AIPC (Apple in a PC)** is a emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.1.40.3 (x86)**, released on **2016-08-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aipc.exe**.
 

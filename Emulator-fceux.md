@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license.
+**FCEUX** is a emulator for **Nintendo FDS** made by **FCEUX team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.2.3 (x86)**, released on **2016-07-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fceux.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2001
 
-**WinVZ** is a emulator for **Vtech Laser 200/210/310** made by **xip** and has a **UNKNOWN** license.
+**WinVZ** is a emulator for **Vtech Laser 200/210/310** made by **xip** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.2 (x86)**, released on **2001-05-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ.exe**.
 

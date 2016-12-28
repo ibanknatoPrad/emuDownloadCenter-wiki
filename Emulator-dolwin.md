@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**Dolwin** is a emulator for **Nintendo GameCube** made by **Dolwin Team** and has a **Freeware** license.
+**Dolwin** is a emulator for **Nintendo GameCube** made by **Dolwin Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.10 (x86)**, released on **2005-01-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Dolwin.exe**.
 

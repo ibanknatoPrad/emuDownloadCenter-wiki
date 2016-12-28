@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**iP6** is a emulator for **NEC PC-6001** made by **Windy** and has a **Freeware** license.
+**iP6** is a emulator for **NEC PC-6001** made by **Windy** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **4.7 (x86)**, released on **2004-02-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **iP6.exe**.
 

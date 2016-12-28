@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1999
 
-**ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras** and has a **Freeware** license.
+**ACORN ATOM** is a emulator for **Acorn Atom** made by **Wouter Ras** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.33 (x86)**, released on **1999-05-13**, it runs on **Windows 3.1,3.11,95**, you can start this emulator with **Atom.Exe**.
 

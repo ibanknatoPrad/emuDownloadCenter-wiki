@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | :red_circle: 1998 | UNKNOWN |
+| [:file_folder: **Game.Com Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gamecomemu#menu) | :red_circle: 1998 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

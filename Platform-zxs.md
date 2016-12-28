@@ -6,23 +6,23 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **ASCD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ascd#menu) | :red_circle: 2012 | Freeware - Non-Commercial |
+| [:file_folder: **ASCD**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ascd#menu) | :red_circle: 2012 | Freeware |
 | [:file_folder: **Aspectrum**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aspectrum#menu) | :red_circle: 2005 | GNU GPLv2 |
-| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **EightyOne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-eightyone#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
 | [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware |
-| [:file_folder: **EmuZWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emuzwin#menu) | :red_circle: 2006 | UNKNOWN |
+| [:file_folder: **EmuZWin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emuzwin#menu) | :red_circle: 2006 | Freeware |
 | [:file_folder: **Fuse (The Free Unix Spectrum Emulator)**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fuse#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
-| [:file_folder: **Klive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-klive#menu) | :red_circle: 2002 | Freeware - Non-Commercial |
+| [:file_folder: **Klive**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-klive#menu) | :red_circle: 2002 | Freeware |
 | [:file_folder: **MZXX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mzxx#menu) | :red_circle: 2010 | GNU GPLv2 |
 | [:file_folder: **no$zx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nozx#menu) | :red_circle: 2012 | Freeware |
-| [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **Speccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-speccy#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: 2006 | SPECIAL - 'see Licence Agreement.txt' |
 | [:file_folder: **UnrealSpeccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-unrealspeccy#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **Xpeccy**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xpeccy#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **Z80Stealth**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-z80stealth#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **Zero**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zero#menu) | :large_blue_circle: 2015 | Freeware |
 | [:file_folder: **ZEsarUX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zesarux#menu) | :large_blue_circle: 2016 | GNU GPLv3 |
-| [:file_folder: **ZXSpin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zxspin#menu) | :red_circle: 2009 | UNKNOWN |
+| [:file_folder: **ZXSpin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-zxspin#menu) | :red_circle: 2009 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

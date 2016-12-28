@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2002
 
-**Akiko** is a emulator for **Commodore Amiga CD32** made by **Andreas Falkenhahn** and has a **Freeware** license.
+**Akiko** is a emulator for **Commodore Amiga CD32** made by **Andreas Falkenhahn** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.6 (x86)**, released on **2002-06-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinUAE\WinUAE.exe**.
 

@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2006
 
-**Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville** and has a **GNU GPLv2** license.
+**Gens** is a emulator for **Sega Mega Drive 32X** made by **Stephane Dallongeville** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.14 (x86)**, released on **2006-05-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens.exe**.
 

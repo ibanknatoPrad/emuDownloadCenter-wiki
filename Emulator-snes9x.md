@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license.
+**SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.54.1-x64 (x64)**, released on **2016-10-15**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **snes9x-x64.exe**.
 

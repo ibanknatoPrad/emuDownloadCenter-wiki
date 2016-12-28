@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**uBee512** is a emulator for **Applied Technologies Microbee** made by **Stewart Kay** and has a **GNU GPLv2** license.
+**uBee512** is a emulator for **Applied Technologies Microbee** made by **Stewart Kay** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **5.7.0-win32 (x86)**, released on **2015-02-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ubee512.exe**.
 

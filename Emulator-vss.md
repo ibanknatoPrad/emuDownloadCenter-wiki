@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Virtual Super System** is a emulator for **Atari 5200** made by **Daniel Boris** and has a **Freeware** license.
+**Virtual Super System** is a emulator for **Atari 5200** made by **Daniel Boris** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.82 (x86)**, released on **2004-04-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **5200.exe**.
 

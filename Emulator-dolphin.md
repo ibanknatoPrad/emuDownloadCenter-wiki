@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**Dolphin** is a emulator for **Nintendo GameCube** made by **Dolphin team** and has a **GNU GPLv2+** license.
+**Dolphin** is a emulator for **Nintendo GameCube** made by **Dolphin team** and has a **GNU GPLv2+** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **5.0-win64 (x64)**, released on **2016-06-24**, it runs on **Windows 7,8,10**, you can start this emulator with **Dolphin.exe**.
 

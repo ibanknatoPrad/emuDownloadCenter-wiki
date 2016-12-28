@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Multiple Fruit Machine Emulator** is a emulator for **Fruit Machine** made by **C.J. Wren** and has a **Freeware** license.
+**Multiple Fruit Machine Emulator** is a emulator for **Fruit Machine** made by **C.J. Wren** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **10.1a (x86)**, released on **2004-12-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MFME.exe**.
 

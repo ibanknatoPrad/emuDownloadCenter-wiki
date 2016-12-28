@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2011
 
-**RetroCopy** is a emulator for **Sega Mega Drive/Genesis** made by **Unknown** and has a **Freeware** license.
+**RetroCopy** is a emulator for **Sega Mega Drive/Genesis** made by **Unknown** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.960-win64 (x64)**, released on **2011-05-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **retrocopy64.exe**.
 

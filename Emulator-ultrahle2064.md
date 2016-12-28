@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2003
 
-**UltraHLE 2064** is a emulator for **Nintendo N64** made by **The UltraHLE 2064 team** and has a **Freeware** license.
+**UltraHLE 2064** is a emulator for **Nintendo N64** made by **The UltraHLE 2064 team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.5a (x86)**, released on **2003-06-30**, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license.
+**RPCemu** is a emulator for **Acorn Archimedes** made by **Tom Walker** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.8.14 (x86)**, released on **2016-02-08**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **RPCEmu-Interpreter.exe**.
 

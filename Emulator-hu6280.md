@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**Hu6280** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Vobbo** and has a **Freeware** license.
+**Hu6280** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Vobbo** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.05b (x86)**, released on **2006-06-18**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hu6280.exe**.
 

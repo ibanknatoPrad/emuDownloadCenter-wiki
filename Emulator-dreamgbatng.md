@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**DreamGBA TNG** is a emulator for **Nintendo Game Boy Advance** made by **Kervin** and has a **GNU GPLv2** license.
+**DreamGBA TNG** is a emulator for **Nintendo Game Boy Advance** made by **Kervin** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.4 (x86)**, released on **2004-05-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **DreamGBA_Loader.exe**.
 

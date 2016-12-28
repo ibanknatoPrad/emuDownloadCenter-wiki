@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**Exodus** is a emulator for **Sega Mega Drive/Genesis** made by **The Exodus Team** and has a **Freeware** license.
+**Exodus** is a emulator for **Sega Mega Drive/Genesis** made by **The Exodus Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.1 (x86)**, released on **2015-05-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Exodus.exe**.
 

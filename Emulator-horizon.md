@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**Horizon** is a emulator for **Acorn BBC** made by **Chris Lam** and has a **GNU GPLv2** license.
+**Horizon** is a emulator for **Acorn BBC** made by **Chris Lam** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1 (x86)**, released on **2012-09-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Horizon 2.1.exe**.
 

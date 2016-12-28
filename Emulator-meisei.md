@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**meisei** is a emulator for **MSX Home Computer** made by **hap** and has a **Freeware** license.
+**meisei** is a emulator for **MSX Home Computer** made by **hap** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3.2 (x86)**, released on **2011-01-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **meisei.exe**.
 

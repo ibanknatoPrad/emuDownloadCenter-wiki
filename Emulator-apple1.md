@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Apple 1 Emulator** is a emulator for **Apple 1** made by **Peter Rittwage** and has a **Freeware** license.
+**Apple 1 Emulator** is a emulator for **Apple 1** made by **Peter Rittwage** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **release1 (x86)**, released on **2002-11-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **apple1.exe**.
 

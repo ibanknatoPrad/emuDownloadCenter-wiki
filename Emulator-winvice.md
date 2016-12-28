@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team** and has a **GNU GPLv2** license.
+**WinVICE** is a emulator for **Commodore C128** made by **The WinVice Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.4-win64 (x64)**, released on **2012-11-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **x64.exe**.
 

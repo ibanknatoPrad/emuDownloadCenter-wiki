@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**no$zx** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Martin Korth** and has a **Freeware** license.
+**no$zx** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0 (x86)**, released on **2012-11-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$ZX.exe**.
 

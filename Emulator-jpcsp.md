@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2010
 
-**JPCSP** is a emulator for **Sony PlayStation Portable** made by **JCPSP Team** and has a **GNU GPLv3** license.
+**JPCSP** is a emulator for **Sony PlayStation Portable** made by **JCPSP Team** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.6-win32 (x86)**, released on **2010-09-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **start-windows-x86.bat**.
 

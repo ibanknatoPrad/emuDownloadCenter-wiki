@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James The Animal Tamer** and has a **UNKNOWN** license.
+**Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James The Animal Tamer** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.72a (x86)**, released on **2008-08-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aquarius.exe**.
 

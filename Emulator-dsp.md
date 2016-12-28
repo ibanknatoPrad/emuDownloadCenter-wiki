@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**DSP Emulator** is a emulator for **Unknown** made by **Leniad** and has a **Freeware - Non-Commercial** license.
+**DSP Emulator** is a emulator for **Unknown** made by **Leniad** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.17b1-win32 (x86)**, released on **2016-10-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dsp.exe**.
 

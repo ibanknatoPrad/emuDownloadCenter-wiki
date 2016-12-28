@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**KOLEKO** is a emulator for **Coleco ColecoVision** made by **Saverio Russo aka SiRioKD** and has a **Freeware** license.
+**KOLEKO** is a emulator for **Coleco ColecoVision** made by **Saverio Russo aka SiRioKD** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.33 (x86)**, released on **2002-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **koleko_vos.exe**.
 

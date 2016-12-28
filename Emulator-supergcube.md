@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2009
 
-**SuperGCube** is a emulator for **Nintendo GameCube** made by **spartan11-7** and has a **GNU GPLv2** license.
+**SuperGCube** is a emulator for **Nintendo GameCube** made by **spartan11-7** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.4a (x86)**, released on **2009-02-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gcube.exe**.
 

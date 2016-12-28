@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 1997
 
-**Colour Emu** is a emulator for **EACA/TS Colour Genie** made by **Burkhard Lehner & Stephan Scholz** and has a **Freeware** license.
+**Colour Emu** is a emulator for **EACA/TS Colour Genie** made by **Burkhard Lehner & Stephan Scholz** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.0 (x86)**, released on **1997-06-01**, it runs on **DOS 6.22**, you can start this emulator with **COLOREMU.EXE**.
 

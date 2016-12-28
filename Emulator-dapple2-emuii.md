@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**dapple2-emuII** is a emulator for **Apple 2** made by **Steve Nickolas** and has a **Freeware** license.
+**dapple2-emuII** is a emulator for **Apple 2** made by **Steve Nickolas** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.40 (x86)**, released on **2004-05-06**, it runs on **Windows 98,XP**, you can start this emulator with **emu2.exe**.
 

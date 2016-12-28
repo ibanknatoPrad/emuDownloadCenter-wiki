@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2005
 
-**WhineCube** is a emulator for **Nintendo GameCube** made by **Masken** and has a **Freeware** license.
+**WhineCube** is a emulator for **Nintendo GameCube** made by **Masken** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **Release8-source (x86)**, released on **2005-08-01**, it runs on ** **, you can start this emulator with **WhineCube.vcproj**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**XM7** is a emulator for **Fujitsu FM-7** made by **PI. and Ryu Takegami** and has a **UNKNOWN** license.
+**XM7** is a emulator for **Fujitsu FM-7** made by **PI. and Ryu Takegami** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.4L62 (x86)**, released on **2014-04-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Win32\XM7.exe**.
 

@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2005
 
-**PSXeven** is a emulator for **Sony PlayStation 1** made by **Xeven** and has a **Freeware** license.
+**PSXeven** is a emulator for **Sony PlayStation 1** made by **Xeven** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.19 (x86)**, released on **2005-04-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PSXeven_v0.19.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**PSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license.
+**PSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **r301 (x86)**, released on **2011-07-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pspemu.exe**.
 

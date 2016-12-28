@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2001
 
-**Modeler** is a emulator for **Sega Model 1** made by **Farftch'd, R Belmont and Sarayan** and has a **Freeware - Non-Commercial** license.
+**Modeler** is a emulator for **Sega Model 1** made by **Farftch'd, R Belmont and Sarayan** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.9.3a (x86)**, released on **2001-12-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Modeler.exe**.
 

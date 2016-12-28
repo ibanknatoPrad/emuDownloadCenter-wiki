@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2004
 
-**Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi** and has a **UNKNOWN** license.
+**Chankast** is a emulator for **Sega Dreamcast** made by **baktery, unai, garrofi and elsemi** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.25a (x86)**, released on **2004-04-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Chankast_alpha_25.exe**.
 

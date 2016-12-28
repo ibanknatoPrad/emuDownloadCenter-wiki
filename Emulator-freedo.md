@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2010
 
-**FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons** and has a **Freeware** license.
+**FreeDo** is a emulator for **Panasonic 3DO** made by **awright69, felix_laz, troosh & jsammons** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1.1-alpha (x86)**, released on **2010-12-02**, it runs on **Windows XP,Vista,7**, you can start this emulator with **FreeDO.exe**.
 

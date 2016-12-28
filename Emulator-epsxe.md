@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license.
+**ePSXe** is a emulator for **Sony PlayStation 1** made by **Calb, Galtor, -Demo-** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.5 (x86)**, released on **2016-06-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ePSXe.exe**.
 

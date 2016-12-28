@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Neko Project II** is a emulator for **NEC PC-9801** made by **NP Team** and has a **UNKNOWN** license.
+**Neko Project II** is a emulator for **NEC PC-9801** made by **NP Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.86-win32 (x86)**, released on **2016-03-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **np2.exe**.
 

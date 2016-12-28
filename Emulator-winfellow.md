@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2015
 
-**WinFellow** is a emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje** and has a **GNU GPLv2** license.
+**WinFellow** is a emulator for **Commodore Amiga** made by **Peter Schau, Torsten Enderling and Worfje** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.5.3.1004 (x86)**, released on **2015-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinFellow.exe**.
 

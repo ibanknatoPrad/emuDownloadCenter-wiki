@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer** and has a **Freeware** license.
+**James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.21 (x86)**, released on **2005-05-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **jvz200.exe**.
 

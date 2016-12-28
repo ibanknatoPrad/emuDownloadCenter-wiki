@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1998
 
-**GM2001** is a emulator for **Hartung Game Master** made by **Hanz Freemurmur** and has a **Freeware** license.
+**GM2001** is a emulator for **Hartung Game Master** made by **Hanz Freemurmur** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1998.04.04 (x86)**, released on **1998-04-04**, it runs on **DOS 6.2**, you can start this emulator with **GM2001.EXE**.
 

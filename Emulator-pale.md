@@ -12,7 +12,7 @@
 
 **Developement state:** :white_circle: 2014
 
-**Pete's Amazing Lynx Emulator** is a emulator for **Camputers Lynx** made by **Pete Todd** and has a **Freeware** license.
+**Pete's Amazing Lynx Emulator** is a emulator for **Camputers Lynx** made by **Pete Todd** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **8.50 (x86)**, released on **2014-01-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Pale.exe**.
 

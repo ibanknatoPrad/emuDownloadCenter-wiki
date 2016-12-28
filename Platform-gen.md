@@ -6,12 +6,12 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: 2002 | Freeware - Non-Commercial |
+| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: 2002 | Freeware |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **BlastEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-blastem#menu) | :large_blue_circle: 2016 | GNU GPLv3 |
 | [:file_folder: **DGen**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dgen#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **Exodus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-exodus#menu) | :large_blue_circle: 2015 | Freeware |
-| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
+| [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | :red_circle: 2006 | GNU GPLv2 |
 | [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | :red_circle: 2013 | GNU GPLv2 |
 | [:file_folder: **Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | :red_circle: 2010 | GNU GPLv2 |

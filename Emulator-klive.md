@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Klive** is a emulator for **Sinclair ZX Spectrum** made by **Steve Snake** and has a **Freeware - Non-Commercial** license.
+**Klive** is a emulator for **Sinclair ZX Spectrum** made by **Steve Snake** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2002-09-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Klive.exe**.
 

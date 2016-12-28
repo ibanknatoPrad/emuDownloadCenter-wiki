@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**APF EMUW** is a emulator for **APF Electronics Imagination Machine** made by **Enrique Collado** and has a **Freeware** license.
+**APF EMUW** is a emulator for **APF Electronics Imagination Machine** made by **Enrique Collado** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.1v2 (x86)**, released on **2008-03-12**, it runs on **Windows XP,Vista**, you can start this emulator with **APF_EMUW.exe**.
 

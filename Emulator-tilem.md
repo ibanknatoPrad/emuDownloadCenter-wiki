@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**TilEm** is a emulator for **Texas Instruments TI-82** made by **Benjamin Moody and Thibault Duponchelle** and has a **Freeware** license.
+**TilEm** is a emulator for **Texas Instruments TI-82** made by **Benjamin Moody and Thibault Duponchelle** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0 (x86)**, released on **2012-06-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **tilem2.exe**.
 

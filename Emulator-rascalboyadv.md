@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**RascalBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Lino Maglione** and has a **Limited Use Software Licence Agreement** license.
+**RascalBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Lino Maglione** and has a **Limited Use Software Licence Agreement** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3.0.0 (x86)**, released on **2006-02-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **RascalBoy.exe**.
 

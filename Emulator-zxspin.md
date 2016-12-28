@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2009
 
-**ZXSpin** is a emulator for **Sinclair ZX Spectrum** made by **Paul Dunn and Mark Woodmass** and has a **UNKNOWN** license.
+**ZXSpin** is a emulator for **Sinclair ZX Spectrum** made by **Paul Dunn and Mark Woodmass** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.7 (x86)**, released on **2009-12-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ZXSpin.exe**.
 

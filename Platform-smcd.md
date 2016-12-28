@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: 2002 | Freeware - Non-Commercial |
+| [:file_folder: **WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | :red_circle: 2002 | Freeware |
 | [:file_folder: **Gens**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens#menu) | :red_circle: 2006 | GNU GPLv2 |
 | [:file_folder: **Gens32 Surreal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gens32#menu) | :red_circle: 2013 | GNU GPLv2 |
 | [:file_folder: **Gens/GS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gensgs#menu) | :red_circle: 2010 | GNU GPLv2 |

@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | :large_blue_circle: 2016 | UNKNOWN |
-| [:file_folder: **Makaron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-makaron#menu) | :red_circle: 2011 | UNKNOWN |
+| [:file_folder: **Demul**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-demul#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **Makaron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-makaron#menu) | :red_circle: 2011 | Freeware |
 | [:file_folder: **nullDC NAOMI**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nulldcn#menu) | :red_circle: 2011 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

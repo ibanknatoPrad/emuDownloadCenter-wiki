@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2000
 
-**Mt. Xemu** is a emulator for **Memotech MTX 500/512** made by **Per Persson and Bemmu Sepponen** and has a **UNKNOWN** license.
+**Mt. Xemu** is a emulator for **Memotech MTX 500/512** made by **Per Persson and Bemmu Sepponen** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **r1 (x86)**, released on **2000-09-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MtXemu.exe**.
 

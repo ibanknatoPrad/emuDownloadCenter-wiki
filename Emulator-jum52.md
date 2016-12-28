@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2010
 
-**Jum52** is a emulator for **Atari 5200** made by **James** and has a **Freeware** license.
+**Jum52** is a emulator for **Atari 5200** made by **James** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2010-03-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jum52_Win32.exe**.
 

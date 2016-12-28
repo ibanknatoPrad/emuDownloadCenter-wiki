@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**Mega8** is a emulator for **Unknown** made by **Ready4Next/Junta** and has a **UNKNOWN** license.
+**Mega8** is a emulator for **Unknown** made by **Ready4Next/Junta** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3.1 (x64)**, released on **2014-10-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Mega8_x86-64.exe**.
 

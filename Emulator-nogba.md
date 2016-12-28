@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth** and has a **Freeware** license.
+**no$gba** is a emulator for **Nintendo Game Boy Advance** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.8d (x86)**, released on **2016-05-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$GBA.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1999
 
-**ADAMEm** is a emulator for **Coleco Adam** made by **Marcel de Kogel** and has a **Freeware** license.
+**ADAMEm** is a emulator for **Coleco Adam** made by **Marcel de Kogel** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0-dos (x86)**, released on **1999-02-23**, it runs on **DOS 6.22**, you can start this emulator with **ADAMEM.EXE**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Virtual Panasonic JR-200U** is a emulator for **Panasonic JR-200** made by **James the Animal Tamer** and has a **GNU GPLv2** license.
+**Virtual Panasonic JR-200U** is a emulator for **Panasonic JR-200** made by **James the Animal Tamer** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.12 (x86)**, released on **2002-03-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **vpanajr.exe**.
 

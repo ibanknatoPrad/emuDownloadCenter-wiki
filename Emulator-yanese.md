@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**YANESE (Yet Another NES Emulator)** is a emulator for **Nintendo NES/Famicom** made by **Anes** and has a **UNKNOWN** license.
+**YANESE (Yet Another NES Emulator)** is a emulator for **Nintendo NES/Famicom** made by **Anes** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.89-win32 (x86)**, released on **2015-09-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **yanese86.exe**.
 

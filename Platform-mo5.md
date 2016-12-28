@@ -7,6 +7,6 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **DCMO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmo5#menu) | :red_circle: 2007 | GNU GPLv3 |
-| [:file_folder: **DCMOTO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmoto#menu) | :red_circle: 2012 | Freeware - Non-Commercial |
+| [:file_folder: **DCMOTO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmoto#menu) | :red_circle: 2012 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

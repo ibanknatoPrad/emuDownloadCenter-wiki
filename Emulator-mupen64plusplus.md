@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2015
 
-**Mupen64++** is a emulator for **Nintendo N64** made by **Okaygo** and has a **Freeware** license.
+**Mupen64++** is a emulator for **Nintendo N64** made by **Okaygo** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.1.3.12 (x86)**, released on **2015-06-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mupen64pp.exe**.
 

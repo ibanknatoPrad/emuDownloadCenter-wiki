@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**ep32** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker and Vincze Bela Gyorgy** and has a **GNU GPLv2** license.
+**ep32** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker and Vincze Bela Gyorgy** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.20 (x86)**, released on **2006-07-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ep32.exe**.
 

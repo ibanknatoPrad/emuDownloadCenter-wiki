@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**XM 6 Type G** is a emulator for **Sharp X68000** made by **GIMONS** and has a **Freeware - Non-Commercial (Restricted Distribution)** license.
+**XM 6 Type G** is a emulator for **Sharp X68000** made by **GIMONS** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.06-win32 (x86)**, released on **2016-11-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **xm6g.exe**.
 

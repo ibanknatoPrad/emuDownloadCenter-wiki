@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2000
 
-**XGS/32** is a emulator for **Apple 2GS** made by **smentzer** and has a **Freeware** license.
+**XGS/32** is a emulator for **Apple 2GS** made by **smentzer** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.6.4 (x86)**, released on **2000-03-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XGS32.EXE**.
 

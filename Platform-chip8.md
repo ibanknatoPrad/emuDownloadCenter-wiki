@@ -6,9 +6,9 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware - Non-Commercial |
-| [:file_folder: **Fish 'N' Chips**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fnc#menu) | :red_circle: 2008 | Freeware - Non-Commercial |
-| [:file_folder: **Mega8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mega8#menu) | :white_circle: 2014 | UNKNOWN |
+| [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware |
+| [:file_folder: **Fish 'N' Chips**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fnc#menu) | :red_circle: 2008 | Freeware |
+| [:file_folder: **Mega8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mega8#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **SharpChip-8**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-sharpchip8#menu) | :red_circle: 2011 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

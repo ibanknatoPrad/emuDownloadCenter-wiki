@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**PC Atari Emulator** is a emulator for **Atari 2600** made by **John Dullea** and has a **Freeware** license.
+**PC Atari Emulator** is a emulator for **Atari 2600** made by **John Dullea** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.6 (x86)**, released on **2002-03-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcaewin.exe**.
 

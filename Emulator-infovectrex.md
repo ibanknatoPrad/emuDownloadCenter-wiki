@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**InfoVectrex** is a emulator for **GCE/MB Vectrex** made by **Jay's Factory** and has a **Freeware** license.
+**InfoVectrex** is a emulator for **GCE/MB Vectrex** made by **Jay's Factory** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.3j (x86)**, released on **2006-07-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **InfoVectrex.exe**.
 

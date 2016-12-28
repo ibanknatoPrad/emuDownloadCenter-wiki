@@ -7,7 +7,7 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **3dmoo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-3dmoo#menu) | :white_circle: 2014 | Open Source |
-| [:file_folder: **Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | :large_blue_circle: 2015 | GPLv2 |
+| [:file_folder: **Citra**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-citra#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
 | [:file_folder: **TronDS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tronds#menu) | :large_blue_circle: 2015 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

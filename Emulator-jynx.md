@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license.
+**Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.8 (x86)**, released on **2014-09-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Jynx-Windows-32bit.exe**.
 

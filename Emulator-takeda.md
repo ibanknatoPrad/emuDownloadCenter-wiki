@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Takeda Archive** is a emulator for **Fujitsu FM-7** made by **Various** and has a **GNU GPLv2** license.
+**Takeda Archive** is a emulator for **Fujitsu FM-7** made by **Various** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **13.04.16 (x86)**, released on **2016-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **binary_vc12\msx1.exe**.
 

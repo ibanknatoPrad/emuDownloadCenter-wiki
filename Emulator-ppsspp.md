@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**PPSSPP** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard** and has a **GNU GPLv2** license.
+**PPSSPP** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3 (x64)**, released on **2016-09-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PPSSPPWindows64.exe**.
 

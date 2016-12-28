@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Hyper64** is a emulator for **Commodore 64** made by **Benjamin 'BeRo' Rosseaux** and has a **Freeware** license.
+**Hyper64** is a emulator for **Commodore 64** made by **Benjamin 'BeRo' Rosseaux** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.00.2008.08.08 (x86)**, released on **2008-08-08**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Hyper64.exe**.
 

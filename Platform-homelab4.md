@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Hola!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hola#menu) | :red_circle: 2009 | UNKNOWN |
+| [:file_folder: **Hola!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hola#menu) | :red_circle: 2009 | Freeware |
 | [:file_folder: **HomeLAB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-homelab#menu) | :red_circle: 2007 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

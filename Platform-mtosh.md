@@ -7,7 +7,7 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **Basilisk II**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-basiliskii#menu) | :large_blue_circle: 2015 | GNU GPLv2 |
-| [:file_folder: **Gemulator 9.0**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gemulator#menu) | :red_circle: 2008 | UNKNOWN |
+| [:file_folder: **Gemulator 9.0**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-gemulator#menu) | :red_circle: 2008 | Freeware |
 | [:file_folder: **Mini vMac**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-minivmac#menu) | :red_circle: 2013 | GNU GPLv2 |
 | [:file_folder: **PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | :red_circle: 2013 | GNU GPLv2 |
 | [:file_folder: **PearPC**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pearpc#menu) | :red_circle: 2011 | GNU GPLv2 |

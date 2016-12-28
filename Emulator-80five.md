@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**MarioNES / 80five** is a emulator for **Nintendo NES/Famicom** made by **Gary Boyes** and has a **UNKNOWN** license.
+**MarioNES / 80five** is a emulator for **Nintendo NES/Famicom** made by **Gary Boyes** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **x.xx (x86)**, released on **2004-08-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **80five.exe**.
 

@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2005
 
-**Bliss** is a emulator for **Mattel Intellivision** made by **Kyle Davis** and has a **GNU GPL** license.
+**Bliss** is a emulator for **Mattel Intellivision** made by **Kyle Davis** and has a **GNU GPL** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.5 (x86)**, released on **2005-05-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Bliss.exe**.
 

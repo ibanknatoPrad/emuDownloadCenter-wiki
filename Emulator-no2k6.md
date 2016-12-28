@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**no$2k6** is a emulator for **Atari 2600** made by **Martin Korth** and has a **Freeware** license.
+**no$2k6** is a emulator for **Atari 2600** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2012-10-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$2K6.exe**.
 

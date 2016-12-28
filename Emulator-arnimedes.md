@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**ARNIMEDES** is a emulator for **Amstrad CPC** made by **Oliver Lenz** and has a **UNKNOWN** license.
+**ARNIMEDES** is a emulator for **Amstrad CPC** made by **Oliver Lenz** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.02 (x86)**, released on **2012-07-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinArnie.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**neutrinoSX2** is a emulator for **Sony PlayStation 2** made by **Muad and nSX2 Team** and has a **GNU GPLv2** license.
+**neutrinoSX2** is a emulator for **Sony PlayStation 2** made by **Muad and nSX2 Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.08.1 (x86)**, released on **2003-06-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nSX2.exe**.
 

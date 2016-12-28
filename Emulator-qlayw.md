@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1999
 
-**QLAY** is a emulator for **Sinclair QL** made by **Jan Venema** and has a **Freeware - Non-Commercial** license.
+**QLAY** is a emulator for **Sinclair QL** made by **Jan Venema** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.90 (x86)**, released on **1999-01-30**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlayw.exe**.
 

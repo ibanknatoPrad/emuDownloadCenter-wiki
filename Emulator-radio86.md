@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**RADIO-86** is a emulator for **Mikrosha Radio-86RK** made by **Alexander Demin** and has a **GNU GPLv2** license.
+**RADIO-86** is a emulator for **Mikrosha Radio-86RK** made by **Alexander Demin** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.0.1 (x86)**, released on **2007-02-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **radio86.exe**.
 

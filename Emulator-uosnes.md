@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2010
 
-**uosnes** is a emulator for **Nintendo Super Nintendo** made by **sanmaiwashi** and has a **GNU GPLv2** license.
+**uosnes** is a emulator for **Nintendo Super Nintendo** made by **sanmaiwashi** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2010.08.25 (x86)**, released on **2010-08-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **uosnesw.exe**.
 

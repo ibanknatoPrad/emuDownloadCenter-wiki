@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**Dualis** is a emulator for **Nintendo DS** made by **Mic** and has a **UNKNOWN** license.
+**Dualis** is a emulator for **Nintendo DS** made by **Mic** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **20.4 (x86)**, released on **2007-05-27**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dualis.exe**.
 

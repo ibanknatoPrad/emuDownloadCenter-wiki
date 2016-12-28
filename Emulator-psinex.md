@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2001
 
-**PSinex** is a emulator for **Sony PlayStation 1** made by **pSyChOjAk and Shunt** and has a **GNU GPLv2** license.
+**PSinex** is a emulator for **Sony PlayStation 1** made by **pSyChOjAk and Shunt** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **r3 (x86)**, released on **2001-11-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **psinex pc emulator.exe**.
 

@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Alice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-alice32#menu) | :red_circle: 2006 | Freeware - Non-Commercial |
+| [:file_folder: **Alice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-alice32#menu) | :red_circle: 2006 | Freeware |
 | [:file_folder: **DCALICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcalice#menu) | :white_circle: 2014 | Freeware |
 | [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: 2008 | Freeware |
 

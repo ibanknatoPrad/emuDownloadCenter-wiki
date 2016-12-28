@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2011
 
-**PearPC** is a emulator for **Apple Macintosh** made by **Sebastian Biallas and Others** and has a **GNU GPLv2** license.
+**PearPC** is a emulator for **Apple Macintosh** made by **Sebastian Biallas and Others** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.5 (x86)**, released on **2011-07-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ppc.exe**.
 

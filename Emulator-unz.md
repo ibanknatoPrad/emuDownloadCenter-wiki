@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2010
 
-**UNZ** is a emulator for **Fujitsu FM Towns** made by **Kasanova** and has a **Freeware** license.
+**UNZ** is a emulator for **Fujitsu FM Towns** made by **Kasanova** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.5L30 (x86)**, released on **2010-03-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Unz.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license.
+**Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.95 (x86)**, released on **2004-02-12**, it runs on **Windows XP,Vista**, you can start this emulator with **PT.exe**.
 

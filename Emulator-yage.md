@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1998
 
-**YAGE** is a emulator for **Amstrad CPC** made by **Antoine Pitrou** and has a **Freeware** license.
+**YAGE** is a emulator for **Amstrad CPC** made by **Antoine Pitrou** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.91 (x86)**, released on **1998-10-26**, it runs on **Windows 95,98,XP**, you can start this emulator with **YAGE.exe**.
 

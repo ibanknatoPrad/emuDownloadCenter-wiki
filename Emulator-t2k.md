@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**Jaguar Tempest 2000 Emulator** is a emulator for **Atari Jaguar** made by **Dave Oldcorn aka Dio** and has a **Freeware** license.
+**Jaguar Tempest 2000 Emulator** is a emulator for **Atari Jaguar** made by **Dave Oldcorn aka Dio** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.06b (x86)**, released on **2007-02-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **t2k.exe**.
 

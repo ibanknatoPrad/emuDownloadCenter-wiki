@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2015
 
-**DesMuME** is a emulator for **Nintendo DS** made by **yopyop, DeSmuME team** and has a **GNU GPLv2** license.
+**DesMuME** is a emulator for **Nintendo DS** made by **yopyop, DeSmuME team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.9.11-win64 (x64)**, released on **2015-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **DeSmuME_0.9.11_x64.exe**.
 

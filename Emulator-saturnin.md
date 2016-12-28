@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2005
 
-**Saturnin** is a emulator for **Sega Saturn** made by **Runik** and has a **Freeware** license.
+**Saturnin** is a emulator for **Sega Saturn** made by **Runik** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.40 (x86)**, released on **2005-12-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Saturnin.exe**.
 

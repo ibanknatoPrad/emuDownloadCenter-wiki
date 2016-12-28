@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**BizHawk** is a emulator for **Atari 2600** made by **BizHawk Team** and has a **Freeware** license.
+**BizHawk** is a emulator for **Atari 2600** made by **BizHawk Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.11.8.2 (x86)**, released on **2016-10-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EmuHawk.exe**.
 

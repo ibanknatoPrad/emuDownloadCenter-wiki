@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2009
 
-**Daphne** is a emulator for **MCA Laserdisc Arcade** made by **Matt Ownby** and has a **GNU GPLv2** license.
+**Daphne** is a emulator for **MCA Laserdisc Arcade** made by **Matt Ownby** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.0 (x86)**, released on **2009-04-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **daphne.exe**.
 

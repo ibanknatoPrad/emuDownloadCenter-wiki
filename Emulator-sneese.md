@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2006
 
-**SNEeSe** is a emulator for **Nintendo Super Nintendo** made by **Charles Bilyue** and has a **Freeware** license.
+**SNEeSe** is a emulator for **Nintendo Super Nintendo** made by **Charles Bilyue** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.853b (x86)**, released on **2006-08-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **sneesew.exe**.
 

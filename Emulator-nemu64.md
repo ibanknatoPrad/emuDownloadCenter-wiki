@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2003
 
-**Nemu64** is a emulator for **Nintendo N64** made by **Lemmy, LaC, hWnd** and has a **Freeware** license.
+**Nemu64** is a emulator for **Nintendo N64** made by **Lemmy, LaC, hWnd** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.8 (x86)**, released on **2003-03-23**, it runs on **Windows XP,Vista**, you can start this emulator with **nemu64.exe**.
 

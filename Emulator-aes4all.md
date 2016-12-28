@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**AES4ALL** is a emulator for **SNK NeoGeo** made by **Chui** and has a **UNKNOWN** license.
+**AES4ALL** is a emulator for **SNK NeoGeo** made by **Chui** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **beta4 (x86)**, released on **2011-10-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aes4all.exe**.
 

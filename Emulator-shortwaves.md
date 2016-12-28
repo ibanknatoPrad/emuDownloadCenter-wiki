@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**Short Waves** is a emulator for **Sony PlayStation 3** made by **InoriRus** and has a **UNKNOWN** license.
+**Short Waves** is a emulator for **Sony PlayStation 3** made by **InoriRus** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.0.2 (x86)**, released on **2014-01-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bin-32\sw_emu.exe**.
 

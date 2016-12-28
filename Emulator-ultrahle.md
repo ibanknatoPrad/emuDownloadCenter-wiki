@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2002
 
-**UltraHLE** is a emulator for **Nintendo N64** made by **Epsilon and RealityMan** and has a **Freeware** license.
+**UltraHLE** is a emulator for **Nintendo N64** made by **Epsilon and RealityMan** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1.0 (x86)**, released on **2002-08-04**, it runs on **Windows XP,Vista**, you can start this emulator with **UltraHLE.exe**.
 

@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | :white_circle: 2014 | UNKNOWN |
+| [:file_folder: **Oricutron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-oricutron#menu) | :white_circle: 2014 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

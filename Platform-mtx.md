@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Mt. Xemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mtxemu#menu) | :red_circle: 2000 | UNKNOWN |
+| [:file_folder: **Mt. Xemu**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mtxemu#menu) | :red_circle: 2000 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

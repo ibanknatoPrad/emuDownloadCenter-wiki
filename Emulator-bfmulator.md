@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**BFMulator** is a emulator for **Fruit Machine** made by **Juergen Buchmueller, Mike Balfour, Howie Cohen, Oliver Galibert** and has a **Freeware** license.
+**BFMulator** is a emulator for **Fruit Machine** made by **Juergen Buchmueller, Mike Balfour, Howie Cohen, Oliver Galibert** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.07 (x86)**, released on **2005-11-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BFMulator.exe**.
 

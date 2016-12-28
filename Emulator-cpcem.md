@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**CPC-em** is a emulator for **Amstrad CPC** made by **Tom Walker** and has a **Freeware** license.
+**CPC-em** is a emulator for **Amstrad CPC** made by **Tom Walker** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.4-dos (x86)**, released on **2004-07-07**, it runs on **DOS 6.22**, you can start this emulator with **CPC-EM.exe**.
 

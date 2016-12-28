@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2009
 
-**CPCemu** is a emulator for **Amstrad CPC** made by **Marco Vieth** and has a **Freeware** license.
+**CPCemu** is a emulator for **Amstrad CPC** made by **Marco Vieth** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.7 (x86)**, released on **2009-12-04**, it runs on **Windows XP,Vista,7**, you can start this emulator with **cpcemu.exe**.
 

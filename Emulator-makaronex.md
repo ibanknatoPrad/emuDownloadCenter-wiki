@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**MakaronEX** is a emulator for **Sega Dreamcast** made by **MakaronEx team** and has a **Freeware** license.
+**MakaronEX** is a emulator for **Sega Dreamcast** made by **MakaronEx team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **4.1 (x86)**, released on **2012-12-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MakaronEX.exe**.
 

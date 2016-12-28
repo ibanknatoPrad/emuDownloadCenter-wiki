@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**GCEmu** is a emulator for **Nintendo GameCube** made by **Duddie, Tratax, Pete Bernert** and has a **Freeware** license.
+**GCEmu** is a emulator for **Nintendo GameCube** made by **Duddie, Tratax, Pete Bernert** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2005.12.11 (x86)**, released on **2005-12-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gcemu.exe**.
 

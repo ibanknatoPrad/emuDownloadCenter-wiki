@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2001
 
-**EX68** is a emulator for **Sharp X68000** made by **Yamama** and has a **GNU GPLv2** license.
+**EX68** is a emulator for **Sharp X68000** made by **Yamama** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **215 (x86)**, released on **2001-07-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EX68.exe**.
 

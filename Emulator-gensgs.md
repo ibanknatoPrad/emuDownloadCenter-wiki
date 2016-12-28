@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2010
 
-**Gens/GS** is a emulator for **Sega Mega Drive 32X** made by **David Korth** and has a **GNU GPLv2** license.
+**Gens/GS** is a emulator for **Sega Mega Drive 32X** made by **David Korth** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.15.5-gs-r7 (x86)**, released on **2010-10-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gens.exe**.
 

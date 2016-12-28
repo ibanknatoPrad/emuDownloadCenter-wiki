@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2008
 
-**ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton** and has a **Freeware** license.
+**ProSystem** is a emulator for **Atari 7800** made by **Greg Stanton** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.3 (x86)**, released on **2008-12-05**, it runs on **Windows XP,Vista,7,8**, you can start this emulator with **ProSystem.exe**.
 

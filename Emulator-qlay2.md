@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**QLAY2** is a emulator for **Sinclair QL** made by **Jimmy Montesinos and Raphael Zhou** and has a **Freeware - Non-Commercial** license.
+**QLAY2** is a emulator for **Sinclair QL** made by **Jimmy Montesinos and Raphael Zhou** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.95 (x86)**, released on **2003-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **qlay2.exe**.
 

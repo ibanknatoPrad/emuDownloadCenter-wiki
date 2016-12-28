@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2010
 
-**Future Pinball** is a emulator for **Pinball - Future Pinball** made by **Christopher Leathley** and has a **Freeware** license.
+**Future Pinball** is a emulator for **Pinball - Future Pinball** made by **Christopher Leathley** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.9.1.20101231 (x86)**, released on **2010-12-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Future Pinball.exe**.
 

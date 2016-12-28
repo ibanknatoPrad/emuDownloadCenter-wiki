@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**Gekko** is a emulator for **Nintendo GameCube** made by **shonumi** and has a **GNU GPLv2** license.
+**Gekko** is a emulator for **Nintendo GameCube** made by **shonumi** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2012.07.26 (x86)**, released on **2012-07-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gekko_qtRelease.exe**.
 

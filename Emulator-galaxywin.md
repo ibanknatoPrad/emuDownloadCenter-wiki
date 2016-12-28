@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**Galaxy Win** is a emulator for **Galaksija - Galaksija Plus** made by **Sadrzaj** and has a **UNKNOWN** license.
+**Galaxy Win** is a emulator for **Galaksija - Galaksija Plus** made by **Sadrzaj** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.3 (x86)**, released on **2005-02-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Galaxy.exe**.
 

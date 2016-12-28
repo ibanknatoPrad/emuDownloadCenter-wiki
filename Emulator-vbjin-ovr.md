@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**VBjin-OVR** is a emulator for **Nintendo Virtual Boy** made by **Jay Mattis** and has a **Freeware** license.
+**VBjin-OVR** is a emulator for **Nintendo Virtual Boy** made by **Jay Mattis** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.0 (x86)**, released on **2016-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VBjin-OVR.exe**.
 

@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
-| [:file_folder: **Return of CoCo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-roc#menu) | :red_circle: 2000 | UNKNOWN |
+| [:file_folder: **Return of CoCo**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-roc#menu) | :red_circle: 2000 | Freeware |
 | [:file_folder: **XRoar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xroar#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

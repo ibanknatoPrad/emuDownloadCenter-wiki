@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2008
 
-**NeonDS** is a emulator for **Nintendo DS** made by **release, jitc, notrace** and has a **Freeware** license.
+**NeonDS** is a emulator for **Nintendo DS** made by **release, jitc, notrace** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.2.1 (x86)**, released on **2008-07-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeonDS.exe**.
 

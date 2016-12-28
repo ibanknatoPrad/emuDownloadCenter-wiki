@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**B-em** is a emulator for **Acorn BBC** made by **Tom Walker** and has a **GNU GPLv2** license.
+**B-em** is a emulator for **Acorn BBC** made by **Tom Walker** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.2 (x86)**, released on **2012-06-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **B-em.exe**.
 

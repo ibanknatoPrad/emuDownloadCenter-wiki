@@ -8,6 +8,6 @@
 |:---------|:-------------|:--------|
 | [:file_folder: **Nucleus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nucleus#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
 | [:file_folder: **RPCS3**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rpcs3#menu) | :large_blue_circle: 2016 | GNU GPLv2 |
-| [:file_folder: **Short Waves**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-shortwaves#menu) | :white_circle: 2014 | UNKNOWN |
+| [:file_folder: **Short Waves**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-shortwaves#menu) | :white_circle: 2014 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

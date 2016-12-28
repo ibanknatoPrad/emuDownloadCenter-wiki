@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2001
 
-**ENTER** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker** and has a **GNU GPLv2** license.
+**ENTER** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2001.08.16 (x86)**, released on **2001-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **enter.exe**.
 

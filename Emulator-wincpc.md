@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**WinCPC** is a emulator for **Amstrad CPC** made by **Flynn** and has a **Freeware** license.
+**WinCPC** is a emulator for **Amstrad CPC** made by **Flynn** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.9.26 (x86)**, released on **2007-01-31**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinCPC.exe**.
 

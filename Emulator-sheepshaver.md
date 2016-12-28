@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**Sheep Shaver** is a emulator for **Apple Macintosh** made by **Christian Bauer aka cebix** and has a **GNU GPLv2** license.
+**Sheep Shaver** is a emulator for **Apple Macintosh** made by **Christian Bauer aka cebix** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2013.05.06 (x86)**, released on **2013-05-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SheepShaver.exe**.
 

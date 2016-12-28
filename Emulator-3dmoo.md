@@ -12,7 +12,7 @@
 
 **Developement state:** :white_circle: 2014
 
-**3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly** and has a **Open Source** license.
+**3dmoo** is a emulator for **Nintendo 3DS** made by **normmatt and ichfly** and has a **Open Source** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **20140603 (x86)**, released on **2014-06-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **3dmoo.exe**.
 

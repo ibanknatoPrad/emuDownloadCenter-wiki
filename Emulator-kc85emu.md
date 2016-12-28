@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**KC85EMU** is a emulator for **Robotron KC series** made by **Frank Ludwig** and has a **GNU GPL** license.
+**KC85EMU** is a emulator for **Robotron KC series** made by **Frank Ludwig** and has a **GNU GPL** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.85.3 (x86)**, released on **2011-01-02**, it runs on **DOS 6.2**, you can start this emulator with **KC85EMU.EXE**.
 

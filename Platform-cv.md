@@ -7,7 +7,7 @@
 | Emulator | Developement | License |
 |:---------|:-------------|:--------|
 | [:file_folder: **CoolCV**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-coolcv#menu) | :large_blue_circle: 2016 | Donationware |
-| [:file_folder: **creatiVision Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-creativision#menu) | :large_blue_circle: 2016 | UNKNOWN |
+| [:file_folder: **creatiVision Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-creativision#menu) | :large_blue_circle: 2016 | Freeware |
 | [:file_folder: **FunnyMU**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-funnymu#menu) | :red_circle: 2002 | Freeware |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

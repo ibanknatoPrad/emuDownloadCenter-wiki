@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1999
 
-**PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **UNKNOWN** license.
+**PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-05-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pkemu.exe**.
 

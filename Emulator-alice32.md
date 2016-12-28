@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**Alice32** is a emulator for **Matra/Hachette Alice** made by **James the Animal Tamer** and has a **Freeware - Non-Commercial** license.
+**Alice32** is a emulator for **Matra/Hachette Alice** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.40 (x86)**, released on **2006-01-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **alice32.exe**.
 

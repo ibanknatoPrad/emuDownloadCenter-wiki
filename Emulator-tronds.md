@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2015
 
-**TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco** and has a **Freeware** license.
+**TronDS** is a emulator for **Nintendo 3DS** made by **jocopoco** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.0.5 (x86)**, released on **2015-02-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TronDS.exe**.
 

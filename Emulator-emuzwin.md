@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**EmuZWin** is a emulator for **Sinclair ZX Spectrum** made by **Vladimir Kladov** and has a **UNKNOWN** license.
+**EmuZWin** is a emulator for **Sinclair ZX Spectrum** made by **Vladimir Kladov** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.7 (x86)**, released on **2006-03-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EmuZwin.exe**.
 

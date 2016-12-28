@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team** and has a **GNU GPLv2** license.
+**Mednafen** is a emulator for **Nintendo FDS** made by **The Mednafen Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.9.39-x64 (x64)**, released on **2016-08-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **mednafen.exe**.
 

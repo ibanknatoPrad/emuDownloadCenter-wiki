@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**Win994a** is a emulator for **Texas Instruments TI-99/4A** made by **Cory Burr** and has a **Freeware** license.
+**Win994a** is a emulator for **Texas Instruments TI-99/4A** made by **Cory Burr** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.010-win64 (x64)**, released on **2013-03-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Win994a_x64.exe**.
 

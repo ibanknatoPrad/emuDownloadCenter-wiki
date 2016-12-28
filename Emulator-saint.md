@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**SainT** is a emulator for **Atari ST** made by **Arnaud Carre and James Boulton** and has a **UNKNOWN** license.
+**SainT** is a emulator for **Atari ST** made by **Arnaud Carre and James Boulton** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.40 (x86)**, released on **2015-12-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SainT.exe**.
 

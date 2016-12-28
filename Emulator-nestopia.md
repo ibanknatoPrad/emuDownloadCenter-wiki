@@ -12,7 +12,7 @@
 
 **Developement state:** :white_circle: 2014
 
-**Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license.
+**Nestopia** is a emulator for **Nintendo NES/Famicom** made by **Martin Freij** and has a **Open Source** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.46 (x86)**, released on **2014-09-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nestopia.exe**.
 

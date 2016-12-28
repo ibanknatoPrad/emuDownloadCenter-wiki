@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**DSVZ200** is a emulator for **Vtech Laser 200/210/310** made by **The_Author and DynaChicken** and has a **Freeware** license.
+**DSVZ200** is a emulator for **Vtech Laser 200/210/310** made by **The_Author and DynaChicken** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2016.10.24 (x86)**, released on **2016-10-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Z80.exe**.
 

@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2004
 
-**JPeMu IMPACT Emulator** is a emulator for **Fruit Machine** made by **Tony Friery** and has a **Freeware** license.
+**JPeMu IMPACT Emulator** is a emulator for **Fruit Machine** made by **Tony Friery** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.51 (x86)**, released on **2004-12-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **JPeMu v2.51.exe**.
 

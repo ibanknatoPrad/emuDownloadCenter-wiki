@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**ICE64** is a emulator for **Nintendo N64** made by **Pokefan** and has a **UNKNOWN** license.
+**ICE64** is a emulator for **Nintendo N64** made by **Pokefan** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **3.7.0b (x86)**, released on **2012-10-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ICE64.exe**.
 

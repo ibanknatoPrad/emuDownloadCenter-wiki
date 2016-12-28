@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**Capcom Play System 3 Emulator** is a emulator for **Capcom Play System 3** made by **ElSemi** and has a **UNKNOWN** license.
+**Capcom Play System 3 Emulator** is a emulator for **Capcom Play System 3** made by **ElSemi** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0a (x86)**, released on **2007-07-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **emulator.exe**.
 

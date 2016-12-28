@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**XM8** is a emulator for **NEC PC-8801** made by **PI.** and has a **GNU GPLv2** license.
+**XM8** is a emulator for **NEC PC-8801** made by **PI.** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.61-win32 (x86)**, released on **2015-12-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **XM8.exe**.
 

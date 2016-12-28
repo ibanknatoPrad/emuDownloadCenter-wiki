@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson** and has a **Freeware** license.
+**WinAPE** is a emulator for **Amstrad CPC** made by **Richard Wilson** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0b2 (x86)**, released on **2016-01-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinApe.exe**.
 

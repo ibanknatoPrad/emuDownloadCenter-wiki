@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2012
 
-**faux1** is a emulator for **Apple 1** made by **Edward Patel** and has a **Freeware** license.
+**faux1** is a emulator for **Apple 1** made by **Edward Patel** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.95.9 (x86)**, released on **2012-02-22**, it runs on **Windows XP,Vista,7**, you can start this emulator with **faux1.exe**.
 
