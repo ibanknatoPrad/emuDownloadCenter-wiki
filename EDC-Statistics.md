@@ -5,13 +5,13 @@ Last update: 2017-01-01
 | :bar_chart: Emulator Statistics | |
 |:-----|------:|
 | Platforms available | 171 |
-| Platform Emulators | 431 |
-| Emulator Versions  | 1793 |
+| Platform Emulators | 434 |
+| Emulator Versions  | 1802 |
 
 | :package: Archive Statistics | |
 |:-----|------:|
-| Archive size | 4159 MB |
-| Unpacked size | 13666 MB |
+| Archive size | 4160 MB |
+| Unpacked size | 13669 MB |
 | Compression ratio | 70% |
 ***
 ## History
