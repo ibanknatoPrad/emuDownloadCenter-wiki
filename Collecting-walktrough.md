@@ -82,7 +82,7 @@ Contents of the DOWNLOADS INI file:
     EMU_ExecutableFile          = Executable file to start the emulator .EXE or .COM, high exeption for .CMD and .BAT files.
     EMU_ExecutableFolder        = Relative path inside the archive where the executable file is located (with ending slash \).
     EMU_OS                      = Operating system, can be: Windows|Linux|Mac|DOS.
-    EMU_OSVersion               = Version of the operating system, comma seperated, can be: 95|98|XP|Vista|7|8|10|Ubuntu|Debian|OS-X|6.22.
+    EMU_OSVersion               = Version of the operating system, comma seperated, can be: 95|98|XP|Vista|7|8|10|Ubuntu|Debian|Fedora|Mandriva|SUSE|OS-X|6.22.
     EMU_OSArchitecture          = Operating system architecture, can be: x86 (for win32) or x64 (for win64).
     INFO_PackedSize             = Autofilled by EDC manager in this GitHub repo. (Packed size of the archive contents).
     INFO_UnpackedSize           = Autofilled by EDC manager in this GitHub repo. (Unpacked size of the archive contents).
@@ -93,8 +93,13 @@ Contents of the DOWNLOADS INI file:
 * **`[VERSION]`** mostly exists of numbers, all letters have to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
 * This version number must exist in the emulator download folder on a EDC repository, or EDC manager cannot find it to fill the details!
 * In emulators, always put the latest version on top and the oldest at the bottom!
-* In versions, always put x64 versions top and x86 beneath x64.
+* In versions, always put x64 versions top and x86 beneath x64, then Installers, Linux, Mac, Source
 * Content category can be left 'Emulator' for ContentType: Program / Installer / Source
+* Determine Linux distrubutions:
+
+* NO Extension = Ubuntu
+* .DEB = Debian
+* .RPM = Fedora, Mandriva, SUSE
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -104,7 +109,7 @@ Example Contents (Emulator Potator for Watara Supervision):
     FILE_Notes                  = 
     EMU_DownloadUrl             = https://github.com/PhoenixInteractiveNL/edc-repo0001/raw/master/potator/
     EMU_ReleaseDate             = 2004-10-19
-    EMU_Notes                   = Has a commandline parameter to start roms.
+    EMU_Notes                   = Does not have commandline parameter to start roms.
     EMU_ExecutableFile          = Potator.exe
     EMU_ExecutableFolder        =
     EMU_OS                      = Windows

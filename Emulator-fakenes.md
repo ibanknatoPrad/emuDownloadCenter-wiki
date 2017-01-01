@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fakenes_logo_200.jpg "FakeNES logo.")
+
 **Developement state:** :red_circle: 2007
 
 **FakeNES** is a emulator for **Nintendo NES/Famicom** made by **randilyn, TRAC, Lord_Nightmare and KittyCat** and has a **Freeware** license, the GUI language is **English**.

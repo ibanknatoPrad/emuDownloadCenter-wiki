@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James The Animal Tamer** and has a **Freeware** license, the GUI language is **English**.
+**Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.72a (x86)**, released on **2008-08-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **aquarius.exe**.
 
@@ -18,7 +18,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Virtual Aquarius is an emulator for the Radofin Electronics Aquarius Home Computer System._
 
-[:link: **Emulator website**](http://www.lchr.org/a/18/2t/)
+[:link: **Emulator website**](http://www.geocities.ws/emucompboy/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/vaquarius/emulator_screen_01.jpg "Virtual Aquarius screenshot.")

@@ -1,17 +1,17 @@
 ## EDC Statistics
 
-Last update: 2016-12-24
+Last update: 2017-01-01
 
 | :bar_chart: Emulator Statistics | |
 |:-----|------:|
-| Platforms available | 170 |
-| Platform Emulators | 423 |
-| Emulator Versions  | 1661 |
+| Platforms available | 171 |
+| Platform Emulators | 431 |
+| Emulator Versions  | 1793 |
 
 | :package: Archive Statistics | |
 |:-----|------:|
-| Archive size | 3879 MB |
-| Unpacked size | 12866 MB |
+| Archive size | 4159 MB |
+| Unpacked size | 13666 MB |
 | Compression ratio | 70% |
 ***
 ## History

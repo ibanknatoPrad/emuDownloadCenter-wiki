@@ -1,7 +1,7 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: Hola!** |
+| **Emulator: HoLa!** |
 |:---------|
 | [:clipboard: About](#about) |
 | [:sunrise: Screenshot](#screenshot) |
@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2009
 
-**Hola!** is a emulator for **HomeLAB series - HomeLAB 4** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.
+**HoLa!** is a emulator for **HomeLAB series - HomeLAB 4** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **Hungarian**.
 
 The latest version of the emulator on EDC is **2.2b (x86)**, released on **2009-05-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **HomeLab.exe**.
 
@@ -21,7 +21,7 @@ _Hola! is a HomeLab Model 4 emulator. The Emulator and all documentation is in H
 [:link: **Emulator website**](http://gaia.atilia.eu/)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hola/emulator_screen_01.jpg "Hola! screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/hola/emulator_screen_01.jpg "HoLa! screenshot.")
 ***
 ## Downloads
 Legend: | 
@@ -36,5 +36,6 @@ Legend: |
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **2.2b**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/hola/2.2b.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2009-05-16 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/hola/2.2b_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/hola/2.2b_contents.txt) | 148 KB |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **2.0-linux**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/hola/2.0-linux.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_linux_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2006-12-14 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/hola/2.0-linux_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/hola/2.0-linux_contents.txt) | 64 KB |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

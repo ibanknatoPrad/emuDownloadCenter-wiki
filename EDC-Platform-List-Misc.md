@@ -7,6 +7,7 @@
 | Platform | Category | ECC ID |
 |:---------|:---------|:-------|
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_dosbox_nav.png) **DOSbox - DOS emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-dosbox) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_misc_24.png) Misc | dosbox |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_flash_nav.png) **Adobe Flash Games**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-flash) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_misc_24.png) Misc | flash |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fp_nav.png) **Pinball - Future Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fp) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_misc_24.png) Misc | fp |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_platform/ecc_fruit_nav.png) **Fruit Machine**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Platform-fruit) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_misc_24.png) Misc | fruit |
 

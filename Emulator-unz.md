@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **0.5L30 (x86)**, released on **201
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _UNZ is a Fujitsu FM Towns and FM Marty emulator._
+
+[:link: **Emulator website**](http://members.at.infoseek.co.jp/townsemu/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/unz/emulator_screen_01.jpg "UNZ screenshot.")

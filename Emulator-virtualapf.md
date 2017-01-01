@@ -18,7 +18,7 @@ This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Virtual APF, an emulator for the APF Imagination Machine_
 
-[:link: **Emulator website**](http://www.geocities.com/emucompboy/)
+[:link: **Emulator website**](http://www.geocities.ws/emucompboy/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/virtualapf/emulator_screen_01.jpg "Virtual APF screenshot.")
