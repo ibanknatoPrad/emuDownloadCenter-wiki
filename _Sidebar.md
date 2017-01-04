@@ -11,11 +11,11 @@
 [**Collecting walktrough**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Collecting-walktrough)
 ***
 ### Data Export / API
-[**Export - ECC EMU INI**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/tree/master/export/ecc_emu_ini)
-
 [**Request Data Export**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Request-Data-Export)
 
 [**Request Frontend API**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Request-Frontend-API)
+
+[**Export - ECC EMU INI**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/tree/master/export/ecc_emu_ini)
 ***
 ### emuControlCenter
 [**emuControlCenter**](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki)
