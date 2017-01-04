@@ -1,6 +1,8 @@
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images/image_cloud_api.png "Request API")
 
-Hi, maybe you want to use emuDownloadCenter as API for you frontend?, no problem! The only software you need on the client side is: **7zip** to extract the archive contents.
+Hi, maybe you want to use emuDownloadCenter as API for you frontend?, no problem! The only software you need on the client side is:
+
+* **7zip** to extract the archive contents.
 
 You can even use your own configuration files on EDC, Together we will see how the API can be implemented for your Frontend!
 
