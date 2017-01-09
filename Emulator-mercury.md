@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**Mercury Revival** is a emulator for **Nintendo NES/Famicom** made by **Avgardisme** and has a **Freeware** license, the GUI language is **English**.
+**Mercury Revival** is a emulator for **Nintendo NES/Famicom** made by **Avgardisme** and has a **Freeware** license, the GUI language is **French**.
 
 The latest version of the emulator on EDC is **0.032 (x86)**, released on **2014-12-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Mercury.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **English**.
+**DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **French**.
 
 The latest version of the emulator on EDC is **2012.11.23 (x86)**, released on **2012-11-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dcmoto.exe**.
 

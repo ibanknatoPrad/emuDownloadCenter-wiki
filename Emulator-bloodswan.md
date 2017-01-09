@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**BLooDsWan** is a emulator for **Bandai Wonderswan** made by **Blood Soft** and has a **Freeware** license, the GUI language is **English**.
+**BLooDsWan** is a emulator for **Bandai Wonderswan** made by **Blood Soft** and has a **Freeware** license, the GUI language is **Spanish**.
 
 The latest version of the emulator on EDC is **0.2a (x86)**, released on **2002-04-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **BLooDsWan.exe**.
 

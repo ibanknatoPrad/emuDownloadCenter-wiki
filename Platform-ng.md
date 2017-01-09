@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
-| [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | :red_circle: 2002 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **Another Capcom (play system) Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ace#menu) | :red_circle: 2002 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_IT_24.png "Emulator GUI language: Italian") |
 | [:file_folder: **AES4ALL**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-aes4all#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **Calice32**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-calice#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **FB Alpha**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-fbalpha#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |

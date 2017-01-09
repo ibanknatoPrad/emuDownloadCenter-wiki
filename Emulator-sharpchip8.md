@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**SharpChip-8** is a emulator for **Unknown** made by **Yannick Comte aka Demonixis** and has a **GNU GPLv2** license, the GUI language is **English**.
+**SharpChip-8** is a emulator for **Unknown** made by **Yannick Comte aka Demonixis** and has a **GNU GPLv2** license, the GUI language is **French**.
 
 The latest version of the emulator on EDC is **0.5 (x86)**, released on **2011-11-19**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **SharpChip-8.exe**.
 

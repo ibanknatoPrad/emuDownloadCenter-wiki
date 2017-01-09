@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
-| [:file_folder: **DCMO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmo5#menu) | :red_circle: 2007 | GNU GPLv3 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
-| [:file_folder: **DCMOTO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmoto#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **DCMO5**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmo5#menu) | :red_circle: 2007 | GNU GPLv3 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_FR_24.png "Emulator GUI language: French") |
+| [:file_folder: **DCMOTO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmoto#menu) | :red_circle: 2012 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_FR_24.png "Emulator GUI language: French") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

@@ -6,6 +6,6 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
-| [:file_folder: **CP/M Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpmbox#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **CP/M Box**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cpmbox#menu) | :red_circle: 2013 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_ES_24.png "Emulator GUI language: Spanish") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

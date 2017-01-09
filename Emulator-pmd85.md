@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**PMD85** is a emulator for **Tesla PMD-85** made by **Martin Schotek** and has a **Freeware** license, the GUI language is **English**.
+**PMD85** is a emulator for **Tesla PMD-85** made by **Martin Schotek** and has a **Freeware** license, the GUI language is **Czechoslovakian**.
 
 The latest version of the emulator on EDC is **1.3p (x86)**, released on **2003-01-04**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PMD85v13p.exe**.
 
