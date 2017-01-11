@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**WinAGES** is a emulator for **Sega Mega Drive 32X** made by **Quinntesson** and has a **Freeware** license, the GUI language is **English**.
+**WinAGES** is a emulator for **Sega Mega Drive 32X, Sega Mega Drive/Genesis, Sega Game Gear, Sega Mega-CD, Sega Master System** made by **Quinntesson** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.30a (x86)**, released on **2002-11-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **AGES.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**XRoar** is a emulator for **Dragon Data - Dragon 32/64** made by **Ciaran Anscomb** and has a **GNU GPLv2** license, the GUI language is **English**.
+**XRoar** is a emulator for **Dragon Data - Dragon 32/64, Tandy/Radio Shack TRS-80 Color Computer** made by **Ciaran Anscomb** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.34.5-win64 (x64)**, released on **2016-10-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **xroar.exe**.
 

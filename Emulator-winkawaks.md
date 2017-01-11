@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**WinKawaks** is a emulator for **Capcom Play System 1** made by **The WinKawaks Team** and has a **Freeware** license, the GUI language is **English**.
+**WinKawaks** is a emulator for **Capcom Play System 1, Capcom Play System 2, SNK NeoGeo** made by **The WinKawaks Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.65 (x86)**, released on **2016-04-28**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinKawaks.exe**.
 

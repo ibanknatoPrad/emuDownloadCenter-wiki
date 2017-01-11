@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**MesaDX** is a emulator for **Sega Game Gear** made by **Eric R Quinn** and has a **Freeware** license, the GUI language is **English**.
+**MesaDX** is a emulator for **Sega Game Gear, Sega Master System** made by **Eric R Quinn** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.04 (x86)**, released on **2006-09-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **MesaDX.exe**.
 

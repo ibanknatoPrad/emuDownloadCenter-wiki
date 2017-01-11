@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2009
 
-**Xe** is a emulator for **Nintendo FDS** made by **Unknown** and has a **Freeware** license, the GUI language is **English**.
+**Xe** is a emulator for **Nintendo FDS, Fujitsu FM Towns, Nintendo Game Boy, Nintendo Game Boy Advance, Sega Mega Drive/Genesis, Sega Game Gear, Nintendo NES/Famicom, SNK NeoGeo, SNK NeoGeo CD, SNK NeoGeo Pocket, NEC Turbografx-16/PC-Engine, NEC PC-Engine CD, NEC PC-FX, Sega SG-1000, Sega Mega-CD, Sega Master System, Nintendo Super Nintendo, Bandai Wonderswan** made by **Unknown** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.16.2-win32-incl-glade (x86)**, released on **2009-04-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **xe.exe**.
 

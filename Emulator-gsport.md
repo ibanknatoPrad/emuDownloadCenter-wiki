@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :white_circle: 2014
 
-**GSPort** is a emulator for **Apple 2** made by **GSport Development Team** and has a **GNU GPLv2** license, the GUI language is **English**.
+**GSPort** is a emulator for **Apple 2, Apple 2GS** made by **GSport Development Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.31 (x86)**, released on **2014-06-21**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **GSport.exe**.
 

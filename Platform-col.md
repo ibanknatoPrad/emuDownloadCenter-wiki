@@ -6,8 +6,8 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
-| [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **BizHawk**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bizhawk#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **ColEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-colem#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **DSP Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dsp#menu) | :large_blue_circle: 2016 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_RU_24.png "Emulator GUI language: Russian") |

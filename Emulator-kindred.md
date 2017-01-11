@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Kindred** is a emulator for **Nintendo Game Boy** made by **Kris Bleakley** and has a **Freeware** license, the GUI language is **English**.
+**Kindred** is a emulator for **Nintendo Game Boy, Nintendo NES/Famicom, Sega Master System, Nintendo Super Nintendo** made by **Kris Bleakley** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.08 (x86)**, released on **2016-03-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **kindred.exe**.
 

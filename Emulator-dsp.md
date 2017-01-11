@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**DSP Emulator** is a emulator for **Unknown** made by **Leniad** and has a **Freeware** license, the GUI language is **English**.
+**DSP Emulator** is a emulator for **Unknown, Coleco ColecoVision, Amstrad CPC, Nintendo Game Boy, Nintendo Game Boy Color, Nintendo NES/Famicom, Sega Master System, Sinclair ZX Spectrum** made by **Leniad** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.17b1-win64 (x64)**, released on **2016-10-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **dsp.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Xpeccy** is a emulator for **MSX Home Computer** made by **SAM style** and has a **Freeware** license, the GUI language is **English**.
+**Xpeccy** is a emulator for **MSX Home Computer, Sinclair ZX Spectrum** made by **SAM style** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.6 (x86)**, released on **2016-05-09**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **xpeccy.exe**.
 

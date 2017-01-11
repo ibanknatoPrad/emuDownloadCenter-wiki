@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2000
 
-**NeoPocott** is a emulator for **SNK NeoGeo Pocket** made by **Julien FRELAT "Gollum"** and has a **Freeware** license, the GUI language is **English**.
+**NeoPocott** is a emulator for **SNK NeoGeo Pocket, SNK NeoGeo Pocket Color** made by **Julien FRELAT "Gollum"** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.38b (x86)**, released on **2000-12-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NeoPocott.exe**.
 

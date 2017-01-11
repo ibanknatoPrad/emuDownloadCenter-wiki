@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Yet Another Plus/4 Emulator SDL** is a emulator for **Commodore 16/plus4** made by **Attila Grosz** and has a **GNU GPLv2** license, the GUI language is **English**.
+**Yet Another Plus/4 Emulator SDL** is a emulator for **Commodore 16/plus4, Commodore 64** made by **Attila Grosz** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.70.1-win64 (x64)**, released on **2016-05-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **YapeSDL.exe**.
 

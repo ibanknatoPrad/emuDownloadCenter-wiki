@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**RCS Elf Emulator** is a emulator for **Comx WOL - Comx-35** made by **Michael H Riley** and has a **Freeware** license, the GUI language is **English**.
+**RCS Elf Emulator** is a emulator for **Comx WOL - Comx-35, RCA Studio II** made by **Michael H Riley** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.6 (x86)**, released on **2007-04-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **elf.exe**.
 

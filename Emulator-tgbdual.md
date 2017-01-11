@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2004
 
-**TGB Dual** is a emulator for **Nintendo Game Boy** made by **Gigo and Hii** and has a **Freeware** license, the GUI language is **English**.
+**TGB Dual** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Gigo and Hii** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **8.3 (x86)**, released on **2004-03-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **TGB_Dual.exe**.
 

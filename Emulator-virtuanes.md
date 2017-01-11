@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**VirtuaNES** is a emulator for **Nintendo FDS** made by **Norix** and has a **Freeware** license, the GUI language is **English**.
+**VirtuaNES** is a emulator for **Nintendo FDS, Nintendo NES/Famicom** made by **Norix** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.97e (x86)**, released on **2007-10-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VirtuaNES.exe**.
 

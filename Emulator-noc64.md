@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2005
 
-**no$c64** is a emulator for **Commodore 16/plus4** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.
+**no$c64** is a emulator for **Commodore 16/plus4, Commodore 64, Commodore VIC-20** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.1 (x86)**, released on **2005-07-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NO$C64.exe**.
 

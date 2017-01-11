@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2004
 
-**Calice32** is a emulator for **Capcom Play System 1** made by **David Raingeard** and has a **Freeware** license, the GUI language is **English**.
+**Calice32** is a emulator for **Capcom Play System 1, Capcom Play System 2, SNK NeoGeo, Sega System 16, Sega System 18, Sony ZiNc (ZN-1/ZN-2)** made by **David Raingeard** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.6.4 (x86)**, released on **2004-02-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Calice32.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**Makaron** is a emulator for **Sega Dreamcast** made by **Deunan** and has a **Freeware** license, the GUI language is **English**.
+**Makaron** is a emulator for **Sega Dreamcast, Sega Naomi** made by **Deunan** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **12.7 (x86)**, released on **2011-02-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **NAOMI.exe**.
 

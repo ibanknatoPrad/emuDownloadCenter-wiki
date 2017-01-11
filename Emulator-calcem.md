@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 1998
 
-**CalcEm** is a emulator for **Texas Instruments TI-82** made by **David Eriksson** and has a **GNU GPLv2** license, the GUI language is **English**.
+**CalcEm** is a emulator for **Texas Instruments TI-82, Texas Instruments TI-83, Texas Instruments TI-85** made by **David Eriksson** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.51 (x86)**, released on **1998-05-24**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CalcEm.exe**.
 

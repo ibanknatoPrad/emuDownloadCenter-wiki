@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**WinVZ300** is a emulator for **Vtech Laser 100/110** made by **Gavin Turner** and has a **Freeware** license, the GUI language is **English**.
+**WinVZ300** is a emulator for **Vtech Laser 100/110, Vtech Laser 200/210/310, Vtech Laser 350/500/700** made by **Gavin Turner** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2012.05.25 (x86)**, released on **2012-05-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **WinVZ300.exe**.
 

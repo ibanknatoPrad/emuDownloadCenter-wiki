@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**PicoDrive** is a emulator for **Sega Mega Drive/Genesis** made by **notaz** and has a **Non-standard** license, the GUI language is **English**.
+**PicoDrive** is a emulator for **Sega Mega Drive/Genesis, Sega Pico, Sega Mega-CD, Sega Master System** made by **notaz** and has a **Non-standard** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.45a (x86)**, released on **2008-05-22**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PicoDrive.exe**.
 

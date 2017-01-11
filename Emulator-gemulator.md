@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**Gemulator 9.0** is a emulator for **Atari 8-bit series** made by **Emulators, Inc.** and has a **Freeware** license, the GUI language is **English**.
+**Gemulator 9.0** is a emulator for **Atari 8-bit series, Apple Macintosh, Atari ST** made by **Emulators, Inc.** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **9.0 (x86)**, released on **2008-12-01**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **gemul8r9.exe**.
 

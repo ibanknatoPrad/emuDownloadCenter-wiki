@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2016
 
-**BizHawk** is a emulator for **Atari 2600** made by **BizHawk Team** and has a **Freeware** license, the GUI language is **English**.
+**BizHawk** is a emulator for **Atari 2600, Atari 7800, Apple 2, Coleco ColecoVision, Nintendo FDS, Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color, Sega Mega Drive/Genesis, Sega Game Gear, Atari Lynx, Nintendo N64, Nintendo NES/Famicom, NEC Turbografx-16/PC-Engine, NEC Supergrafx/PC-Engine 2, NEC PC-Engine CD, Sony PlayStation 1, Sega Saturn, Sega SG-1000, Sega Master System, Nintendo Super Nintendo, Texas Instruments TI-83, Bandai Wonderswan** made by **BizHawk Team** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.11.8.2 (x86)**, released on **2016-10-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EmuHawk.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Phoenix** is a emulator for **Panasonic 3DO** made by **Grishin Maxim Leonidovich aka Altmer** and has a **Free for Personal and Non-Commercial Use** license, the GUI language is **Russian**.
+**Phoenix** is a emulator for **Panasonic 3DO, Coleco ColecoVision, Sega Game Gear, Sega SG-1000, Sega Master System** made by **Grishin Maxim Leonidovich aka Altmer** and has a **Free for Personal and Non-Commercial Use** license, the GUI language is **Russian**.
 
 The latest version of the emulator on EDC is **2.8-win64 (x64)**, released on **2016-10-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **PhoenixEmuProject.exe**.
 

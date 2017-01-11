@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2006
 
-**Tunix 2001** is a emulator for **Emerson Arcadia 2001** made by **Gavin Turner** and has a **SPECIAL - 'see Licence Agreement.txt'** license, the GUI language is **English**.
+**Tunix 2001** is a emulator for **Emerson Arcadia 2001, Vtech Laser 200/210/310, Interton VC-4000, Sinclair ZX Spectrum** made by **Gavin Turner** and has a **SPECIAL** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2006.10.16 (x86)**, released on **2006-10-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Tunix2001.exe**.
 

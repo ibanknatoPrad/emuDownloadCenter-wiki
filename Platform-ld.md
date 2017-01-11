@@ -6,7 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
-| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_RU_24.png "Emulator GUI language: Russian") |
 | [:file_folder: **Daphne**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-daphne#menu) | :red_circle: 2009 | GNU GPLv2 | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
+| [:file_folder: **Emulator3000**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-emulator3000#menu) | :red_circle: 2004 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_RU_24.png "Emulator GUI language: Russian") |
 
 [:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)

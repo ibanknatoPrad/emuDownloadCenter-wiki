@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**CoolCV** is a emulator for **Coleco Adam** made by **Oscar Toledo G.** and has a **Donationware** license, the GUI language is **English**.
+**CoolCV** is a emulator for **Coleco Adam, Vtech Creativision, Sega SG-1000** made by **Oscar Toledo G.** and has a **Donationware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.6.3 (x86)**, released on **2016-01-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **CoolCV.exe**.
 

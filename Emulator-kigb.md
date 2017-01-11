@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2008
 
-**KiGB** is a emulator for **Nintendo Game Boy** made by **Ricky Liu and Scott Nash** and has a **GNU GPLv2** license, the GUI language is **English**.
+**KiGB** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Ricky Liu and Scott Nash** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.5 (x86)**, released on **2008-06-11**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **kigb.exe**.
 

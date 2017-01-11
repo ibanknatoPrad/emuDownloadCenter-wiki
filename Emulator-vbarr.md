@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2013
 
-**VisualBoyAdvance-rerecording** is a emulator for **Nintendo Game Boy** made by **Forgotten, the VBA Team and the VBA-rr Team** and has a **GNU GPLv2** license, the GUI language is **English**.
+**VisualBoyAdvance-rerecording** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color** made by **Forgotten, the VBA Team and the VBA-rr Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **23.5 (x86)**, released on **2013-04-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VBA-rr-svn480.exe**.
 

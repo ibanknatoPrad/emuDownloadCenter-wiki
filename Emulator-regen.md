@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2009
 
-**Regen** is a emulator for **Sega Mega Drive/Genesis** made by **AamirM** and has a **Non-standard** license, the GUI language is **English**.
+**Regen** is a emulator for **Sega Mega Drive/Genesis, Sega Game Gear, Sega SC-3000, Sega SG-1000, Sega Master System** made by **AamirM** and has a **Non-standard** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.972 (x86)**, released on **2009-10-25**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Regen.exe**.
 

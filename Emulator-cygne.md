@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**Cygne** is a emulator for **Bandai Wonderswan** made by **Dox** and has a **GNU GPL** license, the GUI language is **English**.
+**Cygne** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **Dox** and has a **GNU GPL** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1a (x86)**, released on **2002-03-13**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **cygne.exe**.
 

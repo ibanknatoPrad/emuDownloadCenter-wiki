@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2015
 
-**Hatari** is a emulator for **Atari Falcon** made by **The Hatari Team** and has a **GNU GPLv2** license, the GUI language is **English**.
+**Hatari** is a emulator for **Atari Falcon, Atari ST** made by **The Hatari Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.0-win64 (x64)**, released on **2015-10-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **hatari.exe**.
 

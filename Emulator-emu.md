@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**EMU** is a emulator for **V. I. Lenin L'vov/Lviv** made by **Tselikov** and has a **Freeware** license, the GUI language is **English**.
+**EMU** is a emulator for **V. I. Lenin L'vov/Lviv, MSX Home Computer, MSX 2 Home Computer, Mikrosha Radio-86RK** made by **Tselikov** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.01 (x86)**, released on **2016-04-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **EMU.exe**.
 

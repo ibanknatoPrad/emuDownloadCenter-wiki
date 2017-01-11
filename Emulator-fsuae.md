@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga** made by **Frode Solheim** and has a **GNU GPLv2** license, the GUI language is **English**.
+**FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga, Commodore Amiga CD32, Commodore CDTV** made by **Frode Solheim** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.8.0-win64 (x64)**, released on **2016-09-14**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **fs-uae.exe**.
 

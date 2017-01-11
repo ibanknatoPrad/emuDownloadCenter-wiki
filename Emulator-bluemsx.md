@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2009
 
-**blueMSX** is a emulator for **Coleco ColecoVision** made by **Daniel Vik** and has a **Freeware** license, the GUI language is **English**.
+**blueMSX** is a emulator for **Coleco ColecoVision, MSX Home Computer, MSX 2 Home Computer, MSX Turbo R (Panasonic FS-A1GT/ST), Sega SC-3000, Sega SG-1000, Spectravideo SV318/328** made by **Daniel Vik** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.8.2 (x86)**, released on **2009-08-16**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **blueMSX.exe**.
 

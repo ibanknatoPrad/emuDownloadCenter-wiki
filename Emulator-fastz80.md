@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2008
 
-**FastZ80** is a emulator for **Híradástechnika HT-1080Z** made by **Lajos Kintli** and has a **Freeware** license, the GUI language is **English**.
+**FastZ80** is a emulator for **Híradástechnika HT-1080Z, Tandy/Radio Shack TRS-80 Color Computer** made by **Lajos Kintli** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.02 (x86)**, released on **2008-07-10**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **FastZ80.exe**.
 

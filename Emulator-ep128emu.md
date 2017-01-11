@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2010
 
-**ep128emu** is a emulator for **Amstrad CPC** made by **Istvan Varga** and has a **GNU GPLv2** license, the GUI language is **English**.
+**ep128emu** is a emulator for **Amstrad CPC, Enterprise Systems - Enterprise 64/128, Sinclair ZX Spectrum** made by **Istvan Varga** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.0.10-x64 (x64)**, released on **2010-01-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ep128emu.exe**.
 

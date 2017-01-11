@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2012
 
-**BSNES-SX2** is a emulator for **Nintendo Game Boy Color** made by **LuigiBlood and Seu-kun** and has a **GNU GPLv2** license, the GUI language is **English**.
+**BSNES-SX2** is a emulator for **Nintendo Game Boy Color, Nintendo NES/Famicom, Nintendo Super Nintendo** made by **LuigiBlood and Seu-kun** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **009-win64 (x64)**, released on **2012-08-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **bsnes.exe**.
 

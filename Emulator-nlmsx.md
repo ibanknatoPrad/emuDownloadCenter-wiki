@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2003
 
-**NLMSX** is a emulator for **MSX Home Computer** made by **Frits Hilderink** and has a **Freeware** license, the GUI language is **English**.
+**NLMSX** is a emulator for **MSX Home Computer, MSX 2 Home Computer, MSX Turbo R (Panasonic FS-A1GT/ST)** made by **Frits Hilderink** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **0.48 (x86)**, released on **2003-06-12**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **nlmsx.exe**.
 

@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :large_blue_circle: 2016
 
-**Virtual GameBoy** is a emulator for **Nintendo Game Boy** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.
+**Virtual GameBoy** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **5.0 (x86)**, released on **2016-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VGB.exe**.
 

@@ -12,7 +12,7 @@
 
 **Developement state:** :large_blue_circle: 2015
 
-**Agat Emulator** is a emulator for **Apple 1** made by **Odintsov O.A** and has a **GNU GPLv2** license, the GUI language is **Russian**.
+**Agat Emulator** is a emulator for **Apple 1, Apple 2** made by **Odintsov O.A** and has a **GNU GPLv2** license, the GUI language is **Russian**.
 
 The latest version of the emulator on EDC is **1.27 (x86)**, released on **2015-10-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **emulator.exe**.
 

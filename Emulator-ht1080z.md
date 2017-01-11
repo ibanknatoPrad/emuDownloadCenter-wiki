@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2011
 
-**HT1080Z** is a emulator for **Híradástechnika HT-1080Z** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.
+**HT1080Z** is a emulator for **Híradástechnika HT-1080Z, Tandy/Radio Shack TRS-80 Color Computer** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.6.4-win64 (x64)**, released on **2011-10-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **HT1080Z.exe**.
 

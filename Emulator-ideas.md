@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2011
 
-**iDeaS** is a emulator for **Nintendo Game Boy Advance** made by **Lino and Actarus** and has a **GNU GPLv2** license, the GUI language is **English**.
+**iDeaS** is a emulator for **Nintendo Game Boy Advance, Nintendo DS** made by **Lino and Actarus** and has a **GNU GPLv2** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.0.4.0 (x86)**, released on **2011-10-02**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ideas.exe**.
 

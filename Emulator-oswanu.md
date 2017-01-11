@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2007
 
-**Oswan (Unofficial)** is a emulator for **Bandai Wonderswan** made by **Kazz** and has a **Freeware** license, the GUI language is **English**.
+**Oswan (Unofficial)** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **Kazz** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **1.73 (x86)**, released on **2007-01-23**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Oswan.exe**.
 
