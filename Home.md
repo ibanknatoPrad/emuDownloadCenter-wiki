@@ -4,11 +4,11 @@ emuDownloadCenter (EDC) is a open-source central emulator download project, and 
 
 EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 
-[**EMULATOR DOWNLOADS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
+###[**EMULATOR DOWNLOADS**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
 
 Author: Sebastiaan Ebeltjes, Deventer (Netherlands)
 ***
-### Some advantages using EDC are:
+###Some advantages using EDC are:
 - Everyone can help collecting emulators & software for EDC, it's all open source!
 
 - You can build an API to download and install emulators in a frontend!

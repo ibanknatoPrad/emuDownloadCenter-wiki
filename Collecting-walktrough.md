@@ -25,6 +25,8 @@ Contents of the INFO INI file:
     CompleteFlag        = All versions and downloads completed till LastCheck date? (1=yes)
 
     [EMULATOR]
+    Name                = Full/Extended  name of the emulator.
+    Platform            = ECCid of the platform (of more then one, then comma seperated)
     Author              = Author(s) of the emulator.
     Contact             = E-mail adress of the Author in masked e-mail (*=. | #=@) to prevent spamming.
     License             = The License of the Emulator (Freeware|GNU GPLv1|v2|v2+|v3|THOR Public License|Clarified Artistic Licence|Open Source|Donationware|Shareware).
@@ -41,6 +43,8 @@ Example Contents (Emulator Potator for Watara Supervision):
     CompleteFlag        = 1
 
     [EMULATOR]
+    Name                = Potator 
+    Platform            = svn
     Author              = David Raingeard
     Contact             = david*raingeard#laposte*net
     License             = Freeware
@@ -254,22 +258,7 @@ So there are 3 files in the folder:
     [version]_contents.txt
 
 ***
-## 3) Add the emulator to the list
-
-Last but not least, add the emulator to the platform list in the file: **`eccidlist.ini`** wich is located in the emuDownloadcenter root.
-
-**INI SECTION = ECCID**
-
-Format: **`FOLDER=EMULATORNAME`**
-
-Please note the **same** emulator can be added to multiple platforms.
-
-**Specifications:**
-* **`FOLDER`** has to be lowercase, no spaces or non-ascii characters (may only contain a 'minus' -)
-* **`EMULATORNAME`** can have capital letters, may have spaces or special characters.
-
-***
-## 4) Excluding some emulators
+## 3) Excluding some emulators
 
 Emulators to exclude from EDC at the moment:
 
