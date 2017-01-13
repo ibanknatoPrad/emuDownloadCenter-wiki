@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **1.1 (x86)**, released on **1999-0
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _PKEmu is a Sony Pocket Station emulator._
+
+[:link: **Emulator website**](http://www.megagames.com/psx/psx_pocketstation.shtml)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pkemu/emulator_screen_01.jpg "PKEmu screenshot.")

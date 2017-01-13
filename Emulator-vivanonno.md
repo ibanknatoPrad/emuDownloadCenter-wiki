@@ -18,7 +18,7 @@ The latest version of the emulator on EDC is **22.0.3 (x86)**, released on **200
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
-_'viva nonno' is a namco system 22 emulator for Windows and DirectX._
+_viva nonno is a namco system 22 emulator for Windows and DirectX._
 
 [:link: **Emulator website**](http://vivanonno.vg-network.com/)
 ***

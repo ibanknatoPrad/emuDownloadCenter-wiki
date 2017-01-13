@@ -18,7 +18,7 @@ The latest version of the emulator on EDC is **2.0b3 (x86)**, released on **2005
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
-_RxNES is a Nintendo Entertainment System emulator that attempts to upgrade the graphics of the NES to modern levels._
+_Satourne is a Sega Saturn emulator that can play commercial games._
 
 [:link: **Emulator website**](http://www.satourne.consollection.com/)
 ***

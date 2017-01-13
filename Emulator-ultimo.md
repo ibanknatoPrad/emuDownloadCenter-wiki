@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **1.5.2 (x86)**, released on **2015
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _Ultimo is a Microkey Primo emulator. NOTE: Emulator is in Hungarian._
+
+[:link: **Emulator website**](http://gaia.atilia.eu/content/view/3/4/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ultimo/emulator_screen_01.jpg "Ultimo screenshot.")

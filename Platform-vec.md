@@ -6,6 +6,7 @@
 
 | Emulator | Developement | License | Language |
 |:---------|:-------------|:--------|:--------:|
+| [:file_folder: **DVE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dve#menu) | :red_circle: 2000 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **InfoVectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-infovectrex#menu) | :red_circle: 2006 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **Parabellum's Java Vectrex Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-parajve#menu) | :red_circle: 2010 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **vecx**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vecx#menu) | :red_circle: 2002 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |

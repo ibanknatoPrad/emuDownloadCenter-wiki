@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **0.92.0 (x86)**, released on **201
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
 _EmuZ-2000 is a Sharp MZ-2000, MZ-2200, MZ-80B and MZ-80B2 emulator. All documentation is in Japanese._
+
+[:link: **Emulator website**](http://www5d.biglobe.ne.jp/~object/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/emuz2000/emulator_screen_01.jpg "EmuZ-2000 screenshot.")

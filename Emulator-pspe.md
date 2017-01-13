@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **0.9b (x86)**, released on **2005-
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _Emulation is growing every day, and PSPE is a perfect prove of that, even though this emulator still can't run any commercial PSP game, you can try it by playing some demos and homebrew games._
+
+[:link: **Emulator website**](http://www.psp-emulator.com/)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/pspe/emulator_screen_01.jpg "pspe screenshot.")

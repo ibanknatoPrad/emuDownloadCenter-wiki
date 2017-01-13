@@ -17,6 +17,8 @@ The latest version of the emulator on EDC is **4.1cb3 (x86)**, released on **201
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _Ti994W is a Texas Instruments TI99/4A emulator._
+
+[:link: **Emulator website**](http://www.99er.net/cgi-bin/schlabo/dl.pl?ti99emulwin)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ti994w/emulator_screen_01.jpg "Ti994W screenshot.")

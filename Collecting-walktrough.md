@@ -21,19 +21,19 @@ Contents of the INFO INI file:
 
     [INFO]
     InfoVersion	        = Version of the INI file layout.
-    LastCheck           = Last check for this emulator on the official author website (if still available).
-    CompleteFlag        = All versions and downloads completed till LastCheck date? (1=yes)
+    LastCheck           = Last check for this emulator on the official author website (if still available). (_optional_)
+    CompleteFlag        = All versions and downloads completed till LastCheck date? (1=yes) (_optional_)
 
     [EMULATOR]
     Name                = Full/Extended  name of the emulator.
     Platform            = ECCid of the platform (of more then one, then comma seperated)
     Author              = Author(s) of the emulator.
-    Contact             = E-mail adress of the Author in masked e-mail (*=. | #=@) to prevent spamming.
+    Contact             = The E-mail adress of the Author in masked e-mail (*=. | #=@) to prevent spamming. (_optional_)
     License             = The License of the Emulator (Freeware|GNU GPLv1|v2|v2+|v3|THOR Public License|Clarified Artistic Licence|Open Source|Donationware|Shareware).
-    Language            = The Language of the Emulator GUI (EN|DE|FR|HU|RU|CH|JP).
+    Language            = The Language of the Emulator GUI (EN|DE|FR|HU|RU|CH|JP|Etc.).
     BiosNeeded          = Does the Emulator need BIOS ROM(S) to run? (1=yes)
-    Website             = The Website where the emulator can be found (starting with http://)
-    Notes               = Small description of the emulator.
+    Website             = The Website where the emulator can be found (starting with http:// or https://) (_optional_)
+    Notes               = Small description of the emulator. (_optional_)
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -99,7 +99,8 @@ Contents of the DOWNLOADS INI file:
 * In emulators, always put the latest version on top and the oldest at the bottom!
 * In versions, always put x64 versions top and x86 beneath x64, then Installers, Linux, Mac, Source
 * Content category can be left 'Emulator' for ContentType: Program / Installer / Source
-* Determine Linux distrubutions:
+
+Determine Linux distrubutions:
 
 * NO Extension = Ubuntu
 * .DEB = Debian
