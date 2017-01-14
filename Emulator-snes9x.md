@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snes9x_logo_200.jpg "SNES9X logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **SNES9X** is a emulator for **Nintendo Super Nintendo** made by **Gary Henderson** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/roc_logo_200.jpg "Return of CoCo logo.")
+
 **Developement state:** :red_circle: 2000
 
 **Return of CoCo** is a emulator for **Dragon Data - Dragon 32/64, Tandy/Radio Shack TRS-80 Color Computer** made by **Russ Le Blang** and has a **Freeware** license, the GUI language is **English**.

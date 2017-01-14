@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/picodrive_logo_200.jpg "PicoDrive logo.")
+
 **Developement state:** :red_circle: 2008
 
 **PicoDrive** is a emulator for **Sega Mega Drive/Genesis, Sega Pico, Sega Mega-CD, Sega Master System** made by **notaz** and has a **Non-standard** license, the GUI language is **English**.

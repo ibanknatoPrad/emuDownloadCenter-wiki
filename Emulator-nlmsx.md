@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nlmsx_logo_200.jpg "NLMSX logo.")
+
 **Developement state:** :red_circle: 2003
 
 **NLMSX** is a emulator for **MSX Home Computer, MSX 2 Home Computer, MSX Turbo R (Panasonic FS-A1GT/ST)** made by **Frits Hilderink** and has a **Freeware** license, the GUI language is **English**.

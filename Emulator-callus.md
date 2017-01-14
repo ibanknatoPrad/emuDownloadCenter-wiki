@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/callus_logo_200.jpg "Callus95 logo.")
+
 **Developement state:** :red_circle: 2000
 
 **Callus95** is a emulator for **Capcom Play System 1** made by **Bloodlust Software** and has a **Freeware** license, the GUI language is **English**.

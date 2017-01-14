@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/activegs_logo_200.jpg "ActiveGS logo.")
+
 **Developement state:** :white_circle: 2014
 
 **ActiveGS** is a emulator for **Apple 2GS** made by **Olivier Goguel** and has a **Freeware** license, the GUI language is **English**.

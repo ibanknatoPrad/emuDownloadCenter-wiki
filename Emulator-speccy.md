@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/speccy_logo_200.jpg "Speccy logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Speccy** is a emulator for **MGT Sam Coupé, Sinclair ZX Spectrum** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

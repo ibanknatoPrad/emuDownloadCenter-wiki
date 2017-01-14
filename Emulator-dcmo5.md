@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmo5_logo_200.jpg "DCMO5 logo.")
+
 **Developement state:** :red_circle: 2007
 
 **DCMO5** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **GNU GPLv3** license, the GUI language is **French**.

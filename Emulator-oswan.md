@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/oswan_logo_200.jpg "Oswan logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Oswan** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **Cal2** and has a **Freeware** license, the GUI language is **English**.

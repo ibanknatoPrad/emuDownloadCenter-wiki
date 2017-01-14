@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pmd85_logo_200.jpg "PMD85 logo.")
+
 **Developement state:** :red_circle: 2003
 
 **PMD85** is a emulator for **Tesla PMD-85** made by **Martin Schotek** and has a **Freeware** license, the GUI language is **Czechoslovakian**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rascalboyadv_logo_200.jpg "RascalBoy Advance logo.")
+
 **Developement state:** :red_circle: 2006
 
 **RascalBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Lino Maglione** and has a **Limited Use Software Licence Agreement** license, the GUI language is **English**.

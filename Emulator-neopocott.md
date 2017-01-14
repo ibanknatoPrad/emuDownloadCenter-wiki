@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopocott_logo_200.jpg "NeoPocott logo.")
+
 **Developement state:** :red_circle: 2000
 
 **NeoPocott** is a emulator for **SNK NeoGeo Pocket, SNK NeoGeo Pocket Color** made by **Julien FRELAT "Gollum"** and has a **Freeware** license, the GUI language is **English**.

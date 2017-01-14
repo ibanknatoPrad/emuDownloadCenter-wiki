@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/trs80gp_logo_200.jpg "trs80gp logo.")
+
 **Developement state:** :red_circle: 2011
 
 **trs80gp** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **George Phillips** and has a **Freeware** license, the GUI language is **English**.

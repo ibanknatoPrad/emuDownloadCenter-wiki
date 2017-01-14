@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winarcadia_logo_200.jpg "WinArcadia logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **WinArcadia** is a emulator for **Emerson Arcadia 2001, Signetics Pipbug, Elektor TV Games, Interton VC-4000** made by **James Jacobs** and has a **Freeware Non-Commercial** license, the GUI language is **English**.

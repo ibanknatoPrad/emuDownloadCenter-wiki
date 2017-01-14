@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/redmsx_logo_200.jpg "RedMSX logo.")
+
 **Developement state:** :red_circle: 2005
 
 **RedMSX** is a emulator for **MSX Home Computer, MSX 2 Home Computer** made by **SLotman** and has a **Freeware** license, the GUI language is **English**.

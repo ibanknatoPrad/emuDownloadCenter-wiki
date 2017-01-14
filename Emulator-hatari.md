@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hatari_logo_200.jpg "Hatari logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Hatari** is a emulator for **Atari Falcon, Atari ST** made by **The Hatari Team** and has a **GNU GPLv2** license, the GUI language is **English**.

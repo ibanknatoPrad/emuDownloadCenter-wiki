@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultimo_logo_200.jpg "Ultimo logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Ultimo** is a emulator for **Microkey Primo** made by **Attila Grosz** and has a **GNU GPLv2** license, the GUI language is **Hungarian**.

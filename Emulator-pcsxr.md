@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsxr_logo_200.jpg "PCSX-Reloaded logo.")
+
 **Developement state:** :red_circle: 2013
 
 **PCSX-Reloaded** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license, the GUI language is **English**.

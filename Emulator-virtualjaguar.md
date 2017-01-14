@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtualjaguar_logo_200.jpg "Virtual Jaguar logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Virtual Jaguar** is a emulator for **Atari Jaguar** made by **Niels Wagenaar & Carwin Jones** and has a **Open Source** license, the GUI language is **English**.

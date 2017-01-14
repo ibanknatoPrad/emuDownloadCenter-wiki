@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aranym_logo_200.jpg "Atari on Any Machine logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Atari on Any Machine** is a emulator for **Atari Falcon, Atari ST** made by **The ARAnyM  Team** and has a **GNU GPLv2** license, the GUI language is **English**.

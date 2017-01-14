@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aipc_logo_200.jpg "AIPC (Apple in a PC) logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **AIPC (Apple in a PC)** is a emulator for **Apple 2** made by **Keonwoo Kim aka sosaria7** and has a **GNU GPLv3** license, the GUI language is **English**.

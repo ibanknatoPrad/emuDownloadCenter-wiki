@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mgba_logo_200.jpg "mGBA logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **mGBA** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color** made by **Jeffrey Pfau** and has a **Mozilla Public License version 2.0** license, the GUI language is **English**.

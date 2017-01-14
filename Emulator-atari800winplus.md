@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atari800winplus_logo_200.jpg "Atari800Win-PLus logo.")
+
 **Developement state:** :red_circle: 2005
 
 **Atari800Win-PLus** is a emulator for **Atari 5200, Atari 8-bit series** made by **Marcin Lewandoski aka Jaskier** and has a **GNU GPL** license, the GUI language is **English**.

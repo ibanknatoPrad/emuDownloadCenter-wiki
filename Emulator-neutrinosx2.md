@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neutrinosx2_logo_200.jpg "neutrinoSX2 logo.")
+
 **Developement state:** :red_circle: 2003
 
 **neutrinoSX2** is a emulator for **Sony PlayStation 2** made by **Muad and nSX2 Team** and has a **GNU GPLv2** license, the GUI language is **English**.

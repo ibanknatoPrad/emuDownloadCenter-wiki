@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kc85emu_logo_200.jpg "KC85EMU logo.")
+
 **Developement state:** :red_circle: 2011
 
 **KC85EMU** is a emulator for **Robotron KC series** made by **Frank Ludwig** and has a **GNU GPL** license, the GUI language is **English**.

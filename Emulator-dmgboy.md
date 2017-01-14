@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dmgboy_logo_200.jpg "DMGBoy logo.")
+
 **Developement state:** :white_circle: 2014
 
 **DMGBoy** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Pablo Gasco** and has a **GNU GPLv3** license, the GUI language is **English**.

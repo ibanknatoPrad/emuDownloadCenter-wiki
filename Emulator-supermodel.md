@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/supermodel_logo_200.jpg "Supermodel logo.")
+
 **Developement state:** :red_circle: 2011
 
 **Supermodel** is a emulator for **Sega Model 3** made by **Bart Trzynadlowski** and has a **GNU GPLv3** license, the GUI language is **English**.

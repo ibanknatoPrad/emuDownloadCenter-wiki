@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmicro_logo_200.jpg "DCMicroColor logo.")
+
 **Developement state:** :red_circle: 2008
 
 **DCMicroColor** is a emulator for **Matra/Hachette Alice, Tandy/Radio Shack TRS-80 Color Computer** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coolcv_logo_200.jpg "CoolCV logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **CoolCV** is a emulator for **Coleco Adam, Vtech Creativision, Sega SG-1000** made by **Oscar Toledo G.** and has a **Donationware** license, the GUI language is **English**.

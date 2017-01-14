@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/handy_logo_200.jpg "Handy logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Handy** is a emulator for **Atari Lynx** made by **K Wilkins** and has a **Freeware** license, the GUI language is **English**.

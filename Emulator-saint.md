@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/saint_logo_200.jpg "SainT logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **SainT** is a emulator for **Atari ST** made by **Arnaud Carre and James Boulton** and has a **Freeware** license, the GUI language is **English**.

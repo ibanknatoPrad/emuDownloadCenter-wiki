@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pkemu_logo_200.jpg "PKEmu logo.")
+
 **Developement state:** :red_circle: 1999
 
 **PKEmu** is a emulator for **Sony PocketStation** made by **SN systems** and has a **Freeware** license, the GUI language is **English**.

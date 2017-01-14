@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/no2k6_logo_200.jpg "no$2k6 logo.")
+
 **Developement state:** :red_circle: 2012
 
 **no$2k6** is a emulator for **Atari 2600** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

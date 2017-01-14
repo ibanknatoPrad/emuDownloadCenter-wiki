@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vgba_logo_200.jpg "Virtual GameBoy Advance logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Virtual GameBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

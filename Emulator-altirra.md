@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/altirra_logo_200.jpg "Altirra logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Altirra** is a emulator for **Atari 5200, Atari 8-bit series** made by **Phaeron** and has a **GNU GPLv2** license, the GUI language is **English**.

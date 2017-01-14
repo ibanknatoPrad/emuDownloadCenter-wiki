@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/simcoupe_logo_200.jpg "SimCoupe logo.")
+
 **Developement state:** :red_circle: 2006
 
 **SimCoupe** is a emulator for **MGT Sam Coupé** made by **Simon Owen** and has a **Freeware** license, the GUI language is **English**.

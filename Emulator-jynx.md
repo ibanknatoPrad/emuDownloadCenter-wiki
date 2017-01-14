@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jynx_logo_200.jpg "Jynx logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Jynx** is a emulator for **Camputers Lynx** made by **Jonathan Markland** and has a **GNU GPLv3** license, the GUI language is **English**.

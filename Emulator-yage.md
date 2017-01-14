@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yage_logo_200.jpg "YAGE logo.")
+
 **Developement state:** :red_circle: 1998
 
 **YAGE** is a emulator for **Amstrad CPC** made by **Antoine Pitrou** and has a **Freeware** license, the GUI language is **English**.

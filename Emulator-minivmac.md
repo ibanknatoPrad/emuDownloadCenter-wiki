@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/minivmac_logo_200.jpg "Mini vMac logo.")
+
 **Developement state:** :red_circle: 2013
 
 **Mini vMac** is a emulator for **Apple Macintosh** made by **Paul C Pratt and Others** and has a **GNU GPLv2** license, the GUI language is **English**.

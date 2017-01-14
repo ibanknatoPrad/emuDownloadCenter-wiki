@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dream64_logo_200.jpg "Dream64 logo.")
+
 **Developement state:** :red_circle: 2009
 
 **Dream64** is a emulator for **Commodore 64** made by **tprodigy1** and has a **Freeware** license, the GUI language is **English**.

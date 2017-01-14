@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/eightyone_logo_200.jpg "EightyOne logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **EightyOne** is a emulator for **Jupiter Cantab - Jupiter Ace, Sinclair QL, Sinclair ZX81, Sinclair ZX Spectrum** made by **Michael D Wynne** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vzem_logo_200.jpg "VZEM logo.")
+
 **Developement state:** :red_circle: 2009
 
 **VZEM** is a emulator for **Vtech Laser 200/210/310** made by **Guy Thomason** and has a **Freeware** license, the GUI language is **English**.

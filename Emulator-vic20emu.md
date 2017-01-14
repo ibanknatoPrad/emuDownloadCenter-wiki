@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vic20emu_logo_200.jpg "Vic-20 Emulator logo.")
+
 **Developement state:** :red_circle: 2011
 
 **Vic-20 Emulator** is a emulator for **Commodore VIC-20** made by **muehlenf** and has a **Freeware** license, the GUI language is **English**.

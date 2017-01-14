@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mynes_logo_200.jpg "My NES logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **My NES** is a emulator for **Nintendo NES/Famicom** made by **Ala Ibrahim Hadid** and has a **GNU GPLv3** license, the GUI language is **English**.

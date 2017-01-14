@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/colem_logo_200.jpg "ColEm logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **ColEm** is a emulator for **Coleco ColecoVision** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

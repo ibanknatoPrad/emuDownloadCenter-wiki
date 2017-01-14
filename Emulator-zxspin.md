@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zxspin_logo_200.jpg "ZXSpin logo.")
+
 **Developement state:** :red_circle: 2009
 
 **ZXSpin** is a emulator for **Sinclair ZX Spectrum** made by **Paul Dunn and Mark Woodmass** and has a **Freeware** license, the GUI language is **English**.

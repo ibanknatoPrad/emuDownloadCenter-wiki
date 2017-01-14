@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/phoenix_logo_200.jpg "Phoenix logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Phoenix** is a emulator for **Panasonic 3DO, Coleco ColecoVision, Sega Game Gear, Sega SG-1000, Sega Master System** made by **Grishin Maxim Leonidovich aka Altmer** and has a **Free for Personal and Non-Commercial Use** license, the GUI language is **Russian**.

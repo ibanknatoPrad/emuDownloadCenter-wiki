@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xmillenium_logo_200.jpg "XMillenium logo.")
+
 **Developement state:** :red_circle: 2007
 
 **XMillenium** is a emulator for **Sharp X1** made by **Adrastea** and has a **Freeware** license, the GUI language is **English**.

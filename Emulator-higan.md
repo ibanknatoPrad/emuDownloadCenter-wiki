@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/higan_logo_200.jpg "higan logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **higan** is a emulator for **Nintendo FDS, Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color, Nintendo Super Nintendo, Bandai Wonderswan, Bandai Wonderswan Color** made by **byuu** and has a **GNU GPLv3 - Special for Commercial Use** license, the GUI language is **English**.

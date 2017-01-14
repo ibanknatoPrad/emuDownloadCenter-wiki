@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vaquarius_logo_200.jpg "Virtual Aquarius logo.")
+
 **Developement state:** :red_circle: 2008
 
 **Virtual Aquarius** is a emulator for **Mattel Aquarius** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

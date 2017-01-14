@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ht1080z_logo_200.jpg "HT1080Z logo.")
+
 **Developement state:** :red_circle: 2011
 
 **HT1080Z** is a emulator for **Híradástechnika HT-1080Z, Tandy/Radio Shack TRS-80 Color Computer** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rocknesx_logo_200.jpg "RockNES X logo.")
+
 **Developement state:** :red_circle: 2002
 
 **RockNES X** is a emulator for **Nintendo NES/Famicom** made by **Alexandre da Veiga** and has a **Freeware** license, the GUI language is **English**.

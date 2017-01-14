@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/potator_logo_200.jpg "Potator logo.")
+
 **Developement state:** :red_circle: 2004
 
 **Potator** is a emulator for **Watara Supervision** made by **David Raingeard** and has a **Freeware** license, the GUI language is **English**.

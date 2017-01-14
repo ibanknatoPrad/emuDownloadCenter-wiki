@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/javacpc_logo_200.jpg "JavaCPC logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **JavaCPC** is a emulator for **Amstrad CPC** made by **Markus Hohmann aka Devilmarkus** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcalice_logo_200.jpg "DCALICE logo.")
+
 **Developement state:** :white_circle: 2014
 
 **DCALICE** is a emulator for **Matra/Hachette Alice** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **French**.

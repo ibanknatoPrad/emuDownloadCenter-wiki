@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nucleus_logo_200.jpg "Nucleus logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Nucleus** is a emulator for **Sony PlayStation 3** made by **Alexandro Sanchez Bach** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cpspemu_logo_200.jpg "CPSPEmu logo.")
+
 **Developement state:** :red_circle: 2013
 
 **CPSPEmu** is a emulator for **Sony PlayStation Portable** made by **Soywiz** and has a **GNU GPLv3** license, the GUI language is **English**.

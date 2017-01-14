@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dchector_logo_200.jpg "DCHector logo.")
+
 **Developement state:** :red_circle: 2005
 
 **DCHector** is a emulator for **Interact Home Computer System** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **English**.

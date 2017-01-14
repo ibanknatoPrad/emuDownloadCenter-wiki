@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtpanajr_logo_200.jpg "Virtual Panasonic JR-200U logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Virtual Panasonic JR-200U** is a emulator for **Panasonic JR-200** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

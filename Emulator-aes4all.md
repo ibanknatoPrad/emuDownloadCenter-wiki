@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aes4all_logo_200.jpg "AES4ALL logo.")
+
 **Developement state:** :red_circle: 2011
 
 **AES4ALL** is a emulator for **SNK NeoGeo** made by **Chui** and has a **Freeware** license, the GUI language is **English**.

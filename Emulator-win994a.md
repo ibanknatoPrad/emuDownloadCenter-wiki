@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/win994a_logo_200.jpg "Win994a logo.")
+
 **Developement state:** :red_circle: 2013
 
 **Win994a** is a emulator for **Texas Instruments TI-99/4A** made by **Cory Burr** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/homelab_logo_200.jpg "HomeLAB logo.")
+
 **Developement state:** :red_circle: 2007
 
 **HomeLAB** is a emulator for **HomeLAB series - HomeLAB 4** made by **Grósz Attila** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nesterj_logo_200.jpg "nesterJ logo.")
+
 **Developement state:** :red_circle: 2003
 
 **nesterJ** is a emulator for **Nintendo NES/Famicom** made by **Screw, Mikami Kana** and has a **GNU GPLv2** license, the GUI language is **English**.

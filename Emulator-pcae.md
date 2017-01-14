@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcae_logo_200.jpg "PC Atari Emulator logo.")
+
 **Developement state:** :red_circle: 2002
 
 **PC Atari Emulator** is a emulator for **Atari 2600** made by **John Dullea** and has a **Freeware** license, the GUI language is **English**.

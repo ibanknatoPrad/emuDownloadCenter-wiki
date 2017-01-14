@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dnes_logo_200.jpg "3DNes logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **3DNes** is a emulator for **Nintendo NES/Famicom** made by **geod** and has a **Donationware** license, the GUI language is **English**.

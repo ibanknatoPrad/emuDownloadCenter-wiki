@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psx_logo_200.jpg "pSX logo.")
+
 **Developement state:** :red_circle: 2007
 
 **pSX** is a emulator for **Sony PlayStation 1** made by **Unknown** and has a **Freeware** license, the GUI language is **English**.

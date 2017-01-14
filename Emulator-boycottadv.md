@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/boycottadv_logo_200.jpg "BoycottAdvance logo.")
+
 **Developement state:** :red_circle: 2003
 
 **BoycottAdvance** is a emulator for **Nintendo Game Boy Advance** made by **Julien FRELAT aka Gollum** and has a **Freeware** license, the GUI language is **English**.

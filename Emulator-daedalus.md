@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/daedalus_logo_200.jpg "Daedalus logo.")
+
 **Developement state:** :red_circle: 2001
 
 **Daedalus** is a emulator for **Nintendo N64** made by **StrmnNrmn** and has a **GNU GPLv2** license, the GUI language is **English**.

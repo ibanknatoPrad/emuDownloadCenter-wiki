@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cemu_logo_200.jpg "Cemu logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Cemu** is a emulator for **Nintendo Wii U** made by **Cemu Team** and has a **Freeware** license, the GUI language is **English**.

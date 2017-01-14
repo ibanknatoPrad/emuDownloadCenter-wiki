@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dualis_logo_200.jpg "Dualis logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Dualis** is a emulator for **Nintendo DS** made by **Mic** and has a **Freeware** license, the GUI language is **English**.

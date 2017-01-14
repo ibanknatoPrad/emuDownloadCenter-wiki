@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcexel_logo_200.jpg "DCEXEL logo.")
+
 **Developement state:** :red_circle: 2012
 
 **DCEXEL** is a emulator for **Exelvision EXL100** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **English**.

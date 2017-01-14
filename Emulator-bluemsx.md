@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bluemsx_logo_200.jpg "blueMSX logo.")
+
 **Developement state:** :red_circle: 2009
 
 **blueMSX** is a emulator for **Coleco ColecoVision, MSX Home Computer, MSX 2 Home Computer, MSX Turbo R (Panasonic FS-A1GT/ST), Sega SC-3000, Sega SG-1000, Spectravideo SV318/328** made by **Daniel Vik** and has a **Freeware** license, the GUI language is **English**.

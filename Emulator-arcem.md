@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/arcem_logo_200.jpg "ArcEm logo.")
+
 **Developement state:** :red_circle: 2012
 
 **ArcEm** is a emulator for **Acorn Archimedes** made by **pnaulls and ralph** and has a **GNU GPLv2** license, the GUI language is **English**.

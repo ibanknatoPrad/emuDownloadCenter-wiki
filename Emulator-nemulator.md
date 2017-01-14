@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nemulator_logo_200.jpg "Nemulator logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Nemulator** is a emulator for **Nintendo NES/Famicom, Sega Master System** made by **James Slepicka** and has a **Freeware** license, the GUI language is **English**.

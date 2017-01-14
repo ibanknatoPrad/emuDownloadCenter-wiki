@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/electrem_logo_200.jpg "ElectrEm logo.")
+
 **Developement state:** :red_circle: 2007
 
 **ElectrEm** is a emulator for **Acorn Electron** made by **Thomas Harte** and has a **Freeware** license, the GUI language is **English**.

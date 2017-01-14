@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fmsx_logo_200.jpg "fMSX logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **fMSX** is a emulator for **MSX Home Computer, MSX 2 Home Computer** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atomulator_logo_200.jpg "Atomulator logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Atomulator** is a emulator for **Acorn Atom** made by **Tom Walker** and has a **GNU GPLv2** license, the GUI language is **English**.

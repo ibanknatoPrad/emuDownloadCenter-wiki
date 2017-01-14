@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/elkulator_logo_200.jpg "Elkulator logo.")
+
 **Developement state:** :red_circle: 2010
 
 **Elkulator** is a emulator for **Acorn Electron** made by **Tom Walker** and has a **GNU GPLv2** license, the GUI language is **English**.

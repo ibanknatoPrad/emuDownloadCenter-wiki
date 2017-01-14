@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jpcsp_logo_200.jpg "JPCSP logo.")
+
 **Developement state:** :red_circle: 2010
 
 **JPCSP** is a emulator for **Sony PlayStation Portable** made by **JCPSP Team** and has a **GNU GPLv3** license, the GUI language is **English**.

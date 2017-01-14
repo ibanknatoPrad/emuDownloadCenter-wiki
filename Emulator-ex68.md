@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ex68_logo_200.jpg "EX68 logo.")
+
 **Developement state:** :red_circle: 2001
 
 **EX68** is a emulator for **Sharp X68000** made by **Yamama** and has a **GNU GPLv2** license, the GUI language is **English**.

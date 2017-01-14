@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/geepee32_logo_200.jpg "GeePee32 logo.")
+
 **Developement state:** :red_circle: 2004
 
 **GeePee32** is a emulator for **GamePark GP32** made by **Tim Schuerewegen** and has a **Freeware** license, the GUI language is **English**.

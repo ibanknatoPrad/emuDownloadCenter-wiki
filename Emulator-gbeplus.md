@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gbeplus_logo_200.jpg "GB Enhanced+ logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **GB Enhanced+** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color** made by **D S Baxter aka Shonumi** and has a **GNU GPLv2** license, the GUI language is **English**.

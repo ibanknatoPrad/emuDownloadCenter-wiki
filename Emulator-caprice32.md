@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/caprice32_logo_200.jpg "CaPriCe32 logo.")
+
 **Developement state:** :red_circle: 2005
 
 **CaPriCe32** is a emulator for **Amstrad CPC** made by **Ulrich Doewich** and has a **GNU GPLv2** license, the GUI language is **English**.

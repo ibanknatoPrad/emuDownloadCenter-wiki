@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fceux_logo_200.jpg "FCEUX logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **FCEUX** is a emulator for **Nintendo FDS, Nintendo NES/Famicom** made by **FCEUX team** and has a **Freeware** license, the GUI language is **English**.

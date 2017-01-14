@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dgen_logo_200.jpg "DGen logo.")
+
 **Developement state:** :white_circle: 2014
 
 **DGen** is a emulator for **Sega Mega Drive/Genesis** made by **DGen was originally written by Dave. It was ported to SDL by Joe Groff and Phil K. Hornung. It was resurrected by tamentis in 2008 and is maintained by zamaz since september 2011.** and has a **Freeware** license, the GUI language is **English**.

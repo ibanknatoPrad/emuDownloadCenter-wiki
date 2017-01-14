@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cpce_logo_200.jpg "CPCE logo.")
+
 **Developement state:** :red_circle: 2008
 
 **CPCE** is a emulator for **Amstrad CPC** made by **Cesar Nicolas Gonzalez** and has a **Freeware** license, the GUI language is **English**.

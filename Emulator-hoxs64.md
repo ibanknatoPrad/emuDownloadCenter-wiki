@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hoxs64_logo_200.jpg "Hoxs64 logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Hoxs64** is a emulator for **Commodore 64** made by **David Horrocks** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmoto_logo_200.jpg "DCMOTO logo.")
+
 **Developement state:** :red_circle: 2012
 
 **DCMOTO** is a emulator for **Thomson MO5** made by **Daniel Coulom** and has a **Freeware** license, the GUI language is **French**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gensgs_logo_200.jpg "Gens/GS logo.")
+
 **Developement state:** :red_circle: 2010
 
 **Gens/GS** is a emulator for **Sega Mega Drive 32X, Sega Mega Drive/Genesis, Sega Mega-CD, Sega Master System** made by **David Korth** and has a **GNU GPLv2** license, the GUI language is **English**.

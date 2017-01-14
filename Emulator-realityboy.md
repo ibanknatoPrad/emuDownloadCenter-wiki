@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/realityboy_logo_200.jpg "Reality Boy logo.")
+
 **Developement state:** :red_circle: 2008
 
 **Reality Boy** is a emulator for **Nintendo Virtual Boy** made by **David Tucker** and has a **Freeware** license, the GUI language is **English**.

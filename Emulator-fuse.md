@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fuse_logo_200.jpg "Fuse (The Free Unix Spectrum Emulator) logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Fuse (The Free Unix Spectrum Emulator)** is a emulator for **Sinclair ZX Spectrum** made by **Philip Kendall and the Fuse Team** and has a **GNU GPLv2** license, the GUI language is **English**.

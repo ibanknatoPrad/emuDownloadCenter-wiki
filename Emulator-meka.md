@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/meka_logo_200.jpg "MEKA logo.")
+
 **Developement state:** :red_circle: 2010
 
 **MEKA** is a emulator for **Coleco ColecoVision, Sega Game Gear, Sega SC-3000, Sega SG-1000, Sega Master System** made by **Omar Cornut** and has a **Unrestrictive BSD-like** license, the GUI language is **English**.

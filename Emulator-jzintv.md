@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jzintv_logo_200.jpg "jzIntv logo.")
+
 **Developement state:** :red_circle: 2012
 
 **jzIntv** is a emulator for **Mattel Intellivision** made by **Joe Zbiciak** and has a **GNU GPLv2** license, the GUI language is **English**.

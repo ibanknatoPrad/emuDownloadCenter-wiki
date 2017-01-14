@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/c4pc_logo_200.jpg "C4PC logo.")
+
 **Developement state:** :red_circle: 2001
 
 **C4PC** is a emulator for **Cybiko Classic** made by **Tim Schuerewegen aka FireFly** and has a **Freeware** license, the GUI language is **English**.

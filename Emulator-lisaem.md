@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/lisaem_logo_200.jpg "LisaEm logo.")
+
 **Developement state:** :red_circle: 2007
 
 **LisaEm** is a emulator for **Apple Lisa** made by **Ray A. Arachelian** and has a **GNU GPLv2** license, the GUI language is **English**.

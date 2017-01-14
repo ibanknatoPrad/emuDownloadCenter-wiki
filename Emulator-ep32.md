@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ep32_logo_200.jpg "ep32 logo.")
+
 **Developement state:** :red_circle: 2006
 
 **ep32** is a emulator for **Enterprise Systems - Enterprise 64/128** made by **Kevin Thacker and Vincze Bela Gyorgy** and has a **GNU GPLv2** license, the GUI language is **English**.

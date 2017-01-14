@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/apollo_logo_200.jpg "Apollo logo.")
+
 **Developement state:** :red_circle: 2004
 
 **Apollo** is a emulator for **Nintendo N64** made by **Aziber** and has a **Freeware** license, the GUI language is **English**.

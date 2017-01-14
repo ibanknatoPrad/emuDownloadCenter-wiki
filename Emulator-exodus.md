@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/exodus_logo_200.jpg "Exodus logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Exodus** is a emulator for **Sega Mega Drive/Genesis** made by **The Exodus Team** and has a **Freeware** license, the GUI language is **English**.

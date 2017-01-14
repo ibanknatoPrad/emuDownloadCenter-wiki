@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/m2emulator_logo_200.jpg "Sega Model 2 Emulator logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Sega Model 2 Emulator** is a emulator for **Sega Model 2** made by **ElSemi** and has a **GNU GPLv2** license, the GUI language is **English**.

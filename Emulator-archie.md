@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/archie_logo_200.jpg "Archie logo.")
+
 **Developement state:** :red_circle: 2000
 
 **Archie** is a emulator for **Acorn Archimedes** made by **Chris-o** and has a **Freeware** license, the GUI language is **English**.

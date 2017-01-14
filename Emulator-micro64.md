@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/micro64_logo_200.jpg "Micro64 logo.")
+
 **Developement state:** :red_circle: 2013
 
 **Micro64** is a emulator for **Commodore 64** made by **Benjamin 'BeRo' Rosseaux** and has a **Freeware** license, the GUI language is **English**.

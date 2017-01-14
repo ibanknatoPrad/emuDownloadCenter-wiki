@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/o2em_logo_200.jpg "O2EM logo.")
+
 **Developement state:** :red_circle: 2007
 
 **O2EM** is a emulator for **Philips Videopac G7000, Philips Videopac+ G7400** made by **Daniel Boris** and has a **Clarified Artistic Licence** license, the GUI language is **English**.

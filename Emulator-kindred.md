@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kindred_logo_200.jpg "Kindred logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Kindred** is a emulator for **Nintendo Game Boy, Nintendo NES/Famicom, Sega Master System, Nintendo Super Nintendo** made by **Kris Bleakley** and has a **Freeware** license, the GUI language is **English**.
