@@ -11,4 +11,4 @@
 | [:file_folder: **XM7**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_JP_24.png "Emulator GUI language: Japanese") |
 | [:file_folder: **XM7dash**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-xm7dash#menu) | :large_blue_circle: 2015 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_JP_24.png "Emulator GUI language: Japanese") |
 
-:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)
+[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
