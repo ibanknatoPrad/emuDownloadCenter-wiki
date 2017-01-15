@@ -10,4 +10,4 @@
 | [:file_folder: **DCALICE**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcalice#menu) | :white_circle: 2014 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_FR_24.png "Emulator GUI language: French") |
 | [:file_folder: **DCMicroColor**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-dcmicro#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

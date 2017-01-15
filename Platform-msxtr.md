@@ -9,4 +9,4 @@
 | [:file_folder: **blueMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-bluemsx#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **NLMSX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-nlmsx#menu) | :red_circle: 2003 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

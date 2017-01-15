@@ -10,4 +10,4 @@
 | [:file_folder: **Tunix 2001**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-tunix2001#menu) | :red_circle: 2006 | SPECIAL | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **WinArcadia**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-winarcadia#menu) | :large_blue_circle: 2016 | Freeware Non-Commercial | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

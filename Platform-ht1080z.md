@@ -10,4 +10,4 @@
 | [:file_folder: **HT1080Z**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ht1080z#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **Real-80 PRO**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-real80pro#menu) | :red_circle: 2008 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

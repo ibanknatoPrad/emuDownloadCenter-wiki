@@ -13,4 +13,4 @@
 | [:file_folder: **Stella**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-stella#menu) | :large_blue_circle: 2016 | GPL | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **Z26**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-z26#menu) | :red_circle: 2011 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

@@ -8,4 +8,4 @@
 |:---------|:-------------|:--------|:--------:|
 | [:file_folder: **CD-i Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-cdiemulator#menu) | :red_circle: 2005 | Shareware (Limited edition) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

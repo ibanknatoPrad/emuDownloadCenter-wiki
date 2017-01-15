@@ -8,4 +8,4 @@
 |:---------|:-------------|:--------|:--------:|
 | [:file_folder: **ScummVM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-scummvm#menu) | :large_blue_circle: 2016 | Open Source | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

@@ -11,4 +11,4 @@
 | [:file_folder: **QLAY2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlay2#menu) | :red_circle: 2003 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 | [:file_folder: **QLAY**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlayw#menu) | :red_circle: 1999 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

@@ -9,4 +9,4 @@
 | [:file_folder: **HoLa!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-hola#menu) | :red_circle: 2009 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_HU_24.png "Emulator GUI language: Hungarian") |
 | [:file_folder: **HomeLAB**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-homelab#menu) | :red_circle: 2007 | Freeware | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_flags/icon_flag_EN_24.png "Emulator GUI language: English") |
 
-[:arrow_backward: Go to platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List)
+:arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)
