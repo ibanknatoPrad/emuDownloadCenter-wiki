@@ -3,7 +3,9 @@
 
 [**Statistics**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Statistics)
 
-[**Emulator Downloads**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
+[**Emulator Downloads (by platform)**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Platform-List)
+
+[**Emulator Downloads (by name)**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/EDC-Emulator-List)
 ***
 ### Your Help!
 [**Help collecting!**](https://github.com/PhoenixInteractiveNL/edc-masterhook/wiki/Help-collecting)
