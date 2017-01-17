@@ -1,6 +1,6 @@
 ## Your help to collect and add emulators
 
-Want to help us expanding EDC emulators?, please install [**GitHub Desktop**](https://desktop.github.com)
+Want to help us expanding EDC emulators?
 
 1) Install [GitHub Desktop](https://desktop.github.com/)
 
