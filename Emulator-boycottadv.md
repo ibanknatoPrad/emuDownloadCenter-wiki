@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/boycottadv_logo_200.jpg "BoycottAdvance logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/boycottadv_logo.jpg "BoycottAdvance logo.")
 
 **Developement state:** :red_circle: 2003
 

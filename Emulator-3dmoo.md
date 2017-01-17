@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo_200.jpg "3dmoo logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dmoo_logo.jpg "3dmoo logo.")
 
 **Developement state:** :white_circle: 2014
 

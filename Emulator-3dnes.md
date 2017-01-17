@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dnes_logo_200.jpg "3DNes logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3dnes_logo.jpg "3DNes logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

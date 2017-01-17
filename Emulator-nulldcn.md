@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nulldcn_logo.jpg "nullDC NAOMI logo.")
+
 **Developement state:** :red_circle: 2011
 
 **nullDC NAOMI** is a emulator for **Sega Naomi** made by **Stefanos Kornilios Mitsis Poiitidis** and has a **GNU GPLv2** license, the GUI language is **English**.

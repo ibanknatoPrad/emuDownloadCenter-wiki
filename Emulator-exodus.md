@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/exodus_logo_200.jpg "Exodus logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/exodus_logo.jpg "Exodus logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

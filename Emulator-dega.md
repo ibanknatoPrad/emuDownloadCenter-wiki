@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dega_logo.jpg "Dega logo.")
+
 **Developement state:** :red_circle: 2011
 
 **Dega** is a emulator for **Sega Game Gear, Sega Master System** made by **Dave** and has a **Freeware** license, the GUI language is **English**.

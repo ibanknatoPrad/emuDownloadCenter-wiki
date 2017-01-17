@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emuzwin_logo.jpg "EmuZWin logo.")
+
 **Developement state:** :red_circle: 2006
 
 **EmuZWin** is a emulator for **Sinclair ZX Spectrum** made by **Vladimir Kladov** and has a **Freeware** license, the GUI language is **English**.

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ht1080z_logo_200.jpg "HT1080Z logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ht1080z_logo.jpg "HT1080Z logo.")
 
 **Developement state:** :red_circle: 2011
 

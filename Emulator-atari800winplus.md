@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atari800winplus_logo_200.jpg "Atari800Win-PLus logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atari800winplus_logo.jpg "Atari800Win-PLus logo.")
 
 **Developement state:** :red_circle: 2005
 

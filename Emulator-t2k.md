@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/t2k_logo.jpg "Jaguar Tempest 2000 Emulator logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Jaguar Tempest 2000 Emulator** is a emulator for **Atari Jaguar** made by **Dave Oldcorn aka Dio** and has a **Freeware** license, the GUI language is **English**.

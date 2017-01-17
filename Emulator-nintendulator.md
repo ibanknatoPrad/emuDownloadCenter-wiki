@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nintendulator_logo.jpg "Nintendulator logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Nintendulator** is a emulator for **Nintendo NES/Famicom** made by **Quietust** and has a **GNU GPLv2** license, the GUI language is **English**.

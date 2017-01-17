@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopocott_logo_200.jpg "NeoPocott logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopocott_logo.jpg "NeoPocott logo.")
 
 **Developement state:** :red_circle: 2000
 

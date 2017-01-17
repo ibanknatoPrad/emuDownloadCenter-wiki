@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bizhawk_logo_200.jpg "BizHawk logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bizhawk_logo.jpg "BizHawk logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

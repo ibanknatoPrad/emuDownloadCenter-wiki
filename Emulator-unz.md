@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/unz_logo.jpg "UNZ logo.")
+
 **Developement state:** :red_circle: 2010
 
 **UNZ** is a emulator for **Fujitsu FM Towns** made by **Kasanova** and has a **Freeware** license, the GUI language is **English**.

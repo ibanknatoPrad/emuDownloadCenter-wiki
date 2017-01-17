@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcalice_logo_200.jpg "DCALICE logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcalice_logo.jpg "DCALICE logo.")
 
 **Developement state:** :white_circle: 2014
 

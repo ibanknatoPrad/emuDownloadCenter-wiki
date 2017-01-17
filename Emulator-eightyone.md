@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/eightyone_logo_200.jpg "EightyOne logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/eightyone_logo.jpg "EightyOne logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

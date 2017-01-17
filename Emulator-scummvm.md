@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/scummvm_logo_200.jpg "ScummVM logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/scummvm_logo.jpg "ScummVM logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

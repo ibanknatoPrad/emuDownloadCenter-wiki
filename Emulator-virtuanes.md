@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtuanes_logo.jpg "VirtuaNES logo.")
+
 **Developement state:** :red_circle: 2007
 
 **VirtuaNES** is a emulator for **Nintendo FDS, Nintendo NES/Famicom** made by **Norix** and has a **Freeware** license, the GUI language is **English**.

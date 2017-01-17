@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/88va_logo_200.jpg "88VA Eternal Grafx logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/88va_logo.jpg "88VA Eternal Grafx logo.")
 
 **Developement state:** :red_circle: 2008
 

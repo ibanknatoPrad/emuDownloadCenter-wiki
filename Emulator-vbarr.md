@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vbarr_logo.jpg "VisualBoyAdvance-rerecording logo.")
+
 **Developement state:** :red_circle: 2013
 
 **VisualBoyAdvance-rerecording** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color** made by **Forgotten, the VBA Team and the VBA-rr Team** and has a **GNU GPLv2** license, the GUI language is **English**.

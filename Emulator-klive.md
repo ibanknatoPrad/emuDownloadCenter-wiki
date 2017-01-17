@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/klive_logo.jpg "Klive logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Klive** is a emulator for **Sinclair ZX Spectrum** made by **Steve Snake** and has a **Freeware** license, the GUI language is **English**.

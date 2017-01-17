@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pc6001v_logo_200.jpg "PC6001V logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pc6001v_logo.jpg "PC6001V logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

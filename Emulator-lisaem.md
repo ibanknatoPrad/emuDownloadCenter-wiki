@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/lisaem_logo_200.jpg "LisaEm logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/lisaem_logo.jpg "LisaEm logo.")
 
 **Developement state:** :red_circle: 2007
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtuanesplus_logo.jpg "VirtuaNES Plus logo.")
+
 **Developement state:** :red_circle: 2013
 
 **VirtuaNES Plus** is a emulator for **Nintendo FDS, Nintendo NES/Famicom** made by **Tensai Wang** and has a **Freeware** license, the GUI language is **English**.

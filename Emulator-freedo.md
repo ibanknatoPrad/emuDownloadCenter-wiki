@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/freedo_logo_200.jpg "FreeDo logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/freedo_logo.jpg "FreeDo logo.")
 
 **Developement state:** :red_circle: 2010
 

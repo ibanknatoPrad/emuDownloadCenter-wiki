@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k7e_logo_200.jpg "Project64K7E logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k7e_logo.jpg "Project64K7E logo.")
 
 **Developement state:** :red_circle: 2012
 

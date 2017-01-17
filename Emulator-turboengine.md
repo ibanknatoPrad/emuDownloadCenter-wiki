@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/turboengine_logo.jpg "Turbo Engine 16 logo.")
+
 **Developement state:** :red_circle: 2010
 
 **Turbo Engine 16** is a emulator for **NEC Turbografx-16/PC-Engine, NEC Supergrafx/PC-Engine 2, NEC PC-Engine CD** made by **AamirM** and has a **Freeware** license, the GUI language is **English**.

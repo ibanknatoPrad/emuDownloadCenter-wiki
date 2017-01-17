@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cemu_logo_200.jpg "Cemu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cemu_logo.jpg "Cemu logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ace_logo.jpg "Another Capcom (play system) Emulator logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Another Capcom (play system) Emulator** is a emulator for **Capcom Play System 1, Capcom Play System 2, SNK NeoGeo, Sega System 16, Sega System 18** made by **friol** and has a **Freeware** license, the GUI language is **Italian**.

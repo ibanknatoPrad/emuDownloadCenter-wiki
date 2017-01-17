@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winfellow_logo_200.jpg "WinFellow logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winfellow_logo.jpg "WinFellow logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

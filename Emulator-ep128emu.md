@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ep128emu_logo_200.jpg "ep128emu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ep128emu_logo.jpg "ep128emu logo.")
 
 **Developement state:** :red_circle: 2010
 

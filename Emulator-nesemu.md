@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nesemu_logo_200.jpg "nes-emu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nesemu_logo.jpg "nes-emu logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

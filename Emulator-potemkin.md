@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/potemkin_logo.jpg "Potemkin logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Potemkin** is a emulator for **Sony PlayStation Portable** made by **Henrik Rydgard (aka ector)** and has a **GNU GPLv2** license, the GUI language is **English**.

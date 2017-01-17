@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fakenes_logo_200.jpg "FakeNES logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fakenes_logo.jpg "FakeNES logo.")
 
 **Developement state:** :red_circle: 2007
 

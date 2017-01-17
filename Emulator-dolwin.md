@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dolwin_logo.jpg "Dolwin logo.")
+
 **Developement state:** :red_circle: 2005
 
 **Dolwin** is a emulator for **Nintendo GameCube** made by **Dolwin Team** and has a **Freeware** license, the GUI language is **English**.

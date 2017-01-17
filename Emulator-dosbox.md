@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dosbox_logo_200.jpg "DOSBox logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dosbox_logo.jpg "DOSBox logo.")
 
 **Developement state:** :red_circle: 2012
 

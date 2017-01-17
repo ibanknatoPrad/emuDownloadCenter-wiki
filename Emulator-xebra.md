@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xebra_logo.jpg "XEBRA logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **XEBRA** is a emulator for **Sony PlayStation 1, Sony PocketStation** made by **Dr. Hell** and has a **Freeware** license, the GUI language is **English**.

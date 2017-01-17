@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/m2emulator_logo_200.jpg "Sega Model 2 Emulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/m2emulator_logo.jpg "Sega Model 2 Emulator logo.")
 
 **Developement state:** :white_circle: 2014
 

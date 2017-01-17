@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jagulator_logo_200.jpg "Jagulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jagulator_logo.jpg "Jagulator logo.")
 
 **Developement state:** :red_circle: 2011
 

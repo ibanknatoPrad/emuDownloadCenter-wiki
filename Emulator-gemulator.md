@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gemulator_logo.jpg "Gemulator 9.0 logo.")
+
 **Developement state:** :red_circle: 2008
 
 **Gemulator 9.0** is a emulator for **Atari 8-bit series, Apple Macintosh, Atari ST** made by **Emulators, Inc.** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ql2k_logo.jpg "QL2K logo.")
+
 **Developement state:** :red_circle: 2008
 
 **QL2K** is a emulator for **Sinclair QL** made by **Jimmy Montesinos** and has a **Postcardware** license, the GUI language is **English**.

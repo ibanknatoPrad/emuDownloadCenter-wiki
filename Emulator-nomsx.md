@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nomsx_logo.jpg "no$msx logo.")
+
 **Developement state:** :red_circle: 2003
 
 **no$msx** is a emulator for **MSX Home Computer, MSX 2 Home Computer** made by **Martin Korth** and has a **Shareware** license, the GUI language is **English**.

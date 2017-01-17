@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/roc_logo_200.jpg "Return of CoCo logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/roc_logo.jpg "Return of CoCo logo.")
 
 **Developement state:** :red_circle: 2000
 

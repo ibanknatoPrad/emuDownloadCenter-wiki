@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yape_logo.jpg "Yet Another Plus/4 Emulator logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Yet Another Plus/4 Emulator** is a emulator for **Commodore 16/plus4** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.

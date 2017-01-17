@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtu_logo.jpg "Virtu logo.")
+
 **Developement state:** :red_circle: 2012
 
 **Virtu** is a emulator for **Apple 2** made by **fool and sicklittlemonkey** and has a **GNU GPLv2** license, the GUI language is **English**.

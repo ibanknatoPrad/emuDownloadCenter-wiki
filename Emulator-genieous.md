@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/genieous_logo.jpg "Genieous logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Genieous** is a emulator for **EACA/TS Colour Genie** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **English**.

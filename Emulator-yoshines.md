@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yoshines_logo.jpg "YoshiNES logo.")
+
 **Developement state:** :red_circle: 2013
 
 **YoshiNES** is a emulator for **Nintendo NES/Famicom** made by **omundodogabriel** and has a **Freeware** license, the GUI language is **English**.

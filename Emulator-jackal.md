@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jackal_logo.jpg "Jackal logo.")
+
 **Developement state:** :red_circle: 1999
 
 **Jackal** is a emulator for **Sony PlayStation 1** made by **Expert and Floating Point** and has a **GNU GPLv2** license, the GUI language is **English**.

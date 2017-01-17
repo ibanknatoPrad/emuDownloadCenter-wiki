@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ccs64_logo_200.jpg "CCS64 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ccs64_logo.jpg "CCS64 logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

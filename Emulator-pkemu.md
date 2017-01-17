@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pkemu_logo_200.jpg "PKEmu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pkemu_logo.jpg "PKEmu logo.")
 
 **Developement state:** :red_circle: 1999
 

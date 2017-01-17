@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aranym_logo_200.jpg "Atari on Any Machine logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aranym_logo.jpg "Atari on Any Machine logo.")
 
 **Developement state:** :white_circle: 2014
 

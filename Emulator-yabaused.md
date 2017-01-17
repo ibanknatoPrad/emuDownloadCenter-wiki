@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yabaused_logo.jpg "Yabause-Devmiyax logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Yabause-Devmiyax** is a emulator for **Sega Saturn** made by **Benjamin Siskoo** and has a **GNU GPLv2** license, the GUI language is **English**.

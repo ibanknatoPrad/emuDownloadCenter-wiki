@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dreamemu_logo_200.jpg "DreamEmu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dreamemu_logo.jpg "DreamEmu logo.")
 
 **Developement state:** :red_circle: 2002
 

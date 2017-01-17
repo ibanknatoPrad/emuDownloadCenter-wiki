@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/applewin_logo_200.jpg "AppleWin logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/applewin_logo.jpg "AppleWin logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

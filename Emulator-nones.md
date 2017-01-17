@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nones_logo.jpg "no$nes logo.")
+
 **Developement state:** :red_circle: 2012
 
 **no$nes** is a emulator for **Nintendo FDS, Nintendo NES/Famicom** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

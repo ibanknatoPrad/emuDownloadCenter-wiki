@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winuae_logo_200.jpg "WinUAE logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winuae_logo.jpg "WinUAE logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

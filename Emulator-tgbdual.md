@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/tgbdual_logo.jpg "TGB Dual logo.")
+
 **Developement state:** :red_circle: 2004
 
 **TGB Dual** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Gigo and Hii** and has a **Freeware** license, the GUI language is **English**.

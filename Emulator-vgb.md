@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vgb_logo.jpg "Virtual GameBoy logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Virtual GameBoy** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

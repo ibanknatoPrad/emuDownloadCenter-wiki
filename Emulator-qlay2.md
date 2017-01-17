@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/qlay2_logo.jpg "QLAY2 logo.")
+
 **Developement state:** :red_circle: 2003
 
 **QLAY2** is a emulator for **Sinclair QL** made by **Jimmy Montesinos and Raphael Zhou** and has a **Freeware** license, the GUI language is **English**.

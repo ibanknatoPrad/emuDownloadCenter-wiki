@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/koyote_logo.jpg "Koyote logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Koyote** is a emulator for **SNK NeoGeo Pocket, SNK NeoGeo Pocket Color** made by **David Raingeard and Romain Tisserand** and has a **Freeware** license, the GUI language is **English**.

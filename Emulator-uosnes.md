@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/uosnes_logo.jpg "uosnes logo.")
+
 **Developement state:** :red_circle: 2010
 
 **uosnes** is a emulator for **Nintendo Super Nintendo** made by **sanmaiwashi** and has a **GNU GPLv2** license, the GUI language is **English**.

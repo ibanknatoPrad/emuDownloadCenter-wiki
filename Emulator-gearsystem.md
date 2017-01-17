@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gearsystem_logo.jpg "GearSystem logo.")
+
 **Developement state:** :white_circle: 2014
 
 **GearSystem** is a emulator for **Sega Game Gear, Sega Master System** made by **Ignacio Sanchez** and has a **GNU GPLv3** license, the GUI language is **English**.

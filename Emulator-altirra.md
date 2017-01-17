@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/altirra_logo_200.jpg "Altirra logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/altirra_logo.jpg "Altirra logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

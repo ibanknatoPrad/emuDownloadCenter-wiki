@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rocknes_logo_200.jpg "RockNES logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rocknes_logo.jpg "RockNES logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

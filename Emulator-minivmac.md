@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/minivmac_logo_200.jpg "Mini vMac logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/minivmac_logo.jpg "Mini vMac logo.")
 
 **Developement state:** :red_circle: 2013
 

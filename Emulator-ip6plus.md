@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ip6plus_logo.jpg "iP6 logo.")
+
 **Developement state:** :red_circle: 2004
 
 **iP6** is a emulator for **NEC PC-6001** made by **Windy** and has a **Freeware** license, the GUI language is **English**.

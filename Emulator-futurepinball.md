@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/futurepinball_logo_200.jpg "Future Pinball logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/futurepinball_logo.jpg "Future Pinball logo.")
 
 **Developement state:** :red_circle: 2010
 

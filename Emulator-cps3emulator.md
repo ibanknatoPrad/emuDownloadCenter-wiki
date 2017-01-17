@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cps3emulator_logo.jpg "Capcom Play System 3 Emulator logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Capcom Play System 3 Emulator** is a emulator for **Capcom Play System 3** made by **ElSemi** and has a **Freeware** license, the GUI language is **English**.

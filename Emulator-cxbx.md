@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cxbx_logo_200.jpg "Cxbx logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cxbx_logo.jpg "Cxbx logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

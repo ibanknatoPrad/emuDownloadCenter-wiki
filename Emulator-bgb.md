@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bgb_logo_200.jpg "BGB logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bgb_logo.jpg "BGB logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

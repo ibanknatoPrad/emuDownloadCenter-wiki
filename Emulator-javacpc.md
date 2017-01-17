@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/javacpc_logo_200.jpg "JavaCPC logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/javacpc_logo.jpg "JavaCPC logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/anex86_logo_200.jpg "Anex86 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/anex86_logo.jpg "Anex86 logo.")
 
 **Developement state:** :red_circle: 2005
 

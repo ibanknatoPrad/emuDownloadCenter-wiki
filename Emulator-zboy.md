@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zboy_logo.jpg "zBoy logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **zBoy** is a emulator for **Nintendo Game Boy** made by **Mateusz Viste** and has a **GNU GPLv3** license, the GUI language is **English**.

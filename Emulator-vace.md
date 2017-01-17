@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vace_logo.jpg "Vace logo.")
+
 **Developement state:** :red_circle: 1998
 
 **Vace** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license, the GUI language is **English**.

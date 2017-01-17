@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/meisei_logo.jpg "meisei logo.")
+
 **Developement state:** :red_circle: 2011
 
 **meisei** is a emulator for **MSX Home Computer** made by **hap** and has a **Freeware** license, the GUI language is **English**.

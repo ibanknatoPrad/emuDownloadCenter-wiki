@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kat5200_logo.jpg "kat5200 logo.")
+
 **Developement state:** :red_circle: 2009
 
 **kat5200** is a emulator for **Atari 5200** made by **Brian Berlin** and has a **GNU GPL** license, the GUI language is **English**.

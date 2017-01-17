@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvz_logo.jpg "WinVZ logo.")
+
 **Developement state:** :red_circle: 2001
 
 **WinVZ** is a emulator for **Vtech Laser 200/210/310** made by **xip** and has a **Freeware** license, the GUI language is **English**.

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atomulator_logo_200.jpg "Atomulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/atomulator_logo.jpg "Atomulator logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

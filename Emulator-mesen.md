@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mesen_logo_200.jpg "Mesen logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mesen_logo.jpg "Mesen logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fsuae_logo_200.jpg "FS-UAE Amiga Emulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fsuae_logo.jpg "FS-UAE Amiga Emulator logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

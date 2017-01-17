@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snesgt_logo.jpg "SNESGT logo.")
+
 **Developement state:** :red_circle: 2011
 
 **SNESGT** is a emulator for **Nintendo Super Nintendo** made by **GIGO and Hii** and has a **Freeware** license, the GUI language is **English**.

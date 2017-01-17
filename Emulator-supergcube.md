@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/supergcube_logo_200.jpg "SuperGCube logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/supergcube_logo.jpg "SuperGCube logo.")
 
 **Developement state:** :red_circle: 2009
 

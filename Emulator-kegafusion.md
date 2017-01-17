@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo_200.jpg "Kega Fusion logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/kegafusion_logo.jpg "Kega Fusion logo.")
 
 **Developement state:** :red_circle: 2010
 

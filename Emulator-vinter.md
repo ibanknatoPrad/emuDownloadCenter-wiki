@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vinter_logo.jpg "Virtual Interact logo.")
+
 **Developement state:** :red_circle: 2003
 
 **Virtual Interact** is a emulator for **Interact Home Computer System** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

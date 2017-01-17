@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mercury_logo.jpg "Mercury Revival logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Mercury Revival** is a emulator for **Nintendo NES/Famicom** made by **Avgardisme** and has a **Freeware** license, the GUI language is **French**.

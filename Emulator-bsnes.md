@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnes_logo_200.jpg "BSNES logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnes_logo.jpg "BSNES logo.")
 
 **Developement state:** :red_circle: 2012
 

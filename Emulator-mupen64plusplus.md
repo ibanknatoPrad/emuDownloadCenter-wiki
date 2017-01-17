@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64plusplus_logo_200.jpg "Mupen64++ logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mupen64plusplus_logo.jpg "Mupen64++ logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

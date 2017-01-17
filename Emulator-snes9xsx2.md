@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snes9xsx2_logo.jpg "SNES9X-SX2 logo.")
+
 **Developement state:** :red_circle: 2012
 
 **SNES9X-SX2** is a emulator for **Nintendo Super Nintendo** made by **LuigiBlood** and has a **Freeware** license, the GUI language is **English**.

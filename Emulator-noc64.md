@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/noc64_logo.jpg "no$c64 logo.")
+
 **Developement state:** :red_circle: 2005
 
 **no$c64** is a emulator for **Commodore 16/plus4, Commodore 64, Commodore VIC-20** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

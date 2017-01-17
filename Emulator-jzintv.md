@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jzintv_logo_200.jpg "jzIntv logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jzintv_logo.jpg "jzIntv logo.")
 
 **Developement state:** :red_circle: 2012
 

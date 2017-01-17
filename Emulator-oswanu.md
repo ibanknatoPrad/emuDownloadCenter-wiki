@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/oswanu_logo.jpg "Oswan (Unofficial) logo.")
+
 **Developement state:** :red_circle: 2007
 
 **Oswan (Unofficial)** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **Kazz** and has a **Freeware** license, the GUI language is **English**.

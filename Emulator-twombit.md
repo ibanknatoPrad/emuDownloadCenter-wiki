@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/twombit_logo_200.jpg "TwoMBit logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/twombit_logo.jpg "TwoMBit logo.")
 
 **Developement state:** :red_circle: 2012
 

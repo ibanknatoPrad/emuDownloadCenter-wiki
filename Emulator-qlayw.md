@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/qlayw_logo.jpg "QLAY logo.")
+
 **Developement state:** :red_circle: 1999
 
 **QLAY** is a emulator for **Sinclair QL** made by **Jan Venema** and has a **Freeware** license, the GUI language is **English**.

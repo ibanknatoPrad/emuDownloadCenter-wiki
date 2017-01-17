@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/comeback64_logo.jpg "Come Back 64 logo.")
+
 **Developement state:** :red_circle: 1999
 
 **Come Back 64** is a emulator for **Commodore 64** made by **D Luxen** and has a **GNU GPLv2** license, the GUI language is **English**.

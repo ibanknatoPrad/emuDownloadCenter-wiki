@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pmd85_logo_200.jpg "PMD85 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pmd85_logo.jpg "PMD85 logo.")
 
 **Developement state:** :red_circle: 2003
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvz300_logo.jpg "WinVZ300 logo.")
+
 **Developement state:** :red_circle: 2012
 
 **WinVZ300** is a emulator for **Vtech Laser 100/110, Vtech Laser 200/210/310, Vtech Laser 350/500/700** made by **Gavin Turner** and has a **Freeware** license, the GUI language is **English**.

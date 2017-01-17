@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zero_logo.jpg "Zero logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Zero** is a emulator for **Sinclair ZX Spectrum** made by **Arjun Nair** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pc6001vx_logo.jpg "PC6001VX logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **PC6001VX** is a emulator for **NEC PC-6001** made by **eighttails** and has a **GNU GPLv2.1** license, the GUI language is **English**.

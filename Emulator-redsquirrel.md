@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/redsquirrel_logo.jpg "Red Squirrel logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Red Squirrel** is a emulator for **Acorn Archimedes** made by **Graeme Barnes** and has a **Freeware** license, the GUI language is **English**.

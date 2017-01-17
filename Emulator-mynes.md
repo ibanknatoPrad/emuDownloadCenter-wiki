@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mynes_logo_200.jpg "My NES logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mynes_logo.jpg "My NES logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

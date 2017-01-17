@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo_200.jpg "EMU7800 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu7800_logo.jpg "EMU7800 logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

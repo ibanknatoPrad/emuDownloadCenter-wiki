@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yanese_logo.jpg "YANESE (Yet Another NES Emulator) logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **YANESE (Yet Another NES Emulator)** is a emulator for **Nintendo NES/Famicom** made by **Anes** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtualmc10_logo.jpg "Virtual MC-10 logo.")
+
 **Developement state:** :red_circle: 2008
 
 **Virtual MC-10** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

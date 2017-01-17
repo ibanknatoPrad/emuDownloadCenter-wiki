@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psxeven_logo_200.jpg "PSXeven logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psxeven_logo.jpg "PSXeven logo.")
 
 **Developement state:** :red_circle: 2005
 

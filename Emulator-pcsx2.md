@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsx2_logo_200.jpg "PCSX2 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsx2_logo.jpg "PCSX2 logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

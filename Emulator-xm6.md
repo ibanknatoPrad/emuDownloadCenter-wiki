@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xm6_logo.jpg "XM 6 Type G logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **XM 6 Type G** is a emulator for **Sharp X68000** made by **GIMONS** and has a **Freeware** license, the GUI language is **English**.

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo_200.jpg "Nestopia logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nestopia_logo.jpg "Nestopia logo.")
 
 **Developement state:** :white_circle: 2014
 

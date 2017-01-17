@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xgs32_logo.jpg "XGS/32 logo.")
+
 **Developement state:** :red_circle: 2000
 
 **XGS/32** is a emulator for **Apple 2GS** made by **smentzer** and has a **Freeware** license, the GUI language is **English**.

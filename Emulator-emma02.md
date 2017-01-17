@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emma02_logo_200.jpg "EMMA 02 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emma02_logo.jpg "EMMA 02 logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

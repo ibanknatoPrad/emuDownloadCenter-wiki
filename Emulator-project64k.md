@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo_200.jpg "Project64k logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/project64k_logo.jpg "Project64k logo.")
 
 **Developement state:** :large_blue_circle: 2015
 

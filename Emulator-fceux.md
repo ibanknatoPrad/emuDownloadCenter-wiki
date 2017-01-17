@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fceux_logo_200.jpg "FCEUX logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fceux_logo.jpg "FCEUX logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

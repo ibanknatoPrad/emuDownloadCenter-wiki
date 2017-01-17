@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/classic99_logo.jpg "Classic99 logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Classic99** is a emulator for **Texas Instruments TI-99/4A** made by **M Brent and Tursi** and has a **Open Source** license, the GUI language is **English**.

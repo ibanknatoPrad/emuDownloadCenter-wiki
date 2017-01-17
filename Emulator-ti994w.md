@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ti994w_logo.jpg "Ti994W logo.")
+
 **Developement state:** :red_circle: 2010
 
 **Ti994W** is a emulator for **Texas Instruments TI-99/4A** made by **Frederik G Kaal** and has a **Freeware** license, the GUI language is **English**.

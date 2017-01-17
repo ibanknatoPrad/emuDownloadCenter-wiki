@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aqemu_logo_200.jpg "AqEmu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/aqemu_logo.jpg "AqEmu logo.")
 
 **Developement state:** :red_circle: 2000
 

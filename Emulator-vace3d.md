@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vace3d_logo.jpg "Vace3D logo.")
+
 **Developement state:** :red_circle: 1999
 
 **Vace3D** is a emulator for **Jupiter Cantab - Jupiter Ace** made by **Edward Patel** and has a **GNU GPLv2** license, the GUI language is **English**.

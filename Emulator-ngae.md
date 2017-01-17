@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ngae_logo.jpg "NGAE logo.")
+
 **Developement state:** :red_circle: 2012
 
 **NGAE** is a emulator for **SNK NeoGeo** made by **IsmaMj** and has a **Freeware** license, the GUI language is **English**.

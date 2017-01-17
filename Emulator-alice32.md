@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/alice32_logo.jpg "Alice32 logo.")
+
 **Developement state:** :red_circle: 2006
 
 **Alice32** is a emulator for **Matra/Hachette Alice** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

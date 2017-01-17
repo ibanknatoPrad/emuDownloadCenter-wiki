@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vbjin_logo.jpg "VBjin logo.")
+
 **Developement state:** :red_circle: 2010
 
 **VBjin** is a emulator for **Nintendo Virtual Boy** made by **Paul_t** and has a **GNU GPLv2** license, the GUI language is **English**.

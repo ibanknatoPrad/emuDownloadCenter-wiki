@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hoxs64_logo_200.jpg "Hoxs64 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hoxs64_logo.jpg "Hoxs64 logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

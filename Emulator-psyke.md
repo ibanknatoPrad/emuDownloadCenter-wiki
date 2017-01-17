@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/psyke_logo.jpg "PSyKe logo.")
+
 **Developement state:** :red_circle: 1998
 
 **PSyKe** is a emulator for **Sony PlayStation 1** made by **Giovanni Bajo and Stefano Crosara** and has a **Freeware** license, the GUI language is **English**.

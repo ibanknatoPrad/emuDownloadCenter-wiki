@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vbam_logo.jpg "VisualBoyAdvance-M-WX logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **VisualBoyAdvance-M-WX** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance** made by **The VBA-M development team** and has a **GNU GPLv2** license, the GUI language is **English**.

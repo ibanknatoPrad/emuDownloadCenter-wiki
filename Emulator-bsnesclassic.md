@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnesclassic_logo.jpg "BSNES Classic logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **BSNES Classic** is a emulator for **Nintendo Game Boy Color, Nintendo NES/Famicom, Nintendo Super Nintendo** made by **Devin Acker, Alex W. Jackson, Michal Ziabkowski and Maximilian Rehkopf** and has a **GNU GPLv2** license, the GUI language is **English**.

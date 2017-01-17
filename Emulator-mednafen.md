@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mednafen_logo_200.jpg "Mednafen logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mednafen_logo.jpg "Mednafen logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

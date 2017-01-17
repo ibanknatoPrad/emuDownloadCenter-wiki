@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fastz80_logo.jpg "FastZ80 logo.")
+
 **Developement state:** :red_circle: 2008
 
 **FastZ80** is a emulator for **Híradástechnika HT-1080Z, Tandy/Radio Shack TRS-80 Color Computer** made by **Lajos Kintli** and has a **Freeware** license, the GUI language is **English**.

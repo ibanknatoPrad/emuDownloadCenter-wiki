@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snes9xrr_logo.jpg "SNES9X Rerecording logo.")
+
 **Developement state:** :red_circle: 2010
 
 **SNES9X Rerecording** is a emulator for **Nintendo Super Nintendo** made by **UNKNOWN** and has a **Freeware** license, the GUI language is **English**.

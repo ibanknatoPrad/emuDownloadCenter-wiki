@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/virtualt_logo.jpg "Virtual T logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **Virtual T** is a emulator for **Tandy/Radio Shack TRS-80 Color Computer** made by **Ken Pettit** and has a **BSD License** license, the GUI language is **English**.

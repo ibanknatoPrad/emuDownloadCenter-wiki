@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bws_logo.jpg "bws logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **bws** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **byuu** and has a **Freeware** license, the GUI language is **English**.

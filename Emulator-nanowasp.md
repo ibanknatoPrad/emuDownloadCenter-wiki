@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nanowasp_logo_200.jpg "NanoWasp logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nanowasp_logo.jpg "NanoWasp logo.")
 
 **Developement state:** :red_circle: 2007
 

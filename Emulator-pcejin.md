@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcejin_logo.jpg "PCEjin logo.")
+
 **Developement state:** :red_circle: 2013
 
 **PCEjin** is a emulator for **NEC Turbografx-16/PC-Engine** made by **Paul_t** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnesplus_logo.jpg "BSNES+ logo.")
+
 **Developement state:** :large_blue_circle: 2015
 
 **BSNES+** is a emulator for **Nintendo Game Boy Color, Nintendo NES/Famicom, Nintendo Super Nintendo** made by **BSNES+ Team** and has a **GNU GPLv2** license, the GUI language is **English**.

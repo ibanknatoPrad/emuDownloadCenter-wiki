@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emu_logo.jpg "EMU logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **EMU** is a emulator for **V. I. Lenin L'vov/Lviv, MSX Home Computer, MSX 2 Home Computer, Mikrosha Radio-86RK** made by **Tselikov** and has a **Freeware** license, the GUI language is **English**.

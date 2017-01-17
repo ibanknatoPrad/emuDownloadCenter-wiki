@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/minimon_logo.jpg "Minimon logo.")
+
 **Developement state:** :red_circle: 2005
 
 **Minimon** is a emulator for **Nintendo Pokémon mini** made by **Bryon Vandiver** and has a **Freeware** license, the GUI language is **English**.

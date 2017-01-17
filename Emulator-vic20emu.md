@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vic20emu_logo_200.jpg "Vic-20 Emulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vic20emu_logo.jpg "Vic-20 Emulator logo.")
 
 **Developement state:** :red_circle: 2011
 

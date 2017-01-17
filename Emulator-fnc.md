@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fnc_logo.jpg "Fish 'N' Chips logo.")
+
 **Developement state:** :red_circle: 2008
 
 **Fish 'N' Chips** is a emulator for **Unknown, Cosmac VIP** made by **hap** and has a **Freeware** license, the GUI language is **English**.

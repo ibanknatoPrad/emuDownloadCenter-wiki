@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/elkulator_logo_200.jpg "Elkulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/elkulator_logo.jpg "Elkulator logo.")
 
 **Developement state:** :red_circle: 2010
 

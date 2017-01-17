@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cdiemulator_logo_200.jpg "CD-i Emulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cdiemulator_logo.jpg "CD-i Emulator logo.")
 
 **Developement state:** :red_circle: 2005
 

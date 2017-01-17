@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/xroar_logo.jpg "XRoar logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **XRoar** is a emulator for **Dragon Data - Dragon 32/64, Tandy/Radio Shack TRS-80 Color Computer** made by **Ciaran Anscomb** and has a **GNU GPLv2** license, the GUI language is **English**.

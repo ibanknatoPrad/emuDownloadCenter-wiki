@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winx1_logo.jpg "WinX1 logo.")
+
 **Developement state:** :red_circle: 2000
 
 **WinX1** is a emulator for **Sharp X1** made by **Kenjo** and has a **Freeware** license, the GUI language is **Japanese**.

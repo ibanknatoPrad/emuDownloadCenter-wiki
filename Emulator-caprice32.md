@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/caprice32_logo_200.jpg "CaPriCe32 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/caprice32_logo.jpg "CaPriCe32 logo.")
 
 **Developement state:** :red_circle: 2005
 

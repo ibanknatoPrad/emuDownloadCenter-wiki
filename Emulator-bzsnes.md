@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bzsnes_logo.jpg "bZSNES logo.")
+
 **Developement state:** :red_circle: 2011
 
 **bZSNES** is a emulator for **Nintendo Super Nintendo** made by **byuu** and has a **GNU GPLv2** license, the GUI language is **English**.

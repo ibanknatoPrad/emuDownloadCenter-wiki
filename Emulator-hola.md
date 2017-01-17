@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hola_logo.jpg "HoLa! logo.")
+
 **Developement state:** :red_circle: 2009
 
 **HoLa!** is a emulator for **HomeLAB series - HomeLAB 4** made by **Attila Grosz** and has a **Freeware** license, the GUI language is **Hungarian**.

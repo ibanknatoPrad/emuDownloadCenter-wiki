@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dreamvmu_logo.jpg "DreamVMU logo.")
+
 **Developement state:** :red_circle: 2002
 
 **DreamVMU** is a emulator for **Sega Dreamcast VMU** made by **Michel Gerritse** and has a **Freeware** license, the GUI language is **English**.

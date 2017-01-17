@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ines_logo.jpg "iNES logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **iNES** is a emulator for **Nintendo NES/Famicom** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.

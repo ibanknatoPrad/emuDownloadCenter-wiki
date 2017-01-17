@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/no2k6_logo_200.jpg "no$2k6 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/no2k6_logo.jpg "no$2k6 logo.")
 
 **Developement state:** :red_circle: 2012
 

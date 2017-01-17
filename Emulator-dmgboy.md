@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dmgboy_logo_200.jpg "DMGBoy logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dmgboy_logo.jpg "DMGBoy logo.")
 
 **Developement state:** :white_circle: 2014
 

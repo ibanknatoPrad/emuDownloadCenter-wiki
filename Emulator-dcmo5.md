@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmo5_logo_200.jpg "DCMO5 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmo5_logo.jpg "DCMO5 logo.")
 
 **Developement state:** :red_circle: 2007
 

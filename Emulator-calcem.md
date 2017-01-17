@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/calcem_logo.jpg "CalcEm logo.")
+
 **Developement state:** :red_circle: 1998
 
 **CalcEm** is a emulator for **Texas Instruments TI-82, Texas Instruments TI-83, Texas Instruments TI-85** made by **David Eriksson** and has a **GNU GPLv2** license, the GUI language is **English**.

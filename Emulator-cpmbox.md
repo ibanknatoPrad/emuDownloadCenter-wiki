@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/cpmbox_logo.jpg "CP/M Box logo.")
+
 **Developement state:** :red_circle: 2013
 
 **CP/M Box** is a emulator for **Amstrad PCW/Schneider Joyce** made by **habi** and has a **GNU GPLv2** license, the GUI language is **Spanish**.

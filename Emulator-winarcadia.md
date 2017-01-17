@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winarcadia_logo_200.jpg "WinArcadia logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winarcadia_logo.jpg "WinArcadia logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

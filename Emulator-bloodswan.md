@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bloodswan_logo.jpg "BLooDsWan logo.")
+
 **Developement state:** :red_circle: 2002
 
 **BLooDsWan** is a emulator for **Bandai Wonderswan, Bandai Wonderswan Color** made by **Blood Soft** and has a **Freeware** license, the GUI language is **Spanish**.

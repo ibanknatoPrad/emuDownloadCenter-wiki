@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hugo_logo_200.jpg "Hu-Go! logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/hugo_logo.jpg "Hu-Go! logo.")
 
 **Developement state:** :red_circle: 2005
 

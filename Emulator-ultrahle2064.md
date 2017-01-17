@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultrahle2064_logo_200.jpg "UltraHLE 2064 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ultrahle2064_logo.jpg "UltraHLE 2064 logo.")
 
 **Developement state:** :red_circle: 2003
 

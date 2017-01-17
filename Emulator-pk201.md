@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pk201_logo.jpg "PK201 logo.")
+
 **Developement state:** :red_circle: 2009
 
 **PK201** is a emulator for **Sony PocketStation** made by **Dr. Hell** and has a **Freeware** license, the GUI language is **English**.

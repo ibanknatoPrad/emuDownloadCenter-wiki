@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dolphin_logo_200.jpg "Dolphin logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dolphin_logo.jpg "Dolphin logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

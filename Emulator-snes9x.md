@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snes9x_logo_200.jpg "SNES9X logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/snes9x_logo.jpg "SNES9X logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

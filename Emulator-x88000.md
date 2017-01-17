@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/x88000_logo.jpg "X88000 logo.")
+
 **Developement state:** :red_circle: 2012
 
 **X88000** is a emulator for **NEC PC-8801** made by **Manuke** and has a **Freeware** license, the GUI language is **English**.

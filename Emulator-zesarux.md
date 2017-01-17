@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/zesarux_logo.jpg "ZEsarUX logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **ZEsarUX** is a emulator for **Amstrad CPC, Jupiter Cantab - Jupiter Ace, MGT Sam Coupé, Sinclair ZX81, Sinclair ZX Spectrum** made by **Cesar Hernandez** and has a **GNU GPLv3** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bfmulator_logo.jpg "BFMulator logo.")
+
 **Developement state:** :red_circle: 2005
 
 **BFMulator** is a emulator for **Fruit Machine** made by **Juergen Buchmueller, Mike Balfour, Howie Cohen, Oliver Galibert** and has a **Freeware** license, the GUI language is **English**.

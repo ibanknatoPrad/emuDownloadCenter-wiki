@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rainbow_logo.jpg "Rainbow logo.")
+
 **Developement state:** :red_circle: 2012
 
 **Rainbow** is a emulator for **Atari 5200, Atari 8-bit series** made by **Chris Lam** and has a **Freeware** license, the GUI language is **English**.

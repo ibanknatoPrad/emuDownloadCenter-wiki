@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/steemsse_logo.jpg "Steem SSE (Steven Seagal Edition) logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Steem SSE (Steven Seagal Edition)** is a emulator for **Atari ST** made by **Anthony and Russel Hayward** and has a **Freeware** license, the GUI language is **English**.

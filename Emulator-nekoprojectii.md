@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nekoprojectii_logo.jpg "Neko Project II logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Neko Project II** is a emulator for **NEC PC-9801** made by **NP Team** and has a **Freeware** license, the GUI language is **English**.

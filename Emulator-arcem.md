@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/arcem_logo_200.jpg "ArcEm logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/arcem_logo.jpg "ArcEm logo.")
 
 **Developement state:** :red_circle: 2012
 

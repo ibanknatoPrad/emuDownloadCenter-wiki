@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/oricutron_logo.jpg "Oricutron logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Oricutron** is a emulator for **Oric Atmos/Telestrat** made by **Peter Gordon** and has a **Freeware** license, the GUI language is **English**.

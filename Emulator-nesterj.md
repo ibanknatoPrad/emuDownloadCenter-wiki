@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nesterj_logo_200.jpg "nesterJ logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nesterj_logo.jpg "nesterJ logo.")
 
 **Developement state:** :red_circle: 2003
 

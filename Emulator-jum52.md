@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jum52_logo.jpg "Jum52 logo.")
+
 **Developement state:** :red_circle: 2010
 
 **Jum52** is a emulator for **Atari 5200** made by **James** and has a **Freeware** license, the GUI language is **English**.

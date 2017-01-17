@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vivanonno_logo_200.jpg "viva nonno logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vivanonno_logo.jpg "viva nonno logo.")
 
 **Developement state:** :red_circle: 2002
 

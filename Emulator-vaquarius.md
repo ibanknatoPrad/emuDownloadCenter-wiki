@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vaquarius_logo_200.jpg "Virtual Aquarius logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vaquarius_logo.jpg "Virtual Aquarius logo.")
 
 **Developement state:** :red_circle: 2008
 

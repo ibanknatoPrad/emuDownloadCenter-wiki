@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mesadx_logo.jpg "MesaDX logo.")
+
 **Developement state:** :red_circle: 2006
 
 **MesaDX** is a emulator for **Sega Game Gear, Sega Master System** made by **Eric R Quinn** and has a **Freeware** license, the GUI language is **English**.

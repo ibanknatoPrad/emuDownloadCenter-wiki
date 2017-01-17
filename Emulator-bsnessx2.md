@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bsnessx2_logo.jpg "BSNES-SX2 logo.")
+
 **Developement state:** :red_circle: 2012
 
 **BSNES-SX2** is a emulator for **Nintendo Game Boy Color, Nintendo NES/Famicom, Nintendo Super Nintendo** made by **LuigiBlood and Seu-kun** and has a **GNU GPLv2** license, the GUI language is **English**.

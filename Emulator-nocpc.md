@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nocpc_logo.jpg "no$cpc logo.")
+
 **Developement state:** :red_circle: 2000
 
 **no$cpc** is a emulator for **Amstrad CPC** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

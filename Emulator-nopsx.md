@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nopsx_logo.jpg "no$psx logo.")
+
 **Developement state:** :white_circle: 2014
 
 **no$psx** is a emulator for **Sony PlayStation 1** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ps2emu_logo.jpg "PS2EMU logo.")
+
 **Developement state:** :red_circle: 2004
 
 **PS2EMU** is a emulator for **Sony PlayStation 2** made by **Roor Makurosu, Scar_T and Shunt** and has a **Freeware** license, the GUI language is **English**.

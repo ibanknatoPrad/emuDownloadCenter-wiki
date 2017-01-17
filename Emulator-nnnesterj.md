@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nnnesterj_logo.jpg "NNNesterJ logo.")
+
 **Developement state:** :red_circle: 2002
 
 **NNNesterJ** is a emulator for **Nintendo NES/Famicom** made by **UNKNOWN** and has a **Freeware** license, the GUI language is **English**.

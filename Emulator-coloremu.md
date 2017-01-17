@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coloremu_logo_200.jpg "Colour Emu logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coloremu_logo.jpg "Colour Emu logo.")
 
 **Developement state:** :red_circle: 1997
 

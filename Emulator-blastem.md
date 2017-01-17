@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/blastem_logo.jpg "BlastEm logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **BlastEm** is a emulator for **Sega Mega Drive/Genesis** made by **Mike Pavone** and has a **GNU GPLv3** license, the GUI language is **English**.

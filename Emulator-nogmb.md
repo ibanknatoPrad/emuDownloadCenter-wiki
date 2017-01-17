@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nogmb_logo.jpg "no$gmb logo.")
+
 **Developement state:** :red_circle: 2000
 
 **no$gmb** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Color** made by **Martin Korth** and has a **Shareware** license, the GUI language is **English**.

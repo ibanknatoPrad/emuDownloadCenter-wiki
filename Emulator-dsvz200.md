@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dsvz200_logo.jpg "DSVZ200 logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **DSVZ200** is a emulator for **Vtech Laser 200/210/310, Vtech Laser 350/500/700** made by **The_Author and DynaChicken** and has a **Freeware** license, the GUI language is **English**.

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neutrinosx2_logo_200.jpg "neutrinoSX2 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neutrinosx2_logo.jpg "neutrinoSX2 logo.")
 
 **Developement state:** :red_circle: 2003
 

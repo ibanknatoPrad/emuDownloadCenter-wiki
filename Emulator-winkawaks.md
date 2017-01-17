@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winkawaks_logo_200.jpg "WinKawaks logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winkawaks_logo.jpg "WinKawaks logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

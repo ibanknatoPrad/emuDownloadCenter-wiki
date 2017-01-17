@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/mfme_logo.jpg "Multiple Fruit Machine Emulator logo.")
+
 **Developement state:** :red_circle: 2004
 
 **Multiple Fruit Machine Emulator** is a emulator for **Fruit Machine** made by **C.J. Wren** and has a **Freeware** license, the GUI language is **English**.

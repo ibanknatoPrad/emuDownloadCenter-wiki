@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coolcv_logo_200.jpg "CoolCV logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/coolcv_logo.jpg "CoolCV logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

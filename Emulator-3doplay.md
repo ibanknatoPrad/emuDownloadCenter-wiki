@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo_200.jpg "3DOplay logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/3doplay_logo.jpg "3DOplay logo.")
 
 **Developement state:** :red_circle: 2012
 

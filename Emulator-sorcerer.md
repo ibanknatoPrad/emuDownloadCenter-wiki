@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sorcerer_logo.jpg "Sorcerer logo.")
+
 **Developement state:** :red_circle: 2002
 
 **Sorcerer** is a emulator for **Exidy Sorcerer** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

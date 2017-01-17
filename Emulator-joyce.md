@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/joyce_logo_200.jpg "JOYCE logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/joyce_logo.jpg "JOYCE logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

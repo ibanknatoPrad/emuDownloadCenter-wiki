@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/unrealspeccy_logo.jpg "UnrealSpeccy logo.")
+
 **Developement state:** :white_circle: 2014
 
 **UnrealSpeccy** is a emulator for **Sinclair ZX Spectrum** made by **deathsoft** and has a **Freeware** license, the GUI language is **English**.

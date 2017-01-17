@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvice_logo_200.jpg "WinVICE logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/winvice_logo.jpg "WinVICE logo.")
 
 **Developement state:** :red_circle: 2012
 

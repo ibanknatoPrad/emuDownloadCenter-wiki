@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopop_logo_200.jpg "NeoPop logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/neopop_logo.jpg "NeoPop logo.")
 
 **Developement state:** :red_circle: 2002
 

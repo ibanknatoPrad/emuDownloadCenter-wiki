@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gensgs_logo_200.jpg "Gens/GS logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/gensgs_logo.jpg "Gens/GS logo.")
 
 **Developement state:** :red_circle: 2010
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sneese_logo_200.jpg "SNEeSe logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/sneese_logo.jpg "SNEeSe logo.")
 
 **Developement state:** :red_circle: 2006
 

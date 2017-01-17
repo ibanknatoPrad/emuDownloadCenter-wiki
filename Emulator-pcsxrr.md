@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsxrr_logo.jpg "PCSX-RR logo.")
+
 **Developement state:** :red_circle: 2009
 
 **PCSX-RR** is a emulator for **Sony PlayStation 1** made by **PCSX-Reloaded Team** and has a **GNU GPLv2** license, the GUI language is **English**.

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/z80stealth_logo.jpg "Z80Stealth logo.")
+
 **Developement state:** :white_circle: 2014
 
 **Z80Stealth** is a emulator for **Sinclair ZX Spectrum** made by **Kirill Kolpakov** and has a **Freeware** license, the GUI language is **English**.

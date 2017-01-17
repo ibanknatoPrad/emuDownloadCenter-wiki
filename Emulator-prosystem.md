@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo_200.jpg "ProSystem logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/prosystem_logo.jpg "ProSystem logo.")
 
 **Developement state:** :red_circle: 2008
 

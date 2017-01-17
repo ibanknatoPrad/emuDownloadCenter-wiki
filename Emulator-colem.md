@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/colem_logo_200.jpg "ColEm logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/colem_logo.jpg "ColEm logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

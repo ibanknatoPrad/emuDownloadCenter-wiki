@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/jvz200_logo.jpg "James VZ200 logo.")
+
 **Developement state:** :red_circle: 2005
 
 **James VZ200** is a emulator for **Vtech Laser 200/210/310** made by **James the Animal Tamer** and has a **Freeware** license, the GUI language is **English**.

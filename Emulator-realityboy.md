@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/realityboy_logo_200.jpg "Reality Boy logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/realityboy_logo.jpg "Reality Boy logo.")
 
 **Developement state:** :red_circle: 2008
 

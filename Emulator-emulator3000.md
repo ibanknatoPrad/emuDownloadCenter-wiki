@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/emulator3000_logo.jpg "Emulator3000 logo.")
+
 **Developement state:** :red_circle: 2004
 
 **Emulator3000** is a emulator for **Commodore 64, Coleco ColecoVision, MCA Laserdisc Arcade, V. I. Lenin L'vov/Lviv, Mikrosha Radio-86RK, Sinclair ZX Spectrum** made by **Eugene Troitskiy** and has a **Freeware** license, the GUI language is **Russian**.

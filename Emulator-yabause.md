@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yabause_logo_200.jpg "Yabause logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/yabause_logo.jpg "Yabause logo.")
 
 **Developement state:** :large_blue_circle: 2016
 

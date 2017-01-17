@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ages_logo.jpg "WinAGES logo.")
+
 **Developement state:** :red_circle: 2002
 
 **WinAGES** is a emulator for **Sega Mega Drive 32X, Sega Mega Drive/Genesis, Sega Game Gear, Sega Mega-CD, Sega Master System** made by **Quinntesson** and has a **Freeware** license, the GUI language is **English**.

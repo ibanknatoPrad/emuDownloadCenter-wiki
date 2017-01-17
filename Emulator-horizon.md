@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/horizon_logo.jpg "Horizon logo.")
+
 **Developement state:** :red_circle: 2012
 
 **Horizon** is a emulator for **Acorn BBC** made by **Chris Lam** and has a **GNU GPLv2** license, the GUI language is **English**.

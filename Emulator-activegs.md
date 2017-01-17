@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/activegs_logo_200.jpg "ActiveGS logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/activegs_logo.jpg "ActiveGS logo.")
 
 **Developement state:** :white_circle: 2014
 

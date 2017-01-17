@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/uoyabause_logo.jpg "uoYabause logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **uoYabause** is a emulator for **Sega Saturn** made by **uoYabause Team** and has a **GNU GPLv2** license, the GUI language is **English**.

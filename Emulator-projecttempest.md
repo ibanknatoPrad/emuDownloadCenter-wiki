@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/projecttempest_logo.jpg "Project Tempest logo.")
+
 **Developement state:** :red_circle: 2004
 
 **Project Tempest** is a emulator for **Atari Jaguar** made by **Ville Linde** and has a **Freeware** license, the GUI language is **English**.

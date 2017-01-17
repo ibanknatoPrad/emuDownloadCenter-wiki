@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/takeda_logo.jpg "Takeda Archive logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **Takeda Archive** is a emulator for **Fujitsu FM-7, Sega Game Gear, MSX Home Computer, MSX 2 Home Computer, Sharp MZ-700/1500, Sharp MZ-2000, Sharp MZ-2500/SuperMZ, NEC PC-6001, NEC PC-8801, NEC PC-9801, NEC Supergrafx/PC-Engine 2, Casio PV-1000, Casio PV-2000, Sega SC-3000, Epoch/Yeno Super Cassette Vision, Sega Master System, Sord M5, Tomy Tutor/Pyuta, Sharp X1** made by **Various** and has a **GNU GPLv2** license, the GUI language is **English**.

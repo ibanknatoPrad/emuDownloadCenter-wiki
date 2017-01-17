@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nozx_logo.jpg "no$zx logo.")
+
 **Developement state:** :red_circle: 2012
 
 **no$zx** is a emulator for **Jupiter Cantab - Jupiter Ace, Sinclair ZX81, Sinclair ZX Spectrum** made by **Martin Korth** and has a **Freeware** license, the GUI language is **English**.

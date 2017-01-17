@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmicro_logo_200.jpg "DCMicroColor logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/dcmicro_logo.jpg "DCMicroColor logo.")
 
 **Developement state:** :red_circle: 2008
 

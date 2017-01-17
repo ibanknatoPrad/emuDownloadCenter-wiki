@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nlmsx_logo_200.jpg "NLMSX logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/nlmsx_logo.jpg "NLMSX logo.")
 
 **Developement state:** :red_circle: 2003
 

@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pale_logo_200.jpg "Pete's Amazing Lynx Emulator logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pale_logo.jpg "Pete's Amazing Lynx Emulator logo.")
 
 **Developement state:** :white_circle: 2014
 

@@ -8,6 +8,8 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vbjin-ovr_logo.jpg "VBjin-OVR logo.")
+
 **Developement state:** :large_blue_circle: 2016
 
 **VBjin-OVR** is a emulator for **Nintendo Virtual Boy** made by **Jay Mattis** and has a **Freeware** license, the GUI language is **English**.

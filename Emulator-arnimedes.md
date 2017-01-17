@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/arnimedes_logo_200.jpg "ARNIMEDES logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/arnimedes_logo.jpg "ARNIMEDES logo.")
 
 **Developement state:** :red_circle: 2012
 

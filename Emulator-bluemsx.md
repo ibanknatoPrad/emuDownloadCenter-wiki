@@ -8,7 +8,7 @@
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bluemsx_logo_200.jpg "blueMSX logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/bluemsx_logo.jpg "blueMSX logo.")
 
 **Developement state:** :red_circle: 2009
 
