@@ -1,27 +1,29 @@
 ###### Welcome to [emuDownloadCenter (EDC)](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/), EDC is a side project of [emuControlCenter](https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki/)
 ***
 ## Menu
-| **Emulator: iP6** |
+| **Emulator: iP6 Plus** |
 |:---------|
 | [:clipboard: About](#about) |
 | [:sunrise: Screenshot](#screenshot) |
 | [:floppy_disk: Downloads](#downloads) |
 ***
 ## About
-![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ip6plus_logo.jpg "iP6 logo.")
+![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/ip6plus_logo.jpg "iP6 Plus logo.")
 
 **Developement state:** :red_circle: 2004
 
-**iP6** is a emulator for **NEC PC-6001** made by **Windy** and has a **Freeware** license, the GUI language is **English**.
+**iP6 Plus** is a emulator for **NEC PC-6001** made by **Windy** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **4.7 (x86)**, released on **2004-02-03**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **iP6.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
 _iP6 Plus is an NEC PC-6001, PC-6001 mk2, PC-6601, PC-6601mk2SR, PC-6601SR, PC-6006SR and PC-6007SR emulator based on the iP6 emulator by Mr Ishioka._
+
+[:link: **Emulator website**](http://www.kisweb.ne.jp/personal/windy/computer/pc6001/ip6.html)
 ***
 ## Screenshot
-![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ip6plus/emulator_screen_01.jpg "iP6 screenshot.")
+![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/ip6plus/emulator_screen_01.jpg "iP6 Plus screenshot.")
 ***
 ## Downloads
 Legend: | 

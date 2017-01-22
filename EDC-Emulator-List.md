@@ -183,7 +183,8 @@
 | :file_folder: [**iDeaS**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ideas#menu) | Nintendo Game Boy Advance, Nintendo DS | :red_circle: 2011
 | :file_folder: [**iNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ines#menu) | Nintendo NES/Famicom | :large_blue_circle: 2016
 | :file_folder: [**InfoVectrex**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-infovectrex#menu) | GCE/MB Vectrex | :red_circle: 2006
-| :file_folder: [**iP6**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ip6plus#menu) | NEC PC-6001 | :red_circle: 2004
+| :file_folder: [**iP6**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ip6#menu) | NEC PC-6001 | :red_circle: 2002
+| :file_folder: [**iP6 Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ip6plus#menu) | NEC PC-6001 | :red_circle: 2004
 | :file_folder: [**Jackal**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jackal#menu) | Sony PlayStation 1 | :red_circle: 1999
 | :file_folder: [**Jaguar Tempest 2000 Emulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-t2k#menu) | Atari Jaguar | :red_circle: 2007
 | :file_folder: [**Jagulator**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-jagulator#menu) | Atari Jaguar | :red_circle: 2011
@@ -208,6 +209,8 @@
 | :file_folder: [**Koyote**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-koyote#menu) | SNK NeoGeo Pocket, SNK NeoGeo Pocket Color | :red_circle: 2002
 | :file_folder: [**Lisa**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisa#menu) | Apple Lisa | :red_circle: 2008
 | :file_folder: [**LisaEm**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-lisaem#menu) | Apple Lisa | :red_circle: 2007
+| :file_folder: [**M.A.M.E.**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mame#menu) | MAME Arcade, Capcom Play System 1, Capcom Play System 2, Capcom Play System 3, Sega Model 1, Sega Model 2, Sega Naomi, SNK NeoGeo, IGS PolyGameMaster, Namco System 11, Sega System 16, Sega System 18, Namco System 22, Sony ZiNc (ZN-1/ZN-2) | :large_blue_circle: 2016
+| :file_folder: [**M.E.S.S.**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mess#menu) | Coleco Adam, Apple 2GS, Fairchild Channel-F, Tiger Electronics Game.com, Hartung Game Master, Jupiter Cantab - Jupiter Ace, DEC PDP-1, Interton VC-4000 | :large_blue_circle: 2015
 | :file_folder: [**M88**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-m88#menu) | NEC PC-8801 | :red_circle: 2012
 | :file_folder: [**MahNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-mahnes#menu) | Nintendo NES/Famicom | :red_circle: 2013
 | :file_folder: [**Makaron**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-makaron#menu) | Sega Dreamcast, Sega Naomi | :red_circle: 2011
@@ -282,6 +285,7 @@
 | :file_folder: [**PC6001V**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pc6001v#menu) | NEC PC-6001 | :large_blue_circle: 2016
 | :file_folder: [**PC6001VW**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pc6001vw#menu) | NEC PC-6001 | :large_blue_circle: 2016
 | :file_folder: [**PC6001VX**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pc6001vx#menu) | NEC PC-6001 | :large_blue_circle: 2016
+| :file_folder: [**PC88Win**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pc88win#menu) | NEC PC-8801 | :red_circle: 1999
 | :file_folder: [**PCEjin**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcejin#menu) | NEC Turbografx-16/PC-Engine | :red_circle: 2013
 | :file_folder: [**PCE-MacPlus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcemacplus#menu) | Apple Macintosh | :red_circle: 2013
 | :file_folder: [**PCSP**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-pcsp#menu) | Sony PlayStation Portable | :red_circle: 2011
@@ -318,6 +322,7 @@
 | :file_folder: [**QL2K**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ql2k#menu) | Sinclair QL | :red_circle: 2008
 | :file_folder: [**QLAY**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlayw#menu) | Sinclair QL | :red_circle: 1999
 | :file_folder: [**QLAY2**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-qlay2#menu) | Sinclair QL | :red_circle: 2003
+| :file_folder: [**QUASI88**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-quasi88#menu) | NEC PC-8801 | :red_circle: 2013
 | :file_folder: [**RACE!**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-race#menu) | SNK NeoGeo Pocket Color | :red_circle: 2006
 | :file_folder: [**RADIO-86**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-radio86#menu) | Mikrosha Radio-86RK | :red_circle: 2007
 | :file_folder: [**Rainbow**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-rainbow#menu) | Atari 5200, Atari 8-bit series | :red_circle: 2012
@@ -400,9 +405,11 @@
 | :file_folder: [**Virtual Interact**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vinter#menu) | Interact Home Computer System | :red_circle: 2003
 | :file_folder: [**Virtual Jaguar**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualjaguar#menu) | Atari Jaguar | :white_circle: 2014
 | :file_folder: [**Virtual MC-10**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualmc10#menu) | Tandy/Radio Shack TRS-80 Color Computer | :red_circle: 2008
+| :file_folder: [**Virtual NEC Trek**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualnectrek#menu) | NEC PC-6001 | :red_circle: 2006
 | :file_folder: [**Virtual Panasonic JR-200U**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtpanajr#menu) | Panasonic JR-200 | :red_circle: 2002
 | :file_folder: [**Virtual Super System**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vss#menu) | Atari 5200 | :red_circle: 2004
 | :file_folder: [**Virtual T**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtualt#menu) | Tandy/Radio Shack TRS-80 Color Computer | :large_blue_circle: 2015
+| :file_folder: [**Virtual98**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtual98#menu) | NEC PC-9801 | :red_circle: 1999
 | :file_folder: [**VirtuaNES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanes#menu) | Nintendo FDS, Nintendo NES/Famicom | :red_circle: 2007
 | :file_folder: [**VirtuaNES Plus**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-virtuanesplus#menu) | Nintendo FDS, Nintendo NES/Famicom | :red_circle: 2013
 | :file_folder: [**Visual Pinball**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-visualpinball#menu) | Pinball - Visual Pinball | :large_blue_circle: 2016
@@ -411,6 +418,7 @@
 | :file_folder: [**VisualBoyAdvance-rerecording**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vbarr#menu) | Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color | :red_circle: 2013
 | :file_folder: [**viva nonno**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vivanonno#menu) | Namco System 22 | :red_circle: 2002
 | :file_folder: [**VZEM**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-vzem#menu) | Vtech Laser 200/210/310 | :red_circle: 2009
+| :file_folder: [**W88**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-w88#menu) | NEC PC-8801 | :red_circle: 1999
 | :file_folder: [**WhineCube**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-whinecube#menu) | Nintendo GameCube | :red_circle: 2005
 | :file_folder: [**Win994a**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-win994a#menu) | Texas Instruments TI-99/4A | :red_circle: 2013
 | :file_folder: [**WinAGES**](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/Emulator-ages#menu) | Sega Mega Drive 32X, Sega Mega Drive/Genesis, Sega Game Gear, Sega Mega-CD, Sega Master System | :red_circle: 2002
