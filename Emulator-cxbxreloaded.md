@@ -14,7 +14,7 @@
 
 **Cxbx Reloaded** is a emulator for **Microsoft X-Box** made by **Luke Usher** and has a **GNU GPLv2** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **0.81pre3 (x64)**, released on **2016-10-06**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cxbx.exe**.
+The latest version of the emulator on EDC is **0.0.1POC (x64)**, released on **2016-10-07**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Cxbx.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -37,6 +37,7 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.0.1POC**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cxbxreloaded/0.0.1POC.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2016-10-07 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cxbxreloaded/0.0.1POC_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cxbxreloaded/0.0.1POC_contents.txt) | 369 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.81pre3**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/cxbxreloaded/0.81pre3.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2016-10-06 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cxbxreloaded/0.81pre3_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/cxbxreloaded/0.81pre3_contents.txt) | 371 KB |
 
 :arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

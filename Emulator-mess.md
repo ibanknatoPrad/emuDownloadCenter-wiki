@@ -18,7 +18,7 @@ The latest version of the emulator on EDC is **0.161-win32 (x86)**, released on 
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
-_Multi Emulator Super System (MESS) is an emulator for many game consoles and computer systems, based on the MAME core and now a part of MAME. MESS emulates portable and console gaming systems, computer platforms, and calculators. M.E.S.S. is now part of M.A.M.E v0.162+ (May 2015)_
+_Multi Emulator Super System (MESS) is an emulator for many game consoles and computer systems, based on the MAME core and now a part of M.A.M.E v0.162+ (May 2015)._
 
 [:link: **Emulator website**](http://www.mess.org/)
 ***
