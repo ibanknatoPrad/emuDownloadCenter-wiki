@@ -12,7 +12,7 @@
 
 **Developement state:** :red_circle: 2008
 
-**Fish 'N' Chips** is a emulator for **Unknown, Cosmac VIP** made by **hap** and has a **Freeware** license, the GUI language is **English**.
+**Fish 'N' Chips** is a emulator for **Chip-8, Cosmac VIP** made by **hap** and has a **Freeware** license, the GUI language is **English**.
 
 The latest version of the emulator on EDC is **2.1.5 (x86)**, released on **2008-09-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Fish 'N' Chips.exe**.
 

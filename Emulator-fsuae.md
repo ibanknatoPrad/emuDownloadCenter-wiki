@@ -10,7 +10,7 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/fsuae_logo.jpg "FS-UAE Amiga Emulator logo.")
 
-**Developement state:** :question:
+**Developement state:** :large_blue_circle: 2017
 
 **FS-UAE Amiga Emulator** is a emulator for **Commodore Amiga, Commodore Amiga CD32, Commodore CDTV** made by **Frode Solheim** and has a **GNU GPLv2** license, the GUI language is **English**.
 

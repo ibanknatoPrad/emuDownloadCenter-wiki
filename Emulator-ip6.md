@@ -10,7 +10,7 @@
 ## About
 **Developement state:** :red_circle: 2002
 
-**iP6** is a emulator for **NEC PC-6001** made by **ISHIOKA Hiroshi** and has a **Freeware** license, the GUI language is **English**.
+**iP6** is a emulator for **NEC PC-6001** made by **ISHIOKA Hiroshi** and has a **Freeware** license, the GUI language is **Japanese**.
 
 The latest version of the emulator on EDC is **0.63release6 (x86)**, released on **2002-08-17**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **ip6Win.exe**.
 

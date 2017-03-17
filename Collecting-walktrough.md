@@ -104,7 +104,7 @@ Determine Linux distrubutions:
 
 * NO Extension = Ubuntu
 * .DEB = Debian
-* .RPM = Fedora, Mandriva, SUSE
+* .RPM = Fedora, Mandriva, SUSE, Redhat
 
 Example Contents (Emulator Potator for Watara Supervision):
 
@@ -263,4 +263,5 @@ So there are 3 files in the folder:
 
 Emulators to exclude from EDC at the moment:
 
+- Any experimental, nightly builds or PRE releases.
 - Emulators that are **Java** based (JAR).
