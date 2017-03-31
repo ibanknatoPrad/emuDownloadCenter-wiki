@@ -10,11 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vbarr_logo.jpg "VisualBoyAdvance-rerecording logo.")
 
-**Developement state:** :red_circle: 2013
+**Developement state:** :large_blue_circle: 2017
 
 **VisualBoyAdvance-rerecording** is a emulator for **Nintendo Game Boy, Nintendo Game Boy Advance, Nintendo Game Boy Color** made by **Forgotten, the VBA Team and the VBA-rr Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **23.5 (x86)**, released on **2013-04-15**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VBA-rr-svn480.exe**.
+The latest version of the emulator on EDC is **23.6 (x86)**, released on **2017-03-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VBA-rr-svn480+3.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -37,6 +37,7 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **23.6**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbarr/23.6.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2017-03-05 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.6_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.6_contents.txt) | 1397 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **23.5**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vbarr/23.5.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2013-04-15 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vbarr/23.5_contents.txt) | 1258 KB |
 
 :arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)

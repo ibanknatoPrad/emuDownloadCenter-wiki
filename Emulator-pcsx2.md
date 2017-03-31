@@ -10,11 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/pcsx2_logo.jpg "PCSX2 logo.")
 
-**Developement state:** :large_blue_circle: 2016
+**Developement state:** :large_blue_circle: 2017
 
 **PCSX2** is a emulator for **Sony PlayStation 2** made by **PCSX2 team** and has a **GNU GPLv3** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **1.4.0 (x86)**, released on **2016-01-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx2.exe**.
+The latest version of the emulator on EDC is **1.4.0-rr-3.0 (x86)**, released on **2017-02-05**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **pcsx2.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -37,6 +37,7 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **1.4.0-rr-3.0**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/pcsx2/1.4.0-rr-3.0.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2017-02-05 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0-rr-3.0_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0-rr-3.0_contents.txt) | 5235 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **1.4.0**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/pcsx2/1.4.0.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2016-01-05 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0_contents.txt) | 5170 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_installer_24.png "Click to download!")  **1.4.0-installer**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/pcsx2/1.4.0-installer.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2016-01-05 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0-installer_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/pcsx2/1.4.0-installer_contents.txt) | 18055 KB |
 

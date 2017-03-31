@@ -10,11 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/vgba_logo.jpg "Virtual GameBoy Advance logo.")
 
-**Developement state:** :large_blue_circle: 2016
+**Developement state:** :large_blue_circle: 2017
 
 **Virtual GameBoy Advance** is a emulator for **Nintendo Game Boy Advance** made by **Marat Fayzullin** and has a **Freeware** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **5.3 (x86)**, released on **2016-08-29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VGBA.exe**.
+The latest version of the emulator on EDC is **5.4 (x86)**, released on **2017-01-26**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **VGBA.exe**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -37,6 +37,7 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **5.4**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgba/5.4.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2017-01-26 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.4_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.4_contents.txt) | 250 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **5.3**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/vgba/5.3.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 2016-08-29 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/vgba/5.3_contents.txt) | 240 KB |
 
 :arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)
