@@ -18,7 +18,9 @@ The latest version of the emulator on EDC is **0.70 (x86)**, released on **2009-
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
-_Dream64 is a Commodore 64 Emulator._
+_Dream64 is totally free, and developped just for fun. It can run most commercial games and a lot of tricky demos, by the way it is not yet as compatible as great emulators like Hoxs64 or CCS64._
+
+[:link: **Emulator website**](http://www.dream64.com)
 ***
 ## Screenshot
 ![](https://raw.githubusercontent.com/PhoenixInteractiveNL/emuDownloadCenter/master/hooks/dream64/emulator_screen_01.jpg "Dream64 screenshot.")

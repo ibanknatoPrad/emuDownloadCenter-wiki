@@ -12,7 +12,7 @@
 
 **Game.Com Emulator** is a emulator for **Tiger Electronics Game.com** made by **UNKNOWN** and has a **Freeware** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **29.12.98 (x86)**, released on **1998.12.29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Read 'HowToUse.txt' file for full details on using this emulator.\GAMECOM.EXE**.
+The latest version of the emulator on EDC is **1998.12.29 (x86)**, released on **1998.12.29**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **Read 'HowToUse.txt' file for full details on using this emulator.\GAMECOM.EXE**.
 
 This emulator does **NOT** specificly need BIOS image(s) to start ROM files!
 
@@ -33,6 +33,6 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
-| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **29.12.98**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gamecomemu/29.12.98.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 1998.12.29 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/29.12.98_contents.txt) | 228 KB |
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **1998.12.29**](https://github.com/PhoenixInteractiveNL/edc-repo0003/raw/master/gamecomemu/1998.12.29.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_32-bit_24.png) | 1998.12.29 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/1998.12.29_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0003/blob/master/gamecomemu/1998.12.29_contents.txt) | 228 KB |
 
 :arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)
