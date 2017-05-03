@@ -10,11 +10,11 @@
 ## About
 ![](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/images_emulator/rpcs3_logo.jpg "RPCS3 logo.")
 
-**Developement state:** :large_blue_circle: 2016
+**Developement state:** :large_blue_circle: 2017
 
 **RPCS3** is a emulator for **Sony PlayStation 3** made by **The RPCS3 Team** and has a **GNU GPLv2** license, the GUI language is **English**.
 
-The latest version of the emulator on EDC is **0.0.1-3-973bf5a-Pre-Alpha (x64)**, released on **2016-10-20**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **rpcs3.exe**.
+The latest version of the emulator on EDC is **0.0.2 (x64)**, released on **2017-03-27**, it runs on **Windows XP,Vista,7,8,10**, you can start this emulator with **rpcs3.exe**.
 
 :warning: _**Please note:**_ This emulator **needs BIOS image(s)** to start ROM files!
 
@@ -37,6 +37,7 @@ Legend: |
  
 | Version | OS | Release date | Info | DL Size |
 |:--------|---:|:------------:|:----:|--------:|
+| [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.0.2**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/rpcs3/0.0.2.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2017-03-27 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/rpcs3/0.0.2_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/rpcs3/0.0.2_contents.txt) | 8022 KB |
 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_program_24.png "Click to download!")  **0.0.1-3-973bf5a-Pre-Alpha**](https://github.com/PhoenixInteractiveNL/edc-repo0006/raw/master/rpcs3/0.0.1-3-973bf5a-Pre-Alpha.7z) | ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/logo_windows_24.png) ![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_64-bit_24.png) | 2016-10-20 | [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_changelog_24.png "Click to view version changelog.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/rpcs3/0.0.1-3-973bf5a-Pre-Alpha_changelog.txt) [![](https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuDownloadCenter/images_misc/icon_contents_24.png "Click to view archive contents.")](https://github.com/PhoenixInteractiveNL/edc-repo0006/blob/master/rpcs3/0.0.1-3-973bf5a-Pre-Alpha_contents.txt) | 8310 KB |
 
 :arrow_backward: Go to: [platform listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Platform-List) / [emulator listing](https://github.com/PhoenixInteractiveNL/emuDownloadCenter/wiki/EDC-Emulator-List)
